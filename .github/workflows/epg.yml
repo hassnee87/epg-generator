@@ -1,5 +1,8 @@
 name: Generate EPGs Daily
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -11,6 +14,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -48,3 +54,21 @@ jobs:
           name: channels-xml
           path: channels
 
+      - name: Upload myTV package
+        uses: actions/upload-artifact@v4
+        with:
+          name: myTV-package
+          path: package
+
+      - name: Commit and push changes to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add channels package
+          $date = Get-Date -Format o
+          try {
+            git commit -m "Update EPGs ($date) [skip ci]"
+          } catch {
+            Write-Host "No changes to commit"
+          }
+          git push
