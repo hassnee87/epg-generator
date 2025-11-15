@@ -48,11 +48,11 @@ jobs:
         run: |
           python TRT-World.py
           
-       - name: Generate NHK World Japan channel EPG
+      - name: Generate NHK World Japan channel EPG
         run: |
           python NHK-World.py
 
-       - name: Generate Channel News Asia channel EPG
+      - name: Generate Channel News Asia channel EPG
         run: |
           python CNA.py
           
