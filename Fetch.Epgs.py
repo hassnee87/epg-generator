@@ -12,8 +12,36 @@ from datetime import datetime, timezone
 # Each entry: {"url": "...", "out_xml": "countries/<name>.xml"}
 # Supports .xml and .xml.gz
 FEEDS = [
-    {"url": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz", "out_xml": os.path.join("countries", "UK.epg.xml")},
-    {"url": "https://programtv.ru/xmltv.xml.gz", "out_xml": os.path.join("countries", "RU.epg.xml")},
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz", "out_xml": os.path.join("countries", "AU.epg.xml")},
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz", "out_xml": os.path.join("countries", "CA.epg.xml")},
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz", "out_xml": os.path.join("countries", "IN.epg.xml")},
+        {"url": "https://iptv-epg.org/files/epg-in.xml", "out_xml": os.path.join("countries", "IN2.epg.xml")},
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz", "out_xml": os.path.join("countries", "PH.epg.xml")},
+        {"url": "https://programtv.ru/xmltv.xml.gz", "out_xml": os.path.join("countries", "RU.epg.xml")},
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz", "out_xml": os.path.join("countries", "SG.epg.xml")},
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz", "out_xml": os.path.join("countries", "UK.epg.xml")},
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz", "out_xml": os.path.join("countries", "US.epg.xml")},
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz", "out_xml": os.path.join("countries", "ZA.epg.xml")},
+
+        {"url": "https://i.mjh.nz/nzau/epg.xml.gz", "out_xml": os.path.join("countries", "NZAU.epg.xml")},
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_ASIANTELEVISION1.xml.gz", "out_xml": os.path.join("countries", "PK-IN.epg.xml")},
+
+        
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz", "out_xml": os.path.join("countries", "USA-DistroTV.epg.xml")},
+        {"url": "https://i.mjh.nz/Plex/us.xml.gz", "out_xml": os.path.join("countries", "US-Plex.epg.xml")},
+        {"url": "https://i.mjh.nz/PlutoTV/us.xml.gz", "out_xml": os.path.join("countries", "US-Pluto.epg.xml")},
+
+        {"url": "https://i.mjh.nz/SamsungTVPlus/ca.xml.gz", "out_xml": os.path.join("countries", "CA-Samsung.epg.xml")},
+        {"url": "https://i.mjh.nz/SamsungTVPlus/gb.xml.gz", "out_xml": os.path.join("countries", "UK-Samsung.epg.xml")},
+        {"url": "https://i.mjh.nz/SamsungTVPlus/us.xml.gz", "out_xml": os.path.join("countries", "US-Samsung.epg.xml")},
+
+        
+        {"url": "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml", "out_xml": os.path.join("countries", "US-Tubi.epg.xml")},
+        
+        {"url": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz", "out_xml": os.path.join("countries", "US-Xumo.epg.xml")},
+
+        
+    
     # Add more feeds as needed
 ]
 

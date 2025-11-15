@@ -1,0 +1,2010 @@
+<!-- Monday -->
+
+    <div class="row gutter-24">
+       <div class="col-lg-12">
+          
+          <div class="row gutter-24">
+              
+                                                       
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:00 NN
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS PTV-NATIONAL
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:15 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BRUNCH @  PTV NATIONAL LIVE SHOW 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            02:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AIOU MAGAZINE
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            03:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Adab Sansaar Literary Based Program 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Hath Mehandi Ratrra Lok Geet 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:30 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Kachahri           Folk Lor  
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Natak Rang     Odd Play  
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:45 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS PTV-NATIONAL
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Pahanja Thiya Parawa  NATAK RANG    Drama Serial 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            07:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Natak Rang     Odd Play  
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            08:00 PM  TO  04:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME REPEAT TIME 1
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            11:00 PM TO  01:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BRUNCH @  PTV NATIONAL REPEAT TIME 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 AM TO  07:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AL-QURAN  PTV HOME
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 AM TO  12:00 N00N
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME REPEAT TIME 2
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                                                           
+          </div>
+       </div>
+    </div>
+ 
+
+<!-- Tuesday -->
+
+    <div class="row gutter-24">
+       <div class="col-lg-12">
+          
+          <div class="row gutter-24">
+              
+                                                       
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:00 NN
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS PTV-NATIONAL
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:15 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BRUNCH @  PTV NATIONAL LIVE SHOW 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            02:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AIOU MAGAZINE
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            03:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Parkh”  Quiz Show 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Lok Rang Music 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:30 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Anajayel Ankhyun Drama 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Natak Rang     Odd Play 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:45 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS PTV-NATIONAL
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        JEEWAN SAPNA NATAK RANG       Drama Serial  
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            07:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Natak Rang     Odd Play  
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            08:00 PM  TO  04:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME REPEAT TIME 1
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            11:00 PM TO  01:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BRUNCH @  PTV NATIONAL REPEAT TIME 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 AM TO  07:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AL-QURAN CUT PTV HOME
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 AM TO  12:00 N00N
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME REPEAT TIME 2
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                                                           
+          </div>
+       </div>
+    </div>
+ 
+
+<!-- Wednesday -->
+
+    <div class="row gutter-24">
+       <div class="col-lg-12">
+          
+          <div class="row gutter-24">
+              
+                                                       
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:00 NN
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS PTV-NATIONAL
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:15 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BRUNCH @  PTV NATIONAL LIVE SHOW 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            02:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AIOU  MAGAZINE
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            03:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        HAL AHWAAL / WAO SAWAO CURRENT AFFAIRS
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH SADYEN KHAN   (DOCUMENTARY)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:30 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        GEET SANGEET MUSIC 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        NATAK RANG       (ODD PLAY)  
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:45 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS PTV-NATIONAL
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        TAMASHA (NATAK RANG)    (DRAMA SERIAL)  
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            07:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        NATAK RANG      (ODD PLAY)  
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            08:00 PM  TO  04:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME (REPEAT TIME 1)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            11:00 PM TO  01:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BRUNCH @  PTV NATIONAL (REPEAT TIME)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 AM TO  07:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AL-QURAN  (PTV HOME)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 AM TO  12:00 N00N
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME (REPEAT TIME 2)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                                                           
+          </div>
+       </div>
+    </div>
+ 
+
+<!-- Thursday -->
+
+    <div class="row gutter-24">
+       <div class="col-lg-12">
+          
+          <div class="row gutter-24">
+              
+                                                       
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:00 NN
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS PTV-NATIONAL
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:15 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BRUNCH @  PTV NATIONAL LIVE SHOW 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            02:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AIOU MAGAZINE
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            03:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Sur Warkha Music Program 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SUBH RANG Interview Based LIVE 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SUBH RANG Interview Based LIVE 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:45 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS PTV-NATIONAL
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        NOORI NATAK RANG    Drama Serial  
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            07:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Natak Rang     Odd Play  
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            08:00 PM  TO  04:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                         SINDH TIME REPEAT TIME 1
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            11:00 PM TO  01:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BRUNCH @  PTV NATIONAL REPEAT TIME 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 AM TO  07:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AL-QURAN  PTV HOME
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 AM TO  12:00 N00N
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME REPEAT TIME 2
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                                                           
+          </div>
+       </div>
+    </div>
+ 
+
+<!-- Friday -->
+
+    <div class="row gutter-24">
+       <div class="col-lg-12">
+          
+          <div class="row gutter-24">
+              
+                                                       
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:00 NN
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS PTV-NATIONAL
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:15PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BRUNCH @  PTV NATIONAL (LIVE SHOW)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            02:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AIOU MAGAZINE
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            03:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Surhan Music Program
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        TV CLINIC Health Based (LIVE )
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Natak Rang    (Odd Play)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:45 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS PTV-NATIONAL
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        KINARO NATAK RANG    (Drama Serial )
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            07:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Natak Rang     (Odd Play)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            08:00 PM  TO  04:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME REPEAT TIME 1
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            11:00 PM TO  01:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BRUNCH @  PTV NATIONAL (REPEAT TIME) 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 AM TO  07:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AL-QURAN  (PTV HOME)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 AM TO  12:00 N00N
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME (REPEAT TIME 2)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                                                           
+          </div>
+       </div>
+    </div>
+ 
+
+<!-- Saturday -->
+
+    <div class="row gutter-24">
+       <div class="col-lg-12">
+          
+          <div class="row gutter-24">
+              
+                                                       
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:00 NN
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS (PTV-NATIONAL)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:15 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        PTV NATIONAL GOLDEN  SONGS
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            02:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AIOU MAGAZINE
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            03:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Soorat-e-Hall (Current Affair) LIVE 
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BHALIKAAR (MUSIC Based LIVE)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        BHALIKAAR (MUSIC Based LIVE)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:45 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS (PTV-NATIONAL)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        RESHMI DORE NATAK RANG    (Drama Serial)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            07:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Natak Rang     (Odd Play)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            08:00 PM  TO  04:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME (REPEAT TIME 1)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            11:00 PM TO  01:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME (REPEAT TIME)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 AM TO  07:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AL-QURAN  (PTV HOME)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 AM TO  12:00 N00N
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                         SINDH TIME (REPEAT TIME 2)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                                                           
+          </div>
+       </div>
+    </div>
+ 
+
+<!-- Sunday -->
+
+    <div class="row gutter-24">
+       <div class="col-lg-12">
+          
+          <div class="row gutter-24">
+              
+                                                       
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:00 NN
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS (PTV-NATIONAL)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            12:15 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        PAKISTAN TIME Multi Languages  (LIVE Program)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            02:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        NATAK RANG  (Odd Play)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            03:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Lehar Lehar Sangeet (Music Program)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            03:30 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Roshan Tara       (Children Program)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Sindhi Filmi Sansaar  (Filmi Program)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:30 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Kachahri      (Folk Lor)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Natak Rang     ( Odd Play )
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            05:45 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDHI NEWS (PTV-NATIONAL)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                             06:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SAIJJ NATAK RANG    (Drama Serial)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            07:00 PM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        Natak Rang      (Odd Play)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            08:00 PM  TO  04:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME (REPEAT TIME 1)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            11:00 PM TO  01:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        PAKISTAN TIME Multi Languages  (REPEAT Program)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            06:00 AM TO  07:00 AM
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        AL-QURAN (PTV HOME)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                        
+             <div class="col-3" style="border-bottom: 1px solid var(--color-border);">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">                                             
+                      <span class="rt-meta">
+                         <i class="far fa-clock"></i>
+                            04:00 AM TO  12:00 N00N
+                      </span>
+                   </div>
+                </div>
+             </div>
+             <div class="col-9" style="border-bottom: 1px solid var(--color-border); ">
+                <div class="rt-post post-sm style-2">
+                   <div class="post-content">
+                      <h4 class="post-title">
+                        SINDH TIME (REPEAT TIME 2)
+                      </h4>                                             
+                   </div>
+                </div>
+             </div>
+                                                                                           
+          </div>
+       </div>
+    </div>
+ 
