@@ -1,29 +1,35 @@
 name: Generate EPGs Daily
 
-permissions:
-  contents: write
-
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: windows-latest
     steps:
+      # -------------------------------
+      # CHECKOUT REPO
+      # -------------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true
 
+      # -------------------------------
+      # PYTHON SETUP
+      # -------------------------------
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Install Python dependencies
+        shell: pwsh
         run: |
           python -m pip install --upgrade pip
           if (Test-Path requirements.txt) {
@@ -32,294 +38,107 @@ jobs:
             pip install requests beautifulsoup4 pytz
           }
 
-      - name: Fetch shared EPG feeds
+      # -------------------------------
+      # RUN ALL PYTHON SCRIPTS
+      # -------------------------------
+      - name: Run all EPG generator scripts
+        shell: pwsh
         run: |
-          python Fetch.Epgs.py
+          $ErrorActionPreference = 'Continue'
+          $scripts = @(
+            "Fetch.Epgs.py",
+            "Al-Jazeera.py",
+            "DW.py",
+            "TRT-World.py",
+            "NHK-World.py",
+            "CNA.py",
+            "CGTN.py",
+            "RT.py",
+            "France-24.py",
+            "Sky-News.py",
+            "BBC-News.py",
+            "CNN.py",
+            "CNN-International.py",
+            "CNN-News-18.py",
+            "CNBC-TV-18.py",
+            "CNBC.py",
+            "CNBC-World.py",
+            "MSNBC.py",
+            "ABC-News-AU.py",
+            "GB-News.py",
+            "Euronews.py",
+            "Africanews.py",
+            "Global-News.py",
+            "WION.py",
+            "Firstpost.py",
+            "Reuters.py",
+            "ABC-News-Live.py",
+            "LiveNOW-from-FOX.py",
+            "NBC-News-Now.py",
+            "HLN.py",
+            "ABC.py",
+            "Fox-News-Channel.py",
+            "Fox-Business.py",
+            "Bloomberg.py",
+            "Yahoo-Finance.py",
+            "Republic-TV.py",
+            "Zee-News.py",
+            "Ary-News.py",
+            "Ary-Digital.py",
+            "Ary-Zauq.py",
+            "Ary-Zauq2.py",
+            "Ary-QTV.py",
+            "Geo-News.py",
+            "CGTN-Documentary.py",
+            "RT-Documentary.py",
+            "Documentary-Plus.py",
+            "VICE.py",
+            "Bloomberg-Originals.py",
+            "CNN-Originals.py",
+            "Geo-Entertainment.py",
+            "Green-Entertainment.py",
+            "Hum-TV.py",
+            "AJK-Television.py",
+            "PTV-Bolan.py",
+            "PTV-Global.py",
+            "PTV-Home.py",
+            "PTV-National.py",
+            "PTV-News.py",
+            "PTV-Sports.py",
+            "Express-Entertainment.py",
+            "Hum-Europe.py",
+            "Hum-Masala.py",
+            "9XM.py",
+            "9X-Jalwa.py",
+            "Zoom.py",
+            "B4U-Music.py",
+            "Mastiii.py",
+            "YRF-Music.py",
+            "myTV.py"
+          )
+          foreach ($s in $scripts) {
+            if (Test-Path $s) {
+              Write-Host "Running $s ..."
+              python "$s"
+              if ($LASTEXITCODE -ne 0) {
+                Write-Host "⚠ FAILED: $s (exit $LASTEXITCODE) — continuing"
+                $global:LASTEXITCODE = 0
+              }
+            } else {
+              Write-Host "⚠ SKIPPED: $s (file missing)"
+            }
+          }
 
-      - name: Generate Al-Jazeera channel EPG
-        run: |
-          python Al-Jazeera.py
+      # -------------------------------
+      # UPLOAD ARTIFACTS
+      # -------------------------------
+      - name: Upload countries XMLs
+        uses: actions/upload-artifact@v4
+        with:
+          name: countries-xml
+          path: countries
 
-      - name: Generate DW channel EPG
-        run: |
-          python DW.py
-
-      - name: Generate TRT World channel EPG
-        run: |
-          python TRT-World.py
-          
-      - name: Generate NHK World Japan channel EPG
-        run: |
-          python NHK-World.py
-
-      - name: Generate Channel News Asia channel EPG
-        run: |
-          python CNA.py
-          
-      - name: Generate CGTN channel EPG
-        run: |
-          python CGTN.py
-          
-      - name: Generate RT channel EPG
-        run: |
-          python RT.py
-          
-      - name: Generate France 24 channel EPG
-        run: |
-          python France-24.py
-          
-      - name: Generate Sky News channel EPG
-        run: |
-          python Sky-News.py
-          
-      - name: Generate BBC News channel EPG
-        run: |
-          python BBC-News.py
-                     
-      - name: Generate CNN channel EPG
-        run: |
-          python CNN.py
-          
-      - name: Generate CNN International channel EPG
-        run: |
-          python CNN-International.py
-
-      # Add more channels here by invoking their python scripts, e.g.:
-      - name: Generate CNN News 18 channel EPG
-        run: |
-          python CNN-News-18.py
-      
-      - name: Generate CNBC TV 18 channel EPG
-        run: |
-          python CNBC-TV-18.py
-          
-      - name: Generate CNBC channel EPG
-        run: |
-          python CNBC.py
-      
-      - name: Generate CNBC World channel EPG
-        run: |
-          python CNBC-World.py
-          
-      - name: Generate MSNBC channel EPG
-        run: |
-          python MSNBC.py
-          
-      - name: Generate ABC News Australia channel EPG
-        run: |
-          python ABC-News-AU.py
-          
-      - name: Generate GB News channel EPG
-        run: |
-          python GB-News.py
-          
-      - name: Generate Euronews channel EPG
-        run: |
-          python Euronews.py
-          
-      - name: Generate Africanews channel EPG
-        run: |
-          python Africanews.py
-          
-      - name: Generate Global News channel EPG
-        run: |
-          python Global-News.py
-          
-      - name: Generate WION World is One News channel EPG
-        run: |
-          python WION.py
-          
-      - name: Generate Firstpost channel EPG
-        run: |
-          python Firstpost.py
-          
-      - name: Generate Reuters channel EPG
-        run: |
-          python Reuters.py
-          
-      - name: Generate ABC News Live channel EPG
-        run: |
-          python ABC-News-Live.py
-          
-      - name: Generate LiveNOW from FOX channel EPG
-        run: |
-          python LiveNOW-from-FOX.py
-          
-      - name: Generate NBC News Now channel EPG
-        run: |
-          python NBC-News-Now.py
-          
-      - name: Generate HLN channel EPG
-        run: |
-          python HLN.py
-          
-      - name: Generate ABC channel EPG
-        run: |
-          python ABC.py
-          
-      - name: Generate Fox News Channel EPG
-        run: |
-          python Fox-News-Channel.py
-          
-      - name: Generate Fox Business EPG
-        run: |
-          python Fox-Business.py
-          
-      - name: Generate Bloomberg EPG
-        run: |
-          python Bloomberg.py
-          
-      - name: Generate Yahoo Finance EPG
-        run: |
-          python Yahoo-Finance.py
-          
-      - name: Generate Republic TV EPG
-        run: |
-          python Republic-TV.py
-          
-      - name: Generate Zee News channel EPG
-        run: |
-          python Zee-News.py
-
-      - name: Generate Ary News channel EPG
-        run: |
-          python Ary-News.py
-          
-      - name: Generate Ary Digital channel EPG
-        run: |
-          python Ary-Digital.py
-          
-      - name: Generate Ary Zauq channel EPG
-        run: |
-          python Ary-Zauq.py
-
-      - name: Generate Ary Zauq channel EPG
-        run: |
-          python Ary-Zauq2.py
-          
-      - name: Generate Ary QTV channel EPG
-        run: |
-          python Ary-QTV.py
-          
-      - name: Generate Geo News channel EPG
-        run: |
-          python Geo-News.py
-          
-      - name: Generate CGTN Documentary channel EPG
-        run: |
-          python CGTN-Documentary.py
-
-      - name: Generate RT Documentary channel EPG
-        run: |
-          python RT-Documentary.py
-          
-      - name: Generate Documentary+ channel EPG
-        run: |
-          python Documentary-Plus.py
-          
-      - name: Generate VICE channel EPG
-        run: |
-          python VICE.py
-          
-      - name: Generate Bloomberg Originals channel EPG
-        run: |
-          python Bloomberg-Originals.py
-          
-      - name: Generate CNN Originals channel EPG
-        run: |
-          python CNN-Originals.py
-
-
-
-
-      - name: Generate Geo Entertainment channel EPG
-        run: |
-          python Geo-Entertainment.py
-
-      - name: Generate Green Entertainment channel EPG
-        run: |
-          python Green-Entertainment.py
-
-      - name: Generate Hum TV channel EPG
-        run: |
-          python Hum-TV.py
-      
-      - name: Generate AJK Television channel EPG
-        run: |
-          python AJK-Television.py
-
-      - name: Generate PTV Bolan channel EPG
-        run: |
-          python PTV-Bolan.py
-
-      - name: Generate PTV Global channel EPG
-        run: |
-          python PTV-Global.py
-
-      - name: Generate PTV Home channel EPG
-        run: |
-          python PTV-Home.py
-
-      - name: Generate PTV National channel EPG
-        run: |
-          python PTV-National.py
-
-      - name: Generate PTV News channel EPG
-        run: |
-          python PTV-News.py
-      
-      - name: Generate PTV Sports channel EPG
-        run: |
-          python PTV-Sports.py
-      
-      - name: Generate Express Entertainment channel EPG
-        run: |
-          python Express-Entertainment.py
-          
-      - name: Generate Hum Europe channel EPG
-        run: |
-          python Hum-Europe.py
-          
-      - name: Generate Hum Masala channel EPG
-        run: |
-          python Hum-Masala.py
-          
-      - name: Generate 9XM channel EPG
-        run: |
-          python 9XM.py
-          
-      - name: Generate 9X Jalwa channel EPG
-        run: |
-          python 9X-Jalwa.py
-          
-      - name: Generate Zoom channel EPG
-        run: |
-          python Zoom.py
-          
-      - name: Generate B4U Music channel EPG
-        run: |
-          python B4U-Music.py
-          
-      - name: Generate Mastiii channel EPG
-        run: |
-          python Mastiii.py
-        
-      - name: Generate YRF Music channel EPG
-        run: |
-          python YRF-Music.py
-
-
-
-          
-      # - name: Generate AnotherChannel EPG
-      #   run: |
-      #     python AnotherChannel.py
-      
-      - name: Generate Combined EPG
-        run: |
-          python myTV.py
-
-      - name: Upload generated channel XMLs
+      - name: Upload channels XMLs
         uses: actions/upload-artifact@v4
         with:
           name: channels-xml
@@ -331,15 +150,19 @@ jobs:
           name: myTV-package
           path: package
 
-      - name: Commit and push changes to repository
+      # -------------------------------
+      # COMMIT & PUSH CHANGES
+      # -------------------------------
+      - name: Commit and push changes
+        shell: pwsh
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add channels package
-          $date = Get-Date -Format o
-          try {
-            git commit -m "Update EPGs ($date) [skip ci]"
-          } catch {
-            Write-Host "No changes to commit"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add channels package countries
+          if (git diff --cached --quiet) {
+            Write-Host "No changes to commit."
+          } else {
+            $date = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+            git commit -m "Update EPGs ($date)"
+            git push
           }
-          git push
