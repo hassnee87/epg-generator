@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="LiveNOW.from.FOX.us">
+    <display-name>LiveNOW from FOX</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/LiveNOW-from-FOX.png" />
+  </channel><programme channel="LiveNOW.from.FOX.us" start="20251116000000 +0500" stop="20251116040000 +0500">
+    <title>LiveNOW from FOX</title>
+    <desc>A raw and unfiltered, non-stop stream of breaking news, live events and stories across the nation.</desc>
+  </programme><programme channel="LiveNOW.from.FOX.us" start="20251116040000 +0500" stop="20251116080000 +0500">
+    <title>LiveNOW from FOX</title>
+    <desc>A raw and unfiltered, non-stop stream of breaking news, live events and stories across the nation.</desc>
+  </programme><programme channel="LiveNOW.from.FOX.us" start="20251116080000 +0500" stop="20251116120000 +0500">
+    <title>LiveNOW from FOX</title>
+    <desc>A raw and unfiltered, non-stop stream of breaking news, live events and stories across the nation.</desc>
+  </programme>
+</tv>

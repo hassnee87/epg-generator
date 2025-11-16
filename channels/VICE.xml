@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="VICE.us">
+    <display-name>VICE</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/VICE.png" />
+  </channel><programme channel="VICE.us" start="20251116030900 +0500" stop="20251116040000 +0500">
+    <title>Dark Side of the 90s</title>
+    <sub-title>The Viper Room: Hollywood's Sanctuary</sub-title>
+    <desc>The Viper Room was a refuge for young Hollywood to hide from the prying eyes of the press, until one fateful night when the death of a rising star instantly made it headline news.</desc>
+  </programme><programme channel="VICE.us" start="20251116040000 +0500" stop="20251116045000 +0500">
+    <title>Dark Side of the 90s</title>
+    <sub-title>Trash TV: Dirty and Deadly Talk</sub-title>
+    <desc>As 1990s talk TV evolves from the cerebral "Donahue" to the trashy "Jerry Springer," the new format fuses combustive relationships, shock and violence to entertain the masses.</desc>
+  </programme><programme channel="VICE.us" start="20251116045000 +0500" stop="20251116054100 +0500">
+    <title>Dark Side of Football</title>
+    <sub-title>Once a Raider, Always a Raider</sub-title>
+    <desc>The Oakland Raiders hold the dubious title of Dirtiest Team in the NFL  investigating what happens when the Oakland Raiders sign the biggest pariah in the modern era: Bill Romanowski.</desc>
+  </programme><programme channel="VICE.us" start="20251116054100 +0500" stop="20251116063100 +0500">
+    <title>Dark Side of Football</title>
+    <sub-title>Wide Receiver Divas</sub-title>
+    <desc>Chad Johnson's theatrics off the field lead to the demise of his career  investigating why Johnson and so many others whose antics distracted from their play are all wide receivers.</desc>
+  </programme><programme channel="VICE.us" start="20251116063100 +0500" stop="20251116072200 +0500">
+    <title>Dark Side of the Ring</title>
+    <sub-title>The Match Made in Heaven</sub-title>
+    <desc>Art collides with real life when the mythical love story between wrestling icons Randy Savage and Miss Elizabeth explodes beyond the ring with tragic consequences.</desc>
+  </programme><programme channel="VICE.us" start="20251116072200 +0500" stop="20251116081200 +0500">
+    <title>Dark Side of the Ring</title>
+    <sub-title>The Montreal Screwjob</sub-title>
+    <desc>In one of wrestling's most infamous off-script moments, wrestler Bret Hart is stripped of his championship title through a backstage plot of betrayal that forever changes the sport.</desc>
+  </programme><programme channel="VICE.us" start="20251116081200 +0500" stop="20251116090300 +0500">
+    <title>Dark Side of the Ring</title>
+    <sub-title>The Mysterious Death of Gorgeous Gino</sub-title>
+    <desc>New revelations about wrestling star Gino Hernandez's death are revealed to his mother  his death was believed to be a drug-related murder.</desc>
+  </programme><programme channel="VICE.us" start="20251116090300 +0500" stop="20251116093000 +0500">
+    <title>Dark Side of the Ring</title>
+    <sub-title>After Dark: After Chris Benoit</sub-title>
+    <desc>Chavo Guerrero Jr., Tommy Dreamer and Ben Kissel join Chris Gethard in studio to discuss the life, tragedy and legacy of Chris Benoit.</desc>
+  </programme>
+</tv>

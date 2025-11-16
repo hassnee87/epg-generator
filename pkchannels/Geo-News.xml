@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Geo.News.pk">
+    <display-name>Geo News</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Geo-News.png" />
+  </channel>
+</tv>

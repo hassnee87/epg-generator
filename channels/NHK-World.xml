@@ -1,0 +1,696 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="NHK.World.Japan.jp">
+    <display-name>NHK World Japan</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/NHK-World.png" />
+  </channel><programme channel="NHK.World.Japan.jp" start="20251116000000 +0500" stop="20251116001000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116001000 +0500" stop="20251116010000 +0500">
+    <title>Impacts: Climates Change the World</title>
+    <desc>A special edition of this series on COP30 describes the threats facing the Amazon rainforest. We see the potential of agroforestry, and discover Japanese technologies aiding farmers' incomes.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116010000 +0500" stop="20251116011000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116011000 +0500" stop="20251116014000 +0500">
+    <title>Biz Stream</title>
+    <desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116014000 +0500" stop="20251116015000 +0500">
+    <title>Let's Enjoy MATH</title>
+    <desc>Numbler hides the measuring stick at a shoe shop so that a customer's foot cannot be measured. Barky realizes that the measurement can be made by counting how many 1-centimeter items are needed.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116015000 +0500" stop="20251116020000 +0500">
+    <title>Take Tech</title>
+    <desc>A program for upper primary to lower secondary school children to explore the everyday technologies all around them. Each episode takes a piece of familiar tech to find out what it does and how.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116020000 +0500" stop="20251116021000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116021000 +0500" stop="20251116030000 +0500">
+    <title>Cycle Around Japan</title>
+    <desc>Our cyclist climbs the Kii Mountains in western Japan, and encounters the culture that developed on the secluded slopes. Artisans work with rare black bamboo, and make pigment using an old method.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116030000 +0500" stop="20251116031000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116031000 +0500" stop="20251116034000 +0500">
+    <title>NHK WORLD TV Special Program</title>
+    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116034000 +0500" stop="20251116035500 +0500">
+    <title>BOSAI</title>
+    <desc>We look at Self-Defense Forces disaster prep, including their response team's special equipment and techniques, and a new tsunami prediction system.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116035500 +0500" stop="20251116040000 +0500">
+    <title>Natural Stone Walls</title>
+    <desc>Shiga / Nagayama Yuko (architect) For 400 years, a group of stonemasons have been building walls using natural stone. Nagayama learns how a stone's qualities are assessed and utilized.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116040000 +0500" stop="20251116041000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116041000 +0500" stop="20251116042000 +0500">
+    <title>Magical Japanese</title>
+    <desc>The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to bag. Explore the unique culture behind them.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116042000 +0500" stop="20251116042500 +0500">
+    <title>The Seasons of Yamato</title>
+    <desc>A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each seasons.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116042500 +0500" stop="20251116043000 +0500">
+    <title>Ukiyoe EDO-LIFE</title>
+    <desc>It's late at night, when all are fast asleep. A young man and woman huddle together along the veranda outside of a house, attending to a ... rooster. What could the pair be up to?</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116043000 +0500" stop="20251116045700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from November 15, Day 7 of the Grand Sumo Tournament in Fukuoka.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116045700 +0500" stop="20251116050000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116050000 +0500" stop="20251116051000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116051000 +0500" stop="20251116060000 +0500">
+    <title>FOOD: Globalized Japanese Cuisine</title>
+    <desc>There are nearly 190,000 Japanese-style restaurants around the world and 90 percent are run by non-Japanese chefs. We look at how global cultures and trends are updating Japanese cuisine.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116060000 +0500" stop="20251116061000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116061000 +0500" stop="20251116070000 +0500">
+    <title>NHK WORLD TV Special Program</title>
+    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116070000 +0500" stop="20251116071000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116071000 +0500" stop="20251116074000 +0500">
+    <title>J-Melo</title>
+    <desc>Join May J. for great Japanese music! This week, three energetic idol groups: 12-member group Not Equal Me, Hello! Project group Angerme, and Cho Tokimeki Sendenbu, who just released a new single.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116074000 +0500" stop="20251116075000 +0500">
+    <title>Little Charo</title>
+    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. \.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116075000 +0500" stop="20251116075500 +0500">
+    <title>Japanology Plus Mini</title>
+    <desc>Over 70% of Japanese people are said to use eyeglasses. We visit Sabae, in Fukui, where over 90% of Japan's glasses are made, and explore the history of Japanese eyewear and the latest technology.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116075500 +0500" stop="20251116080000 +0500">
+    <title>A Cat's-Eye View of Japan</title>
+    <desc>We head to Yashima, where the local boss cat leads us to a temple along the Shikoku Pilgrimage. The temple grounds are home to cats that nap, play, and greet pilgrims and other visitors.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116080000 +0500" stop="20251116081000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116081000 +0500" stop="20251116084000 +0500">
+    <title>Cycle Around Japan</title>
+    <desc>Many now rarely-seen crafts live on in the remote villages of the Kii Mountains. We see aged artisans producing pigment from pine tree soot and crafting traditional wooden buckets and tubs.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116084000 +0500" stop="20251116085000 +0500">
+    <title>Rockie and Her Friends</title>
+    <desc>Puppet action show for children. In a distant post-human future where surviving creatures have formed a community, new-breed dinosaur girl Rockie sets out on hilarious adventures with her schoolmates.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116085000 +0500" stop="20251116090000 +0500">
+    <title>u &amp; i</title>
+    <desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116090000 +0500" stop="20251116091000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116091000 +0500" stop="20251116092500 +0500">
+    <title>The World Heritage Sites in Japan</title>
+    <desc>From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116092500 +0500" stop="20251116093000 +0500">
+    <title>Okinawa</title>
+    <desc>Okinawa Prefecture is a group of subtropical islands in the far south of Japan. We examine its past and present, with footage from time-lapse creator Shimizu Daisuke. This time: The Holiest Place.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116093000 +0500" stop="20251116095700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from November 15, Day 7 of the Grand Sumo Tournament in Fukuoka.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116095700 +0500" stop="20251116100000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116100000 +0500" stop="20251116101000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116101000 +0500" stop="20251116102500 +0500">
+    <title>Ramen Japan</title>
+    <desc>What makes these one-of-a-kind handmade noodles so unique?! Come to Sano for a taste you won't find anywhere else!</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116102500 +0500" stop="20251116103000 +0500">
+    <title>Core Kyoto Mini</title>
+    <desc>Crests are symbols of families and organizations. Once the privilege of the imperial and samurai classes, they were adopted by merchants and the populace as marks of pride.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116103000 +0500" stop="20251116104500 +0500">
+    <title>Easy Japanese for Work</title>
+    <desc>Today: fielding an urgent request on the phone. Dong Van Huu from Vietnam designs blueprints at an architecture company. In a roleplay, he fields a call about blueprints that are missing information.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116104500 +0500" stop="20251116110000 +0500">
+    <title>Zero Waste Life</title>
+    <desc>Kawahara Takuya upcycles discarded jeans. His partner, Yamasawa Ryoji buys old denim overseas by the ton. Together these denim devotees make it cooler than cool once again.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116110000 +0500" stop="20251116111000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116111000 +0500" stop="20251116120000 +0500">
+    <title>FOOD: Globalized Japanese Cuisine</title>
+    <desc>There are nearly 190,000 Japanese-style restaurants around the world and 90 percent are run by non-Japanese chefs. We look at how global cultures and trends are updating Japanese cuisine.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116120000 +0500" stop="20251116121000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116121000 +0500" stop="20251116130000 +0500">
+    <title>NHK WORLD TV Special Program</title>
+    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116130000 +0500" stop="20251116131000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116131000 +0500" stop="20251116140000 +0500">
+    <title>Grand Sumo LIVE</title>
+    <desc>NHK WORLD-JAPAN will broadcast GRAND SUMO November Tournament Day 8 action live from Fukuoka, as top wrestlers have their eighth bouts of the 15-day contest.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116140000 +0500" stop="20251116141000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116141000 +0500" stop="20251116144000 +0500">
+    <title>Cycle Around Japan</title>
+    <desc>Many now rarely-seen crafts live on in the remote villages of the Kii Mountains. We see aged artisans producing pigment from pine tree soot and crafting traditional wooden buckets and tubs.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116144000 +0500" stop="20251116145000 +0500">
+    <title>Rockie and Her Friends</title>
+    <desc>Puppet action show for children. In a distant post-human future where surviving creatures have formed a community, new-breed dinosaur girl Rockie sets out on hilarious adventures with her schoolmates.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116145000 +0500" stop="20251116150000 +0500">
+    <title>u &amp; i</title>
+    <desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116150000 +0500" stop="20251116151000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116151000 +0500" stop="20251116154000 +0500">
+    <title>J-Melo</title>
+    <desc>Join May J. for great Japanese music! This week, three energetic idol groups: 12-member group Not Equal Me, Hello! Project group Angerme, and Cho Tokimeki Sendenbu, who just released a new single.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116154000 +0500" stop="20251116155000 +0500">
+    <title>Little Charo</title>
+    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. \.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116155000 +0500" stop="20251116155500 +0500">
+    <title>Japanology Plus Mini</title>
+    <desc>Over 70% of Japanese people are said to use eyeglasses. We visit Sabae, in Fukui, where over 90% of Japan's glasses are made, and explore the history of Japanese eyewear and the latest technology.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116155500 +0500" stop="20251116160000 +0500">
+    <title>A Cat's-Eye View of Japan</title>
+    <desc>We head to Yashima, where the local boss cat leads us to a temple along the Shikoku Pilgrimage. The temple grounds are home to cats that nap, play, and greet pilgrims and other visitors.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116160000 +0500" stop="20251116161000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116161000 +0500" stop="20251116162500 +0500">
+    <title>Ramen Japan</title>
+    <desc>What makes these one-of-a-kind handmade noodles so unique?! Come to Sano for a taste you won't find anywhere else!</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116162500 +0500" stop="20251116163000 +0500">
+    <title>Core Kyoto Mini</title>
+    <desc>Crests are symbols of families and organizations. Once the privilege of the imperial and samurai classes, they were adopted by merchants and the populace as marks of pride.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116163000 +0500" stop="20251116164500 +0500">
+    <title>Easy Japanese for Work</title>
+    <desc>Today: fielding an urgent request on the phone. Dong Van Huu from Vietnam designs blueprints at an architecture company. In a roleplay, he fields a call about blueprints that are missing information.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116164500 +0500" stop="20251116170000 +0500">
+    <title>Zero Waste Life</title>
+    <desc>Kawahara Takuya upcycles discarded jeans. His partner, Yamasawa Ryoji buys old denim overseas by the ton. Together these denim devotees make it cooler than cool once again.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116170000 +0500" stop="20251116171000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116171000 +0500" stop="20251116180000 +0500">
+    <title>FOOD: Globalized Japanese Cuisine</title>
+    <desc>There are nearly 190,000 Japanese-style restaurants around the world and 90 percent are run by non-Japanese chefs. We look at how global cultures and trends are updating Japanese cuisine.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116180000 +0500" stop="20251116181000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116181000 +0500" stop="20251116190000 +0500">
+    <title>NHK WORLD TV Special Program</title>
+    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116190000 +0500" stop="20251116191000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116191000 +0500" stop="20251116194000 +0500">
+    <title>Cycle Around Japan</title>
+    <desc>Many now rarely-seen crafts live on in the remote villages of the Kii Mountains. We see aged artisans producing pigment from pine tree soot and crafting traditional wooden buckets and tubs.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116194000 +0500" stop="20251116195000 +0500">
+    <title>Rockie and Her Friends</title>
+    <desc>Puppet action show for children. In a distant post-human future where surviving creatures have formed a community, new-breed dinosaur girl Rockie sets out on hilarious adventures with her schoolmates.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116195000 +0500" stop="20251116200000 +0500">
+    <title>u &amp; i</title>
+    <desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116200000 +0500" stop="20251116201000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116201000 +0500" stop="20251116204000 +0500">
+    <title>J-Melo</title>
+    <desc>Join May J. for great Japanese music! This week, three energetic idol groups: 12-member group Not Equal Me, Hello! Project group Angerme, and Cho Tokimeki Sendenbu, who just released a new single.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116204000 +0500" stop="20251116205000 +0500">
+    <title>Little Charo</title>
+    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. \.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116205000 +0500" stop="20251116205500 +0500">
+    <title>Japanology Plus Mini</title>
+    <desc>Over 70% of Japanese people are said to use eyeglasses. We visit Sabae, in Fukui, where over 90% of Japan's glasses are made, and explore the history of Japanese eyewear and the latest technology.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116205500 +0500" stop="20251116210000 +0500">
+    <title>A Cat's-Eye View of Japan</title>
+    <desc>We head to Yashima, where the local boss cat leads us to a temple along the Shikoku Pilgrimage. The temple grounds are home to cats that nap, play, and greet pilgrims and other visitors.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116210000 +0500" stop="20251116211000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116211000 +0500" stop="20251116212500 +0500">
+    <title>The World Heritage Sites in Japan</title>
+    <desc>From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116212500 +0500" stop="20251116213000 +0500">
+    <title>Okinawa</title>
+    <desc>Okinawa Prefecture is a group of subtropical islands in the far south of Japan. We examine its past and present, with footage from time-lapse creator Shimizu Daisuke. This time: The Holiest Place.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116213000 +0500" stop="20251116215700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from November 16, Day 8 of the Grand Sumo Tournament in Fukuoka.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116215700 +0500" stop="20251116220000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116220000 +0500" stop="20251116221000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116221000 +0500" stop="20251116222500 +0500">
+    <title>Ramen Japan</title>
+    <desc>What makes these one-of-a-kind handmade noodles so unique?! Come to Sano for a taste you won't find anywhere else!</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116222500 +0500" stop="20251116223000 +0500">
+    <title>Core Kyoto Mini</title>
+    <desc>Crests are symbols of families and organizations. Once the privilege of the imperial and samurai classes, they were adopted by merchants and the populace as marks of pride.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116223000 +0500" stop="20251116224500 +0500">
+    <title>Easy Japanese for Work</title>
+    <desc>Today: fielding an urgent request on the phone. Dong Van Huu from Vietnam designs blueprints at an architecture company. In a roleplay, he fields a call about blueprints that are missing information.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116224500 +0500" stop="20251116230000 +0500">
+    <title>Zero Waste Life</title>
+    <desc>Kawahara Takuya upcycles discarded jeans. His partner, Yamasawa Ryoji buys old denim overseas by the ton. Together these denim devotees make it cooler than cool once again.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116230000 +0500" stop="20251116231000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251116231000 +0500" stop="20251117000000 +0500">
+    <title>FOOD: Globalized Japanese Cuisine</title>
+    <desc>There are nearly 190,000 Japanese-style restaurants around the world and 90 percent are run by non-Japanese chefs. We look at how global cultures and trends are updating Japanese cuisine.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117000000 +0500" stop="20251117001000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117001000 +0500" stop="20251117010000 +0500">
+    <title>NHK WORLD TV Special Program</title>
+    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117010000 +0500" stop="20251117011000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117011000 +0500" stop="20251117014000 +0500">
+    <title>Cycle Around Japan</title>
+    <desc>Many now rarely-seen crafts live on in the remote villages of the Kii Mountains. We see aged artisans producing pigment from pine tree soot and crafting traditional wooden buckets and tubs.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117014000 +0500" stop="20251117015000 +0500">
+    <title>Rockie and Her Friends</title>
+    <desc>Puppet action show for children. In a distant post-human future where surviving creatures have formed a community, new-breed dinosaur girl Rockie sets out on hilarious adventures with her schoolmates.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117015000 +0500" stop="20251117020000 +0500">
+    <title>u &amp; i</title>
+    <desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117020000 +0500" stop="20251117021000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117021000 +0500" stop="20251117024000 +0500">
+    <title>J-Melo</title>
+    <desc>Join May J. for great Japanese music! This week, three energetic idol groups: 12-member group Not Equal Me, Hello! Project group Angerme, and Cho Tokimeki Sendenbu, who just released a new single.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117024000 +0500" stop="20251117025000 +0500">
+    <title>Little Charo</title>
+    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. \.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117025000 +0500" stop="20251117025500 +0500">
+    <title>Japanology Plus Mini</title>
+    <desc>Five-minute shows presenting the limitless, kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings. (Digest versions of \.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117025500 +0500" stop="20251117030000 +0500">
+    <title>A Cat's-Eye View of Japan</title>
+    <desc>Chichibu is a mountainous region with lots of natural beauty. Cats keep watch over a field of red spider lilies and even guide visitors through the mountains! We also meet a cat who lives at a shrine.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117030000 +0500" stop="20251117031000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117031000 +0500" stop="20251117032500 +0500">
+    <title>NHK World Selection</title>
+    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117032500 +0500" stop="20251117033000 +0500">
+    <title>Core Kyoto Mini</title>
+    <desc>Crests are symbols of families and organizations. Once the privilege of the imperial and samurai classes, they were adopted by merchants and the populace as marks of pride.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117033000 +0500" stop="20251117034500 +0500">
+    <title>Easy Japanese for Work</title>
+    <desc>Today: fielding an urgent request on the phone. Dong Van Huu from Vietnam designs blueprints at an architecture company. In a roleplay, he fields a call about blueprints that are missing information.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117034500 +0500" stop="20251117040000 +0500">
+    <title>Zero Waste Life</title>
+    <desc>Kawahara Takuya upcycles discarded jeans. His partner, Yamasawa Ryoji buys old denim overseas by the ton. Together these denim devotees make it cooler than cool once again.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117040000 +0500" stop="20251117041000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117041000 +0500" stop="20251117042500 +0500">
+    <title>The World Heritage Sites in Japan</title>
+    <desc>From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117042500 +0500" stop="20251117043000 +0500">
+    <title>Okinawa</title>
+    <sub-title>The Holiest Place</sub-title>
+    <desc>Okinawa Prefecture is a group of subtropical islands in the far south of Japan. We examine its past and present, with footage from time-lapse creator Shimizu Daisuke. This time: The Holiest Place.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117043000 +0500" stop="20251117045700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117045700 +0500" stop="20251117050000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117050000 +0500" stop="20251117051000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117051000 +0500" stop="20251117051500 +0500">
+    <title>Education Chance Opens the World</title>
+    <desc>Maxine is a university student. She joined a school providing educational support and life advice to international students wanting to enter Japanese high school. This experience changed her life.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117051500 +0500" stop="20251117052500 +0500">
+    <title>Impacts: Climates Change the World</title>
+    <desc>The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117052500 +0500" stop="20251117053000 +0500">
+    <title>Natural Stone Walls</title>
+    <desc>Shiga / Nagayama Yuko (architect) For 400 years, a group of stonemasons have been building walls using natural stone. Nagayama learns how a stone's qualities are assessed and utilized.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117053000 +0500" stop="20251117060000 +0500">
+    <title>Where We Call Home</title>
+    <desc>People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117060000 +0500" stop="20251117061000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117061000 +0500" stop="20251117061500 +0500">
+    <title>Time-Lapse Japan</title>
+    <desc>The Jomon period dates roughly from 13,000 to 300 BC. We examine various aspects of Jomon society, with footage from time-lapse creator Shimizu Daisuke. This time: Lacquer.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117061500 +0500" stop="20251117063000 +0500">
+    <title>BOSAI</title>
+    <desc>We look at Self-Defense Forces disaster prep, including their response team's special equipment and techniques, and a new tsunami prediction system.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117063000 +0500" stop="20251117064000 +0500">
+    <title>Magical Japanese</title>
+    <desc>The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to ghosts. Explore the unique culture behind them.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117064000 +0500" stop="20251117064500 +0500">
+    <title>Easy Japanese</title>
+    <desc>A new version of Radio Japan's Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying. Tune in and start speaking.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117064500 +0500" stop="20251117065500 +0500">
+    <title>Culture Crossroads</title>
+    <desc>Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117065500 +0500" stop="20251117070000 +0500">
+    <title>Hello! NHK World Japan</title>
+    <desc>We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117070000 +0500" stop="20251117073000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117073000 +0500" stop="20251117080000 +0500">
+    <title>Seasoning the Seasons</title>
+    <desc>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117080000 +0500" stop="20251117083000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117083000 +0500" stop="20251117090000 +0500">
+    <title>Biz Stream</title>
+    <desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117090000 +0500" stop="20251117093000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117093000 +0500" stop="20251117095700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117095700 +0500" stop="20251117100000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117100000 +0500" stop="20251117103000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117103000 +0500" stop="20251117110000 +0500">
+    <title>Where We Call Home</title>
+    <desc>People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117110000 +0500" stop="20251117113000 +0500">
+    <title>Newsline Asia 24</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117113000 +0500" stop="20251117114000 +0500">
+    <title>Magical Japanese</title>
+    <desc>The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to ghosts. Explore the unique culture behind them.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117114000 +0500" stop="20251117114500 +0500">
+    <title>Easy Japanese</title>
+    <desc>A new version of Radio Japan's Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying. Tune in and start speaking.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117114500 +0500" stop="20251117115500 +0500">
+    <title>Culture Crossroads</title>
+    <desc>Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117115500 +0500" stop="20251117120000 +0500">
+    <title>Hello! NHK World Japan</title>
+    <desc>We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117120000 +0500" stop="20251117123000 +0500">
+    <title>Newsline Asia 24</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117123000 +0500" stop="20251117130000 +0500">
+    <title>Seasoning the Seasons</title>
+    <desc>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117130000 +0500" stop="20251117133000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117133000 +0500" stop="20251117135700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117135700 +0500" stop="20251117140000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117140000 +0500" stop="20251117143000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117143000 +0500" stop="20251117150000 +0500">
+    <title>Biz Stream</title>
+    <desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117150000 +0500" stop="20251117153000 +0500">
+    <title>NHK News 7</title>
+    <desc>News 7 is NHK's flagship domestic evening news program, bringing you the latest from our Tokyo studio. It's presented with English audio on NHK World for our international viewers.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117153000 +0500" stop="20251117160000 +0500">
+    <title>Where We Call Home</title>
+    <desc>People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117160000 +0500" stop="20251117162800 +0500">
+    <title>Newsroom Tokyo</title>
+    <desc>NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117162800 +0500" stop="20251117164300 +0500">
+    <title>Direct Talk</title>
+    <desc>Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117164300 +0500" stop="20251117165500 +0500">
+    <title>NHK World Selection</title>
+    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117165500 +0500" stop="20251117170000 +0500">
+    <title>Ukiyoe EDO-LIFE</title>
+    <sub-title>A Spring Party</sub-title>
+    <desc>We visit one of the most famous cherry blossom spots in Edo. Flower viewing parties were for eating, drinking and making merry. It was also an opportunity for young men and women to mingle.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117170000 +0500" stop="20251117173000 +0500">
+    <title>Newsroom Tokyo</title>
+    <desc>NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117173000 +0500" stop="20251117174000 +0500">
+    <title>Magical Japanese</title>
+    <desc>The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to ghosts. Explore the unique culture behind them.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117174000 +0500" stop="20251117174500 +0500">
+    <title>Easy Japanese</title>
+    <desc>A new version of Radio Japan's Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying. Tune in and start speaking.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117174500 +0500" stop="20251117175500 +0500">
+    <title>Culture Crossroads</title>
+    <desc>Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117175500 +0500" stop="20251117180000 +0500">
+    <title>Hello! NHK World Japan</title>
+    <desc>We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117180000 +0500" stop="20251117183000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117183000 +0500" stop="20251117190000 +0500">
+    <title>Seasoning the Seasons</title>
+    <desc>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117190000 +0500" stop="20251117193000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117193000 +0500" stop="20251117200000 +0500">
+    <title>Medical Frontiers</title>
+    <desc>Limited mobility can restrict blood flow, causing pressure injuries. To address them, Japanese experts are developing advanced bedding and other technologies.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117200000 +0500" stop="20251117203000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117203000 +0500" stop="20251117210000 +0500">
+    <title>Where We Call Home</title>
+    <desc>People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117210000 +0500" stop="20251117213000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117213000 +0500" stop="20251117215700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117215700 +0500" stop="20251117220000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117220000 +0500" stop="20251117223000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117223000 +0500" stop="20251117224000 +0500">
+    <title>Magical Japanese</title>
+    <desc>The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to ghosts. Explore the unique culture behind them.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117224000 +0500" stop="20251117224500 +0500">
+    <title>Easy Japanese</title>
+    <desc>A new version of Radio Japan's Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying. Tune in and start speaking.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117224500 +0500" stop="20251117225500 +0500">
+    <title>Culture Crossroads</title>
+    <desc>Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117225500 +0500" stop="20251117230000 +0500">
+    <title>Hello! NHK World Japan</title>
+    <desc>We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117230000 +0500" stop="20251117232800 +0500">
+    <title>Newsroom Tokyo</title>
+    <desc>NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117232800 +0500" stop="20251117234300 +0500">
+    <title>Direct Talk</title>
+    <desc>Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117234300 +0500" stop="20251117235500 +0500">
+    <title>NHK World Selection</title>
+    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251117235500 +0500" stop="20251118000000 +0500">
+    <title>Ukiyoe EDO-LIFE</title>
+    <sub-title>A Spring Party</sub-title>
+    <desc>We visit one of the most famous cherry blossom spots in Edo. Flower viewing parties were for eating, drinking and making merry. It was also an opportunity for young men and women to mingle.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118000000 +0500" stop="20251118003000 +0500">
+    <title>Today's Close-Up</title>
+    <desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118003000 +0500" stop="20251118010000 +0500">
+    <title>Seasoning the Seasons</title>
+    <desc>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118010000 +0500" stop="20251118013000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118013000 +0500" stop="20251118020000 +0500">
+    <title>Medical Frontiers</title>
+    <desc>Limited mobility can restrict blood flow, causing pressure injuries. To address them, Japanese experts are developing advanced bedding and other technologies.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118020000 +0500" stop="20251118023000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118023000 +0500" stop="20251118030000 +0500">
+    <title>Where We Call Home</title>
+    <desc>People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118030000 +0500" stop="20251118033000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118033000 +0500" stop="20251118034000 +0500">
+    <title>Magical Japanese</title>
+    <desc>The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to ghosts. Explore the unique culture behind them.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118034000 +0500" stop="20251118034500 +0500">
+    <title>Easy Japanese</title>
+    <desc>A new version of Radio Japan's Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying. Tune in and start speaking.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118034500 +0500" stop="20251118035500 +0500">
+    <title>Culture Crossroads</title>
+    <desc>Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118035500 +0500" stop="20251118040000 +0500">
+    <title>Hello! NHK World Japan</title>
+    <desc>We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118040000 +0500" stop="20251118043000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118043000 +0500" stop="20251118045700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118045700 +0500" stop="20251118050000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118050000 +0500" stop="20251118053000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118053000 +0500" stop="20251118060000 +0500">
+    <title>Journeys in Japan</title>
+    <desc>Explore a different side of Japan. Meet the locals and discover traditions and cultures not usually found in guidebooks!</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118060000 +0500" stop="20251118063000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118063000 +0500" stop="20251118070000 +0500">
+    <title>Dining With The Chef</title>
+    <desc>Traditional techniques and resourceful recipes! Chefs Saito and Rika, present their unique approaches to cooking delicious Japanese food.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118070000 +0500" stop="20251118073000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118073000 +0500" stop="20251118080000 +0500">
+    <title>Document 72 Hours</title>
+    <desc>Inadani, Nagano is home to a farmers' market which sells a wide array of vegetables, mushrooms, game and even edible insects. Explore local food culture and approaches to life in rural Japan.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118080000 +0500" stop="20251118083000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118083000 +0500" stop="20251118090000 +0500">
+    <title>Medical Frontiers</title>
+    <desc>Limited mobility can restrict blood flow, causing pressure injuries. To address them, Japanese experts are developing advanced bedding and other technologies.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118090000 +0500" stop="20251118093000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118093000 +0500" stop="20251118095700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118095700 +0500" stop="20251118100000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118100000 +0500" stop="20251118103000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118103000 +0500" stop="20251118110000 +0500">
+    <title>Journeys in Japan</title>
+    <desc>Explore a different side of Japan. Meet the locals and discover traditions and cultures not usually found in guidebooks!</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118110000 +0500" stop="20251118113000 +0500">
+    <title>Newsline Asia 24</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118113000 +0500" stop="20251118120000 +0500">
+    <title>Dining With The Chef</title>
+    <desc>Traditional techniques and resourceful recipes! Chefs Saito and Rika, present their unique approaches to cooking delicious Japanese food.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118120000 +0500" stop="20251118123000 +0500">
+    <title>Newsline Asia 24</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118123000 +0500" stop="20251118130000 +0500">
+    <title>Document 72 Hours</title>
+    <desc>Inadani, Nagano is home to a farmers' market which sells a wide array of vegetables, mushrooms, game and even edible insects. Explore local food culture and approaches to life in rural Japan.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118130000 +0500" stop="20251118133000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118133000 +0500" stop="20251118135700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118135700 +0500" stop="20251118140000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118140000 +0500" stop="20251118143000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118143000 +0500" stop="20251118150000 +0500">
+    <title>Medical Frontiers</title>
+    <desc>Limited mobility can restrict blood flow, causing pressure injuries. To address them, Japanese experts are developing advanced bedding and other technologies.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118150000 +0500" stop="20251118153000 +0500">
+    <title>NHK News 7</title>
+    <desc>News 7 is NHK's flagship domestic evening news program, bringing you the latest from our Tokyo studio. It's presented with English audio on NHK World for our international viewers.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118153000 +0500" stop="20251118160000 +0500">
+    <title>Journeys in Japan</title>
+    <desc>Explore a different side of Japan. Meet the locals and discover traditions and cultures not usually found in guidebooks!</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118160000 +0500" stop="20251118162800 +0500">
+    <title>Newsroom Tokyo</title>
+    <desc>NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118162800 +0500" stop="20251118164300 +0500">
+    <title>Direct Talk</title>
+    <desc>Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118164300 +0500" stop="20251118165500 +0500">
+    <title>NHK World Selection</title>
+    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118165500 +0500" stop="20251118170000 +0500">
+    <title>Ukiyoe EDO-LIFE</title>
+    <sub-title>Doodles or Ukiyoe</sub-title>
+    <desc>A series of doodles by the famous artist Utagawa Kuniyoshi turn out to be carefully considered depictions of the kabuki actors of the day. What kind of artistic statement was he trying to make?</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118170000 +0500" stop="20251118173000 +0500">
+    <title>Newsroom Tokyo</title>
+    <desc>NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118173000 +0500" stop="20251118180000 +0500">
+    <title>Dining With The Chef</title>
+    <desc>Traditional techniques and resourceful recipes! Chefs Saito and Rika, present their unique approaches to cooking delicious Japanese food.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118180000 +0500" stop="20251118183000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118183000 +0500" stop="20251118190000 +0500">
+    <title>Document 72 Hours</title>
+    <desc>Inadani, Nagano is home to a farmers' market which sells a wide array of vegetables, mushrooms, game and even edible insects. Explore local food culture and approaches to life in rural Japan.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118190000 +0500" stop="20251118193000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118193000 +0500" stop="20251118200000 +0500">
+    <title>Science View</title>
+    <desc>Bleaching is destroying coral reefs around the world. But a Japanese marine biologist is now using genetic analysis technology to protect corals.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118200000 +0500" stop="20251118203000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118203000 +0500" stop="20251118210000 +0500">
+    <title>Journeys in Japan</title>
+    <desc>Explore a different side of Japan. Meet the locals and discover traditions and cultures not usually found in guidebooks!</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118210000 +0500" stop="20251118213000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118213000 +0500" stop="20251118215700 +0500">
+    <title>Grand Sumo Highlights</title>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118215700 +0500" stop="20251118220000 +0500">
+    <title>Sumopedia</title>
+    <desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118220000 +0500" stop="20251118223000 +0500">
+    <title>NHK Newsline</title>
+    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118223000 +0500" stop="20251118230000 +0500">
+    <title>Dining With The Chef</title>
+    <desc>Traditional techniques and resourceful recipes! Chefs Saito and Rika, present their unique approaches to cooking delicious Japanese food.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118230000 +0500" stop="20251118232800 +0500">
+    <title>Newsroom Tokyo</title>
+    <desc>NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118232800 +0500" stop="20251118234300 +0500">
+    <title>Direct Talk</title>
+    <desc>Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118234300 +0500" stop="20251118235500 +0500">
+    <title>NHK World Selection</title>
+    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  </programme><programme channel="NHK.World.Japan.jp" start="20251118235500 +0500" stop="20251119000000 +0500">
+    <title>Ukiyoe EDO-LIFE</title>
+    <sub-title>Doodles or Ukiyoe</sub-title>
+    <desc>A series of doodles by the famous artist Utagawa Kuniyoshi turn out to be carefully considered depictions of the kabuki actors of the day. What kind of artistic statement was he trying to make?</desc>
+  </programme>
+</tv>

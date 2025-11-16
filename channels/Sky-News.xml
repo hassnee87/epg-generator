@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Sky.News.uk">
+    <display-name>Sky News</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Sky-News.png" />
+  </channel><programme channel="Sky.News.uk" start="20251116000000 +0500" stop="20251116003000 +0500">
+    <title>Sky News</title>
+    <desc>A comprehensive round-up of all the main news stories of the day from home and abroad.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116003000 +0500" stop="20251116010000 +0500">
+    <title>Politics Hub</title>
+    <desc>Another chance to see the big interviews this week on the Politics Hub.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116010000 +0500" stop="20251116013000 +0500">
+    <title>Sky News</title>
+    <desc>A comprehensive round-up of all the main news stories of the day from home and abroad.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116013000 +0500" stop="20251116020000 +0500">
+    <title>UK Tonight Highlights</title>
+    <desc>Another chance to see the big interviews this week on UK Tonight with Sarah-Jane Mee.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116020000 +0500" stop="20251116023000 +0500">
+    <title>East Libya: Europe's Smuggling Frontline</title>
+    <desc>Alex Crawford reports from East Libya, a gateway for migrants trying to reach Europe. She joins coastguards, anti-smuggling units and those risking everything to cross the Mediterranean.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116023000 +0500" stop="20251116030000 +0500">
+    <title>Sky News</title>
+    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116030000 +0500" stop="20251116033000 +0500">
+    <title>News at 10 with Gillian Joseph</title>
+    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116033000 +0500" stop="20251116040000 +0500">
+    <title>Press Preview</title>
+    <desc>A lively look at some of the stories that are featuring in tomorrow morning's newspapers.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116040000 +0500" stop="20251116043000 +0500">
+    <title>Sky News</title>
+    <desc>The main news of the day with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116043000 +0500" stop="20251116050000 +0500">
+    <title>Press Preview</title>
+    <desc>A review of tomorrow's newspapers with a panel of guests and passionate debate about the stories they cover.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116050000 +0500" stop="20251116060000 +0500">
+    <title>Sky News</title>
+    <desc>News reports on the big stories from the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116060000 +0500" stop="20251116070000 +0500">
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116070000 +0500" stop="20251116080000 +0500">
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116080000 +0500" stop="20251116090000 +0500">
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116090000 +0500" stop="20251116100000 +0500">
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116100000 +0500" stop="20251116110000 +0500">
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116110000 +0500" stop="20251116113000 +0500">
+    <title>Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116113000 +0500" stop="20251116120000 +0500">
+    <title>Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116120000 +0500" stop="20251116123000 +0500">
+    <title>Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116123000 +0500" stop="20251116130000 +0500">
+    <title>Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116130000 +0500" stop="20251116133000 +0500">
+    <title>Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116133000 +0500" stop="20251116150000 +0500">
+    <title>Sunday Morning w/ Trevor Phillips</title>
+    <desc>Trevor Phillips interviews a range of high-profile guests on some of the biggest news stories of the week.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116150000 +0500" stop="20251116153000 +0500">
+    <title>Sky News Today With Matt Barbet</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116153000 +0500" stop="20251116160000 +0500">
+    <title>Sky News Today With Matt Barbet</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116160000 +0500" stop="20251116163000 +0500">
+    <title>Sky News Today With Matt Barbet</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116163000 +0500" stop="20251116170000 +0500">
+    <title>Sky News Today With Matt Barbet</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116170000 +0500" stop="20251116173000 +0500">
+    <title>Sky News Today With Matt Barbet</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116173000 +0500" stop="20251116180000 +0500">
+    <title>Sky News Today With Matt Barbet</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116180000 +0500" stop="20251116183000 +0500">
+    <title>Sky News Today With Matt Barbet</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116183000 +0500" stop="20251116190000 +0500">
+    <title>Trevor Phillips: Highlights</title>
+    <desc>Another chance to see the key interviews from Sunday Morning with Trevor Phillips.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116190000 +0500" stop="20251116193000 +0500">
+    <title>Sky News Today</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116193000 +0500" stop="20251116200000 +0500">
+    <title>Sky News Today</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116200000 +0500" stop="20251116210000 +0500">
+    <title>Unseen: A Girl Called Nonita</title>
+    <desc>When a teenager dies in the care of the state, the search for truth exposes a trail of failings. Nick Martin uncovers the story the state did not want told.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116210000 +0500" stop="20251116213000 +0500">
+    <title>Sky News Today</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116213000 +0500" stop="20251116220000 +0500">
+    <title>East Libya: Europe's Smuggling Frontline</title>
+    <desc>Alex Crawford reports from East Libya, a gateway for migrants trying to reach Europe. She joins coastguards, anti-smuggling units and those risking everything to cross the Mediterranean.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116220000 +0500" stop="20251116223000 +0500">
+    <title>News Hour with Jonathan Samuels</title>
+    <desc>A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116223000 +0500" stop="20251116230000 +0500">
+    <title>News Hour with Jonathan Samuels</title>
+    <desc>A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116230000 +0500" stop="20251116233000 +0500">
+    <title>News Hour with Jonathan Samuels</title>
+    <desc>A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251116233000 +0500" stop="20251117000000 +0500">
+    <title>News Hour with Jonathan Samuels</title>
+    <desc>A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117000000 +0500" stop="20251117003000 +0500">
+    <title>Sky News</title>
+    <desc>A comprehensive round-up of the main news stories from across the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117003000 +0500" stop="20251117010000 +0500">
+    <title>Trevor Phillips: Highlights</title>
+    <desc>Another chance to see the key interviews from Sunday Morning with Trevor Phillips.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117010000 +0500" stop="20251117013000 +0500">
+    <title>Sky News</title>
+    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117013000 +0500" stop="20251117020000 +0500">
+    <title>UK Tonight Highlights</title>
+    <desc>Another chance to see the big interviews this week on UK Tonight with Sarah-Jane Mee.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117020000 +0500" stop="20251117030000 +0500">
+    <title>Unseen: A Girl Called Nonita</title>
+    <desc>When a teenager dies in the care of the state, the search for truth exposes a trail of failings. Nick Martin uncovers the story the state did not want told.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117030000 +0500" stop="20251117033000 +0500">
+    <title>News at 10 with Gillian Joseph</title>
+    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117033000 +0500" stop="20251117040000 +0500">
+    <title>Press Preview</title>
+    <desc>A lively look at some of the stories that are featuring in tomorrow morning's newspapers.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117040000 +0500" stop="20251117043000 +0500">
+    <title>Sky News</title>
+    <desc>The main news of the day with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117043000 +0500" stop="20251117050000 +0500">
+    <title>Press Preview</title>
+    <desc>A review of tomorrow's newspapers with a panel of guests and passionate debate about the stories they cover.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117050000 +0500" stop="20251117060000 +0500">
+    <title>Sky News</title>
+    <desc>News reports on the big stories from the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117060000 +0500" stop="20251117070000 +0500">
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117070000 +0500" stop="20251117080000 +0500">
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117080000 +0500" stop="20251117090000 +0500">
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117090000 +0500" stop="20251117100000 +0500">
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117100000 +0500" stop="20251117110000 +0500">
+    <title>Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117110000 +0500" stop="20251117113000 +0500">
+    <title>Mornings</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117113000 +0500" stop="20251117120000 +0500">
+    <title>Mornings</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117120000 +0500" stop="20251117123000 +0500">
+    <title>Mornings with Ridge and Frost</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117123000 +0500" stop="20251117130000 +0500">
+    <title>Mornings with Ridge and Frost</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117130000 +0500" stop="20251117133000 +0500">
+    <title>Mornings with Ridge and Frost</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117133000 +0500" stop="20251117140000 +0500">
+    <title>Mornings with Ridge and Frost</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117140000 +0500" stop="20251117143000 +0500">
+    <title>Mornings with Ridge and Frost</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117143000 +0500" stop="20251117150000 +0500">
+    <title>Mornings with Ridge and Frost</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117150000 +0500" stop="20251117153000 +0500">
+    <title>Sky News Today with Gareth Barlow</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117153000 +0500" stop="20251117160000 +0500">
+    <title>Sky News Today with Gareth Barlow</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117160000 +0500" stop="20251117163000 +0500">
+    <title>Sky News Today with Gareth Barlow</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117163000 +0500" stop="20251117170000 +0500">
+    <title>Sky News Today with Gareth Barlow</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117170000 +0500" stop="20251117173000 +0500">
+    <title>Sky News Today with Gareth Barlow</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117173000 +0500" stop="20251117180000 +0500">
+    <title>Sky News Today with Gareth Barlow</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117180000 +0500" stop="20251117183000 +0500">
+    <title>Sky News Today with Jayne Secker</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117183000 +0500" stop="20251117190000 +0500">
+    <title>Sky News Today with Jayne Secker</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117190000 +0500" stop="20251117193000 +0500">
+    <title>Sky News Today with Jayne Secker</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117193000 +0500" stop="20251117200000 +0500">
+    <title>Sky News Today with Jayne Secker</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117200000 +0500" stop="20251117203000 +0500">
+    <title>Sky News Today with Jayne Secker</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117203000 +0500" stop="20251117210000 +0500">
+    <title>Sky News Today with Jayne Secker</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117210000 +0500" stop="20251117213000 +0500">
+    <title>Sky News Today with Jayne Secker</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117213000 +0500" stop="20251117220000 +0500">
+    <title>Sky News Today with Jayne Secker</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117220000 +0500" stop="20251117223000 +0500">
+    <title>The News Hour With Mark Austin</title>
+    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117223000 +0500" stop="20251117230000 +0500">
+    <title>The News Hour With Mark Austin</title>
+    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117230000 +0500" stop="20251117233000 +0500">
+    <title>The News Hour With Mark Austin</title>
+    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251117233000 +0500" stop="20251118000000 +0500">
+    <title>The News Hour With Mark Austin</title>
+    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251118000000 +0500" stop="20251118003000 +0500">
+    <title>Politics Hub</title>
+    <desc>Interviews, insight and analysis on the big political stories of the day.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251118003000 +0500" stop="20251118010000 +0500">
+    <title>Politics Hub</title>
+    <desc>Interviews, insight and analysis on the big political stories of the day.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251118010000 +0500" stop="20251118013000 +0500">
+    <title>UK Tonight With Sarah-Jane Mee</title>
+    <desc>Sarah-Jane Mee has all the latest news from across the UK.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251118013000 +0500" stop="20251118020000 +0500">
+    <title>UK Tonight With Sarah-Jane Mee</title>
+    <desc>Sarah-Jane Mee has all the latest news from across the UK.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251118020000 +0500" stop="20251118023000 +0500">
+    <title>Sky News</title>
+    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251118023000 +0500" stop="20251118030000 +0500">
+    <title>Sky News</title>
+    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251118030000 +0500" stop="20251118033000 +0500">
+    <title>News at 10 with Anna Botting</title>
+    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251118033000 +0500" stop="20251118040000 +0500">
+    <title>Press Preview</title>
+    <desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251118040000 +0500" stop="20251118043000 +0500">
+    <title>News &amp; Press Preview</title>
+    <desc>The key stories of the day plus debate and discussion with our panel of reviewers on the stories making the morning newspapers in the extended press preview.</desc>
+  </programme><programme channel="Sky.News.uk" start="20251118043000 +0500" stop="20251118050000 +0500">
+    <title>Press Preview</title>
+    <desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
+  </programme>
+</tv>

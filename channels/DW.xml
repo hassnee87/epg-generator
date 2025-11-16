@@ -1,0 +1,639 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="DW.English.de">
+    <display-name>DW News</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/DW.png" />
+  </channel><programme channel="DW.English.de" start="20251116000000 +0500" stop="20251116001500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116001500 +0500" stop="20251116010000 +0500">
+    <title>DocFilm</title>
+    <sub-title>The Third Reich In The Dock - The First Nuremburg Trial, Part 1</sub-title>
+    <desc>The Nuremberg trials started 80 years ago and marked a milestone in the establishment of international law. The images of high-ranking Nazis in the dock are seared into our collective memory.</desc>
+  </programme><programme channel="DW.English.de" start="20251116010000 +0500" stop="20251116011500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116011500 +0500" stop="20251116013000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116013000 +0500" stop="20251116020000 +0500">
+    <title>Afrimaxx</title>
+    <sub-title>On Being Bold, Proud And African</sub-title>
+    <desc>Celebrating bold African artistry. From optical illusions with host Meling Balloo in Mauritius to coffee culture with Esther Atieno in Kenya. In Nigeria, the Loud Urban Choir is redefining choral music.</desc>
+  </programme><programme channel="DW.English.de" start="20251116020000 +0500" stop="20251116021500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116021500 +0500" stop="20251116023000 +0500">
+    <title>Shift</title>
+    <sub-title>How dangerous are TikTok &amp; Co. for democracy?</sub-title>
+    <desc>Online radicalisation is splitting whole societies. Many blame social media and AI algorithms. Are these platforms becoming a danger to democracy itself?</desc>
+  </programme><programme channel="DW.English.de" start="20251116023000 +0500" stop="20251116040000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251116040000 +0500" stop="20251116041500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116041500 +0500" stop="20251116043000 +0500">
+    <title>Sports Life</title>
+    <sub-title>One Chess Move Ahead: A Daughter's Fight for Her Father</sub-title>
+    <desc>Nievevska Torres, 14, is a World School Chess champion from Peru. As she rises through the ranks, her father battles cancer and draws strength from her success.</desc>
+  </programme><programme channel="DW.English.de" start="20251116043000 +0500" stop="20251116050000 +0500">
+    <title>Tomorrow Today</title>
+    <sub-title>Mosquitos and climate change - research into peatlands</sub-title>
+    <desc>This time it is all about mosquitos! We travel to restored peatlands in Germany, where researchers are studying populations of different species, and look behind the scenes in labs studying the insects.</desc>
+  </programme><programme channel="DW.English.de" start="20251116050000 +0500" stop="20251116050200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116050200 +0500" stop="20251116053000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251116053000 +0500" stop="20251116060000 +0500">
+    <title>In Good Shape</title>
+    <sub-title>Do methylene blue, vaping and other health hacks work - or harm?</sub-title>
+    <desc>Medical professionals talk about developments in the fields of nutrition, medicine and fitness and provide their expert opinions, debunking health myths and offering diet tips.</desc>
+  </programme><programme channel="DW.English.de" start="20251116060000 +0500" stop="20251116061500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116061500 +0500" stop="20251116063000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116063000 +0500" stop="20251116070000 +0500">
+    <title>Euromaxx - Lifestyle Europe</title>
+    <desc>Á magazine that offers international viewers absorbing insights into European culture and lifestyle, including architecture and adventure, cultural and culinary explorations, modern fashion and music, big names and major events.</desc>
+  </programme><programme channel="DW.English.de" start="20251116070000 +0500" stop="20251116070200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116070200 +0500" stop="20251116071500 +0500">
+    <title>Sports Life</title>
+    <sub-title>One Chess Move Ahead: A Daughter's Fight for Her Father</sub-title>
+    <desc>Nievevska Torres, 14, is a World School Chess champion from Peru. As she rises through the ranks, her father battles cancer and draws strength from her success.</desc>
+  </programme><programme channel="DW.English.de" start="20251116071500 +0500" stop="20251116080000 +0500">
+    <title>DocFilm</title>
+    <sub-title>The Third Reich In The Dock - The First Nuremburg Trial, Part 1</sub-title>
+    <desc>The Nuremberg trials started 80 years ago and marked a milestone in the establishment of international law. The images of high-ranking Nazis in the dock are seared into our collective memory.</desc>
+  </programme><programme channel="DW.English.de" start="20251116080000 +0500" stop="20251116081500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116081500 +0500" stop="20251116083000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116083000 +0500" stop="20251116090000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251116090000 +0500" stop="20251116091500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116091500 +0500" stop="20251116093000 +0500">
+    <title>Sports Life</title>
+    <sub-title>One Chess Move Ahead: A Daughter's Fight for Her Father</sub-title>
+    <desc>Nievevska Torres, 14, is a World School Chess champion from Peru. As she rises through the ranks, her father battles cancer and draws strength from her success.</desc>
+  </programme><programme channel="DW.English.de" start="20251116093000 +0500" stop="20251116110000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251116110000 +0500" stop="20251116111500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116111500 +0500" stop="20251116113000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116113000 +0500" stop="20251116120000 +0500">
+    <title>Euromaxx - Lifestyle Europe</title>
+    <desc>Á magazine that offers international viewers absorbing insights into European culture and lifestyle, including architecture and adventure, cultural and culinary explorations, modern fashion and music, big names and major events.</desc>
+  </programme><programme channel="DW.English.de" start="20251116120000 +0500" stop="20251116121500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116121500 +0500" stop="20251116123000 +0500">
+    <title>Shift</title>
+    <sub-title>How dangerous are TikTok &amp; Co. for democracy?</sub-title>
+    <desc>Online radicalisation is splitting whole societies. Many blame social media and AI algorithms. Are these platforms becoming a danger to democracy itself?</desc>
+  </programme><programme channel="DW.English.de" start="20251116123000 +0500" stop="20251116130000 +0500">
+    <title>Arts Unveiled</title>
+    <sub-title>Of Old and New Nazis</sub-title>
+    <desc>In 1961, Hannah Arendt attended the trial of Adolf Eichmann, Nazi bureaucrat of the Holocaust and saw in him the banality of evil, and a new novel asks how right-wing hatred arises.</desc>
+  </programme><programme channel="DW.English.de" start="20251116130000 +0500" stop="20251116131500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116131500 +0500" stop="20251116140000 +0500">
+    <title>DocFilm</title>
+    <sub-title>The French Foreign Legion - Recruits Put To The Test</sub-title>
+    <desc>The reputation of the French Foreign Legion is both legendary and notorious. Every day, men from all over the world come to the legion's barracks in Aubagne. Often, they're looking for a second chance in life. But they have no idea what awaits them.</desc>
+  </programme><programme channel="DW.English.de" start="20251116140000 +0500" stop="20251116141500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116141500 +0500" stop="20251116143000 +0500">
+    <title>Shift</title>
+    <sub-title>How dangerous are TikTok &amp; Co. for democracy?</sub-title>
+    <desc>Online radicalisation is splitting whole societies. Many blame social media and AI algorithms. Are these platforms becoming a danger to democracy itself?</desc>
+  </programme><programme channel="DW.English.de" start="20251116143000 +0500" stop="20251116150000 +0500">
+    <title>The 77 Percent</title>
+    <sub-title>Long Street Debate: South Africa USAID Pullback</sub-title>
+    <desc>Could Africa's greatest opportunity come from a funding crisis? As USAID pulls back, the stage is set for a high-stakes debate at the Human Rights Festival. Young minds discuss whether the continent will become less dependent on American aid funding.</desc>
+  </programme><programme channel="DW.English.de" start="20251116150000 +0500" stop="20251116151500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116151500 +0500" stop="20251116153000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116153000 +0500" stop="20251116160000 +0500">
+    <title>REV</title>
+    <sub-title>Malta's Heritage on Wheels: The Fight to Save Its Buses</sub-title>
+    <desc>Malta's hand-painted buses, each one unique, once ferried locals and tourists alike. Now few remain, lovingly restored by specialist coachbuilders. We also ride with police on speed patrol and test the VinFast VF 6.</desc>
+  </programme><programme channel="DW.English.de" start="20251116160000 +0500" stop="20251116161500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116161500 +0500" stop="20251116163000 +0500">
+    <title>Sports Life</title>
+    <sub-title>One Chess Move Ahead: A Daughter's Fight for Her Father</sub-title>
+    <desc>Nievevska Torres, 14, is a World School Chess champion from Peru. As she rises through the ranks, her father battles cancer and draws strength from her success.</desc>
+  </programme><programme channel="DW.English.de" start="20251116163000 +0500" stop="20251116170000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251116170000 +0500" stop="20251116171500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116171500 +0500" stop="20251116173000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116173000 +0500" stop="20251116180000 +0500">
+    <title>Arts Unveiled</title>
+    <sub-title>Of Old and New Nazis</sub-title>
+    <desc>In 1961, Hannah Arendt attended the trial of Adolf Eichmann, Nazi bureaucrat of the Holocaust and saw in him the banality of evil, and a new novel asks how right-wing hatred arises.</desc>
+  </programme><programme channel="DW.English.de" start="20251116180000 +0500" stop="20251116181500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116181500 +0500" stop="20251116190000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251116190000 +0500" stop="20251116191500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116191500 +0500" stop="20251116193000 +0500">
+    <title>Shift</title>
+    <sub-title>How dangerous are TikTok &amp; Co. for democracy?</sub-title>
+    <desc>Online radicalisation is splitting whole societies. Many blame social media and AI algorithms. Are these platforms becoming a danger to democracy itself?</desc>
+  </programme><programme channel="DW.English.de" start="20251116193000 +0500" stop="20251116200000 +0500">
+    <title>Under the Baobab</title>
+    <sub-title>Is Zimbabwe Under Political Siege?</sub-title>
+    <desc>Eight years after Mugabe's fall, Mnangagwa's Zimbabwe is haunted by repression, fear, and division. Is the opposition failing, or is the ruling party too ruthless to be challenged?</desc>
+  </programme><programme channel="DW.English.de" start="20251116200000 +0500" stop="20251116201500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116201500 +0500" stop="20251116203000 +0500">
+    <title>Arts Unveiled</title>
+    <sub-title>The Untold Stories of Berlin's Museum Island</sub-title>
+    <desc>Five museums, a World Heritage Site, thousands of years of cultural history and art. Millions of visitors make a pilgrimage each year to Berlin's Museum Island. But who built it, for what purpose, and where do its treasures come from?</desc>
+  </programme><programme channel="DW.English.de" start="20251116203000 +0500" stop="20251116210000 +0500">
+    <title>Arts Unveiled</title>
+    <sub-title>Of Old and New Nazis</sub-title>
+    <desc>In 1961, Hannah Arendt attended the trial of Adolf Eichmann, Nazi bureaucrat of the Holocaust and saw in him the banality of evil, and a new novel asks how right-wing hatred arises.</desc>
+  </programme><programme channel="DW.English.de" start="20251116210000 +0500" stop="20251116211500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116211500 +0500" stop="20251116213000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116213000 +0500" stop="20251116220000 +0500">
+    <title>Afrimaxx</title>
+    <sub-title>On Being Bold, Proud And African</sub-title>
+    <desc>Celebrating bold African artistry. From optical illusions with host Meling Balloo in Mauritius to coffee culture with Esther Atieno in Kenya. In Nigeria, the Loud Urban Choir is redefining choral music.</desc>
+  </programme><programme channel="DW.English.de" start="20251116220000 +0500" stop="20251116221500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116221500 +0500" stop="20251116223000 +0500">
+    <title>Sports Life</title>
+    <sub-title>One Chess Move Ahead: A Daughter's Fight for Her Father</sub-title>
+    <desc>Nievevska Torres, 14, is a World School Chess champion from Peru. As she rises through the ranks, her father battles cancer and draws strength from her success.</desc>
+  </programme><programme channel="DW.English.de" start="20251116223000 +0500" stop="20251116230000 +0500">
+    <title>Euromaxx - Lifestyle Europe</title>
+    <desc>Á magazine that offers international viewers absorbing insights into European culture and lifestyle, including architecture and adventure, cultural and culinary explorations, modern fashion and music, big names and major events.</desc>
+  </programme><programme channel="DW.English.de" start="20251116230000 +0500" stop="20251116231500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251116231500 +0500" stop="20251116233000 +0500">
+    <title>Shift</title>
+    <sub-title>How dangerous are TikTok &amp; Co. for democracy?</sub-title>
+    <desc>Online radicalisation is splitting whole societies. Many blame social media and AI algorithms. Are these platforms becoming a danger to democracy itself?</desc>
+  </programme><programme channel="DW.English.de" start="20251116233000 +0500" stop="20251117000000 +0500">
+    <title>REV</title>
+    <sub-title>Malta's Heritage on Wheels: The Fight to Save Its Buses</sub-title>
+    <desc>Malta's hand-painted buses, each one unique, once ferried locals and tourists alike. Now few remain, lovingly restored by specialist coachbuilders. We also ride with police on speed patrol and test the VinFast VF 6.</desc>
+  </programme><programme channel="DW.English.de" start="20251117000000 +0500" stop="20251117001500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117001500 +0500" stop="20251117010000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251117010000 +0500" stop="20251117011500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117011500 +0500" stop="20251117013000 +0500">
+    <title>Sports Life</title>
+    <sub-title>One Chess Move Ahead: A Daughter's Fight for Her Father</sub-title>
+    <desc>Nievevska Torres, 14, is a World School Chess champion from Peru. As she rises through the ranks, her father battles cancer and draws strength from her success.</desc>
+  </programme><programme channel="DW.English.de" start="20251117013000 +0500" stop="20251117020000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117020000 +0500" stop="20251117021500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117021500 +0500" stop="20251117023000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117023000 +0500" stop="20251117030000 +0500">
+    <title>Tomorrow Today</title>
+    <sub-title>Mosquitos and climate change - research into peatlands</sub-title>
+    <desc>This time it is all about mosquitos! We travel to restored peatlands in Germany, where researchers are studying populations of different species, and look behind the scenes in labs studying the insects.</desc>
+  </programme><programme channel="DW.English.de" start="20251117030000 +0500" stop="20251117030200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117030200 +0500" stop="20251117033000 +0500">
+    <title>Afrimaxx</title>
+    <sub-title>On Being Bold, Proud And African</sub-title>
+    <desc>Celebrating bold African artistry. From optical illusions with host Meling Balloo in Mauritius to coffee culture with Esther Atieno in Kenya. In Nigeria, the Loud Urban Choir is redefining choral music.</desc>
+  </programme><programme channel="DW.English.de" start="20251117033000 +0500" stop="20251117040000 +0500">
+    <title>Under the Baobab</title>
+    <sub-title>Is Zimbabwe Under Political Siege?</sub-title>
+    <desc>Eight years after Mugabe's fall, Mnangagwa's Zimbabwe is haunted by repression, fear, and division. Is the opposition failing, or is the ruling party too ruthless to be challenged?</desc>
+  </programme><programme channel="DW.English.de" start="20251117040000 +0500" stop="20251117041500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117041500 +0500" stop="20251117043000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117043000 +0500" stop="20251117050000 +0500">
+    <title>REV</title>
+    <sub-title>Malta's Heritage on Wheels: The Fight to Save Its Buses</sub-title>
+    <desc>Malta's hand-painted buses, each one unique, once ferried locals and tourists alike. Now few remain, lovingly restored by specialist coachbuilders. We also ride with police on speed patrol and test the VinFast VF 6.</desc>
+  </programme><programme channel="DW.English.de" start="20251117050000 +0500" stop="20251117050200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117050200 +0500" stop="20251117053000 +0500">
+    <title>Euromaxx - Lifestyle Europe</title>
+    <desc>Á magazine that offers international viewers absorbing insights into European culture and lifestyle, including architecture and adventure, cultural and culinary explorations, modern fashion and music, big names and major events.</desc>
+  </programme><programme channel="DW.English.de" start="20251117053000 +0500" stop="20251117060000 +0500">
+    <title>Global Us</title>
+    <desc>A look at the biggest issues in the world today, including how people are living with opportunity and the ever-growing risks of globalisation.</desc>
+  </programme><programme channel="DW.English.de" start="20251117060000 +0500" stop="20251117061500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117061500 +0500" stop="20251117064500 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251117064500 +0500" stop="20251117070000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117070000 +0500" stop="20251117070200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117070200 +0500" stop="20251117073000 +0500">
+    <title>Eco India</title>
+    <sub-title>Enhanced Farming for Better Food Security and Carbon Capture</sub-title>
+    <desc>Can rock weathering help to trap carbon and boost harvests in India? Plus: Europe's rare earths, water ATMs and recycled banana fibres.</desc>
+  </programme><programme channel="DW.English.de" start="20251117073000 +0500" stop="20251117080000 +0500">
+    <title>In Good Shape</title>
+    <sub-title>Do methylene blue, vaping and other health hacks work - or harm?</sub-title>
+    <desc>Medical professionals talk about developments in the fields of nutrition, medicine and fitness and provide their expert opinions, debunking health myths and offering diet tips.</desc>
+  </programme><programme channel="DW.English.de" start="20251117080000 +0500" stop="20251117081500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117081500 +0500" stop="20251117083000 +0500">
+    <title>Sports Life</title>
+    <sub-title>One Chess Move Ahead: A Daughter's Fight for Her Father</sub-title>
+    <desc>Nievevska Torres, 14, is a World School Chess champion from Peru. As she rises through the ranks, her father battles cancer and draws strength from her success.</desc>
+  </programme><programme channel="DW.English.de" start="20251117083000 +0500" stop="20251117090000 +0500">
+    <title>Euromaxx - Lifestyle Europe</title>
+    <desc>Á magazine that offers international viewers absorbing insights into European culture and lifestyle, including architecture and adventure, cultural and culinary explorations, modern fashion and music, big names and major events.</desc>
+  </programme><programme channel="DW.English.de" start="20251117090000 +0500" stop="20251117091500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117091500 +0500" stop="20251117094500 +0500">
+    <title>Global Us</title>
+    <desc>A look at the biggest issues in the world today, including how people are living with opportunity and the ever-growing risks of globalisation.</desc>
+  </programme><programme channel="DW.English.de" start="20251117094500 +0500" stop="20251117100000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117100000 +0500" stop="20251117100200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117100200 +0500" stop="20251117103000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251117103000 +0500" stop="20251117110000 +0500">
+    <title>Tomorrow Today</title>
+    <sub-title>Mosquitos and climate change - research into peatlands</sub-title>
+    <desc>This time it is all about mosquitos! We travel to restored peatlands in Germany, where researchers are studying populations of different species, and look behind the scenes in labs studying the insects.</desc>
+  </programme><programme channel="DW.English.de" start="20251117110000 +0500" stop="20251117111500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117111500 +0500" stop="20251117113000 +0500">
+    <title>Shift</title>
+    <sub-title>How dangerous are TikTok &amp; Co. for democracy?</sub-title>
+    <desc>Online radicalisation is splitting whole societies. Many blame social media and AI algorithms. Are these platforms becoming a danger to democracy itself?</desc>
+  </programme><programme channel="DW.English.de" start="20251117113000 +0500" stop="20251117120000 +0500">
+    <title>Eco Africa</title>
+    <sub-title>Driving Change by Exposing Environmental Problems</sub-title>
+    <desc>A new generation of environmental journalists is making a difference in Ghana. Also: saving Uganda's gorillas and endangered seabirds in South Africa and Norway.</desc>
+  </programme><programme channel="DW.English.de" start="20251117120000 +0500" stop="20251117123000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117123000 +0500" stop="20251117130000 +0500">
+    <title>Under the Baobab</title>
+    <sub-title>Is Zimbabwe Under Political Siege?</sub-title>
+    <desc>Eight years after Mugabe's fall, Mnangagwa's Zimbabwe is haunted by repression, fear, and division. Is the opposition failing, or is the ruling party too ruthless to be challenged?</desc>
+  </programme><programme channel="DW.English.de" start="20251117130000 +0500" stop="20251117133000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117133000 +0500" stop="20251117134500 +0500">
+    <title>Shift</title>
+    <sub-title>How dangerous are TikTok &amp; Co. for democracy?</sub-title>
+    <desc>Online radicalisation is splitting whole societies. Many blame social media and AI algorithms. Are these platforms becoming a danger to democracy itself?</desc>
+  </programme><programme channel="DW.English.de" start="20251117134500 +0500" stop="20251117140000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117140000 +0500" stop="20251117141500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117141500 +0500" stop="20251117150000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251117150000 +0500" stop="20251117153000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117153000 +0500" stop="20251117160000 +0500">
+    <title>Eco Africa</title>
+    <sub-title>Driving Change by Exposing Environmental Problems</sub-title>
+    <desc>A new generation of environmental journalists is making a difference in Ghana. Also: saving Uganda's gorillas and endangered seabirds in South Africa and Norway.</desc>
+  </programme><programme channel="DW.English.de" start="20251117160000 +0500" stop="20251117163000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117163000 +0500" stop="20251117170000 +0500">
+    <title>Global Us</title>
+    <desc>A look at the biggest issues in the world today, including how people are living with opportunity and the ever-growing risks of globalisation.</desc>
+  </programme><programme channel="DW.English.de" start="20251117170000 +0500" stop="20251117171500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117171500 +0500" stop="20251117180000 +0500">
+    <title>DocFilm</title>
+    <sub-title>The Third Reich In The Dock - The First Nuremburg Trial, Part 1</sub-title>
+    <desc>The Nuremberg trials started 80 years ago and marked a milestone in the establishment of international law. The images of high-ranking Nazis in the dock are seared into our collective memory.</desc>
+  </programme><programme channel="DW.English.de" start="20251117180000 +0500" stop="20251117181500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117181500 +0500" stop="20251117183000 +0500">
+    <title>The Dip</title>
+    <sub-title>Business Podcast</sub-title>
+    <desc>Threats of so called de-dollarization have been bubbling up for years. Whether its Trump's tariffs, the US's aggressive sanctions regime or monetary policy -- all have b....</desc>
+  </programme><programme channel="DW.English.de" start="20251117183000 +0500" stop="20251117190000 +0500">
+    <title>The 77 Percent</title>
+    <sub-title>Long Street Debate: South Africa USAID Pullback</sub-title>
+    <desc>Could Africa's greatest opportunity come from a funding crisis? As USAID pulls back, the stage is set for a high-stakes debate at the Human Rights Festival. Young minds discuss whether the continent will become less dependent on American aid funding.</desc>
+  </programme><programme channel="DW.English.de" start="20251117190000 +0500" stop="20251117193000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117193000 +0500" stop="20251117200000 +0500">
+    <title>Tomorrow Today</title>
+    <sub-title>Mosquitos and climate change - research into peatlands</sub-title>
+    <desc>This time it is all about mosquitos! We travel to restored peatlands in Germany, where researchers are studying populations of different species, and look behind the scenes in labs studying the insects.</desc>
+  </programme><programme channel="DW.English.de" start="20251117200000 +0500" stop="20251117203000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117203000 +0500" stop="20251117210000 +0500">
+    <title>Global Us</title>
+    <desc>A look at the biggest issues in the world today, including how people are living with opportunity and the ever-growing risks of globalisation.</desc>
+  </programme><programme channel="DW.English.de" start="20251117210000 +0500" stop="20251117211500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117211500 +0500" stop="20251117220000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251117220000 +0500" stop="20251117221500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117221500 +0500" stop="20251117223000 +0500">
+    <title>The Dip</title>
+    <sub-title>Business Podcast</sub-title>
+    <desc>Threats of so called de-dollarization have been bubbling up for years. Whether its Trump's tariffs, the US's aggressive sanctions regime or monetary policy -- all have b....</desc>
+  </programme><programme channel="DW.English.de" start="20251117223000 +0500" stop="20251117230000 +0500">
+    <title>Arts Unveiled</title>
+    <sub-title>Of Old and New Nazis</sub-title>
+    <desc>In 1961, Hannah Arendt attended the trial of Adolf Eichmann, Nazi bureaucrat of the Holocaust and saw in him the banality of evil, and a new novel asks how right-wing hatred arises.</desc>
+  </programme><programme channel="DW.English.de" start="20251117230000 +0500" stop="20251117233000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251117233000 +0500" stop="20251118000000 +0500">
+    <title>Close Up</title>
+    <sub-title>The Current Affairs Documentary</sub-title>
+    <desc>In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118000000 +0500" stop="20251118000200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118000200 +0500" stop="20251118003000 +0500">
+    <title>Afrimaxx</title>
+    <sub-title>On Being Bold, Proud And African</sub-title>
+    <desc>Celebrating bold African artistry. From optical illusions with host Meling Balloo in Mauritius to coffee culture with Esther Atieno in Kenya. In Nigeria, the Loud Urban Choir is redefining choral music.</desc>
+  </programme><programme channel="DW.English.de" start="20251118003000 +0500" stop="20251118010000 +0500">
+    <title>Under the Baobab</title>
+    <sub-title>Is Zimbabwe Under Political Siege?</sub-title>
+    <desc>Eight years after Mugabe's fall, Mnangagwa's Zimbabwe is haunted by repression, fear, and division. Is the opposition failing, or is the ruling party too ruthless to be challenged?</desc>
+  </programme><programme channel="DW.English.de" start="20251118010000 +0500" stop="20251118013000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118013000 +0500" stop="20251118020000 +0500">
+    <title>The Day - News in Review</title>
+    <desc>Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements.</desc>
+  </programme><programme channel="DW.English.de" start="20251118020000 +0500" stop="20251118020200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118020200 +0500" stop="20251118021500 +0500">
+    <title>The Dip</title>
+    <sub-title>Business Podcast</sub-title>
+    <desc>Threats of so called de-dollarization have been bubbling up for years. Whether its Trump's tariffs, the US's aggressive sanctions regime or monetary policy -- all have b....</desc>
+  </programme><programme channel="DW.English.de" start="20251118021500 +0500" stop="20251118030000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251118030000 +0500" stop="20251118030200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118030200 +0500" stop="20251118033000 +0500">
+    <title>The Day - News in Review</title>
+    <desc>Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements.</desc>
+  </programme><programme channel="DW.English.de" start="20251118033000 +0500" stop="20251118040000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251118040000 +0500" stop="20251118041500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118041500 +0500" stop="20251118043000 +0500">
+    <title>The Dip</title>
+    <sub-title>Business Podcast</sub-title>
+    <desc>Threats of so called de-dollarization have been bubbling up for years. Whether its Trump's tariffs, the US's aggressive sanctions regime or monetary policy -- all have b....</desc>
+  </programme><programme channel="DW.English.de" start="20251118043000 +0500" stop="20251118050000 +0500">
+    <title>Close Up</title>
+    <sub-title>The Current Affairs Documentary</sub-title>
+    <desc>In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118050000 +0500" stop="20251118050200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118050200 +0500" stop="20251118053000 +0500">
+    <title>The Day - News in Review</title>
+    <desc>Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements.</desc>
+  </programme><programme channel="DW.English.de" start="20251118053000 +0500" stop="20251118060000 +0500">
+    <title>Eco Africa</title>
+    <sub-title>Driving Change by Exposing Environmental Problems</sub-title>
+    <desc>A new generation of environmental journalists is making a difference in Ghana. Also: saving Uganda's gorillas and endangered seabirds in South Africa and Norway.</desc>
+  </programme><programme channel="DW.English.de" start="20251118060000 +0500" stop="20251118061500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118061500 +0500" stop="20251118070000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251118070000 +0500" stop="20251118070200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118070200 +0500" stop="20251118073000 +0500">
+    <title>The Day - News in Review</title>
+    <desc>Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements.</desc>
+  </programme><programme channel="DW.English.de" start="20251118073000 +0500" stop="20251118080000 +0500">
+    <title>REV</title>
+    <sub-title>Malta's Heritage on Wheels: The Fight to Save Its Buses</sub-title>
+    <desc>Malta's hand-painted buses, each one unique, once ferried locals and tourists alike. Now few remain, lovingly restored by specialist coachbuilders. We also ride with police on speed patrol and test the VinFast VF 6.</desc>
+  </programme><programme channel="DW.English.de" start="20251118080000 +0500" stop="20251118081500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118081500 +0500" stop="20251118083000 +0500">
+    <title>The Dip</title>
+    <sub-title>Business Podcast</sub-title>
+    <desc>Threats of so called de-dollarization have been bubbling up for years. Whether its Trump's tariffs, the US's aggressive sanctions regime or monetary policy -- all have b....</desc>
+  </programme><programme channel="DW.English.de" start="20251118083000 +0500" stop="20251118090000 +0500">
+    <title>Close Up</title>
+    <sub-title>The Current Affairs Documentary</sub-title>
+    <desc>In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118090000 +0500" stop="20251118091500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118091500 +0500" stop="20251118100000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251118100000 +0500" stop="20251118100200 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118100200 +0500" stop="20251118103000 +0500">
+    <title>The Day - News in Review</title>
+    <desc>Local and global news broadcast from Germany. Including current affairs, weather, sports, international events, political news, entertainment, environmental and technological advancements.</desc>
+  </programme><programme channel="DW.English.de" start="20251118103000 +0500" stop="20251118110000 +0500">
+    <title>Eco India</title>
+    <sub-title>Enhanced Farming for Better Food Security and Carbon Capture</sub-title>
+    <desc>Can rock weathering help to trap carbon and boost harvests in India? Plus: Europe's rare earths, water ATMs and recycled banana fibres.</desc>
+  </programme><programme channel="DW.English.de" start="20251118110000 +0500" stop="20251118111500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118111500 +0500" stop="20251118113000 +0500">
+    <title>The Dip</title>
+    <sub-title>Business Podcast</sub-title>
+    <desc>Threats of so called de-dollarization have been bubbling up for years. Whether its Trump's tariffs, the US's aggressive sanctions regime or monetary policy -- all have b....</desc>
+  </programme><programme channel="DW.English.de" start="20251118113000 +0500" stop="20251118120000 +0500">
+    <title>Arts Unveiled</title>
+    <sub-title>Of Old and New Nazis</sub-title>
+    <desc>In 1961, Hannah Arendt attended the trial of Adolf Eichmann, Nazi bureaucrat of the Holocaust and saw in him the banality of evil, and a new novel asks how right-wing hatred arises.</desc>
+  </programme><programme channel="DW.English.de" start="20251118120000 +0500" stop="20251118123000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118123000 +0500" stop="20251118130000 +0500">
+    <title>DocFilm</title>
+    <desc>Presents fascinating stories on different topics from diverse parts of the world, highlighting their key aspects and characteristics.</desc>
+  </programme><programme channel="DW.English.de" start="20251118130000 +0500" stop="20251118133000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118133000 +0500" stop="20251118140000 +0500">
+    <title>Eco Africa</title>
+    <sub-title>Driving Change by Exposing Environmental Problems</sub-title>
+    <desc>A new generation of environmental journalists is making a difference in Ghana. Also: saving Uganda's gorillas and endangered seabirds in South Africa and Norway.</desc>
+  </programme><programme channel="DW.English.de" start="20251118140000 +0500" stop="20251118141500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118141500 +0500" stop="20251118144500 +0500">
+    <title>Close Up</title>
+    <sub-title>The Current Affairs Documentary</sub-title>
+    <desc>In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118144500 +0500" stop="20251118150000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118150000 +0500" stop="20251118153000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118153000 +0500" stop="20251118160000 +0500">
+    <title>Tomorrow Today</title>
+    <sub-title>Mosquitos and climate change - research into peatlands</sub-title>
+    <desc>This time it is all about mosquitos! We travel to restored peatlands in Germany, where researchers are studying populations of different species, and look behind the scenes in labs studying the insects.</desc>
+  </programme><programme channel="DW.English.de" start="20251118160000 +0500" stop="20251118163000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118163000 +0500" stop="20251118170000 +0500">
+    <title>In Good Shape</title>
+    <sub-title>Do methylene blue, vaping and other health hacks work - or harm?</sub-title>
+    <desc>Medical professionals talk about developments in the fields of nutrition, medicine and fitness and provide their expert opinions, debunking health myths and offering diet tips.</desc>
+  </programme><programme channel="DW.English.de" start="20251118170000 +0500" stop="20251118171500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118171500 +0500" stop="20251118174500 +0500">
+    <title>Close Up</title>
+    <sub-title>The Current Affairs Documentary</sub-title>
+    <desc>In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118174500 +0500" stop="20251118180000 +0500">
+    <title>Shift</title>
+    <sub-title>How dangerous are TikTok &amp; Co. for democracy?</sub-title>
+    <desc>Online radicalisation is splitting whole societies. Many blame social media and AI algorithms. Are these platforms becoming a danger to democracy itself?</desc>
+  </programme><programme channel="DW.English.de" start="20251118180000 +0500" stop="20251118181500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118181500 +0500" stop="20251118183000 +0500">
+    <title>Planet A</title>
+    <sub-title>The real reason we can't seem to ban plastic</sub-title>
+    <desc>A ban on plastics seems like an obvious measure to avoid waste. But do the EU-wide bans deliver on their promises?</desc>
+  </programme><programme channel="DW.English.de" start="20251118183000 +0500" stop="20251118190000 +0500">
+    <title>Eco India</title>
+    <sub-title>Enhanced Farming for Better Food Security and Carbon Capture</sub-title>
+    <desc>Can rock weathering help to trap carbon and boost harvests in India? Plus: Europe's rare earths, water ATMs and recycled banana fibres.</desc>
+  </programme><programme channel="DW.English.de" start="20251118190000 +0500" stop="20251118193000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118193000 +0500" stop="20251118200000 +0500">
+    <title>Global Us</title>
+    <desc>A look at the biggest issues in the world today, including how people are living with opportunity and the ever-growing risks of globalisation.</desc>
+  </programme><programme channel="DW.English.de" start="20251118200000 +0500" stop="20251118203000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118203000 +0500" stop="20251118210000 +0500">
+    <title>Eco Africa</title>
+    <sub-title>Driving Change by Exposing Environmental Problems</sub-title>
+    <desc>A new generation of environmental journalists is making a difference in Ghana. Also: saving Uganda's gorillas and endangered seabirds in South Africa and Norway.</desc>
+  </programme><programme channel="DW.English.de" start="20251118210000 +0500" stop="20251118211500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118211500 +0500" stop="20251118214500 +0500">
+    <title>Close Up</title>
+    <sub-title>The Current Affairs Documentary</sub-title>
+    <desc>In-depth analysis and reporting on topical political issues and newsworthy events that are happening all over the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118214500 +0500" stop="20251118220000 +0500">
+    <title>Reporter - On Location</title>
+    <desc>Cameras at the ready, reporters present in-depth portraits and stories from across the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118220000 +0500" stop="20251118221500 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118221500 +0500" stop="20251118223000 +0500">
+    <title>Planet A</title>
+    <sub-title>The real reason we can't seem to ban plastic</sub-title>
+    <desc>A ban on plastics seems like an obvious measure to avoid waste. But do the EU-wide bans deliver on their promises?</desc>
+  </programme><programme channel="DW.English.de" start="20251118223000 +0500" stop="20251118230000 +0500">
+    <title>REV</title>
+    <sub-title>Malta's Heritage on Wheels: The Fight to Save Its Buses</sub-title>
+    <desc>Malta's hand-painted buses, each one unique, once ferried locals and tourists alike. Now few remain, lovingly restored by specialist coachbuilders. We also ride with police on speed patrol and test the VinFast VF 6.</desc>
+  </programme><programme channel="DW.English.de" start="20251118230000 +0500" stop="20251118233000 +0500">
+    <title>DW News</title>
+    <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
+  </programme><programme channel="DW.English.de" start="20251118233000 +0500" stop="20251119000000 +0500">
+    <title>Eco Africa</title>
+    <sub-title>Driving Change by Exposing Environmental Problems</sub-title>
+    <desc>A new generation of environmental journalists is making a difference in Ghana. Also: saving Uganda's gorillas and endangered seabirds in South Africa and Norway.</desc>
+  </programme>
+</tv>

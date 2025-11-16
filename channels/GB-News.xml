@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="GB.News.uk">
+    <display-name>GB News</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/GB-News.png" />
+  </channel><programme channel="GB.News.uk" start="20251116010000 +0500" stop="20251116020000 +0500">
+    <title>The Saturday Five Extra</title>
+    <desc>Join our provocative panel to discuss and debate the spikiest stories and craziest controversies of the week.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116020000 +0500" stop="20251116040000 +0500">
+    <title>Alex Armstrong Tonight</title>
+    <desc>Join Alex for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Alex's fresh take on every story.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116040000 +0500" stop="20251116050000 +0500">
+    <title>Alex Armstrong Tonight Late Edition</title>
+    <desc>Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Alex Armstrong.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116050000 +0500" stop="20251116070000 +0500">
+    <title>The Late Show Live</title>
+    <desc>Live from Washington DC, Bev Turner and Ben Leo bring you the latest from the US and what it means for Britain.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116070000 +0500" stop="20251116080000 +0500">
+    <title>The Saturday Five Extra</title>
+    <desc>Join our provocative panel to discuss and debate the spikiest stories and craziest controversies of the week.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116080000 +0500" stop="20251116100000 +0500">
+    <title>Alex Armstrong Tonight</title>
+    <desc>Join Alex for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Alex's fresh take on every story.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116100000 +0500" stop="20251116110000 +0500">
+    <title>Alex Armstrong Tonight Late Edition</title>
+    <desc>Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Alex Armstrong.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116110000 +0500" stop="20251116143000 +0500">
+    <title>Breakfast with Stephen and Anne</title>
+    <desc>It's Stephen and Anne here. Join us for the weekend breakfast show Britain is turning to. News from around our great country and the world is live here on GB News Breakfast.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116143000 +0500" stop="20251116160000 +0500">
+    <title>The Camilla Tominey Show</title>
+    <desc>Join Camilla Tominey for a Sunday morning politics show with personality, live from Westminster.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116160000 +0500" stop="20251116180000 +0500">
+    <title>Sunday with Michael Portillo</title>
+    <desc>Join Michael Portillo and guests for a relaxed look at the world of politics, culture and the arts.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116180000 +0500" stop="20251116200000 +0500">
+    <title>The Weekend</title>
+    <desc>A lively look at all the latest live and breaking news for the weekend from around the UK with our network of GB News reporters, plus views and debate from a wide range of perspectives.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116200000 +0500" stop="20251116230000 +0500">
+    <title>Nana Akua</title>
+    <desc>Join Nana Akua for a fun and feisty romp through the news. She'll be getting the inside scoop on the stories that matter to you and she'll be taking on the big debates of the day.</desc>
+  </programme><programme channel="GB.News.uk" start="20251116230000 +0500" stop="20251117000000 +0500">
+    <title>The Camilla Tominey Show Highlights</title>
+    <desc>Highlights this morning. Join Camilla Tominey for a Sunday morning politics show with personality, live from Westminster.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117000000 +0500" stop="20251117020000 +0500">
+    <title>Free Speech Nation</title>
+    <desc>Where journalism and comedy meet - round up of the most infuriating stories of the moment, including a comedy take on the week.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117020000 +0500" stop="20251117040000 +0500">
+    <title>Alex Armstrong Tonight</title>
+    <desc>Join Alex for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Alex's fresh take on every story.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117040000 +0500" stop="20251117050000 +0500">
+    <title>Alex Armstrong Tonight Late Edition</title>
+    <desc>Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Alex Armstrong.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117050000 +0500" stop="20251117070000 +0500">
+    <title>The Late Show Live</title>
+    <desc>Live from Washington DC, Bev Turner and Ben Leo bring you the latest from the US and what it means for Britain.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117070000 +0500" stop="20251117080000 +0500">
+    <title>The Camilla Tominey Show Highlights</title>
+    <desc>Highlights from this morning. Join Camilla Tominey for a Sunday morning politics show with personality, live from Westminster.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117080000 +0500" stop="20251117100000 +0500">
+    <title>Alex Armstrong Tonight</title>
+    <desc>Join Alex for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Alex's fresh take on every story.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117100000 +0500" stop="20251117110000 +0500">
+    <title>Alex Armstrong Tonight Late Edition</title>
+    <desc>Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Alex Armstrong.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117110000 +0500" stop="20251117143000 +0500">
+    <title>Breakfast with Eamonn and Ellie</title>
+    <desc>Join Eamonn Holmes &amp; Ellie Costello to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117143000 +0500" stop="20251117170000 +0500">
+    <title>Britain's Newsroom</title>
+    <desc>Andrew and Miriam present Monday to Thursday mornings. When the news happens, it happens here. GB News brings you the biggest stories and the answers you need from across the UK.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117170000 +0500" stop="20251117200000 +0500">
+    <title>Good Afternoon Britain</title>
+    <desc>Tackling the big stories from all angles and perspectives. Weekdays from midday, Tom Harwood and Nana Akua bring you the most compelling stories from across the United Kingdom.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117200000 +0500" stop="20251117230000 +0500">
+    <title>Martin Daubney</title>
+    <desc>Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.</desc>
+  </programme><programme channel="GB.News.uk" start="20251117230000 +0500" stop="20251118000000 +0500">
+    <title>Dewbs &amp; Co</title>
+    <desc>Plain-speaking, straight-talking - Michelle delivers her individual take on the day's news.</desc>
+  </programme><programme channel="GB.News.uk" start="20251118000000 +0500" stop="20251118010000 +0500">
+    <title>Farage</title>
+    <desc>Nigel Farage doesn't hold back in his GB News prime-time show. Hear his views and give your own in an hour of discussion and debate. Join Nigel as he takes on the big stories other media won't touch.</desc>
+  </programme><programme channel="GB.News.uk" start="20251118010000 +0500" stop="20251118020000 +0500">
+    <title>Jacob Rees-Mogg's State Of The Nation</title>
+    <desc>Join Jacob for his unique and unmissable take on the day's news.</desc>
+  </programme><programme channel="GB.News.uk" start="20251118020000 +0500" stop="20251118040000 +0500">
+    <title>Patrick Christys Tonight</title>
+    <desc>Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.</desc>
+  </programme><programme channel="GB.News.uk" start="20251118040000 +0500" stop="20251118050000 +0500">
+    <title>Patrick Christys Tonight Late Edition</title>
+    <desc>Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.</desc>
+  </programme>
+</tv>

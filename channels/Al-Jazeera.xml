@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Al.Jazeera.English.qt">
+    <display-name>Al Jazeera</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Al-Jazeera.png" />
+  </channel><programme channel="Al.Jazeera.English.qt" start="20251116000000 +0500" stop="20251116003000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116003000 +0500" stop="20251116010000 +0500">
+    <title>Talk to Al Jazeera</title>
+    <desc>Ep.443 Therese Kayikwamba Wagner: DRC foreign minister on M23, Rwanda's role and ceasefire talks, as civilians continue to pay the price of Congo's decades-long war.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116010000 +0500" stop="20251116013000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116013000 +0500" stop="20251116020000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1150 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116020000 +0500" stop="20251116030000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116030000 +0500" stop="20251116033000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116033000 +0500" stop="20251116040000 +0500">
+    <title>Echoes Of A Lost Gaza</title>
+    <desc>Faded Hopes: Documentary filmmaker Mariam Shahin looks back at how the blockade and successive conflicts have reduced the hopes and dreams of people in Gaza to rubble.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116040000 +0500" stop="20251116043000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116043000 +0500" stop="20251116050000 +0500">
+    <title>Risking it All</title>
+    <sub-title>Borneo</sub-title>
+    <desc>Loggers in Borneo struggle to transport giant wood logs on treacherous narrow forest trails and along dangerous rivers.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116050000 +0500" stop="20251116053000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116053000 +0500" stop="20251116060000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1150 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116060000 +0500" stop="20251116063000 +0500">
+    <title>The Bottom Line</title>
+    <sub-title>Ep</sub-title>
+    <desc>46 Former U.S. ambassador to Russia Michael McFaul on whether the notion of 'liberal democracy' - championed by the West for decades - is dead.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116063000 +0500" stop="20251116070000 +0500">
+    <title>earthrise: Systems Change</title>
+    <desc>Believing in Change: earthrise explores how the world's faiths are mobilising hearts as well as minds in mission to rebuild our broken relationship with the planet.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116070000 +0500" stop="20251116073000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116073000 +0500" stop="20251116080000 +0500">
+    <title>The Stream</title>
+    <sub-title>Ep</sub-title>
+    <desc>91 Palestine's Olive Season - Symbol of Steadfastness: Today on The Stream: We look at what this olive harvest really means for Palestinians and how it connects generations across the land.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116080000 +0500" stop="20251116083000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116083000 +0500" stop="20251116090000 +0500">
+    <title>Counting the Cost</title>
+    <sub-title>Ep</sub-title>
+    <desc>46 Should the U.S. government fund health insurance - or leave it to the market.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116090000 +0500" stop="20251116093000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116093000 +0500" stop="20251116100000 +0500">
+    <title>Talk to Al Jazeera</title>
+    <desc>Ep.443 Therese Kayikwamba Wagner: DRC foreign minister on M23, Rwanda's role and ceasefire talks, as civilians continue to pay the price of Congo's decades-long war.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116100000 +0500" stop="20251116103000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116103000 +0500" stop="20251116110000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1150 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116110000 +0500" stop="20251116113000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116113000 +0500" stop="20251116120000 +0500">
+    <title>Risking it All</title>
+    <sub-title>Borneo</sub-title>
+    <desc>Loggers in Borneo struggle to transport giant wood logs on treacherous narrow forest trails and along dangerous rivers.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116120000 +0500" stop="20251116130000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116130000 +0500" stop="20251116133000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116133000 +0500" stop="20251116140000 +0500">
+    <title>Echoes Of A Lost Gaza</title>
+    <desc>Faded Hopes: Documentary filmmaker Mariam Shahin looks back at how the blockade and successive conflicts have reduced the hopes and dreams of people in Gaza to rubble.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116140000 +0500" stop="20251116143000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116143000 +0500" stop="20251116150000 +0500">
+    <title>UpFront</title>
+    <sub-title>Ep</sub-title>
+    <desc>17 Marc Lamont Hill discusses the risks of Artificial Intelligence with the former Director for Machine Learning Ethics at Twitter Rumman Chowdhury.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116150000 +0500" stop="20251116160000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116160000 +0500" stop="20251116163000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116163000 +0500" stop="20251116170000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1150 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116170000 +0500" stop="20251116180000 +0500">
+    <title>Witness</title>
+    <desc>Holding Up The Sky: From the Brazilian Amazon, a tribal leader warns that illegal mining killing the forests will have dire consequences on the rest of the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116180000 +0500" stop="20251116190000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116190000 +0500" stop="20251116193000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116193000 +0500" stop="20251116200000 +0500">
+    <title>Talk to Al Jazeera</title>
+    <desc>Ep.443 Therese Kayikwamba Wagner: DRC foreign minister on M23, Rwanda's role and ceasefire talks, as civilians continue to pay the price of Congo's decades-long war.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116200000 +0500" stop="20251116210000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116210000 +0500" stop="20251116213000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116213000 +0500" stop="20251116220000 +0500">
+    <title>101 East</title>
+    <sub-title>China's Durian Craze</sub-title>
+    <desc>101 East investigates how China's craze for a spiky, pungent fruit, is fuelling profits and also environmental and land disputes in Southeast Asia.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116220000 +0500" stop="20251116223000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116223000 +0500" stop="20251116230000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1151 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251116230000 +0500" stop="20251117000000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117000000 +0500" stop="20251117003000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117003000 +0500" stop="20251117010000 +0500">
+    <title>The Listening Post</title>
+    <sub-title>Ep</sub-title>
+    <desc>42 Upheaval At The BBC: The BBC reels in the midst of one of its most serious crises - was it manufactured to push it to the brink? Plus, can anyone stop the onslaught of AI slop.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117010000 +0500" stop="20251117013000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117013000 +0500" stop="20251117020000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1151 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117020000 +0500" stop="20251117030000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117030000 +0500" stop="20251117033000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117033000 +0500" stop="20251117040000 +0500">
+    <title>The Big Picture</title>
+    <desc>Ep.01 The Mapuche and the Myth of Chile: As Chile struggles to agree a new constitution, The Big Picture examines whether old prejudices against indigenous people still hold the key to its future.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117040000 +0500" stop="20251117043000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117043000 +0500" stop="20251117050000 +0500">
+    <title>Fault Lines</title>
+    <sub-title>Ep</sub-title>
+    <desc>12 Bigger than Zohran: The rise of a young socialist to the New York mayor's office laid bare divisions within the Democratic Party and the powerful interest groups driving its agenda.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117050000 +0500" stop="20251117053000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117053000 +0500" stop="20251117060000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1151 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117060000 +0500" stop="20251117070000 +0500">
+    <title>Al Jazeera World</title>
+    <desc>The Price of Truth P2: Al Jazeera's journalists risk everything to report on the war from southern Gaza, even when bureau chief Wael al Dahdouh's son is killed in the line of duty.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117070000 +0500" stop="20251117073000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117073000 +0500" stop="20251117080000 +0500">
+    <title>UpFront</title>
+    <sub-title>Ep</sub-title>
+    <desc>17 Marc Lamont Hill discusses the risks of Artificial Intelligence with the former Director for Machine Learning Ethics at Twitter Rumman Chowdhury.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117080000 +0500" stop="20251117083000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117083000 +0500" stop="20251117090000 +0500">
+    <title>Echoes Of A Lost Gaza</title>
+    <desc>Faded Hopes: Documentary filmmaker Mariam Shahin looks back at how the blockade and successive conflicts have reduced the hopes and dreams of people in Gaza to rubble.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117090000 +0500" stop="20251117093000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117093000 +0500" stop="20251117100000 +0500">
+    <title>The Listening Post</title>
+    <sub-title>Ep</sub-title>
+    <desc>42 Upheaval At The BBC: The BBC reels in the midst of one of its most serious crises - was it manufactured to push it to the brink? Plus, can anyone stop the onslaught of AI slop.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117100000 +0500" stop="20251117103000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117103000 +0500" stop="20251117110000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1151 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117110000 +0500" stop="20251117113000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117113000 +0500" stop="20251117120000 +0500">
+    <title>Fault Lines</title>
+    <sub-title>Ep</sub-title>
+    <desc>12 Bigger than Zohran: The rise of a young socialist to the New York mayor's office laid bare divisions within the Democratic Party and the powerful interest groups driving its agenda.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117120000 +0500" stop="20251117130000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117130000 +0500" stop="20251117133000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117133000 +0500" stop="20251117140000 +0500">
+    <title>The Big Picture</title>
+    <desc>Ep.01 The Mapuche and the Myth of Chile: As Chile struggles to agree a new constitution, The Big Picture examines whether old prejudices against indigenous people still hold the key to its future.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117140000 +0500" stop="20251117143000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117143000 +0500" stop="20251117150000 +0500">
+    <title>Talk to Al Jazeera</title>
+    <desc>Ep.443 Therese Kayikwamba Wagner: DRC foreign minister on M23, Rwanda's role and ceasefire talks, as civilians continue to pay the price of Congo's decades-long war.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117150000 +0500" stop="20251117160000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117160000 +0500" stop="20251117163000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117163000 +0500" stop="20251117170000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1151 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117170000 +0500" stop="20251117180000 +0500">
+    <title>A Reel War</title>
+    <desc>An Israeli filmmaker comes across a Palestinian film archive seized from the PLO in 1982 which raises serious questions about Palestinian heritage and identity.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117180000 +0500" stop="20251117190000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117190000 +0500" stop="20251117193000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117193000 +0500" stop="20251117200000 +0500">
+    <title>The Listening Post</title>
+    <sub-title>Ep</sub-title>
+    <desc>42 Upheaval At The BBC: The BBC reels in the midst of one of its most serious crises - was it manufactured to push it to the brink? Plus, can anyone stop the onslaught of AI slop.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117200000 +0500" stop="20251117210000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117210000 +0500" stop="20251117213000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117213000 +0500" stop="20251117220000 +0500">
+    <title>Counting the Cost</title>
+    <sub-title>Ep</sub-title>
+    <desc>46 Should the U.S. government fund health insurance - or leave it to the market.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117220000 +0500" stop="20251117223000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117223000 +0500" stop="20251117230000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1152 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251117230000 +0500" stop="20251118000000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251118000000 +0500" stop="20251118003000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251118003000 +0500" stop="20251118010000 +0500">
+    <title>The Stream</title>
+    <sub-title>Ep</sub-title>
+    <desc>92 Man vs Machine: Growing Anger Towards AI: Today on the Stream: Why many are increasingly pushing back against the omnipresence of AI.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251118010000 +0500" stop="20251118013000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251118013000 +0500" stop="20251118020000 +0500">
+    <title>Inside Story</title>
+    <desc>Ep.1152 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251118020000 +0500" stop="20251118030000 +0500">
+    <title>Newshour</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251118030000 +0500" stop="20251118033000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251118033000 +0500" stop="20251118040000 +0500">
+    <title>Witness</title>
+    <desc>Suicide In The Jungle: A young Indigenous Embera woman travels from the city to Colombia's jungle to confront a suicide epidemic in her community.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251118040000 +0500" stop="20251118043000 +0500">
+    <title>News Live</title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+  </programme><programme channel="Al.Jazeera.English.qt" start="20251118043000 +0500" stop="20251118050000 +0500">
+    <title>101 East</title>
+    <sub-title>China's Durian Craze</sub-title>
+    <desc>101 East investigates how China's craze for a spiky, pungent fruit, is fuelling profits and also environmental and land disputes in Southeast Asia.</desc>
+  </programme>
+</tv>

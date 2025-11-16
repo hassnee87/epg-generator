@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Documentary.Plus.ca">
+    <display-name>Documentary+</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Documentary-Plus.png" />
+  </channel><programme channel="Documentary.Plus.ca" start="20251116025703 +0500" stop="20251116045419 +0500">
+    <title>Rise: The Siya Kolisi Story</title>
+    <desc>The story of South Africa's first black rugby captain who united a nation with a historic World Cup win.</desc>
+  </programme><programme channel="Documentary.Plus.ca" start="20251116045419 +0500" stop="20251116064133 +0500">
+    <title>Still Working 9 to 5</title>
+    <desc>Still Working 9 to 5 revisits the hit film and the fight for women's equality it helped ignite.</desc>
+  </programme><programme channel="Documentary.Plus.ca" start="20251116064133 +0500" stop="20251116065937 +0500">
+    <title>Second Winds</title>
+    <desc>A film that reveals how a life-changing diagnosis can bring renewed clarity and purpose.</desc>
+  </programme><programme channel="Documentary.Plus.ca" start="20251116065937 +0500" stop="20251116075543 +0500">
+    <title>Hiroshima</title>
+    <desc>Hiroshima retold minute by minute with rare archives, historians, and the moment that changed history.</desc>
+  </programme><programme channel="Documentary.Plus.ca" start="20251116075543 +0500" stop="20251116084906 +0500">
+    <title>Chernobyl</title>
+    <desc>Chernobyl's Reactor 4 explodes, sparking chaos, panic, and the worst nuclear disaster in history.</desc>
+  </programme><programme channel="Documentary.Plus.ca" start="20251116084906 +0500" stop="20251116094259 +0500">
+    <title>JFK Assassination</title>
+    <desc>A deep dive into JFK's assassination, uncovering motives, key players, and lingering questions.</desc>
+  </programme>
+</tv>

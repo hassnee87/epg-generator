@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Zee.News.in">
+    <display-name>Zee News</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Zee-News.png" />
+  </channel><programme channel="Zee.News.in" start="20251116000000 +0500" stop="20251116003000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116003000 +0500" stop="20251116010000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116010000 +0500" stop="20251116013000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116013000 +0500" stop="20251116020000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116020000 +0500" stop="20251116023000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116023000 +0500" stop="20251116030000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116030000 +0500" stop="20251116033000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116033000 +0500" stop="20251116040000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116040000 +0500" stop="20251116043000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116043000 +0500" stop="20251116050000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116050000 +0500" stop="20251116053000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116053000 +0500" stop="20251116060000 +0500">
+    <title>Namaste Zee</title>
+    <desc>Presents up-to-date information on political, social, economic and sporting events from across the country.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116060000 +0500" stop="20251116063000 +0500">
+    <title>Namaste Zee</title>
+    <desc>Presents up-to-date information on political, social, economic and sporting events from across the country.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116063000 +0500" stop="20251116070000 +0500">
+    <title>Morning Zee</title>
+    <desc>Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116070000 +0500" stop="20251116073000 +0500">
+    <title>Morning Zee</title>
+    <desc>Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116073000 +0500" stop="20251116080000 +0500">
+    <title>Morning Zee</title>
+    <desc>Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116080000 +0500" stop="20251116083000 +0500">
+    <title>Morning Zee</title>
+    <desc>Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116083000 +0500" stop="20251116090000 +0500">
+    <title>9 Ki News</title>
+    <desc>9 Ki News</desc>
+  </programme><programme channel="Zee.News.in" start="20251116090000 +0500" stop="20251116093000 +0500">
+    <title>9 Ki News</title>
+    <desc>9 Ki News</desc>
+  </programme><programme channel="Zee.News.in" start="20251116093000 +0500" stop="20251116100000 +0500">
+    <title>To the Point</title>
+    <desc>A panel of experts debate and analyse recent issues and trends that have big effects on Indian society.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116100000 +0500" stop="20251116103000 +0500">
+    <title>To the Point</title>
+    <desc>A panel of experts debate and analyse recent issues and trends that have big effects on Indian society.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116103000 +0500" stop="20251116110000 +0500">
+    <title>Battleground</title>
+    <desc>Presents an in-depth analysis of voting patterns and key influences that shape government formations in India.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116110000 +0500" stop="20251116113000 +0500">
+    <title>Damdar 100</title>
+    <desc>The host presents the latest headlines and updates on 100 most important events from various regions on topics pertaining to economy, politics, sports and more.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116113000 +0500" stop="20251116120000 +0500">
+    <title>12 Ka Agenda</title>
+    <desc>Presents the top news stories from across the world with in-depth analysis of important events and updates.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116120000 +0500" stop="20251116123000 +0500">
+    <title>Zee Special</title>
+    <desc>Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116123000 +0500" stop="20251116130000 +0500">
+    <title>Ek Se Badhkar Ek</title>
+    <desc>After finding out that a lawyer made a mistake in writing a will, the heir of a family must become a criminal to get his fortune.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116130000 +0500" stop="20251116133000 +0500">
+    <title>News Radar</title>
+    <desc>The host presents the latest news and updates on some of the most trending topics affecting the lives of the common people.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116133000 +0500" stop="20251116140000 +0500">
+    <title>2 Baje 2 Min 2 Khabar</title>
+    <desc>Presents the latest news updates on politics, social matters and the economy from India and around the world.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116140000 +0500" stop="20251116143000 +0500">
+    <title>Zee Special</title>
+    <desc>Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116143000 +0500" stop="20251116150000 +0500">
+    <title>Trishul</title>
+    <desc>Raj Kumar leaves Shanti for a wealthy bride. Years later, their secret son seeks vengeance for his mothers mistreatment.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116150000 +0500" stop="20251116153000 +0500">
+    <title>Zee Special</title>
+    <desc>Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116153000 +0500" stop="20251116160000 +0500">
+    <title>Fast N Facts</title>
+    <desc>Presents a comprehensive and detailed insight, elucidating on the latest news and development from across the region.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116160000 +0500" stop="20251116163000 +0500">
+    <title>Fast N Facts</title>
+    <desc>Presents a comprehensive and detailed insight, elucidating on the latest news and development from across the region.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116163000 +0500" stop="20251116170000 +0500">
+    <title>Taal Thok Ke</title>
+    <desc>Provides an in-depth analysis of the top stories, latest updates, and headlines of current events worldwide.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116170000 +0500" stop="20251116173000 +0500">
+    <title>Taal Thok Ke</title>
+    <desc>Provides an in-depth analysis of the top stories, latest updates, and headlines of current events worldwide.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116173000 +0500" stop="20251116180000 +0500">
+    <title>Rajneeti</title>
+    <desc>Rajneeti</desc>
+  </programme><programme channel="Zee.News.in" start="20251116180000 +0500" stop="20251116183000 +0500">
+    <title>Rajneeti</title>
+    <desc>Rajneeti</desc>
+  </programme><programme channel="Zee.News.in" start="20251116183000 +0500" stop="20251116190000 +0500">
+    <title>Baat Pate Ki</title>
+    <desc>A presentation of news updates on various topics and the latest developing stories from around the world.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116190000 +0500" stop="20251116193000 +0500">
+    <title>Baat Pate Ki</title>
+    <desc>A presentation of news updates on various topics and the latest developing stories from around the world.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116193000 +0500" stop="20251116200000 +0500">
+    <title>Deshhit</title>
+    <desc>The host presents the latest information about economics and politics from India and around the world.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116200000 +0500" stop="20251116203000 +0500">
+    <title>Deshhit</title>
+    <desc>The host presents the latest information about economics and politics from India and around the world.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116203000 +0500" stop="20251116210000 +0500">
+    <title>Daily News and Analysis</title>
+    <desc>In-depth analysis of all the latest news in politics, economics, social issues and current affairs around the world.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116210000 +0500" stop="20251116213000 +0500">
+    <title>Daily News and Analysis</title>
+    <desc>In-depth analysis of all the latest news in politics, economics, social issues and current affairs around the world.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116213000 +0500" stop="20251116220000 +0500">
+    <title>News Radar</title>
+    <desc>The host presents the latest news and updates on some of the most trending topics affecting the lives of the common people.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116220000 +0500" stop="20251116223000 +0500">
+    <title>Top 100</title>
+    <desc>The host collates and presents some of the most important news updates and developments from the country that matter to the people.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116223000 +0500" stop="20251116230000 +0500">
+    <title>Daily News and Analysis</title>
+    <desc>In-depth analysis of all the latest news in politics, economics, social issues and current affairs around the world.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116230000 +0500" stop="20251116233000 +0500">
+    <title>Daily News and Analysis</title>
+    <desc>In-depth analysis of all the latest news in politics, economics, social issues and current affairs around the world.</desc>
+  </programme><programme channel="Zee.News.in" start="20251116233000 +0500" stop="20251117000000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117000000 +0500" stop="20251117003000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117003000 +0500" stop="20251117010000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117010000 +0500" stop="20251117013000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117013000 +0500" stop="20251117020000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117020000 +0500" stop="20251117023000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117023000 +0500" stop="20251117030000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117030000 +0500" stop="20251117033000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117033000 +0500" stop="20251117040000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117040000 +0500" stop="20251117043000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117043000 +0500" stop="20251117050000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117050000 +0500" stop="20251117053000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117053000 +0500" stop="20251117060000 +0500">
+    <title>Namaste Zee</title>
+    <desc>Presents up-to-date information on political, social, economic and sporting events from across the country.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117060000 +0500" stop="20251117063000 +0500">
+    <title>Namaste Zee</title>
+    <desc>Presents up-to-date information on political, social, economic and sporting events from across the country.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117063000 +0500" stop="20251117070000 +0500">
+    <title>Namaste Zee</title>
+    <desc>Presents up-to-date information on political, social, economic and sporting events from across the country.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117070000 +0500" stop="20251117073000 +0500">
+    <title>Morning Zee</title>
+    <desc>Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117073000 +0500" stop="20251117080000 +0500">
+    <title>Morning Zee</title>
+    <desc>Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117080000 +0500" stop="20251117083000 +0500">
+    <title>Morning Zee</title>
+    <desc>Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117083000 +0500" stop="20251117090000 +0500">
+    <title>9 Ki News</title>
+    <desc>9 Ki News</desc>
+  </programme><programme channel="Zee.News.in" start="20251117090000 +0500" stop="20251117093000 +0500">
+    <title>9 Ki News</title>
+    <desc>9 Ki News</desc>
+  </programme><programme channel="Zee.News.in" start="20251117093000 +0500" stop="20251117100000 +0500">
+    <title>To the Point</title>
+    <desc>A panel of experts debate and analyse recent issues and trends that have big effects on Indian society.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117100000 +0500" stop="20251117103000 +0500">
+    <title>Din Ki Baat</title>
+    <desc>Presents in-depth coverage of important national and global matters, with a focus on social, political, and economic aspects.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117103000 +0500" stop="20251117110000 +0500">
+    <title>News 11</title>
+    <desc>Presents news and current affairs from the United States and around the world, including the latest in politics, economics, social issues and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117110000 +0500" stop="20251117113000 +0500">
+    <title>News 50</title>
+    <desc>The host presents the top 50 news updates and developments pertaining to society, business, economics, sports and culture.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117113000 +0500" stop="20251117120000 +0500">
+    <title>News Bulletin</title>
+    <desc>The latest national and international news, with coverage of politics, world events, entertainment, sport, finance and weather.</desc>
+  </programme><programme channel="Zee.News.in" start="20251117120000 +0500" stop="20251117123000 +0500">
+    <title>Zee Special</title>
+    <desc>Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
+  </programme>
+</tv>

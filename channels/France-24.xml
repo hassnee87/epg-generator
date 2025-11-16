@@ -1,0 +1,700 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="France.24.fr">
+    <display-name>France 24</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/France-24.png" />
+  </channel><programme channel="France.24.fr" start="20251116000000 +0500" stop="20251116001500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116001500 +0500" stop="20251116002200 +0500">
+    <title>French Connections</title>
+    <desc>A quirky insiders guide to understanding France and the French from the sublime to the ridiculous.</desc>
+  </programme><programme channel="France.24.fr" start="20251116002200 +0500" stop="20251116003000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116003000 +0500" stop="20251116004500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116004500 +0500" stop="20251116010000 +0500">
+    <title>France In Focus</title>
+    <desc>France in Focus brings top stories and most essential reports on France its political and social life. Be the first to know about latest events in politics culture and economy.</desc>
+  </programme><programme channel="France.24.fr" start="20251116010000 +0500" stop="20251116011500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116011500 +0500" stop="20251116012100 +0500">
+    <title>Global Grid</title>
+    <desc>France 24s International Affairs Editors come on set to give you their take on world events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116012100 +0500" stop="20251116013000 +0500">
+    <title>Sports Sunday</title>
+    <desc>Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing.</desc>
+  </programme><programme channel="France.24.fr" start="20251116013000 +0500" stop="20251116014500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116014500 +0500" stop="20251116020000 +0500">
+    <title>A Week in France</title>
+    <desc>Follow coverage of events in Paris and across France Corsica and the French overseas territories. An insider look at French politics and culture.</desc>
+  </programme><programme channel="France.24.fr" start="20251116020000 +0500" stop="20251116021500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116021500 +0500" stop="20251116030000 +0500">
+    <title>Reporters</title>
+    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116030000 +0500" stop="20251116031500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116031500 +0500" stop="20251116033000 +0500">
+    <title>Sports Sunday</title>
+    <desc>Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing.</desc>
+  </programme><programme channel="France.24.fr" start="20251116033000 +0500" stop="20251116034500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116034500 +0500" stop="20251116040000 +0500">
+    <title>Arts24</title>
+    <desc>Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.</desc>
+  </programme><programme channel="France.24.fr" start="20251116040000 +0500" stop="20251116041500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116041500 +0500" stop="20251116042100 +0500">
+    <title>French Connections</title>
+    <desc>A quirky insiders guide to understanding France and the French from the sublime to the ridiculous.</desc>
+  </programme><programme channel="France.24.fr" start="20251116042100 +0500" stop="20251116043000 +0500">
+    <title>Fashion</title>
+    <desc>All the best of the Parisian catwalks and a look behind the scenes at the big names in Haute Couture.</desc>
+  </programme><programme channel="France.24.fr" start="20251116043000 +0500" stop="20251116044500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116044500 +0500" stop="20251116050000 +0500">
+    <title>Tete a tete</title>
+    <desc>An interview with a personality from the world of economics politics culture or diplomacy.</desc>
+  </programme><programme channel="France.24.fr" start="20251116050000 +0500" stop="20251116051500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116051500 +0500" stop="20251116052100 +0500">
+    <title>The Observers</title>
+    <desc>A show produced with photos videos and personal accounts from our Observers around the world _ all checked by our staff here in Paris. Saturday at 10.15 am Paris time.</desc>
+  </programme><programme channel="France.24.fr" start="20251116052100 +0500" stop="20251116053000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116053000 +0500" stop="20251116054500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116054500 +0500" stop="20251116060000 +0500">
+    <title>Arts24</title>
+    <desc>Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.</desc>
+  </programme><programme channel="France.24.fr" start="20251116060000 +0500" stop="20251116061200 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116061200 +0500" stop="20251116063000 +0500">
+    <title>The Paris of the Arts</title>
+    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts.</desc>
+  </programme><programme channel="France.24.fr" start="20251116063000 +0500" stop="20251116064200 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116064200 +0500" stop="20251116065400 +0500">
+    <title>Across Africa</title>
+    <desc>Across Africa is a weekly news program presenting latest news and stories up-to-date full coverage of politics social events from the African continent to the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116065400 +0500" stop="20251116070000 +0500">
+    <title>Short Cuts</title>
+    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116070000 +0500" stop="20251116071500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116071500 +0500" stop="20251116073000 +0500">
+    <title>People And Profit</title>
+    <desc>The business show that goes beyond the numbers and the corporate jargon! Stephen Carroll breaks down major business stories and looks at how they affect our lives.</desc>
+  </programme><programme channel="France.24.fr" start="20251116073000 +0500" stop="20251116074500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116074500 +0500" stop="20251116080000 +0500">
+    <title>The 51 Percent</title>
+    <desc>The 51 Percent is revolving around women and their role in the world and presents various stories of women with different backgrounds from all over the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116080000 +0500" stop="20251116081500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116081500 +0500" stop="20251116090000 +0500">
+    <title>Reporters</title>
+    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116090000 +0500" stop="20251116091500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116091500 +0500" stop="20251116093000 +0500">
+    <title>Access Asia</title>
+    <desc>Access Asia opens the diverse continent and presents the latest updates on the social events and political stories thorough analysis of the cutting-edge current affairs.</desc>
+  </programme><programme channel="France.24.fr" start="20251116093000 +0500" stop="20251116094500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116094500 +0500" stop="20251116100000 +0500">
+    <title>Arts24</title>
+    <desc>Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.</desc>
+  </programme><programme channel="France.24.fr" start="20251116100000 +0500" stop="20251116102000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116102000 +0500" stop="20251116103000 +0500">
+    <title>Sports Sunday</title>
+    <desc>Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing.</desc>
+  </programme><programme channel="France.24.fr" start="20251116103000 +0500" stop="20251116110000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116110000 +0500" stop="20251116111400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116111400 +0500" stop="20251116112100 +0500">
+    <title>French Connections</title>
+    <desc>A quirky insiders guide to understanding France and the French from the sublime to the ridiculous.</desc>
+  </programme><programme channel="France.24.fr" start="20251116112100 +0500" stop="20251116113000 +0500">
+    <title>The Observers</title>
+    <desc>A show produced with photos videos and personal accounts from our Observers around the world _ all checked by our staff here in Paris. Saturday at 10.15 am Paris time.</desc>
+  </programme><programme channel="France.24.fr" start="20251116113000 +0500" stop="20251116114400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116114400 +0500" stop="20251116115100 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251116115100 +0500" stop="20251116120000 +0500">
+    <title>Fashion</title>
+    <desc>All the best of the Parisian catwalks and a look behind the scenes at the big names in Haute Couture.</desc>
+  </programme><programme channel="France.24.fr" start="20251116120000 +0500" stop="20251116123000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116123000 +0500" stop="20251116130000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116130000 +0500" stop="20251116131500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116131500 +0500" stop="20251116133000 +0500">
+    <title>Guest of the day</title>
+    <desc>This is France 24 HD.</desc>
+  </programme><programme channel="France.24.fr" start="20251116133000 +0500" stop="20251116140000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116140000 +0500" stop="20251116141400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116141400 +0500" stop="20251116150000 +0500">
+    <title>Reporters</title>
+    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116150000 +0500" stop="20251116151400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116151400 +0500" stop="20251116153000 +0500">
+    <title>Talking Europe</title>
+    <desc>Politicians activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
+  </programme><programme channel="France.24.fr" start="20251116153000 +0500" stop="20251116154400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116154400 +0500" stop="20251116160000 +0500">
+    <title>Talking Europe</title>
+    <desc>Politicians activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
+  </programme><programme channel="France.24.fr" start="20251116160000 +0500" stop="20251116161400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116161400 +0500" stop="20251116163000 +0500">
+    <title>Arts24</title>
+    <desc>Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.</desc>
+  </programme><programme channel="France.24.fr" start="20251116163000 +0500" stop="20251116164400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116164400 +0500" stop="20251116165000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116165000 +0500" stop="20251116170000 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251116170000 +0500" stop="20251116171500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116171500 +0500" stop="20251116173000 +0500">
+    <title>Guest of the day</title>
+    <desc>This is France 24 HD.</desc>
+  </programme><programme channel="France.24.fr" start="20251116173000 +0500" stop="20251116174500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116174500 +0500" stop="20251116180000 +0500">
+    <title>People And Profit</title>
+    <desc>The business show that goes beyond the numbers and the corporate jargon! Stephen Carroll breaks down major business stories and looks at how they affect our lives.</desc>
+  </programme><programme channel="France.24.fr" start="20251116180000 +0500" stop="20251116181200 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116181200 +0500" stop="20251116183000 +0500">
+    <title>The Paris of the Arts</title>
+    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts.</desc>
+  </programme><programme channel="France.24.fr" start="20251116183000 +0500" stop="20251116184200 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116184200 +0500" stop="20251116190000 +0500">
+    <title>Tete a tete</title>
+    <desc>An interview with a personality from the world of economics politics culture or diplomacy.</desc>
+  </programme><programme channel="France.24.fr" start="20251116190000 +0500" stop="20251116190900 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116190900 +0500" stop="20251116192200 +0500">
+    <title>Across Africa</title>
+    <desc>Across Africa is a weekly news program presenting latest news and stories up-to-date full coverage of politics social events from the African continent to the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116192200 +0500" stop="20251116193000 +0500">
+    <title>Tech 24</title>
+    <desc>The Internet and new technologies are at the heart of the current events from politics and economy through cultural life and digital revolution.</desc>
+  </programme><programme channel="France.24.fr" start="20251116193000 +0500" stop="20251116193900 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116193900 +0500" stop="20251116195200 +0500">
+    <title>Access Asia</title>
+    <desc>Access Asia opens the diverse continent and presents the latest updates on the social events and political stories thorough analysis of the cutting-edge current affairs.</desc>
+  </programme><programme channel="France.24.fr" start="20251116195200 +0500" stop="20251116200000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116200000 +0500" stop="20251116201400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116201400 +0500" stop="20251116202100 +0500">
+    <title>The Observers</title>
+    <desc>A show produced with photos videos and personal accounts from our Observers around the world _ all checked by our staff here in Paris. Saturday at 10.15 am Paris time.</desc>
+  </programme><programme channel="France.24.fr" start="20251116202100 +0500" stop="20251116203000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251116203000 +0500" stop="20251116204400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116204400 +0500" stop="20251116210000 +0500">
+    <title>Arts24</title>
+    <desc>Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.</desc>
+  </programme><programme channel="France.24.fr" start="20251116210000 +0500" stop="20251116211400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116211400 +0500" stop="20251116213000 +0500">
+    <title>Talking Europe</title>
+    <desc>Politicians activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
+  </programme><programme channel="France.24.fr" start="20251116213000 +0500" stop="20251116214400 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116214400 +0500" stop="20251116220000 +0500">
+    <title>Talking Europe</title>
+    <desc>Politicians activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
+  </programme><programme channel="France.24.fr" start="20251116220000 +0500" stop="20251116221500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116221500 +0500" stop="20251116223000 +0500">
+    <title>Top Story</title>
+    <desc>Take a look at the latest and most important top stories that are happening in France and around the globe.</desc>
+  </programme><programme channel="France.24.fr" start="20251116223000 +0500" stop="20251116224500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116224500 +0500" stop="20251116230000 +0500">
+    <title>Global Grid</title>
+    <desc>France 24s International Affairs Editors come on set to give you their take on world events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116230000 +0500" stop="20251116231300 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116231300 +0500" stop="20251116231500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116231500 +0500" stop="20251116233000 +0500">
+    <title>Tete a tete</title>
+    <desc>An interview with a personality from the world of economics politics culture or diplomacy.</desc>
+  </programme><programme channel="France.24.fr" start="20251116233000 +0500" stop="20251116234300 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116234300 +0500" stop="20251116234500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251116234500 +0500" stop="20251117000000 +0500">
+    <title>People And Profit</title>
+    <desc>The business show that goes beyond the numbers and the corporate jargon! Stephen Carroll breaks down major business stories and looks at how they affect our lives.</desc>
+  </programme><programme channel="France.24.fr" start="20251117000000 +0500" stop="20251117001500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117001500 +0500" stop="20251117003000 +0500">
+    <title>The 51 Percent</title>
+    <desc>The 51 Percent is revolving around women and their role in the world and presents various stories of women with different backgrounds from all over the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117003000 +0500" stop="20251117004500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117004500 +0500" stop="20251117010000 +0500">
+    <title>Access Asia</title>
+    <desc>Access Asia opens the diverse continent and presents the latest updates on the social events and political stories thorough analysis of the cutting-edge current affairs.</desc>
+  </programme><programme channel="France.24.fr" start="20251117010000 +0500" stop="20251117011500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117011500 +0500" stop="20251117012100 +0500">
+    <title>Global Grid</title>
+    <desc>France 24s International Affairs Editors come on set to give you their take on world events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117012100 +0500" stop="20251117013000 +0500">
+    <title>Sports Sunday</title>
+    <desc>Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing.</desc>
+  </programme><programme channel="France.24.fr" start="20251117013000 +0500" stop="20251117014500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117014500 +0500" stop="20251117020000 +0500">
+    <title>The Reporters Week</title>
+    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117020000 +0500" stop="20251117021000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117021000 +0500" stop="20251117023000 +0500">
+    <title>Revisited</title>
+    <desc>Revisited presents certain places in different parts of the world several years after some significant events or accidents. Are there any changes.</desc>
+  </programme><programme channel="France.24.fr" start="20251117023000 +0500" stop="20251117024500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117024500 +0500" stop="20251117030000 +0500">
+    <title>A Week in France</title>
+    <desc>Follow coverage of events in Paris and across France Corsica and the French overseas territories. An insider look at French politics and culture.</desc>
+  </programme><programme channel="France.24.fr" start="20251117030000 +0500" stop="20251117031500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117031500 +0500" stop="20251117033000 +0500">
+    <title>Sports Sunday</title>
+    <desc>Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing.</desc>
+  </programme><programme channel="France.24.fr" start="20251117033000 +0500" stop="20251117034500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117034500 +0500" stop="20251117040000 +0500">
+    <title>Arts24</title>
+    <desc>Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.</desc>
+  </programme><programme channel="France.24.fr" start="20251117040000 +0500" stop="20251117041500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117041500 +0500" stop="20251117042100 +0500">
+    <title>Entre Nous</title>
+    <desc>From life questions to social norms to what is making headlines in France an in-depth look at our society.</desc>
+  </programme><programme channel="France.24.fr" start="20251117042100 +0500" stop="20251117043000 +0500">
+    <title>Tech 24</title>
+    <desc>The Internet and new technologies are at the heart of the current events from politics and economy through cultural life and digital revolution.</desc>
+  </programme><programme channel="France.24.fr" start="20251117043000 +0500" stop="20251117044500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117044500 +0500" stop="20251117050000 +0500">
+    <title>People And Profit</title>
+    <desc>The business show that goes beyond the numbers and the corporate jargon! Stephen Carroll breaks down major business stories and looks at how they affect our lives.</desc>
+  </programme><programme channel="France.24.fr" start="20251117050000 +0500" stop="20251117051500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117051500 +0500" stop="20251117060000 +0500">
+    <title>Reporters</title>
+    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117060000 +0500" stop="20251117061500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117061500 +0500" stop="20251117063000 +0500">
+    <title>The 51 Percent</title>
+    <desc>The 51 Percent is revolving around women and their role in the world and presents various stories of women with different backgrounds from all over the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117063000 +0500" stop="20251117064500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117064500 +0500" stop="20251117070000 +0500">
+    <title>France In Focus</title>
+    <desc>France in Focus brings top stories and most essential reports on France its political and social life. Be the first to know about latest events in politics culture and economy.</desc>
+  </programme><programme channel="France.24.fr" start="20251117070000 +0500" stop="20251117071500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117071500 +0500" stop="20251117073000 +0500">
+    <title>Talking Europe</title>
+    <desc>Politicians activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
+  </programme><programme channel="France.24.fr" start="20251117073000 +0500" stop="20251117074500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117074500 +0500" stop="20251117080000 +0500">
+    <title>Talking Europe</title>
+    <desc>Politicians activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
+  </programme><programme channel="France.24.fr" start="20251117080000 +0500" stop="20251117081000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117081000 +0500" stop="20251117083000 +0500">
+    <title>Revisited</title>
+    <desc>Revisited presents certain places in different parts of the world several years after some significant events or accidents. Are there any changes.</desc>
+  </programme><programme channel="France.24.fr" start="20251117083000 +0500" stop="20251117084000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117084000 +0500" stop="20251117085500 +0500">
+    <title>The Paris of the Arts</title>
+    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts.</desc>
+  </programme><programme channel="France.24.fr" start="20251117085500 +0500" stop="20251117090000 +0500">
+    <title>Short Cuts</title>
+    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117090000 +0500" stop="20251117091500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117091500 +0500" stop="20251117093000 +0500">
+    <title>Across Africa</title>
+    <desc>Across Africa is a weekly news program presenting latest news and stories up-to-date full coverage of politics social events from the African continent to the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117093000 +0500" stop="20251117094500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117094500 +0500" stop="20251117100000 +0500">
+    <title>Arts24</title>
+    <desc>Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.</desc>
+  </programme><programme channel="France.24.fr" start="20251117100000 +0500" stop="20251117102000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117102000 +0500" stop="20251117103000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117103000 +0500" stop="20251117105000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117105000 +0500" stop="20251117110000 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251117110000 +0500" stop="20251117112000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117112000 +0500" stop="20251117113000 +0500">
+    <title>In the Press</title>
+    <desc>Join presenters Dheepthika Laurent Solange Mougin and Alison Sargent as they show viewers all the latest and most interesting stories from the newspaper headlines in France and around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117113000 +0500" stop="20251117114500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117114500 +0500" stop="20251117115100 +0500">
+    <title>Global Grid</title>
+    <desc>France 24s International Affairs Editors come on set to give you their take on world events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117115100 +0500" stop="20251117120000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117120000 +0500" stop="20251117122000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117122000 +0500" stop="20251117123000 +0500">
+    <title>In the Press</title>
+    <desc>Join presenters Dheepthika Laurent Solange Mougin and Alison Sargent as they show viewers all the latest and most interesting stories from the newspaper headlines in France and around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117123000 +0500" stop="20251117124500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117124500 +0500" stop="20251117125000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117125000 +0500" stop="20251117125700 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251117125700 +0500" stop="20251117130000 +0500">
+    <title>Headlines</title>
+    <desc>Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117130000 +0500" stop="20251117131500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117131500 +0500" stop="20251117132100 +0500">
+    <title>Business</title>
+    <desc>The program brings the latest daily international business updates with all the important news on finances and economics.</desc>
+  </programme><programme channel="France.24.fr" start="20251117132100 +0500" stop="20251117133000 +0500">
+    <title>In the Press</title>
+    <desc>Join presenters Dheepthika Laurent Solange Mougin and Alison Sargent as they show viewers all the latest and most interesting stories from the newspaper headlines in France and around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117133000 +0500" stop="20251117134000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117134000 +0500" stop="20251117134500 +0500">
+    <title>Perspective</title>
+    <desc>Join presenters Eve Irvine and Stuart Norval as they talk to various notable people about important topics such as social issues culture sport science business and much more.</desc>
+  </programme><programme channel="France.24.fr" start="20251117134500 +0500" stop="20251117135000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117135000 +0500" stop="20251117140000 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251117140000 +0500" stop="20251117141500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117141500 +0500" stop="20251117143000 +0500">
+    <title>Perspective</title>
+    <desc>Join presenters Eve Irvine and Stuart Norval as they talk to various notable people about important topics such as social issues culture sport science business and much more.</desc>
+  </programme><programme channel="France.24.fr" start="20251117143000 +0500" stop="20251117144500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117144500 +0500" stop="20251117145000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117145000 +0500" stop="20251117150000 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251117150000 +0500" stop="20251117151500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117151500 +0500" stop="20251117153000 +0500">
+    <title>Talking Europe</title>
+    <desc>Politicians activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
+  </programme><programme channel="France.24.fr" start="20251117153000 +0500" stop="20251117154500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117154500 +0500" stop="20251117155800 +0500">
+    <title>Access Asia</title>
+    <desc>Access Asia opens the diverse continent and presents the latest updates on the social events and political stories thorough analysis of the cutting-edge current affairs.</desc>
+  </programme><programme channel="France.24.fr" start="20251117155800 +0500" stop="20251117160000 +0500">
+    <title>Headlines</title>
+    <desc>Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117160000 +0500" stop="20251117161500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117161500 +0500" stop="20251117163000 +0500">
+    <title>Arts24</title>
+    <desc>Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.</desc>
+  </programme><programme channel="France.24.fr" start="20251117163000 +0500" stop="20251117164500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117164500 +0500" stop="20251117165100 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117165100 +0500" stop="20251117170000 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251117170000 +0500" stop="20251117172200 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117172200 +0500" stop="20251117173000 +0500">
+    <title>Business</title>
+    <desc>The program brings the latest daily international business updates with all the important news on finances and economics.</desc>
+  </programme><programme channel="France.24.fr" start="20251117173000 +0500" stop="20251117174000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117174000 +0500" stop="20251117174500 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117174500 +0500" stop="20251117175100 +0500">
+    <title>Down To Earth</title>
+    <desc>We meet the people behind fascinating environmental health and technological innovations in a bid for sustainable solutions to our changing world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117175100 +0500" stop="20251117180000 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251117180000 +0500" stop="20251117181500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117181500 +0500" stop="20251117183000 +0500">
+    <title>Culture Critics</title>
+    <desc>Program reviewing the latest international news stories and trends form the world of culture including film music literature and art.</desc>
+  </programme><programme channel="France.24.fr" start="20251117183000 +0500" stop="20251117184500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117184500 +0500" stop="20251117185700 +0500">
+    <title>Scoop</title>
+    <desc>Scoop provides a critical lens on the ever-evolving media landscape.</desc>
+  </programme><programme channel="France.24.fr" start="20251117185700 +0500" stop="20251117190000 +0500">
+    <title>Headlines</title>
+    <desc>Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117190000 +0500" stop="20251117194200 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117194200 +0500" stop="20251117195400 +0500">
+    <title>France In Focus</title>
+    <desc>France in Focus brings top stories and most essential reports on France its political and social life. Be the first to know about latest events in politics culture and economy.</desc>
+  </programme><programme channel="France.24.fr" start="20251117195400 +0500" stop="20251117200000 +0500">
+    <title>Short Cuts</title>
+    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117200000 +0500" stop="20251117203000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117203000 +0500" stop="20251117204000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117204000 +0500" stop="20251117210000 +0500">
+    <title>Revisited</title>
+    <desc>Revisited presents certain places in different parts of the world several years after some significant events or accidents. Are there any changes.</desc>
+  </programme><programme channel="France.24.fr" start="20251117210000 +0500" stop="20251117211500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117211500 +0500" stop="20251117213000 +0500">
+    <title>Arts24</title>
+    <desc>Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.</desc>
+  </programme><programme channel="France.24.fr" start="20251117213000 +0500" stop="20251117214500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117214500 +0500" stop="20251117215200 +0500">
+    <title>French Connections</title>
+    <desc>A quirky insiders guide to understanding France and the French from the sublime to the ridiculous.</desc>
+  </programme><programme channel="France.24.fr" start="20251117215200 +0500" stop="20251117215700 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117215700 +0500" stop="20251117220000 +0500">
+    <title>Headlines</title>
+    <desc>Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251117220000 +0500" stop="20251117221500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117221500 +0500" stop="20251117223000 +0500">
+    <title>Top Story</title>
+    <desc>Take a look at the latest and most important top stories that are happening in France and around the globe.</desc>
+  </programme><programme channel="France.24.fr" start="20251117223000 +0500" stop="20251117224500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117224500 +0500" stop="20251117225100 +0500">
+    <title>Business</title>
+    <desc>The program brings the latest daily international business updates with all the important news on finances and economics.</desc>
+  </programme><programme channel="France.24.fr" start="20251117225100 +0500" stop="20251117230000 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251117230000 +0500" stop="20251117231000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251117231000 +0500" stop="20251117235300 +0500">
+    <title>The Debate</title>
+    <desc>Live debate show on the key topic of the day with four guests from different spots of the globe from Monday to Thursday. Keep up with up-to-date issues from all over the world in politics..</desc>
+  </programme><programme channel="France.24.fr" start="20251117235300 +0500" stop="20251118000000 +0500">
+    <title>Short Cuts</title>
+    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251118000000 +0500" stop="20251118002000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251118002000 +0500" stop="20251118003000 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251118003000 +0500" stop="20251118004500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251118004500 +0500" stop="20251118005100 +0500">
+    <title>Truth or Fake</title>
+    <desc>In our fast-moving world it is of fundamental importance to sort whats true from whats fake online. The Truth or Fake is a short program designed to alert everyone to the dangers of fake news.</desc>
+  </programme><programme channel="France.24.fr" start="20251118005100 +0500" stop="20251118010000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251118010000 +0500" stop="20251118012000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251118012000 +0500" stop="20251118013000 +0500">
+    <title>Business</title>
+    <desc>The program brings the latest daily international business updates with all the important news on finances and economics.</desc>
+  </programme><programme channel="France.24.fr" start="20251118013000 +0500" stop="20251118014000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251118014000 +0500" stop="20251118020000 +0500">
+    <title>Eye on Africa</title>
+    <desc>Join Georja Calvin-Smith for all the news from Africa and the Maghreb together with France 24s correspondents and guests of the show.</desc>
+  </programme><programme channel="France.24.fr" start="20251118020000 +0500" stop="20251118021500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251118021500 +0500" stop="20251118022100 +0500">
+    <title>Business</title>
+    <desc>The program brings the latest daily international business updates with all the important news on finances and economics.</desc>
+  </programme><programme channel="France.24.fr" start="20251118022100 +0500" stop="20251118023000 +0500">
+    <title>Truth or Fake</title>
+    <desc>In our fast-moving world it is of fundamental importance to sort whats true from whats fake online. The Truth or Fake is a short program designed to alert everyone to the dangers of fake news.</desc>
+  </programme><programme channel="France.24.fr" start="20251118023000 +0500" stop="20251118023200 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251118023200 +0500" stop="20251118024400 +0500">
+    <title>A PROPOS</title>
+    <desc>A comprehensive look at just one story that is making the headlines around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251118024400 +0500" stop="20251118030000 +0500">
+    <title>Eye on Africa</title>
+    <desc>Join Georja Calvin-Smith for all the news from Africa and the Maghreb together with France 24s correspondents and guests of the show.</desc>
+  </programme><programme channel="France.24.fr" start="20251118030000 +0500" stop="20251118031500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251118031500 +0500" stop="20251118033000 +0500">
+    <title>Business  Truth or Fake</title>
+    <desc>The presenters offer you the latest news developments and updates from the world of business and economy.</desc>
+  </programme><programme channel="France.24.fr" start="20251118033000 +0500" stop="20251118034500 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251118034500 +0500" stop="20251118035100 +0500">
+    <title>Sports</title>
+    <desc>A summary of world sports news of the day both on and off the pitch.</desc>
+  </programme><programme channel="France.24.fr" start="20251118035100 +0500" stop="20251118040000 +0500">
+    <title>Focus</title>
+    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme><programme channel="France.24.fr" start="20251118040000 +0500" stop="20251118041000 +0500">
+    <title>News</title>
+    <desc>The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.</desc>
+  </programme><programme channel="France.24.fr" start="20251118041000 +0500" stop="20251118045300 +0500">
+    <title>The Debate</title>
+    <desc>Live debate show on the key topic of the day with four guests from different spots of the globe from Monday to Thursday. Keep up with up-to-date issues from all over the world in politics..</desc>
+  </programme><programme channel="France.24.fr" start="20251118045300 +0500" stop="20251118050000 +0500">
+    <title>Short Cuts</title>
+    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
+  </programme>
+</tv>

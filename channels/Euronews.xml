@@ -1,0 +1,772 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Euronews.fr">
+    <display-name>Euronews</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Euronews.png" />
+  </channel><programme channel="Euronews.fr" start="20251116000000 +0500" stop="20251116000500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116000500 +0500" stop="20251116003000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116003000 +0500" stop="20251116003600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116003600 +0500" stop="20251116004500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116004500 +0500" stop="20251116010000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116010000 +0500" stop="20251116010500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116010500 +0500" stop="20251116011800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116011800 +0500" stop="20251116013000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116013000 +0500" stop="20251116013900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116013900 +0500" stop="20251116014800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116014800 +0500" stop="20251116020000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116020000 +0500" stop="20251116020500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116020500 +0500" stop="20251116023000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116023000 +0500" stop="20251116023600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116023600 +0500" stop="20251116024500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116024500 +0500" stop="20251116030000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116030000 +0500" stop="20251116030500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116030500 +0500" stop="20251116031800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116031800 +0500" stop="20251116033000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116033000 +0500" stop="20251116033900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116033900 +0500" stop="20251116034800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116034800 +0500" stop="20251116040000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116040000 +0500" stop="20251116040500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116040500 +0500" stop="20251116043000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116043000 +0500" stop="20251116043600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116043600 +0500" stop="20251116044500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116044500 +0500" stop="20251116050000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116050000 +0500" stop="20251116050500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116050500 +0500" stop="20251116051800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116051800 +0500" stop="20251116053000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116053000 +0500" stop="20251116053900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116053900 +0500" stop="20251116054800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116054800 +0500" stop="20251116060000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116060000 +0500" stop="20251116060500 +0500">
+    <title>Global Week-End</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116060500 +0500" stop="20251116061800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116061800 +0500" stop="20251116063000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116063000 +0500" stop="20251116063900 +0500">
+    <title>Global Week-End</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116063900 +0500" stop="20251116064800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116064800 +0500" stop="20251116070000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116070000 +0500" stop="20251116070500 +0500">
+    <title>Global Week-End</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116070500 +0500" stop="20251116073000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116073000 +0500" stop="20251116073600 +0500">
+    <title>Global Week-End</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116073600 +0500" stop="20251116074500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116074500 +0500" stop="20251116080000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116080000 +0500" stop="20251116080500 +0500">
+    <title>Global Week-End</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116080500 +0500" stop="20251116081800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116081800 +0500" stop="20251116083000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116083000 +0500" stop="20251116083900 +0500">
+    <title>Global Week-End</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116083900 +0500" stop="20251116084800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116084800 +0500" stop="20251116090000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116090000 +0500" stop="20251116090500 +0500">
+    <title>Global Week-End</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116090500 +0500" stop="20251116093000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116093000 +0500" stop="20251116093600 +0500">
+    <title>Global Week-End</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116093600 +0500" stop="20251116094500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116094500 +0500" stop="20251116100000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116100000 +0500" stop="20251116100500 +0500">
+    <title>Global Week-End</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116100500 +0500" stop="20251116101800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116101800 +0500" stop="20251116103000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116103000 +0500" stop="20251116103900 +0500">
+    <title>Global Week-End</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116103900 +0500" stop="20251116104800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116104800 +0500" stop="20251116110000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116110000 +0500" stop="20251116110500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116110500 +0500" stop="20251116113000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116113000 +0500" stop="20251116113600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116113600 +0500" stop="20251116114500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116114500 +0500" stop="20251116120000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116120000 +0500" stop="20251116120500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116120500 +0500" stop="20251116121800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116121800 +0500" stop="20251116123000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116123000 +0500" stop="20251116123900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116123900 +0500" stop="20251116124800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116124800 +0500" stop="20251116130000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116130000 +0500" stop="20251116130500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116130500 +0500" stop="20251116133000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116133000 +0500" stop="20251116133600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116133600 +0500" stop="20251116134500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116134500 +0500" stop="20251116140000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116140000 +0500" stop="20251116140500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116140500 +0500" stop="20251116141800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116141800 +0500" stop="20251116143000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116143000 +0500" stop="20251116143900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116143900 +0500" stop="20251116144800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116144800 +0500" stop="20251116150000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116150000 +0500" stop="20251116150500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116150500 +0500" stop="20251116153000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116153000 +0500" stop="20251116153600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116153600 +0500" stop="20251116154500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116154500 +0500" stop="20251116160000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116160000 +0500" stop="20251116160500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116160500 +0500" stop="20251116161800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116161800 +0500" stop="20251116163000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116163000 +0500" stop="20251116163900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116163900 +0500" stop="20251116164800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116164800 +0500" stop="20251116170000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116170000 +0500" stop="20251116170500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116170500 +0500" stop="20251116173000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116173000 +0500" stop="20251116173600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116173600 +0500" stop="20251116174500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116174500 +0500" stop="20251116180000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116180000 +0500" stop="20251116180500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116180500 +0500" stop="20251116181800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116181800 +0500" stop="20251116183000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116183000 +0500" stop="20251116183900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116183900 +0500" stop="20251116184800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116184800 +0500" stop="20251116190000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116190000 +0500" stop="20251116190500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116190500 +0500" stop="20251116193000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116193000 +0500" stop="20251116193600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116193600 +0500" stop="20251116194500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116194500 +0500" stop="20251116200000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116200000 +0500" stop="20251116200500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116200500 +0500" stop="20251116201800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116201800 +0500" stop="20251116203000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116203000 +0500" stop="20251116203900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116203900 +0500" stop="20251116204800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116204800 +0500" stop="20251116210000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116210000 +0500" stop="20251116210500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116210500 +0500" stop="20251116213000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116213000 +0500" stop="20251116213600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116213600 +0500" stop="20251116214500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116214500 +0500" stop="20251116220000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116220000 +0500" stop="20251116220500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116220500 +0500" stop="20251116221800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116221800 +0500" stop="20251116223000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116223000 +0500" stop="20251116223900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116223900 +0500" stop="20251116224800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116224800 +0500" stop="20251116230000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116230000 +0500" stop="20251116230500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116230500 +0500" stop="20251116233000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116233000 +0500" stop="20251116233600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116233600 +0500" stop="20251116234500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251116234500 +0500" stop="20251117000000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117000000 +0500" stop="20251117000500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117000500 +0500" stop="20251117001800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117001800 +0500" stop="20251117003000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117003000 +0500" stop="20251117003900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117003900 +0500" stop="20251117004800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117004800 +0500" stop="20251117010000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117010000 +0500" stop="20251117010500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117010500 +0500" stop="20251117013000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117013000 +0500" stop="20251117013600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117013600 +0500" stop="20251117014500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117014500 +0500" stop="20251117020000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117020000 +0500" stop="20251117020500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117020500 +0500" stop="20251117021800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117021800 +0500" stop="20251117023000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117023000 +0500" stop="20251117023900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117023900 +0500" stop="20251117024800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117024800 +0500" stop="20251117030000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117030000 +0500" stop="20251117030500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117030500 +0500" stop="20251117033000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117033000 +0500" stop="20251117033600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117033600 +0500" stop="20251117034500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117034500 +0500" stop="20251117040000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117040000 +0500" stop="20251117040500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117040500 +0500" stop="20251117041800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117041800 +0500" stop="20251117043000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117043000 +0500" stop="20251117043900 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117043900 +0500" stop="20251117044800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117044800 +0500" stop="20251117050000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117050000 +0500" stop="20251117050500 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117050500 +0500" stop="20251117053000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117053000 +0500" stop="20251117053600 +0500">
+    <title>5 Minutes</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117053600 +0500" stop="20251117054500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117054500 +0500" stop="20251117060000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117060000 +0500" stop="20251117060500 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117060500 +0500" stop="20251117063000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117063000 +0500" stop="20251117063600 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117063600 +0500" stop="20251117064500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117064500 +0500" stop="20251117070000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117070000 +0500" stop="20251117070500 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117070500 +0500" stop="20251117071800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117071800 +0500" stop="20251117073000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117073000 +0500" stop="20251117073900 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117073900 +0500" stop="20251117074800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117074800 +0500" stop="20251117080000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117080000 +0500" stop="20251117080500 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117080500 +0500" stop="20251117083000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117083000 +0500" stop="20251117083600 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117083600 +0500" stop="20251117084500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117084500 +0500" stop="20251117090000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117090000 +0500" stop="20251117090500 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117090500 +0500" stop="20251117091800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117091800 +0500" stop="20251117093000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117093000 +0500" stop="20251117093900 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117093900 +0500" stop="20251117094800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117094800 +0500" stop="20251117100000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117100000 +0500" stop="20251117100500 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117100500 +0500" stop="20251117103000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117103000 +0500" stop="20251117103600 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117103600 +0500" stop="20251117104500 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117104500 +0500" stop="20251117110000 +0500">
+    <title>Brussels, My Love?</title>
+    <desc>From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117110000 +0500" stop="20251117110500 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117110500 +0500" stop="20251117111800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117111800 +0500" stop="20251117113000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117113000 +0500" stop="20251117113900 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117113900 +0500" stop="20251117114800 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117114800 +0500" stop="20251117120000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117120000 +0500" stop="20251117121400 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117121400 +0500" stop="20251117123000 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117123000 +0500" stop="20251117124600 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117124600 +0500" stop="20251117130000 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117130000 +0500" stop="20251117131600 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117131600 +0500" stop="20251117133000 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117133000 +0500" stop="20251117134600 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117134600 +0500" stop="20251117140000 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117140000 +0500" stop="20251117141600 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117141600 +0500" stop="20251117143000 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117143000 +0500" stop="20251117144600 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117144600 +0500" stop="20251117150000 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117150000 +0500" stop="20251117151600 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117151600 +0500" stop="20251117153000 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117153000 +0500" stop="20251117160000 +0500">
+    <title>Wake Up Europe</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117160000 +0500" stop="20251117161500 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117161500 +0500" stop="20251117163000 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117163000 +0500" stop="20251117170000 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117170000 +0500" stop="20251117171500 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117171500 +0500" stop="20251117173000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117173000 +0500" stop="20251117180000 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117180000 +0500" stop="20251117181500 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117181500 +0500" stop="20251117183000 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117183000 +0500" stop="20251117184600 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117184600 +0500" stop="20251117190000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117190000 +0500" stop="20251117191600 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117191600 +0500" stop="20251117193000 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117193000 +0500" stop="20251117200000 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117200000 +0500" stop="20251117201600 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117201600 +0500" stop="20251117203000 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117203000 +0500" stop="20251117210000 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117210000 +0500" stop="20251117211600 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117211600 +0500" stop="20251117213000 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117213000 +0500" stop="20251117220000 +0500">
+    <title>Euronews Now</title>
+    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117220000 +0500" stop="20251117221800 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117221800 +0500" stop="20251117223000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117223000 +0500" stop="20251117230000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117230000 +0500" stop="20251117231500 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117231500 +0500" stop="20251117233000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251117233000 +0500" stop="20251118000000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118000000 +0500" stop="20251118001500 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118001500 +0500" stop="20251118003000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118003000 +0500" stop="20251118010000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118010000 +0500" stop="20251118011600 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118011600 +0500" stop="20251118013000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118013000 +0500" stop="20251118020000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118020000 +0500" stop="20251118021600 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118021600 +0500" stop="20251118023000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118023000 +0500" stop="20251118024700 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118024700 +0500" stop="20251118030000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118030000 +0500" stop="20251118031600 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118031600 +0500" stop="20251118033000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118033000 +0500" stop="20251118040000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118040000 +0500" stop="20251118041500 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118041500 +0500" stop="20251118043000 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118043000 +0500" stop="20251118044600 +0500">
+    <title>The European Debrief</title>
+    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme><programme channel="Euronews.fr" start="20251118044600 +0500" stop="20251118050000 +0500">
+    <title>News</title>
+    <desc>The leading news stories of the moment.</desc>
+  </programme>
+</tv>

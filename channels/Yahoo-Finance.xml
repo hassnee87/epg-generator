@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Yahoo.Finance.us">
+    <display-name>Yahoo Finance</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Yahoo-Finance.png" />
+  </channel><programme channel="Yahoo.Finance.us" start="20251116050000 +0500" stop="20251116053000 +0500">
+    <title>Trader Talk</title>
+    <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116053000 +0500" stop="20251116060000 +0500">
+    <title>Trader Talk</title>
+    <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116060000 +0500" stop="20251116063000 +0500">
+    <title>Invest 2025: The bitcoin Billionaire</title>
+    <desc>Bitcoin billionaire Michael Saylor sits down with Yahoo Finance for an exclusive, can’t-miss conversation</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116063000 +0500" stop="20251116070000 +0500">
+    <title>Invest 2025: The bitcoin Billionaire</title>
+    <desc>Bitcoin billionaire Michael Saylor sits down with Yahoo Finance for an exclusive, can’t-miss conversation</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116070000 +0500" stop="20251116073000 +0500">
+    <title>The Big Idea</title>
+    <desc>Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any economy.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116073000 +0500" stop="20251116080000 +0500">
+    <title>The Big Idea</title>
+    <desc>Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any economy.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116080000 +0500" stop="20251116083000 +0500">
+    <title>Decoding Retirement</title>
+    <desc>Your guide to smarter retirement. Bob Powell breaks it down so you can build a secure future.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116083000 +0500" stop="20251116090000 +0500">
+    <title>Decoding Retirement</title>
+    <desc>Your guide to smarter retirement. Bob Powell breaks it down so you can build a secure future.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116090000 +0500" stop="20251116093000 +0500">
+    <title>Financial Freestyle</title>
+    <desc>Redefining wealth for Black America. Ross Mac delivers insight, impact, and the tools to build legacy.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116093000 +0500" stop="20251116100000 +0500">
+    <title>Financial Freestyle</title>
+    <desc>Redefining wealth for Black America. Ross Mac delivers insight, impact, and the tools to build legacy.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116100000 +0500" stop="20251116110000 +0500">
+    <title>Market Movers</title>
+    <desc>Yahoo Finance highlights key moments in the previous trading session.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116110000 +0500" stop="20251116113000 +0500">
+    <title>Warrior Money</title>
+    <desc>From combat to cash flow: real advice to help vets win with money after military life</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116113000 +0500" stop="20251116120000 +0500">
+    <title>Warrior Money</title>
+    <desc>From combat to cash flow: real advice to help vets win with money after military life</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116120000 +0500" stop="20251116123000 +0500">
+    <title>Living Not So Fabulously</title>
+    <desc>Real money talk for the LGBTQI+ fam. No fluff, just truth, heart, and a dash of fabulous.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116123000 +0500" stop="20251116130000 +0500">
+    <title>Living Not So Fabulously</title>
+    <desc>Real money talk for the LGBTQI+ fam. No fluff, just truth, heart, and a dash of fabulous.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116130000 +0500" stop="20251116133000 +0500">
+    <title>Invest 2025: The bitcoin Billionaire</title>
+    <desc>Bitcoin billionaire Michael Saylor sits down with Yahoo Finance for an exclusive, can’t-miss conversation</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116133000 +0500" stop="20251116140000 +0500">
+    <title>Invest 2025: The bitcoin Billionaire</title>
+    <desc>Bitcoin billionaire Michael Saylor sits down with Yahoo Finance for an exclusive, can’t-miss conversation</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116140000 +0500" stop="20251116143000 +0500">
+    <title>Opening Bid: Unfiltered</title>
+    <desc>Brian Sozzi decodes market moves and shares scoops to get you thinking differently about your portfolio.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116143000 +0500" stop="20251116150000 +0500">
+    <title>Opening Bid: Unfiltered</title>
+    <desc>Brian Sozzi decodes market moves and shares scoops to get you thinking differently about your portfolio.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116150000 +0500" stop="20251116153000 +0500">
+    <title>Stocks In Translation</title>
+    <desc>Stocks in Translation with Jared Blikre: cutting through the noisy data points and market hyperbole.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116153000 +0500" stop="20251116160000 +0500">
+    <title>Stocks In Translation</title>
+    <desc>Stocks in Translation with Jared Blikre: cutting through the noisy data points and market hyperbole.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116160000 +0500" stop="20251116170000 +0500">
+    <title>Market Movers</title>
+    <desc>Yahoo Finance highlights key moments in the previous trading session.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116170000 +0500" stop="20251116173000 +0500">
+    <title>Invest 2025: The bitcoin Billionaire</title>
+    <desc>Bitcoin billionaire Michael Saylor sits down with Yahoo Finance for an exclusive, can’t-miss conversation</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116173000 +0500" stop="20251116180000 +0500">
+    <title>Invest 2025: The bitcoin Billionaire</title>
+    <desc>Bitcoin billionaire Michael Saylor sits down with Yahoo Finance for an exclusive, can’t-miss conversation</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116180000 +0500" stop="20251116183000 +0500">
+    <title>Opening Bid: Unfiltered</title>
+    <desc>Brian Sozzi decodes market moves and shares scoops to get you thinking differently about your portfolio.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116183000 +0500" stop="20251116190000 +0500">
+    <title>Opening Bid: Unfiltered</title>
+    <desc>Brian Sozzi decodes market moves and shares scoops to get you thinking differently about your portfolio.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116190000 +0500" stop="20251116193000 +0500">
+    <title>Stocks In Translation</title>
+    <desc>Stocks in Translation with Jared Blikre: cutting through the noisy data points and market hyperbole.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116193000 +0500" stop="20251116200000 +0500">
+    <title>Stocks In Translation</title>
+    <desc>Stocks in Translation with Jared Blikre: cutting through the noisy data points and market hyperbole.</desc>
+  </programme><programme channel="Yahoo.Finance.us" start="20251116200000 +0500" stop="20251117050000 +0500">
+    <title>Yahoo Finance Invest 2025</title>
+    <desc>Invest 2025: Experts in AI, crypto, and the economy weigh in on investment opportunities for 2026</desc>
+  </programme>
+</tv>

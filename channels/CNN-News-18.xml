@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="CNN.News.18.in">
+    <display-name>CNN News 18</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/CNN-News-18.png" />
+  </channel><programme channel="CNN.News.18.in" start="20251116000000 +0500" stop="20251116003000 +0500">
+    <title>Now Showing</title>
+    <desc>The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116003000 +0500" stop="20251116010000 +0500">
+    <title>The Right Perspective</title>
+    <desc>The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116010000 +0500" stop="20251116013000 +0500">
+    <title>Entertainment T20</title>
+    <desc>The host interacts with prominent celebrities from the Indian film and television industry and discusses their major struggles and extraordinary achievements.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116013000 +0500" stop="20251116020000 +0500">
+    <title>Simply South</title>
+    <desc>The host delivers the latest updates and developments regarding various social, political and economic issues from across India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116020000 +0500" stop="20251116023000 +0500">
+    <title>World 360</title>
+    <desc>Anchors and journalists present and discuss the latest news stories, updates and reports regarding events from around the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116023000 +0500" stop="20251116030000 +0500">
+    <title>Super Saturday Debate</title>
+    <desc>With the moderation of a host, personalities from different backgrounds discuss and debate their views on important issues and current events.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116030000 +0500" stop="20251116033000 +0500">
+    <title>Now Showing</title>
+    <desc>The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116033000 +0500" stop="20251116040000 +0500">
+    <title>The Right Perspective</title>
+    <desc>The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116040000 +0500" stop="20251116043000 +0500">
+    <title>Entertainment T20</title>
+    <desc>The host interacts with prominent celebrities from the Indian film and television industry and discusses their major struggles and extraordinary achievements.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116043000 +0500" stop="20251116050000 +0500">
+    <title>World 360</title>
+    <desc>Anchors and journalists present and discuss the latest news stories, updates and reports regarding events from around the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116050000 +0500" stop="20251116053000 +0500">
+    <title>Simply South</title>
+    <desc>The host delivers the latest updates and developments regarding various social, political and economic issues from across India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116053000 +0500" stop="20251116060000 +0500">
+    <title>Super Saturday Debate</title>
+    <desc>With the moderation of a host, personalities from different backgrounds discuss and debate their views on important issues and current events.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116060000 +0500" stop="20251116063000 +0500">
+    <title>Super Saturday Debate</title>
+    <desc>With the moderation of a host, personalities from different backgrounds discuss and debate their views on important issues and current events.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116063000 +0500" stop="20251116070000 +0500">
+    <title>The Morning News</title>
+    <desc>The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116070000 +0500" stop="20251116073000 +0500">
+    <title>The CNN Hour</title>
+    <desc>The host presents the latest information, advancements and developments on various significant issues affecting the lives of many individuals.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116073000 +0500" stop="20251116080000 +0500">
+    <title>The Morning News</title>
+    <desc>The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116080000 +0500" stop="20251116083000 +0500">
+    <title>The Morning News</title>
+    <desc>The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116083000 +0500" stop="20251116090000 +0500">
+    <title>The Morning News</title>
+    <desc>The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116090000 +0500" stop="20251116093000 +0500">
+    <title>The Right Perspective</title>
+    <desc>The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116093000 +0500" stop="20251116100000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116100000 +0500" stop="20251116103000 +0500">
+    <title>World 360</title>
+    <desc>Anchors and journalists present and discuss the latest news stories, updates and reports regarding events from around the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116103000 +0500" stop="20251116110000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116110000 +0500" stop="20251116113000 +0500">
+    <title>Simply South</title>
+    <desc>The host delivers the latest updates and developments regarding various social, political and economic issues from across India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116113000 +0500" stop="20251116120000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116120000 +0500" stop="20251116123000 +0500">
+    <title>Crux Of The Matter</title>
+    <desc>The host delves into the core of a particular news story for the day from amongst various social, political and economic news events that have caught the public's attention.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116123000 +0500" stop="20251116130000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116130000 +0500" stop="20251116133000 +0500">
+    <title>Take Three</title>
+    <desc>Three news editors deliberate on significant topics of the week and provide the audience with a unique perspective on various issues.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116133000 +0500" stop="20251116140000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116140000 +0500" stop="20251116143000 +0500">
+    <title>Entertainment T20</title>
+    <desc>The host interacts with prominent celebrities from the Indian film and television industry and discusses their major struggles and extraordinary achievements.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116143000 +0500" stop="20251116150000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116150000 +0500" stop="20251116153000 +0500">
+    <title>Now Showing</title>
+    <desc>The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116153000 +0500" stop="20251116160000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116160000 +0500" stop="20251116163000 +0500">
+    <title>The Right Perspective</title>
+    <desc>The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116163000 +0500" stop="20251116170000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116170000 +0500" stop="20251116173000 +0500">
+    <title>Simply South</title>
+    <desc>The host delivers the latest updates and developments regarding various social, political and economic issues from across India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116173000 +0500" stop="20251116180000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116180000 +0500" stop="20251116183000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116183000 +0500" stop="20251116190000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116190000 +0500" stop="20251116193000 +0500">
+    <title>The Right Perspective</title>
+    <desc>The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116193000 +0500" stop="20251116200000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116200000 +0500" stop="20251116203000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116203000 +0500" stop="20251116210000 +0500">
+    <title>Explosive Weekend Debate</title>
+    <desc>The host mediates a debate between various personalities from different fields about the latest news stories and current events in India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116210000 +0500" stop="20251116213000 +0500">
+    <title>Take Three</title>
+    <desc>Three news editors deliberate on significant topics of the week and provide the audience with a unique perspective on various issues.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116213000 +0500" stop="20251116220000 +0500">
+    <title>Fareed Zakaria GPS</title>
+    <desc>Host Fareed Zakaria analyses international issues and foreign affairs and discusses these matters with esteemed individuals to gain their insights.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116220000 +0500" stop="20251116223000 +0500">
+    <title>Fareed Zakaria GPS</title>
+    <desc>Host Fareed Zakaria analyses international issues and foreign affairs and discusses these matters with esteemed individuals to gain their insights.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116223000 +0500" stop="20251116230000 +0500">
+    <title>Simply South</title>
+    <desc>The host delivers the latest updates and developments regarding various social, political and economic issues from across India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116230000 +0500" stop="20251116232959 +0500">
+    <title>The Right Perspective</title>
+    <desc>The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251116233000 +0500" stop="20251117000000 +0500">
+    <title>Explosive Weekend Debate</title>
+    <desc>The host mediates a debate between various personalities from different fields about the latest news stories and current events in India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117000000 +0500" stop="20251117003000 +0500">
+    <title>Now Showing</title>
+    <desc>The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117003000 +0500" stop="20251117010000 +0500">
+    <title>The Right Perspective</title>
+    <desc>The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117010000 +0500" stop="20251117013000 +0500">
+    <title>Entertainment T20</title>
+    <desc>The host interacts with prominent celebrities from the Indian film and television industry and discusses their major struggles and extraordinary achievements.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117013000 +0500" stop="20251117020000 +0500">
+    <title>Simply South</title>
+    <desc>The host delivers the latest updates and developments regarding various social, political and economic issues from across India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117020000 +0500" stop="20251117023000 +0500">
+    <title>World 360</title>
+    <desc>Anchors and journalists present and discuss the latest news stories, updates and reports regarding events from around the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117023000 +0500" stop="20251117030000 +0500">
+    <title>Explosive Weekend Debate</title>
+    <desc>The host mediates a debate between various personalities from different fields about the latest news stories and current events in India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117030000 +0500" stop="20251117033000 +0500">
+    <title>Now Showing</title>
+    <desc>The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117033000 +0500" stop="20251117040000 +0500">
+    <title>The Right Perspective</title>
+    <desc>The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117040000 +0500" stop="20251117043000 +0500">
+    <title>Entertainment T20</title>
+    <desc>The host interacts with prominent celebrities from the Indian film and television industry and discusses their major struggles and extraordinary achievements.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117043000 +0500" stop="20251117050000 +0500">
+    <title>World 360</title>
+    <desc>Anchors and journalists present and discuss the latest news stories, updates and reports regarding events from around the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117050000 +0500" stop="20251117053000 +0500">
+    <title>Simply South</title>
+    <desc>The host delivers the latest updates and developments regarding various social, political and economic issues from across India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117053000 +0500" stop="20251117060000 +0500">
+    <title>The Morning News</title>
+    <desc>The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117060000 +0500" stop="20251117063000 +0500">
+    <title>The Morning News</title>
+    <desc>The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117063000 +0500" stop="20251117070000 +0500">
+    <title>The Morning News</title>
+    <desc>The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117070000 +0500" stop="20251117073000 +0500">
+    <title>News Blitz</title>
+    <desc>The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117073000 +0500" stop="20251117083000 +0500">
+    <title>The Breakfast Club</title>
+    <desc>The host presents the latest developments surrounding news, lifestyle and entertainment and provides updates on current events.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117083000 +0500" stop="20251117093000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117093000 +0500" stop="20251117103000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117103000 +0500" stop="20251117113000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117113000 +0500" stop="20251117123000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117123000 +0500" stop="20251117130000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117130000 +0500" stop="20251117133000 +0500">
+    <title>Simply South</title>
+    <desc>The host delivers the latest updates and developments regarding various social, political and economic issues from across India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117133000 +0500" stop="20251117143000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117143000 +0500" stop="20251117153000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117153000 +0500" stop="20251117163000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117163000 +0500" stop="20251117170000 +0500">
+    <title>Nation@5</title>
+    <desc>The host sheds light on the latest news stories and significant developments from various fields impacting people around the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117170000 +0500" stop="20251117173000 +0500">
+    <title>Take Three</title>
+    <desc>Three news editors deliberate on significant topics of the week and provide the audience with a unique perspective on various issues.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117173000 +0500" stop="20251117183000 +0500">
+    <title>Plain Speak</title>
+    <desc>The host engages in a conversation with controversial personalities to confront the truth in the most hard-hitting fashion.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117183000 +0500" stop="20251117193000 +0500">
+    <title>The Right Stand</title>
+    <desc>The host discusses various urgent issues plaguing the country with a panel of experts who debate on the matter in order to answer the burning questions.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117193000 +0500" stop="20251117203000 +0500">
+    <title>Brass Tacks</title>
+    <desc>The host presents information on the latest news stories and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117203000 +0500" stop="20251117213000 +0500">
+    <title>The Hard Facts</title>
+    <desc>The host provides detailed insights into the significant updates from various fields that impact people around the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117213000 +0500" stop="20251117223000 +0500">
+    <title>Vantage</title>
+    <desc>The host indulges in an insightful discussion of global events, India's standpoint on various international affairs and important news.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117223000 +0500" stop="20251117230000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117230000 +0500" stop="20251117232959 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251117233000 +0500" stop="20251118003000 +0500">
+    <title>News Epicentre</title>
+    <desc>The host invites various personalities to conduct an insightful debate on significant socio-political matters impacting the nation.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118003000 +0500" stop="20251118013000 +0500">
+    <title>Brass Tacks</title>
+    <desc>The host presents information on the latest news stories and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118013000 +0500" stop="20251118023000 +0500">
+    <title>The Right Stand</title>
+    <desc>The host discusses various urgent issues plaguing the country with a panel of experts who debate on the matter in order to answer the burning questions.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118023000 +0500" stop="20251118033000 +0500">
+    <title>Plain Speak</title>
+    <desc>The host engages in a conversation with controversial personalities to confront the truth in the most hard-hitting fashion.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118033000 +0500" stop="20251118043000 +0500">
+    <title>Brass Tacks</title>
+    <desc>The host presents information on the latest news stories and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118043000 +0500" stop="20251118053000 +0500">
+    <title>The Hard Facts</title>
+    <desc>The host provides detailed insights into the significant updates from various fields that impact people around the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118053000 +0500" stop="20251118060000 +0500">
+    <title>The Morning News</title>
+    <desc>The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118060000 +0500" stop="20251118063000 +0500">
+    <title>The Morning News</title>
+    <desc>The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118063000 +0500" stop="20251118070000 +0500">
+    <title>The Morning News</title>
+    <desc>The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118070000 +0500" stop="20251118073000 +0500">
+    <title>News Blitz</title>
+    <desc>The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118073000 +0500" stop="20251118083000 +0500">
+    <title>The Breakfast Club</title>
+    <desc>The host presents the latest developments surrounding news, lifestyle and entertainment and provides updates on current events.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118083000 +0500" stop="20251118093000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118093000 +0500" stop="20251118103000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118103000 +0500" stop="20251118113000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118113000 +0500" stop="20251118123000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118123000 +0500" stop="20251118130000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118130000 +0500" stop="20251118133000 +0500">
+    <title>Simply South</title>
+    <desc>The host delivers the latest updates and developments regarding various social, political and economic issues from across India.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118133000 +0500" stop="20251118143000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118143000 +0500" stop="20251118153000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118153000 +0500" stop="20251118163000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118163000 +0500" stop="20251118170000 +0500">
+    <title>Nation@5</title>
+    <desc>The host sheds light on the latest news stories and significant developments from various fields impacting people around the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118170000 +0500" stop="20251118173000 +0500">
+    <title>Take Three</title>
+    <desc>Three news editors deliberate on significant topics of the week and provide the audience with a unique perspective on various issues.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118173000 +0500" stop="20251118183000 +0500">
+    <title>Plain Speak</title>
+    <desc>The host engages in a conversation with controversial personalities to confront the truth in the most hard-hitting fashion.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118183000 +0500" stop="20251118193000 +0500">
+    <title>The Right Stand</title>
+    <desc>The host discusses various urgent issues plaguing the country with a panel of experts who debate on the matter in order to answer the burning questions.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118193000 +0500" stop="20251118203000 +0500">
+    <title>Brass Tacks</title>
+    <desc>The host presents information on the latest news stories and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118203000 +0500" stop="20251118213000 +0500">
+    <title>The Hard Facts</title>
+    <desc>The host provides detailed insights into the significant updates from various fields that impact people around the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118213000 +0500" stop="20251118223000 +0500">
+    <title>Vantage</title>
+    <desc>The host indulges in an insightful discussion of global events, India's standpoint on various international affairs and important news.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118223000 +0500" stop="20251118230000 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme><programme channel="CNN.News.18.in" start="20251118230000 +0500" stop="20251118232959 +0500">
+    <title>Breaking On News18</title>
+    <desc>The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+  </programme>
+</tv>

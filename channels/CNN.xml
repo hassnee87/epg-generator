@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="CNN.us">
+    <display-name>CNN</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/CNN.png" />
+  </channel><programme channel="CNN.us" start="20251116000000 +0500" stop="20251116010000 +0500">
+    <title>CNN Newsroom With Fredricka Whitfield</title>
+    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
+  </programme><programme channel="CNN.us" start="20251116010000 +0500" stop="20251116020000 +0500">
+    <title>CNN Newsroom With Fredricka Whitfield</title>
+    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
+  </programme><programme channel="CNN.us" start="20251116020000 +0500" stop="20251116030000 +0500">
+    <title>Smerconish</title>
+    <desc>Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking points: his own.</desc>
+  </programme><programme channel="CNN.us" start="20251116030000 +0500" stop="20251116040000 +0500">
+    <title>CNN Newsroom</title>
+    <desc>Updates of news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251116040000 +0500" stop="20251116050000 +0500">
+    <title>CNN Newsroom</title>
+    <desc>Updates of news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251116050000 +0500" stop="20251116060000 +0500">
+    <title>CNN Newsroom</title>
+    <desc>Updates of news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251116060000 +0500" stop="20251116070000 +0500">
+    <title>Real Time With Bill Maher</title>
+    <desc>Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.</desc>
+  </programme><programme channel="CNN.us" start="20251116070000 +0500" stop="20251116080000 +0500">
+    <title>Tony Shalhoub Breaking Bread</title>
+    <sub-title>Tokyo</sub-title>
+    <desc>Tony's first visit to Tokyo launches him into the world of meticulously crafted Japanese breads; guided by the practice of "Kaizen," a philosophy of continuous improvement that permeates the culture.</desc>
+  </programme><programme channel="CNN.us" start="20251116080000 +0500" stop="20251116090000 +0500">
+    <title>Tony Shalhoub Breaking Bread</title>
+    <sub-title>Iceland</sub-title>
+    <desc>A trip across Iceland gives Tony a deeper understanding of how this island's cuisine is uniquely rooted in local flavors and sustainability; he finds that Iceland's dedication to local ingredients makes for a delicious adventure.</desc>
+  </programme><programme channel="CNN.us" start="20251116090000 +0500" stop="20251116100000 +0500">
+    <title>Real Time With Bill Maher</title>
+    <desc>Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.</desc>
+  </programme><programme channel="CNN.us" start="20251116100000 +0500" stop="20251116110000 +0500">
+    <title>Tony Shalhoub Breaking Bread</title>
+    <sub-title>Tokyo</sub-title>
+    <desc>Tony's first visit to Tokyo launches him into the world of meticulously crafted Japanese breads; guided by the practice of "Kaizen," a philosophy of continuous improvement that permeates the culture.</desc>
+  </programme><programme channel="CNN.us" start="20251116110000 +0500" stop="20251116120000 +0500">
+    <title>Tony Shalhoub Breaking Bread</title>
+    <sub-title>Iceland</sub-title>
+    <desc>A trip across Iceland gives Tony a deeper understanding of how this island's cuisine is uniquely rooted in local flavors and sustainability; he finds that Iceland's dedication to local ingredients makes for a delicious adventure.</desc>
+  </programme><programme channel="CNN.us" start="20251116120000 +0500" stop="20251116130000 +0500">
+    <title>Smerconish</title>
+    <desc>Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking points: his own.</desc>
+  </programme><programme channel="CNN.us" start="20251116130000 +0500" stop="20251116140000 +0500">
+    <title>CNN Newsroom Live</title>
+    <desc>The latest news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251116140000 +0500" stop="20251116150000 +0500">
+    <title>CNN Newsroom Live</title>
+    <desc>The latest news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251116150000 +0500" stop="20251116160000 +0500">
+    <title>CNN Newsroom Live</title>
+    <desc>The latest news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251116160000 +0500" stop="20251116170000 +0500">
+    <title>CNN This Morning Weekend</title>
+    <desc>Stories from across the world and refreshing conversations with Victor Blackwell.</desc>
+  </programme><programme channel="CNN.us" start="20251116170000 +0500" stop="20251116180000 +0500">
+    <title>CNN This Morning Weekend</title>
+    <desc>Stories from across the world and refreshing conversations with Victor Blackwell.</desc>
+  </programme><programme channel="CNN.us" start="20251116180000 +0500" stop="20251116190000 +0500">
+    <title>Inside Politics With Manu Raju</title>
+    <desc>Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+  </programme><programme channel="CNN.us" start="20251116190000 +0500" stop="20251116200000 +0500">
+    <title>State of the Union With Jake Tapper and Dana Bash</title>
+    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+  </programme><programme channel="CNN.us" start="20251116200000 +0500" stop="20251116210000 +0500">
+    <title>Fareed Zakaria GPS</title>
+    <desc>Insights, analysis and interviews to world leaders, artists, scientists, business leaders, global affairs analysts, and other cultural observers.</desc>
+  </programme><programme channel="CNN.us" start="20251116210000 +0500" stop="20251116220000 +0500">
+    <title>Inside Politics With Manu Raju</title>
+    <desc>Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+  </programme><programme channel="CNN.us" start="20251116220000 +0500" stop="20251116230000 +0500">
+    <title>State of the Union With Jake Tapper and Dana Bash</title>
+    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+  </programme><programme channel="CNN.us" start="20251116230000 +0500" stop="20251117000000 +0500">
+    <title>Fareed Zakaria GPS</title>
+    <desc>Insights, analysis and interviews to world leaders, artists, scientists, business leaders, global affairs analysts, and other cultural observers.</desc>
+  </programme><programme channel="CNN.us" start="20251117000000 +0500" stop="20251117010000 +0500">
+    <title>CNN Newsroom With Fredricka Whitfield</title>
+    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
+  </programme><programme channel="CNN.us" start="20251117010000 +0500" stop="20251117020000 +0500">
+    <title>CNN Newsroom With Fredricka Whitfield</title>
+    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
+  </programme><programme channel="CNN.us" start="20251117020000 +0500" stop="20251117030000 +0500">
+    <title>CNN Newsroom With Fredricka Whitfield</title>
+    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
+  </programme><programme channel="CNN.us" start="20251117030000 +0500" stop="20251117040000 +0500">
+    <title>CNN Newsroom</title>
+    <desc>Updates of news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251117040000 +0500" stop="20251117050000 +0500">
+    <title>CNN Newsroom</title>
+    <desc>Updates of news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251117050000 +0500" stop="20251117060000 +0500">
+    <title>CNN Newsroom</title>
+    <desc>Updates of news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251117060000 +0500" stop="20251117070000 +0500">
+    <title>The Whole Story With Anderson Cooper</title>
+    <sub-title>MisinfoNation: White Genocide</sub-title>
+    <desc>Donie O'Sullivan investigates why the narrative of alleged "White genocide" in South Africa, fueled by fears of demographic change in the U.S., has gained traction among Americans, including Donald Trump; and reveals a more complex reality.</desc>
+  </programme><programme channel="CNN.us" start="20251117070000 +0500" stop="20251117090000 +0500">
+    <title>Prime Minister</title>
+    <desc>Chronicling Jacinda Ardern's unexpected journey as New Zealand's 40th Prime Minister, this documentary offers an unfiltered window into her years in power.</desc>
+  </programme><programme channel="CNN.us" start="20251117090000 +0500" stop="20251117100000 +0500">
+    <title>The Whole Story With Anderson Cooper</title>
+    <sub-title>MisinfoNation: White Genocide</sub-title>
+    <desc>Donie O'Sullivan investigates why the narrative of alleged "White genocide" in South Africa, fueled by fears of demographic change in the U.S., has gained traction among Americans, including Donald Trump; and reveals a more complex reality.</desc>
+  </programme><programme channel="CNN.us" start="20251117100000 +0500" stop="20251117120000 +0500">
+    <title>Prime Minister</title>
+    <desc>Chronicling Jacinda Ardern's unexpected journey as New Zealand's 40th Prime Minister, this documentary offers an unfiltered window into her years in power.</desc>
+  </programme><programme channel="CNN.us" start="20251117120000 +0500" stop="20251117130000 +0500">
+    <title>CNN Newsroom Live</title>
+    <desc>The latest news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251117130000 +0500" stop="20251117140000 +0500">
+    <title>CNN Newsroom Live</title>
+    <desc>The latest news from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251117140000 +0500" stop="20251117150000 +0500">
+    <title>Live: American Pulse</title>
+    <desc>Captivating and intriguing local stories from around the U.S. all in one place.</desc>
+  </programme><programme channel="CNN.us" start="20251117150000 +0500" stop="20251117160000 +0500">
+    <title>Live: Early Start With Rahel Solomon</title>
+    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+  </programme><programme channel="CNN.us" start="20251117160000 +0500" stop="20251117170000 +0500">
+    <title>Live: CNN This Morning</title>
+    <desc>Stories from across the world and refreshing conversations with Audie Cornish.</desc>
+  </programme><programme channel="CNN.us" start="20251117170000 +0500" stop="20251117180000 +0500">
+    <title>Live: CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+  </programme><programme channel="CNN.us" start="20251117180000 +0500" stop="20251117190000 +0500">
+    <title>Live: CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+  </programme><programme channel="CNN.us" start="20251117190000 +0500" stop="20251117200000 +0500">
+    <title>Live: CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+  </programme><programme channel="CNN.us" start="20251117200000 +0500" stop="20251117210000 +0500">
+    <title>Live: The Situation Room</title>
+    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251117210000 +0500" stop="20251117220000 +0500">
+    <title>Live: The Situation Room</title>
+    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
+  </programme><programme channel="CNN.us" start="20251117220000 +0500" stop="20251117230000 +0500">
+    <title>Live: Inside Politics With Dana Bash</title>
+    <desc>Top political stories researched by top reporters.</desc>
+  </programme><programme channel="CNN.us" start="20251117230000 +0500" stop="20251118000000 +0500">
+    <title>Live: CNN News Central</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+  </programme><programme channel="CNN.us" start="20251118000000 +0500" stop="20251118010000 +0500">
+    <title>Live: CNN News Central</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+  </programme><programme channel="CNN.us" start="20251118010000 +0500" stop="20251118020000 +0500">
+    <title>Live: CNN News Central</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+  </programme><programme channel="CNN.us" start="20251118020000 +0500" stop="20251118030000 +0500">
+    <title>Live: The Arena With Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+  </programme><programme channel="CNN.us" start="20251118030000 +0500" stop="20251118040000 +0500">
+    <title>Live: The Lead With Jake Tapper</title>
+    <desc>Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+  </programme><programme channel="CNN.us" start="20251118040000 +0500" stop="20251118050000 +0500">
+    <title>Live: The Lead With Jake Tapper</title>
+    <desc>Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+  </programme><programme channel="CNN.us" start="20251118050000 +0500" stop="20251118060000 +0500">
+    <title>Live: Erin Burnett OutFront</title>
+    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
+  </programme><programme channel="CNN.us" start="20251118060000 +0500" stop="20251118070000 +0500">
+    <title>Live: Anderson Cooper 360</title>
+    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
+  </programme><programme channel="CNN.us" start="20251118070000 +0500" stop="20251118080000 +0500">
+    <title>Live: The Source With Kaitlan Collins</title>
+    <desc>Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.</desc>
+  </programme><programme channel="CNN.us" start="20251118080000 +0500" stop="20251118090000 +0500">
+    <title>Live: CNN NewsNight With Abby Phillip</title>
+    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+  </programme><programme channel="CNN.us" start="20251118090000 +0500" stop="20251118100000 +0500">
+    <title>Laura Coates Live</title>
+    <desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+  </programme><programme channel="CNN.us" start="20251118100000 +0500" stop="20251118110000 +0500">
+    <title>Live: The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+  </programme>
+</tv>
