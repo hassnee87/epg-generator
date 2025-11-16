@@ -6,7 +6,6 @@ from datetime import datetime, timedelta
 from xml.sax.saxutils import escape
 
 INPUT_REMOTE = "https://thefilmtuition.com/epg/pk/PTV/PTVNews.Schedule.All.txt"
-INPUT_LOCAL = "PTVNews.Schedule.All.txt"
 CHANNEL_ID = "PTV.News.pk"
 CHANNEL_NAME = "PTV News"
 CHANNEL_LOGO = "https://thefilmtuition.com/tvlogo/PTV-News.png"
@@ -16,13 +15,9 @@ OUTPUT_PKCHANNELS = os.path.join("pkchannels", "PTV-News.xml")
 DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
 def read_text():
-    path = INPUT_LOCAL if os.path.exists(INPUT_LOCAL) else INPUT_REMOTE
-    if path.startswith("http"):
-        req = Request(path, headers={"User-Agent": "Mozilla/5.0"})
-        with urlopen(req, timeout=60) as resp:
-            return resp.read().decode("utf-8", errors="ignore")
-    with open(path, "r", encoding="utf-8") as f:
-        return f.read()
+    req = Request(INPUT_REMOTE, headers={"User-Agent": "Mozilla/5.0"})
+    with urlopen(req, timeout=60) as resp:
+        return resp.read().decode("utf-8", errors="ignore")
 
 def split_day_sections(txt):
     pattern = re.compile(r"<!--\s*(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s*-->", re.I)
@@ -187,4 +182,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

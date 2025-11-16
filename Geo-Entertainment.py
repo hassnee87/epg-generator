@@ -304,15 +304,18 @@ def generate_xmltv(all_programs, channel_infos):
     # Manually prepend the XML declaration and re-introduce basic indentation
     formatted_xml = '<?xml version="1.0" encoding="utf-8"?>\n' + xml_string.replace('><', '>\n<')
 
-    # --- Use the exact safe writing logic ---
+    # --- Write to both channels and pkchannels ---
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    output_path = os.path.join(script_dir, OUTPUT_FILENAME)
-    output_path = os.path.join(script_dir, OUTPUT_PATH_PKCHANNELS)
-    
-    with open(output_path, "w", encoding="utf-8") as f:
+    out_channels = os.path.join(script_dir, OUTPUT_FILENAME)
+    out_pkchannels = os.path.join(script_dir, OUTPUT_PATH_PKCHANNELS)
+    os.makedirs(os.path.dirname(out_channels), exist_ok=True)
+    os.makedirs(os.path.dirname(out_pkchannels), exist_ok=True)
+    with open(out_channels, "w", encoding="utf-8") as f:
         f.write(formatted_xml)
-    
-    print(f"Successfully created {output_path} with {len(all_programs)} programs.")
+    with open(out_pkchannels, "w", encoding="utf-8") as f:
+        f.write(formatted_xml)
+    print(f"Successfully created {out_channels} with {len(all_programs)} programs.")
+    print(f"Successfully created {out_pkchannels} with {len(all_programs)} programs.")
 
 
 # --- Main Execution ---

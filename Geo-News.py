@@ -16,6 +16,14 @@ TARGET_TZ_OFFSET = "+05:00"
 COUNTRIES_XML_CANDIDATES = [os.path.join("countries", "uk.epg.xml"), os.path.join("countries", "UK.epg.xml")]
 UK_CHANNEL_ID = "GEO.News.uk"
 
+# Generic fallback configuration
+SET_DURATION_FOR_GENERIC_MIN = 30
+PROGRAMME_TITLES_GENERIC = "Geo News"
+PROGRAM_DESC_GENERIC = (
+    "Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, "
+    "and sports coverage in Urdu, with a focus on breaking news and live reports."
+)
+
 def debug(msg):
     print(f"[DEBUG] {msg}")
 
@@ -149,14 +157,38 @@ def indent_xml(elem, level=0):
             elem.tail = i
 
 def main():
-    html = fetch_html(INPUT_URL)
-    base_date = parse_schedule_date(html)
-    entries = parse_entries(html, base_date)
-    uk_root = load_uk_epg()
-    for e in entries:
-        bd = best_description(e["title"], uk_root)
-        if bd:
-            e["desc"] = bd
+    try:
+        html = fetch_html(INPUT_URL)
+        base_date = parse_schedule_date(html)
+        entries = parse_entries(html, base_date)
+    except Exception as ex:
+        debug(f"Schedule fetch/parse failed: {ex}")
+        entries = []
+
+    if entries:
+        uk_root = load_uk_epg()
+        for e in entries:
+            bd = best_description(e["title"], uk_root)
+            if bd:
+                e["desc"] = bd
+    else:
+        debug("No schedule available; generating generic 1-day EPG")
+        # Build one day of generic programmes using configured duration
+        pst = timezone(timedelta(hours=5))
+        base_date = datetime.now(timezone.utc).astimezone(pst).date()
+        slots = int((24 * 60) / max(1, SET_DURATION_FOR_GENERIC_MIN))
+        entries = []
+        start_dt = datetime(base_date.year, base_date.month, base_date.day, 0, 0, tzinfo=pst)
+        for i in range(slots):
+            s = start_dt + timedelta(minutes=i * SET_DURATION_FOR_GENERIC_MIN)
+            e = s + timedelta(minutes=SET_DURATION_FOR_GENERIC_MIN)
+            entries.append({
+                "start_dt": s,
+                "end_dt": e,
+                "title": PROGRAMME_TITLES_GENERIC,
+                "status": "Generic",
+                "desc": PROGRAM_DESC_GENERIC,
+            })
     ensure_dirs()
     write_xml(OUTPUT_PATH_CHANNELS, entries)
     write_xml(OUTPUT_PATH_PKCHANNELS, entries)
@@ -168,4 +200,3 @@ if __name__ == "__main__":
     except Exception as ex:
         print(f"ERROR: {ex}")
         sys.exit(1)
-

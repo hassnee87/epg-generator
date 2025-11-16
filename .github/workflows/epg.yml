@@ -83,12 +83,6 @@ jobs:
             "Yahoo-Finance.py",
             "Republic-TV.py",
             "Zee-News.py",
-            "Ary-News.py",
-            "Ary-Digital.py",
-            "Ary-Zauq.py",
-            "Ary-Zauq2.py",
-            "Ary-QTV.py",
-            "Geo-News.py",
             "CGTN-Documentary.py",
             "RT-Documentary.py",
             "Documentary-Plus.py",
@@ -97,7 +91,14 @@ jobs:
             "CNN-Originals.py",
             "Geo-Entertainment.py",
             "Green-Entertainment.py",
+            "Aaj-Entertainment.py",
             "Hum-TV.py",
+            "Ary-News.py",
+            "Ary-Digital.py",
+            "Ary-Zauq.py",
+            "Ary-Zauq2.py",
+            "Ary-QTV.py",
+            "Geo-News.py",
             "AJK-Television.py",
             "PTV-Bolan.py",
             "PTV-Global.py",
@@ -114,7 +115,8 @@ jobs:
             "B4U-Music.py",
             "Mastiii.py",
             "YRF-Music.py",
-            "myTV.py"
+            "myTV.py",
+            "PakistanEPG-Package.py"
           )
           foreach ($s in $scripts) {
             if (Test-Path $s) {

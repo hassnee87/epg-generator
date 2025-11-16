@@ -6,6 +6,9 @@
   </channel><channel id="9XM.in">
     <display-name>9XM</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/9XM.png" />
+  </channel><channel id="Aaj.Entertainment.pk">
+    <display-name>Aaj Entertainment</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Aaj-Entertainment.png" />
   </channel><channel id="ABC.us">
     <display-name>ABC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ABC.png" />
@@ -105,6 +108,12 @@
   </channel><channel id="GB.News.uk">
     <display-name>GB News</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/GB-News.png" />
+  </channel><channel id="Generic.Channel.pk">
+    <display-name>Generic Channel</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Generic-Channel.png" />
+  </channel><channel id="Geo.Entertainment.pk">
+    <display-name>Geo Entertainment</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Geo-Entertainment.png" />
   </channel><channel id="Geo.News.pk">
     <display-name>Geo News</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Geo-News.png" />
@@ -2433,6 +2442,541 @@
   </programme><programme channel="ARY.QTV.pk" start="20251118090000 +0500" stop="20251118100000 +0500">
     <title>Fillers</title>
     <desc>Islamic Documentaries/ Filler Properties/ Naat Hamd.</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116000000 +0500" stop="20251116010000 +0500">
+    <title>Aunty Parlor Wali Ep # 07- R</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116010000 +0500" stop="20251116023000 +0500">
+    <title>Best Of Aaj Ka Tarka (S-2) Wednesday Ep- R</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116023000 +0500" stop="20251116033000 +0500">
+    <title>Court Room  Ep # 15- R</title>
+    <desc>Episode No: 15</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116033000 +0500" stop="20251116043000 +0500">
+    <title>The Journalist Ep # 08- R</title>
+    <desc>Episode No: 08</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116043000 +0500" stop="20251116053000 +0500">
+    <title>Quran -E- Pak Tilawat -O- Tarjuma</title>
+    <desc>Quran -E- Pak Tilawat -O- Tarjuma</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116053000 +0500" stop="20251116060000 +0500">
+    <title>Naat -E- Rasool -E- Maqbool (SAWW)</title>
+    <desc>Naat -E- Rasool -E- Maqbool (SAWW)</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116060000 +0500" stop="20251116070000 +0500">
+    <title>Best Of Aaj Pakistan Saturday- R</title>
+    <desc>Best Of Aaj Pakistan Saturday- R</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116070000 +0500" stop="20251116080000 +0500">
+    <title>Court Room  Ep # 15- R</title>
+    <desc>Episode No: 15</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116080000 +0500" stop="20251116090000 +0500">
+    <title>BaiChain Dil Ep # 07- R</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116090000 +0500" stop="20251116093000 +0500">
+    <title>Aunty Parlor Wali Ep # 07- R</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116093000 +0500" stop="20251116100000 +0500">
+    <title>Best Of Aaj Ka Tarka (S-2) Wednesday Ep- R</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116100000 +0500" stop="20251116113000 +0500">
+    <title>Teri Chahaten Ep # 03- R</title>
+    <desc>Episode No: 03</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116113000 +0500" stop="20251116120000 +0500">
+    <title>Court Room  Ep # 15- R</title>
+    <desc>Episode No: 15</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116120000 +0500" stop="20251116130000 +0500">
+    <title>The Journalist Ep # 08- R</title>
+    <desc>Episode No: 08</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116130000 +0500" stop="20251116140000 +0500">
+    <title>Aunty Parlor Wali Ep # 07- R</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116140000 +0500" stop="20251116160000 +0500">
+    <title>Akkar Bakkar Ep # 32- R</title>
+    <desc>Episode No: 32</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116160000 +0500" stop="20251116170000 +0500">
+    <title>Court Room  Ep # 15- R</title>
+    <desc>Episode No: 15</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116170000 +0500" stop="20251116180000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Tuesday Ep- R</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116180000 +0500" stop="20251116183000 +0500">
+    <title>Teri Chahaten Ep # 03- R</title>
+    <desc>Episode No: 03</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116183000 +0500" stop="20251116190000 +0500">
+    <title>Band Baj Gaya Ep # 05</title>
+    <desc>Episode No: 05</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116190000 +0500" stop="20251116200000 +0500">
+    <title>Court Room Ep # 16</title>
+    <desc>Episode No: 16</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116200000 +0500" stop="20251116210000 +0500">
+    <title>The Journalist Ep # 08- R</title>
+    <desc>Episode No: 08</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116210000 +0500" stop="20251116220000 +0500">
+    <title>Court Room Ep # 06</title>
+    <desc>Episode No: 06</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116220000 +0500" stop="20251116230000 +0500">
+    <title>Aunty Parlor Wali Ep # 07- R</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251116230000 +0500" stop="20251117010000 +0500">
+    <title>Band Baj Gaya Ep # 05 R</title>
+    <desc>Episode No: 05</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117000000 +0500" stop="20251117010000 +0500">
+    <title>Court Room  Ep # 15- R</title>
+    <desc>Episode No: 15</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117010000 +0500" stop="20251117023000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Ep # 464- R</title>
+    <desc>Episode No: 464
+Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117023000 +0500" stop="20251117033000 +0500">
+    <title>04 Din Ki Zindagi Ep # 10- R</title>
+    <desc>Episode No: 10</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117033000 +0500" stop="20251117043000 +0500">
+    <title>Band Baj Gaya Ep # 04- R</title>
+    <desc>Episode No: 04</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117043000 +0500" stop="20251117053000 +0500">
+    <title>Quran -E- Pak Tilawat -O- Tarjuma</title>
+    <desc>Quran -E- Pak Tilawat -O- Tarjuma</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117053000 +0500" stop="20251117060000 +0500">
+    <title>Naat -E- Rasool -E- Maqbool (SAWW)</title>
+    <desc>Naat -E- Rasool -E- Maqbool (SAWW)</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117060000 +0500" stop="20251117070000 +0500">
+    <title>Best Of Aaj Pakistan Ep # 1368</title>
+    <desc>Episode No: 1368</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117070000 +0500" stop="20251117080000 +0500">
+    <title>Aunty Parlor Wali Ep # 06- R</title>
+    <desc>Episode No: 06</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117080000 +0500" stop="20251117090000 +0500">
+    <title>The Journalist Ep # 07- R</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117090000 +0500" stop="20251117100000 +0500">
+    <title>Akkar Bakkar Ep # 31- R</title>
+    <desc>Episode No: 31</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117100000 +0500" stop="20251117113000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Ep # 464- R</title>
+    <desc>Episode No: 464
+Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117113000 +0500" stop="20251117120000 +0500">
+    <title>Choki # 420 S-1 Ep # 06- R</title>
+    <desc>Episode No: 06
+Season: 1</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117120000 +0500" stop="20251117130000 +0500">
+    <title>04 Din Ki Zindagi Ep # 10- R</title>
+    <desc>Episode No: 10</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117130000 +0500" stop="20251117140000 +0500">
+    <title>Band Baj Gaya Ep # 04- R</title>
+    <desc>Episode No: 04</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117140000 +0500" stop="20251117150000 +0500">
+    <title>The Journalist Ep # 07- R</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117150000 +0500" stop="20251117160000 +0500">
+    <title>Gool Gappain Ep # 05</title>
+    <desc>Episode No: 05</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117160000 +0500" stop="20251117170000 +0500">
+    <title>Aaj Pakistan Ep # 1347- R</title>
+    <desc>Episode No: 1347</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117170000 +0500" stop="20251117183000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117183000 +0500" stop="20251117190000 +0500">
+    <title>Teri Chahaten Ep # 01</title>
+    <desc>Episode No: 01</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117190000 +0500" stop="20251117200000 +0500">
+    <title>04 Din Ki Zindagi Ep # 11</title>
+    <desc>Episode No: 11</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117200000 +0500" stop="20251117210000 +0500">
+    <title>Koyal Ep # 11</title>
+    <desc>Episode No: 11</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117210000 +0500" stop="20251117220000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 31</title>
+    <desc>Episode No: 31</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117220000 +0500" stop="20251117230000 +0500">
+    <title>Phir Kon Ayega Ep # 03- R</title>
+    <desc>Episode No: 03</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251117230000 +0500" stop="20251118010000 +0500">
+    <title>Koyal Ep # 11- R</title>
+    <desc>Episode No: 11</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118000000 +0500" stop="20251118010000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 31- R</title>
+    <desc>Episode No: 31</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118010000 +0500" stop="20251118023000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118023000 +0500" stop="20251118033000 +0500">
+    <title>Phir Kon Ayega Ep # 03- R</title>
+    <desc>Episode No: 03</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118033000 +0500" stop="20251118043000 +0500">
+    <title>Koyal Ep # 11- R</title>
+    <desc>Episode No: 11</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118043000 +0500" stop="20251118053000 +0500">
+    <title>Quran -E- Pak Tilawat -O- Tarjuma / Naat -E- Rasool -E- Maqbool (SAWW)</title>
+    <desc>Quran -E- Pak Tilawat -O- Tarjuma / Naat -E- Rasool -E- Maqbool (SAWW)</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118053000 +0500" stop="20251118060000 +0500">
+    <title>Naat -E- Rasool -E- Maqbool (SAWW)</title>
+    <desc>Naat -E- Rasool -E- Maqbool (SAWW)</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118060000 +0500" stop="20251118070000 +0500">
+    <title>Aaj Pakistan Ep # 1347- R</title>
+    <desc>Episode No: 1347</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118070000 +0500" stop="20251118080000 +0500">
+    <title>Phir Kon Ayega Ep # 03- R</title>
+    <desc>Episode No: 03</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118080000 +0500" stop="20251118090000 +0500">
+    <title>Koyal Ep # 11- R</title>
+    <desc>Episode No: 11</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118090000 +0500" stop="20251118093000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 31- R</title>
+    <desc>Episode No: 31</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118093000 +0500" stop="20251118100000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118100000 +0500" stop="20251118113000 +0500">
+    <title>Teri Chahaten Ep # 01- R</title>
+    <desc>Episode No: 01</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118113000 +0500" stop="20251118120000 +0500">
+    <title>Phir Kon Ayega Ep # 03- R</title>
+    <desc>Episode No: 03</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118120000 +0500" stop="20251118130000 +0500">
+    <title>Koyal Ep # 11- R</title>
+    <desc>Episode No: 11</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118130000 +0500" stop="20251118140000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 31- R</title>
+    <desc>Episode No: 31</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118140000 +0500" stop="20251118150000 +0500">
+    <title>Gool Gappain Ep # 06</title>
+    <desc>Episode No: 06</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118150000 +0500" stop="20251118160000 +0500">
+    <title>Aaj Pakistan Ep # 1303- R</title>
+    <desc>Episode No: 1303</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118160000 +0500" stop="20251118170000 +0500">
+    <title>Aaj Pakistan Ep # 1303- R</title>
+    <desc>Episode No: 1303</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118170000 +0500" stop="20251118183000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118183000 +0500" stop="20251118190000 +0500">
+    <title>Teri Chahaten Ep # 02</title>
+    <desc>Episode No: 02</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118190000 +0500" stop="20251118200000 +0500">
+    <title>Koyal Ep # 11- R</title>
+    <desc>Episode No: 11</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118200000 +0500" stop="20251118210000 +0500">
+    <title>Koyal Ep # 12</title>
+    <desc>Episode No: 12</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118210000 +0500" stop="20251118220000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 32</title>
+    <desc>Episode No: 32</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118220000 +0500" stop="20251118230000 +0500">
+    <title>Aunty Parlor Wali Ep # 06- R</title>
+    <desc>Episode No: 06</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251118230000 +0500" stop="20251119010000 +0500">
+    <title>Koyal Ep # 12- R</title>
+    <desc>Episode No: 12</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119000000 +0500" stop="20251119023000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 05- R</title>
+    <desc>Episode No: 05</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119010000 +0500" stop="20251119033000 +0500">
+    <title>The Journalist Ep # 03- R</title>
+    <desc>Episode No: 03</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119023000 +0500" stop="20251119010000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Ep # 449- R</title>
+    <desc>Episode No: 449
+Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119033000 +0500" stop="20251119043000 +0500">
+    <title>Mishaal Ep # 18- R</title>
+    <desc>Episode No: 18</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119043000 +0500" stop="20251119053000 +0500">
+    <title>Quran -E- Pak Tilawat -O- Tarjuma / Naat -E- Rasool -E- Maqbool (SAWW)</title>
+    <desc>Quran -E- Pak Tilawat -O- Tarjuma / Naat -E- Rasool -E- Maqbool (SAWW)</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119053000 +0500" stop="20251119060000 +0500">
+    <title>Naat -E- Rasool -E- Maqbool (SAWW)</title>
+    <desc>Naat -E- Rasool -E- Maqbool (SAWW)</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119060000 +0500" stop="20251119070000 +0500">
+    <title>Aaj Pakistan Ep # 1362- R</title>
+    <desc>Episode No: 1362</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119070000 +0500" stop="20251119080000 +0500">
+    <title>Aaj Pakistan Ep # 1303- R</title>
+    <desc>Episode No: 1303</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119080000 +0500" stop="20251119090000 +0500">
+    <title>The Journalist Ep # 07- R</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119090000 +0500" stop="20251119093000 +0500">
+    <title>Koyal Ep # 12- R</title>
+    <desc>Episode No: 12</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119093000 +0500" stop="20251119100000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 32- R</title>
+    <desc>Episode No: 32</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119100000 +0500" stop="20251119113000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119113000 +0500" stop="20251119120000 +0500">
+    <title>Teri Chahaten Ep # 02- R</title>
+    <desc>Episode No: 02</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119120000 +0500" stop="20251119130000 +0500">
+    <title>Aunty Parlor Wali Ep # 06- R</title>
+    <desc>Episode No: 06</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119130000 +0500" stop="20251119140000 +0500">
+    <title>Koyal Ep # 12- R</title>
+    <desc>Episode No: 12</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119140000 +0500" stop="20251119150000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 32- R</title>
+    <desc>Episode No: 32</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119150000 +0500" stop="20251119160000 +0500">
+    <title>The Couple Show (S-2) Ep # 03</title>
+    <desc>Episode No: 03
+Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119160000 +0500" stop="20251119170000 +0500">
+    <title>Aaj Pakistan Ep # 1357- R</title>
+    <desc>Episode No: 1357</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119170000 +0500" stop="20251119183000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119183000 +0500" stop="20251119190000 +0500">
+    <title>Teri Chahaten Ep # 03</title>
+    <desc>Episode No: 03</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119190000 +0500" stop="20251119200000 +0500">
+    <title>Koyal Ep # 12- R</title>
+    <desc>Episode No: 12</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119200000 +0500" stop="20251119210000 +0500">
+    <title>Akkar Bakkar Ep # 32</title>
+    <desc>Episode No: 32</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119210000 +0500" stop="20251119220000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 33</title>
+    <desc>Episode No: 33</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119220000 +0500" stop="20251119230000 +0500">
+    <title>The Journalist Ep # 07- R</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251119230000 +0500" stop="20251120010000 +0500">
+    <title>Akkar Bakkar Ep # 32- R</title>
+    <desc>Episode No: 32</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120000000 +0500" stop="20251120010000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 33- R</title>
+    <desc>Episode No: 33</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120010000 +0500" stop="20251120023000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120023000 +0500" stop="20251120033000 +0500">
+    <title>Court Room  Ep # 15- R</title>
+    <desc>Episode No: 15</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120033000 +0500" stop="20251120043000 +0500">
+    <title>Akkar Bakkar Ep # 32- R</title>
+    <desc>Episode No: 32</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120043000 +0500" stop="20251120053000 +0500">
+    <title>Quran -E- Pak Tilawat -O- Tarjuma</title>
+    <desc>Quran -E- Pak Tilawat -O- Tarjuma</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120053000 +0500" stop="20251120060000 +0500">
+    <title>Naat -E- Rasool -E- Maqbool (SAWW)</title>
+    <desc>Naat -E- Rasool -E- Maqbool (SAWW)</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120060000 +0500" stop="20251120070000 +0500">
+    <title>Aaj Pakistan Ep # 1357- R</title>
+    <desc>Episode No: 1357</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120070000 +0500" stop="20251120080000 +0500">
+    <title>Court Room  Ep # 15- R</title>
+    <desc>Episode No: 15</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120080000 +0500" stop="20251120090000 +0500">
+    <title>Akkar Bakkar Ep # 32- R</title>
+    <desc>Episode No: 32</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120090000 +0500" stop="20251120093000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 33- R</title>
+    <desc>Episode No: 33</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120093000 +0500" stop="20251120100000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120100000 +0500" stop="20251120113000 +0500">
+    <title>Teri Chahaten Ep # 03- R</title>
+    <desc>Episode No: 03</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120113000 +0500" stop="20251120120000 +0500">
+    <title>The Journalist Ep # 07- R</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120120000 +0500" stop="20251120130000 +0500">
+    <title>Akkar Bakkar Ep # 32- R</title>
+    <desc>Episode No: 32</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120130000 +0500" stop="20251120140000 +0500">
+    <title>Muhabat Ek Bhanwar Ep # 33- R</title>
+    <desc>Episode No: 33</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120140000 +0500" stop="20251120150000 +0500">
+    <title>The Couple Show (S-2) Ep # 04</title>
+    <desc>Episode No: 04
+Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120150000 +0500" stop="20251120160000 +0500">
+    <title>Aaj Pakistan Ep # 1348- R</title>
+    <desc>Episode No: 1348</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120160000 +0500" stop="20251120170000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120170000 +0500" stop="20251120183000 +0500">
+    <title>Choki # 420 S-1 Ep # 07</title>
+    <desc>Episode No: 07
+Season: 1</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120183000 +0500" stop="20251120190000 +0500">
+    <title>Akkar Bakkar Ep # 32- R</title>
+    <desc>Episode No: 32</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120190000 +0500" stop="20251120200000 +0500">
+    <title>Kaash Ep # 08</title>
+    <desc>Episode No: 08</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120200000 +0500" stop="20251120210000 +0500">
+    <title>Ishq-E-Junoon Ep # 16- R</title>
+    <desc>Episode No: 16</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120210000 +0500" stop="20251120220000 +0500">
+    <title>Taaluq Ep # 09</title>
+    <desc>Episode No: 09</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120220000 +0500" stop="20251120230000 +0500">
+    <title>UnChahee Ep # 49</title>
+    <desc>Episode No: 49</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251120230000 +0500" stop="20251121010000 +0500">
+    <title>Kaash Ep # 08- R</title>
+    <desc>Episode No: 08</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121000000 +0500" stop="20251121010000 +0500">
+    <title>Mery Zakhum Ep # 12- R</title>
+    <desc>Episode No: 12</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121010000 +0500" stop="20251121023000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Ep # 432- R</title>
+    <desc>Episode No: 432
+Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121023000 +0500" stop="20251121033000 +0500">
+    <title>UnChahee Ep # 59- R</title>
+    <desc>Episode No: 59</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121033000 +0500" stop="20251121043000 +0500">
+    <title>Ishq-E-Junoon Ep # 13- R</title>
+    <desc>Episode No: 13</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121043000 +0500" stop="20251121053000 +0500">
+    <title>Quran -E- Pak Tilawat -O- Tarjuma</title>
+    <desc>Quran -E- Pak Tilawat -O- Tarjuma</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121053000 +0500" stop="20251121060000 +0500">
+    <title>Naat -E- Rasool -E- Maqbool (SAWW)</title>
+    <desc>Naat -E- Rasool -E- Maqbool (SAWW)</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121060000 +0500" stop="20251121070000 +0500">
+    <title>Aaj Pakistan Ep # 1342- R</title>
+    <desc>Episode No: 1342</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121070000 +0500" stop="20251121080000 +0500">
+    <title>UnChahee Ep # 59- R</title>
+    <desc>Episode No: 59</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121080000 +0500" stop="20251121090000 +0500">
+    <title>Ishq-E-Junoon Ep # 13- R</title>
+    <desc>Episode No: 13</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121090000 +0500" stop="20251121093000 +0500">
+    <title>VOA (View-360) Ep # 1936- R</title>
+    <desc>Episode No: 1936</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121093000 +0500" stop="20251121100000 +0500">
+    <title>Meri Kahani S-1 Ep # 02- R</title>
+    <desc>Episode No: 02
+Season: 1</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121100000 +0500" stop="20251121113000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Ep # 432- R</title>
+    <desc>Episode No: 432
+Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121113000 +0500" stop="20251121120000 +0500">
+    <title>Meri Kahani S-7 Ep # 05</title>
+    <desc>Episode No: 05
+Season: 7</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121120000 +0500" stop="20251121130000 +0500">
+    <title>UnChahee Ep # 59- R</title>
+    <desc>Episode No: 59</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121130000 +0500" stop="20251121140000 +0500">
+    <title>Ishq-E-Junoon Ep # 13- R</title>
+    <desc>Episode No: 13</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121140000 +0500" stop="20251121150000 +0500">
+    <title>Mery Zakhum Ep # 12- R</title>
+    <desc>Episode No: 12</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121150000 +0500" stop="20251121160000 +0500">
+    <title>LifeStyle With Komal Ep # 23</title>
+    <desc>Episode No: 23</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121160000 +0500" stop="20251121170000 +0500">
+    <title>Aaj Pakistan Ep # 1343- F</title>
+    <desc>Episode No: 1343</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121170000 +0500" stop="20251121183000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Ep # 433- F</title>
+    <desc>Episode No: 433
+Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121183000 +0500" stop="20251121190000 +0500">
+    <title>VOA (View-360) Ep # 1937- F</title>
+    <desc>Episode No: 1937</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121190000 +0500" stop="20251121200000 +0500">
+    <title>Ishq-E-Junoon Ep # 13- R</title>
+    <desc>Episode No: 13</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121200000 +0500" stop="20251121210000 +0500">
+    <title>Phir Kon Ayega Ep # 01- R</title>
+    <desc>Episode No: 01</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121210000 +0500" stop="20251121220000 +0500">
+    <title>04 Din Ki Zindagi Ep # 28- R</title>
+    <desc>Episode No: 28</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121220000 +0500" stop="20251121230000 +0500">
+    <title>UnChahee Ep # 60</title>
+    <desc>Episode No: 60</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251121230000 +0500" stop="20251122010000 +0500">
+    <title>Phir Kon Ayega Ep # 01- R</title>
+    <desc>Episode No: 01</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122000000 +0500" stop="20251122010000 +0500">
+    <title>04 Din Ki Zindagi Ep # 11- R</title>
+    <desc>Episode No: 11</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122010000 +0500" stop="20251122023000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122023000 +0500" stop="20251122033000 +0500">
+    <title>Taaluq Ep # 10- R</title>
+    <desc>Episode No: 10</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122033000 +0500" stop="20251122043000 +0500">
+    <title>Phir Kon Ayega Ep # 01- R</title>
+    <desc>Episode No: 01</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122043000 +0500" stop="20251122053000 +0500">
+    <title>Quran -E- Pak Tilawat -O- Tarjuma</title>
+    <desc>Quran -E- Pak Tilawat -O- Tarjuma</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122053000 +0500" stop="20251122060000 +0500">
+    <title>Naat -E- Rasool -E- Maqbool (SAWW)Naat -E- Rasool -E- Maqbool (SAWW)</title>
+    <desc>Naat -E- Rasool -E- Maqbool (SAWW)Naat -E- Rasool -E- Maqbool (SAWW)</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122060000 +0500" stop="20251122070000 +0500">
+    <title>Aaj Pakistan Ep # 1318- R</title>
+    <desc>Episode No: 1318</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122070000 +0500" stop="20251122080000 +0500">
+    <title>Taaluq Ep # 10- R</title>
+    <desc>Episode No: 10</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122080000 +0500" stop="20251122090000 +0500">
+    <title>Phir Kon Ayega Ep # 01- R</title>
+    <desc>Episode No: 01</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122090000 +0500" stop="20251122093000 +0500">
+    <title>04 Din Ki Zindagi Ep # 11- R</title>
+    <desc>Episode No: 11</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122093000 +0500" stop="20251122100000 +0500">
+    <title>Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122100000 +0500" stop="20251122113000 +0500">
+    <title>Choki # 420 S-1 Ep # 08- R</title>
+    <desc>Episode No: 08
+Season: 1</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122113000 +0500" stop="20251122120000 +0500">
+    <title>Taaluq Ep # 10- R</title>
+    <desc>Episode No: 10</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122120000 +0500" stop="20251122130000 +0500">
+    <title>Phir Kon Ayega Ep # 01- R</title>
+    <desc>Episode No: 01</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122130000 +0500" stop="20251122140000 +0500">
+    <title>04 Din Ki Zindagi Ep # 11- R</title>
+    <desc>Episode No: 11</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122140000 +0500" stop="20251122150000 +0500">
+    <title>LifeStyle With Komal Ep # 06</title>
+    <desc>Episode No: 06</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122150000 +0500" stop="20251122160000 +0500">
+    <title>Best Of Aaj Pakistan</title>
+    <desc>Best Of Aaj Pakistan</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122160000 +0500" stop="20251122170000 +0500">
+    <title>Best Of Aaj Ka Tarka (S-2) Wednesday Ep- R</title>
+    <desc>Season: 2</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122170000 +0500" stop="20251122183000 +0500">
+    <title>Teri Chahaten Ep # 02- R</title>
+    <desc>Episode No: 02</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122183000 +0500" stop="20251122190000 +0500">
+    <title>Phir Kon Ayega Ep # 01- R</title>
+    <desc>Episode No: 01</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122190000 +0500" stop="20251122200000 +0500">
+    <title>The Journalist Ep # 08- R</title>
+    <desc>Episode No: 08</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122200000 +0500" stop="20251122210000 +0500">
+    <title>The Journalist Ep # 07- F</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122210000 +0500" stop="20251122220000 +0500">
+    <title>Aunty Parlor Wali Ep # 07</title>
+    <desc>Episode No: 07</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122220000 +0500" stop="20251122230000 +0500">
+    <title>Court Room  Ep # 15- R</title>
+    <desc>Episode No: 15</desc>
+  </programme><programme channel="Aaj.Entertainment.pk" start="20251122230000 +0500" stop="20251123010000 +0500">
+    <title>The Journalist Ep # 08- R</title>
+    <desc>Episode No: 08</desc>
   </programme><programme channel="Africanews.fr" start="20251116000000 +0500" stop="20251116003000 +0500">
     <title>News</title>
     <desc>The leading news stories of the moment based on a Panafrican view.</desc>
@@ -9756,6 +10300,855 @@
   </programme><programme channel="GB.News.uk" start="20251118040000 +0500" stop="20251118050000 +0500">
     <title>Patrick Christys Tonight Late Edition</title>
     <desc>Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116000000 +0500" stop="20251116010000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116010000 +0500" stop="20251116020000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116020000 +0500" stop="20251116030000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116030000 +0500" stop="20251116040000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116040000 +0500" stop="20251116050000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116050000 +0500" stop="20251116060000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116060000 +0500" stop="20251116070000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116070000 +0500" stop="20251116080000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116080000 +0500" stop="20251116090000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116090000 +0500" stop="20251116100000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116100000 +0500" stop="20251116110000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116110000 +0500" stop="20251116120000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116120000 +0500" stop="20251116130000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116130000 +0500" stop="20251116140000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116140000 +0500" stop="20251116150000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116150000 +0500" stop="20251116160000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116160000 +0500" stop="20251116170000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116170000 +0500" stop="20251116180000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116180000 +0500" stop="20251116190000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116190000 +0500" stop="20251116200000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116200000 +0500" stop="20251116210000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116210000 +0500" stop="20251116220000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116220000 +0500" stop="20251116230000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251116230000 +0500" stop="20251117000000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117000000 +0500" stop="20251117010000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117010000 +0500" stop="20251117020000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117020000 +0500" stop="20251117030000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117030000 +0500" stop="20251117040000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117040000 +0500" stop="20251117050000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117050000 +0500" stop="20251117060000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117060000 +0500" stop="20251117070000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117070000 +0500" stop="20251117080000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117080000 +0500" stop="20251117090000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117090000 +0500" stop="20251117100000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117100000 +0500" stop="20251117110000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117110000 +0500" stop="20251117120000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117120000 +0500" stop="20251117130000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117130000 +0500" stop="20251117140000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117140000 +0500" stop="20251117150000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117150000 +0500" stop="20251117160000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117160000 +0500" stop="20251117170000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117170000 +0500" stop="20251117180000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117180000 +0500" stop="20251117190000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117190000 +0500" stop="20251117200000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117200000 +0500" stop="20251117210000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117210000 +0500" stop="20251117220000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117220000 +0500" stop="20251117230000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251117230000 +0500" stop="20251118000000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118000000 +0500" stop="20251118010000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118010000 +0500" stop="20251118020000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118020000 +0500" stop="20251118030000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118030000 +0500" stop="20251118040000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118040000 +0500" stop="20251118050000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118050000 +0500" stop="20251118060000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118060000 +0500" stop="20251118070000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118070000 +0500" stop="20251118080000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118080000 +0500" stop="20251118090000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118090000 +0500" stop="20251118100000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118100000 +0500" stop="20251118110000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118110000 +0500" stop="20251118120000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118120000 +0500" stop="20251118130000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118130000 +0500" stop="20251118140000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118140000 +0500" stop="20251118150000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118150000 +0500" stop="20251118160000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118160000 +0500" stop="20251118170000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118170000 +0500" stop="20251118180000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118180000 +0500" stop="20251118190000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118190000 +0500" stop="20251118200000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118200000 +0500" stop="20251118210000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118210000 +0500" stop="20251118220000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118220000 +0500" stop="20251118230000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Generic.Channel.pk" start="20251118230000 +0500" stop="20251119000000 +0500">
+    <title>Generic Show</title>
+    <sub-title>Generic Show Category</sub-title>
+    <desc>This is generic description of the Generic Show which is highly appreciated by viewers on our Generic Channel.</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116000000 +0500" stop="20251116010000 +0500">
+    <title>Case No 9</title>
+    <sub-title>Case No 9 - Ep. 916</sub-title>
+    <desc>Case No 9 is an inspiring story of Sehar, a courageous and ambitious young woman who challenges societal norms and becomes a beacon of resistance for others.
+Sehar, confident and driven, joins the company of Kamran, a domineering businessman feared by everyone for his egoistic and controlling nature. Unlike others, Sehar refuses to conform, letting her talent and integrity shine.
+Sehar’s defiance unsettles Kamran, who sets out to teach her a lesson. What follows is Sehar’s journey of redemption and resilience as she navigates the challenges thrown her way.
+Will Kamran succeed in teaching Sehar a lesson, or will she rise above his schemes? Can Sehar find the strength and support to overcome the odds, or will Kamran’s wealth and influence prove insurmountable?
+Geo and 7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Syed Wajahat Hussain
+Writer: Shahzeb Khanzada
+
+
+Cast: Saba Qamar, Faysal Quraishi, Junaid Khan, Aamina Sheikh, Rushna Khan, Shahnawaz Zaidi, Hina Bayat, Gohar Rasheed, Noor-ul-Hassan, Navin Waqar, Azra Mohyeddin, Ali Rehman Khan, Ahmed Randhawa, Zohreh Amir, Mizna Waqas, Kamran Jeelani, Faiza Gillani</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116010000 +0500" stop="20251116020000 +0500">
+    <title>Mohra</title>
+    <sub-title>Mohra - Ep. 57</sub-title>
+    <desc>Mohra is a powerful story about how ego and greed can blind people and make them forget the difference between right and wrong. One decision made out of pride or for money can change many lives including the lives of innocent people.
+Alizay is a confident and smart girl who lives with her mother and sister Anooshay. Even though they belong to a lower middle class family Alizay is happy with what she has and shares a strong bond with her sister.
+On the other hand is the Hamdani family. Fareed and Armeen live with their children Hamza, Sikandar, and Nimra. Fareed and Hamza are kind and grounded but Sikandar and Nimra follow their mother's pride and develop an ego that slowly starts to affect their decisions.
+An unforeseen tragedy shatters Alizay, setting her on a path of vengeance against the Hamdani family.
+What tragic incident shattered Alizay’s world? How is the Hamdani family connected to it? Can Alizay take revenge on the Hamdani family?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Mohsin Mirza
+Writer: Tahir Nazeer
+
+
+Cast: Mikaal Zulfiqar, Laiba Khan, Aagha Ali, Syeda Tuba Anwar, Azra Mohyeddin, Behroz Sabzwari, Nida Mumtaz, Nazlee Nasr, Asim Mehmood, Lubna Aslam, Namra Shahid</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116020000 +0500" stop="20251116030000 +0500">
+    <title>Mohra</title>
+    <sub-title>Mohra - Ep. 58</sub-title>
+    <desc>Mohra is a powerful story about how ego and greed can blind people and make them forget the difference between right and wrong. One decision made out of pride or for money can change many lives including the lives of innocent people.
+Alizay is a confident and smart girl who lives with her mother and sister Anooshay. Even though they belong to a lower middle class family Alizay is happy with what she has and shares a strong bond with her sister.
+On the other hand is the Hamdani family. Fareed and Armeen live with their children Hamza, Sikandar, and Nimra. Fareed and Hamza are kind and grounded but Sikandar and Nimra follow their mother's pride and develop an ego that slowly starts to affect their decisions.
+An unforeseen tragedy shatters Alizay, setting her on a path of vengeance against the Hamdani family.
+What tragic incident shattered Alizay’s world? How is the Hamdani family connected to it? Can Alizay take revenge on the Hamdani family?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Mohsin Mirza
+Writer: Tahir Nazeer
+
+
+Cast: Mikaal Zulfiqar, Laiba Khan, Aagha Ali, Syeda Tuba Anwar, Azra Mohyeddin, Behroz Sabzwari, Nida Mumtaz, Nazlee Nasr, Asim Mehmood, Lubna Aslam, Namra Shahid</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116030000 +0500" stop="20251116040000 +0500">
+    <title>Shikanja</title>
+    <sub-title>Shikanja - Ep. 3</sub-title>
+    <desc>Shikanja is a gripping tale of deceit, deception, and the price of unchecked ambition.
+Rani, a beautiful yet manipulative woman, loves Saqib and cunningly marries him.
+However, her obsession with control soon begins to destroy everything Saqib holds dear. Saqib’s sisters, Fizza and Rida, become the primary victims of Rani’s cruelty.
+Zaroon, Rani’s brother, deeply loves Fizza, but Rani’s envy and desire for power stand in their way. Her schemes unleash chaos that shatters relationships and tears the family apart. As she tightens her grip on the household, Rani manipulates everyone, reducing Fizza and Rida to mere servants of her will. Amidst the turmoil, Zaroon remains the only beacon of hope – determined to protect Fizza from Rani’s deceit.
+Will Zaroon save Fizza from Rani’s manipulation? Will Saqib uncover the truth about his wife? And will love, truth, and justice triumph over Rani’s unrelenting hunger for control?
+Writer: Saira Arif
+Director: Kashif Ahmed Butt
+Production House: TNI Entertainment
+
+
+Cast: Azekah Daniel, Asad Siddiqui, Washma Fatima, Furqan Qureshi, Izzah Malik, Arslan Asad Butt, Kinza Malik, Shaheen Khan, Kaiser Khan Nizamani, Rabia Abid Ali, Laiba Rehman, Alishba Malik, Hina Sheikh, Hamza Shykh, Sara Nadeem</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116040000 +0500" stop="20251116050000 +0500">
+    <title>Case No 9</title>
+    <sub-title>Case No 9 - Ep. 916</sub-title>
+    <desc>Case No 9 is an inspiring story of Sehar, a courageous and ambitious young woman who challenges societal norms and becomes a beacon of resistance for others.
+Sehar, confident and driven, joins the company of Kamran, a domineering businessman feared by everyone for his egoistic and controlling nature. Unlike others, Sehar refuses to conform, letting her talent and integrity shine.
+Sehar’s defiance unsettles Kamran, who sets out to teach her a lesson. What follows is Sehar’s journey of redemption and resilience as she navigates the challenges thrown her way.
+Will Kamran succeed in teaching Sehar a lesson, or will she rise above his schemes? Can Sehar find the strength and support to overcome the odds, or will Kamran’s wealth and influence prove insurmountable?
+Geo and 7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Syed Wajahat Hussain
+Writer: Shahzeb Khanzada
+
+
+Cast: Saba Qamar, Faysal Quraishi, Junaid Khan, Aamina Sheikh, Rushna Khan, Shahnawaz Zaidi, Hina Bayat, Gohar Rasheed, Noor-ul-Hassan, Navin Waqar, Azra Mohyeddin, Ali Rehman Khan, Ahmed Randhawa, Zohreh Amir, Mizna Waqas, Kamran Jeelani, Faiza Gillani</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116050000 +0500" stop="20251116060000 +0500">
+    <title>Quran Sab Ke Liye</title>
+    <desc>Quran Sab Ke Liye</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116060000 +0500" stop="20251116070000 +0500">
+    <title>Mohra</title>
+    <sub-title>Mohra - Ep. 58</sub-title>
+    <desc>Mohra is a powerful story about how ego and greed can blind people and make them forget the difference between right and wrong. One decision made out of pride or for money can change many lives including the lives of innocent people.
+Alizay is a confident and smart girl who lives with her mother and sister Anooshay. Even though they belong to a lower middle class family Alizay is happy with what she has and shares a strong bond with her sister.
+On the other hand is the Hamdani family. Fareed and Armeen live with their children Hamza, Sikandar, and Nimra. Fareed and Hamza are kind and grounded but Sikandar and Nimra follow their mother's pride and develop an ego that slowly starts to affect their decisions.
+An unforeseen tragedy shatters Alizay, setting her on a path of vengeance against the Hamdani family.
+What tragic incident shattered Alizay’s world? How is the Hamdani family connected to it? Can Alizay take revenge on the Hamdani family?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Mohsin Mirza
+Writer: Tahir Nazeer
+
+
+Cast: Mikaal Zulfiqar, Laiba Khan, Aagha Ali, Syeda Tuba Anwar, Azra Mohyeddin, Behroz Sabzwari, Nida Mumtaz, Nazlee Nasr, Asim Mehmood, Lubna Aslam, Namra Shahid</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116070000 +0500" stop="20251116073000 +0500">
+    <title>Shikanja</title>
+    <sub-title>Shikanja - Ep. 2</sub-title>
+    <desc>Shikanja is a gripping tale of deceit, deception, and the price of unchecked ambition.
+Rani, a beautiful yet manipulative woman, loves Saqib and cunningly marries him.
+However, her obsession with control soon begins to destroy everything Saqib holds dear. Saqib’s sisters, Fizza and Rida, become the primary victims of Rani’s cruelty.
+Zaroon, Rani’s brother, deeply loves Fizza, but Rani’s envy and desire for power stand in their way. Her schemes unleash chaos that shatters relationships and tears the family apart. As she tightens her grip on the household, Rani manipulates everyone, reducing Fizza and Rida to mere servants of her will. Amidst the turmoil, Zaroon remains the only beacon of hope – determined to protect Fizza from Rani’s deceit.
+Will Zaroon save Fizza from Rani’s manipulation? Will Saqib uncover the truth about his wife? And will love, truth, and justice triumph over Rani’s unrelenting hunger for control?
+Writer: Saira Arif
+Director: Kashif Ahmed Butt
+Production House: TNI Entertainment
+
+
+Cast: Azekah Daniel, Asad Siddiqui, Washma Fatima, Furqan Qureshi, Izzah Malik, Arslan Asad Butt, Kinza Malik, Shaheen Khan, Kaiser Khan Nizamani, Rabia Abid Ali, Laiba Rehman, Alishba Malik, Hina Sheikh, Hamza Shykh, Sara Nadeem</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116073000 +0500" stop="20251116083000 +0500">
+    <title>Shikanja</title>
+    <sub-title>Shikanja - Ep. 3</sub-title>
+    <desc>Shikanja is a gripping tale of deceit, deception, and the price of unchecked ambition.
+Rani, a beautiful yet manipulative woman, loves Saqib and cunningly marries him.
+However, her obsession with control soon begins to destroy everything Saqib holds dear. Saqib’s sisters, Fizza and Rida, become the primary victims of Rani’s cruelty.
+Zaroon, Rani’s brother, deeply loves Fizza, but Rani’s envy and desire for power stand in their way. Her schemes unleash chaos that shatters relationships and tears the family apart. As she tightens her grip on the household, Rani manipulates everyone, reducing Fizza and Rida to mere servants of her will. Amidst the turmoil, Zaroon remains the only beacon of hope – determined to protect Fizza from Rani’s deceit.
+Will Zaroon save Fizza from Rani’s manipulation? Will Saqib uncover the truth about his wife? And will love, truth, and justice triumph over Rani’s unrelenting hunger for control?
+Writer: Saira Arif
+Director: Kashif Ahmed Butt
+Production House: TNI Entertainment
+
+
+Cast: Azekah Daniel, Asad Siddiqui, Washma Fatima, Furqan Qureshi, Izzah Malik, Arslan Asad Butt, Kinza Malik, Shaheen Khan, Kaiser Khan Nizamani, Rabia Abid Ali, Laiba Rehman, Alishba Malik, Hina Sheikh, Hamza Shykh, Sara Nadeem</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116083000 +0500" stop="20251116090000 +0500">
+    <title>Bahar Nagar</title>
+    <sub-title>Bahar Nagar - Ep. 86</sub-title>
+    <desc>Bahar Begum is a sturdy and respected matriarch who proudly rules her household. Bahar is a proud mother of four sons, three of whom are married to the daughters of Babu Bhai and Zebunissa.
+Bahar’s youngest son and Babu Bhai’s youngest daughter also fall in love but their relationship soons falls victim to jealousy and opposition. At the center of this turmoil is Nargis, Bahar’s eldest daughter-in-law, who craves power and will stop at nothing to claim Bahar’s throne.
+Soon, the once harmonious home of Bahar transforms into a battleground of generations where loyalties are tested!
+Can Bahar save her home from her daughter-in-law’s schemes? Will Bahar’s youngest son and Babu Bhai’s youngest daughter be united in marriage? Who will triumph in the battle between Bahar Begum and Nargis?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Mazhar Moin
+Writers: Noon Qalam &amp; Sajjad Haider Zaidi
+
+
+Cast: Hina Dilpazeer Khan, Javeria Saud, Hammad Farooqui, Sana Askari, Ahmad Hassan, Hirra Sheikh, Hafsa Butt, Hammad Khan, Raza Zaidi, Faiza Saleem, Alee Hassan Shah, Maham Aamir, Rubab Rasheed, Anees Alam</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116090000 +0500" stop="20251116100000 +0500">
+    <title>Mohra</title>
+    <sub-title>Mohra - Ep. 58</sub-title>
+    <desc>Mohra is a powerful story about how ego and greed can blind people and make them forget the difference between right and wrong. One decision made out of pride or for money can change many lives including the lives of innocent people.
+Alizay is a confident and smart girl who lives with her mother and sister Anooshay. Even though they belong to a lower middle class family Alizay is happy with what she has and shares a strong bond with her sister.
+On the other hand is the Hamdani family. Fareed and Armeen live with their children Hamza, Sikandar, and Nimra. Fareed and Hamza are kind and grounded but Sikandar and Nimra follow their mother's pride and develop an ego that slowly starts to affect their decisions.
+An unforeseen tragedy shatters Alizay, setting her on a path of vengeance against the Hamdani family.
+What tragic incident shattered Alizay’s world? How is the Hamdani family connected to it? Can Alizay take revenge on the Hamdani family?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Mohsin Mirza
+Writer: Tahir Nazeer
+
+
+Cast: Mikaal Zulfiqar, Laiba Khan, Aagha Ali, Syeda Tuba Anwar, Azra Mohyeddin, Behroz Sabzwari, Nida Mumtaz, Nazlee Nasr, Asim Mehmood, Lubna Aslam, Namra Shahid</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116100000 +0500" stop="20251116110000 +0500">
+    <title>Mannat Murad</title>
+    <desc>Mannat is a beautiful young girl who hails from a progressive family that values love, care, and mutual respect. Raised in an environment where everyone's choices are respected, Mannat enjoys the freedom to make her own decisions. Following the untimely demise of her parents, she finds support from her elder brother, Nafees, who showers her with affection.
+On the other hand, Murad belongs to a conservative family where his mother, the matriarch, wields significant influence over his life choices. As the only son, Murad is burdened with the responsibility of fulfilling his family's expectations. Soft-spoken and romantic by nature, Murad finds himself unable to defy his mother's authority, especially after the passing of his father.
+Despite their starkly contrasting backgrounds, Mannat and Murad's hearts find solace in each other's presence, and they fall deeply in love. However, their families' interference creates misunderstandings between Mannat and Murad, testing the strength of their bond.
+Will their families agree to their union? Will Mannat's family, with their open-mindedness, find common ground with Murad's conservative household? Can Mannat and Murad's love for each other withstand the motives of their families, who seek to create further misunderstandings between them?
+,
+,
+Written by: Nadia Akhtar
+Directed by: Syed Wajahat Hussain
+Produced by: Abdullah Kadwani &amp; Asad Qureshi
+Production House: 7th Sky Entertainment
+
+
+Cast: Iqra Aziz, Talha Chahour, Irsa Ghazal, Noor ul Hassan, Uzma Hassan, Tipu Sharif, Faiza Gillani, Mizna Waqas, Sana Nadir, Rehma Zaman, Ali Safina, Hammad Siddiqui, Anam Tanveer, Salma Baig, Parveen Akbar, Rahat Ghani</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116110000 +0500" stop="20251116113000 +0500">
+    <title>Sanwal Yaar Piya</title>
+    <sub-title>Sanwal Yaar Piya - Ep. 17</sub-title>
+    <desc>Sanwal Yaar Piya is a tale of love, fate, and the tangled lives of three individuals—Sanwal, Aliyaar, and Piya. Their destinies collide amidst challenges of loyalty, sacrifice, and a complicated past.
+Sanwal, a self-made man, and Aliyaar, a privileged son of a powerful figure, both fall for Piya, whose father hides dark secrets. In a world of deceit and power struggles, the trio must confront their emotions and pasts.
+As they navigate betrayal and power, their strength, loyalty, and resolve to fight for what is right are put to the test.
+Between Sanwal and Aliyaar, who will Piya choose? What dark secret is Piya’s father hiding? Will Sanwal lose to Aliyaar because of his wealth and power? How will the past shape the lives of Sanwal, Yaar, and Piya?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Danish Nawaz
+Writer: Hashim Nadeem Khan
+
+
+Cast: Feroze Khan, Durefishan Saleem, Ahmed Ali Akbar, Yasir Nawaz, Zainab Qayoom, Deepak Perwani, Ali Tahir, Erum Akhtar, Sidra Niazi, Nayyer Ejaz, Raza Zaidi, Saqib Sumeer, Kamran Jeelani, Rashid Farooqi, Imran Qureshi, Yusra Irfan</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116113000 +0500" stop="20251116123000 +0500">
+    <title>Sanwal Yaar Piya</title>
+    <sub-title>Sanwal Yaar Piya - Ep. 18</sub-title>
+    <desc>Sanwal Yaar Piya is a tale of love, fate, and the tangled lives of three individuals—Sanwal, Aliyaar, and Piya. Their destinies collide amidst challenges of loyalty, sacrifice, and a complicated past.
+Sanwal, a self-made man, and Aliyaar, a privileged son of a powerful figure, both fall for Piya, whose father hides dark secrets. In a world of deceit and power struggles, the trio must confront their emotions and pasts.
+As they navigate betrayal and power, their strength, loyalty, and resolve to fight for what is right are put to the test.
+Between Sanwal and Aliyaar, who will Piya choose? What dark secret is Piya’s father hiding? Will Sanwal lose to Aliyaar because of his wealth and power? How will the past shape the lives of Sanwal, Yaar, and Piya?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Danish Nawaz
+Writer: Hashim Nadeem Khan
+
+
+Cast: Feroze Khan, Durefishan Saleem, Ahmed Ali Akbar, Yasir Nawaz, Zainab Qayoom, Deepak Perwani, Ali Tahir, Erum Akhtar, Sidra Niazi, Nayyer Ejaz, Raza Zaidi, Saqib Sumeer, Kamran Jeelani, Rashid Farooqi, Imran Qureshi, Yusra Irfan</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116123000 +0500" stop="20251116133000 +0500">
+    <title>Shikanja</title>
+    <sub-title>Shikanja - Ep. 3</sub-title>
+    <desc>Shikanja is a gripping tale of deceit, deception, and the price of unchecked ambition.
+Rani, a beautiful yet manipulative woman, loves Saqib and cunningly marries him.
+However, her obsession with control soon begins to destroy everything Saqib holds dear. Saqib’s sisters, Fizza and Rida, become the primary victims of Rani’s cruelty.
+Zaroon, Rani’s brother, deeply loves Fizza, but Rani’s envy and desire for power stand in their way. Her schemes unleash chaos that shatters relationships and tears the family apart. As she tightens her grip on the household, Rani manipulates everyone, reducing Fizza and Rida to mere servants of her will. Amidst the turmoil, Zaroon remains the only beacon of hope – determined to protect Fizza from Rani’s deceit.
+Will Zaroon save Fizza from Rani’s manipulation? Will Saqib uncover the truth about his wife? And will love, truth, and justice triumph over Rani’s unrelenting hunger for control?
+Writer: Saira Arif
+Director: Kashif Ahmed Butt
+Production House: TNI Entertainment
+
+
+Cast: Azekah Daniel, Asad Siddiqui, Washma Fatima, Furqan Qureshi, Izzah Malik, Arslan Asad Butt, Kinza Malik, Shaheen Khan, Kaiser Khan Nizamani, Rabia Abid Ali, Laiba Rehman, Alishba Malik, Hina Sheikh, Hamza Shykh, Sara Nadeem</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116133000 +0500" stop="20251116143000 +0500">
+    <title>Pakistan Idol</title>
+    <desc>The NEW Season is set to return on your screens AFTER 10 YEARS
+Every Saturday &amp; Sunday at 8:00 PM</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116143000 +0500" stop="20251116150000 +0500">
+    <title>Mohra</title>
+    <sub-title>Mohra - Ep. 57</sub-title>
+    <desc>Mohra is a powerful story about how ego and greed can blind people and make them forget the difference between right and wrong. One decision made out of pride or for money can change many lives including the lives of innocent people.
+Alizay is a confident and smart girl who lives with her mother and sister Anooshay. Even though they belong to a lower middle class family Alizay is happy with what she has and shares a strong bond with her sister.
+On the other hand is the Hamdani family. Fareed and Armeen live with their children Hamza, Sikandar, and Nimra. Fareed and Hamza are kind and grounded but Sikandar and Nimra follow their mother's pride and develop an ego that slowly starts to affect their decisions.
+An unforeseen tragedy shatters Alizay, setting her on a path of vengeance against the Hamdani family.
+What tragic incident shattered Alizay’s world? How is the Hamdani family connected to it? Can Alizay take revenge on the Hamdani family?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Mohsin Mirza
+Writer: Tahir Nazeer
+
+
+Cast: Mikaal Zulfiqar, Laiba Khan, Aagha Ali, Syeda Tuba Anwar, Azra Mohyeddin, Behroz Sabzwari, Nida Mumtaz, Nazlee Nasr, Asim Mehmood, Lubna Aslam, Namra Shahid</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116150000 +0500" stop="20251116160000 +0500">
+    <title>Mohra</title>
+    <sub-title>Mohra - Ep. 58</sub-title>
+    <desc>Mohra is a powerful story about how ego and greed can blind people and make them forget the difference between right and wrong. One decision made out of pride or for money can change many lives including the lives of innocent people.
+Alizay is a confident and smart girl who lives with her mother and sister Anooshay. Even though they belong to a lower middle class family Alizay is happy with what she has and shares a strong bond with her sister.
+On the other hand is the Hamdani family. Fareed and Armeen live with their children Hamza, Sikandar, and Nimra. Fareed and Hamza are kind and grounded but Sikandar and Nimra follow their mother's pride and develop an ego that slowly starts to affect their decisions.
+An unforeseen tragedy shatters Alizay, setting her on a path of vengeance against the Hamdani family.
+What tragic incident shattered Alizay’s world? How is the Hamdani family connected to it? Can Alizay take revenge on the Hamdani family?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Mohsin Mirza
+Writer: Tahir Nazeer
+
+
+Cast: Mikaal Zulfiqar, Laiba Khan, Aagha Ali, Syeda Tuba Anwar, Azra Mohyeddin, Behroz Sabzwari, Nida Mumtaz, Nazlee Nasr, Asim Mehmood, Lubna Aslam, Namra Shahid</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116160000 +0500" stop="20251116170000 +0500">
+    <title>Case No 9</title>
+    <sub-title>Case No 9 - Ep. 916</sub-title>
+    <desc>Case No 9 is an inspiring story of Sehar, a courageous and ambitious young woman who challenges societal norms and becomes a beacon of resistance for others.
+Sehar, confident and driven, joins the company of Kamran, a domineering businessman feared by everyone for his egoistic and controlling nature. Unlike others, Sehar refuses to conform, letting her talent and integrity shine.
+Sehar’s defiance unsettles Kamran, who sets out to teach her a lesson. What follows is Sehar’s journey of redemption and resilience as she navigates the challenges thrown her way.
+Will Kamran succeed in teaching Sehar a lesson, or will she rise above his schemes? Can Sehar find the strength and support to overcome the odds, or will Kamran’s wealth and influence prove insurmountable?
+Geo and 7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Syed Wajahat Hussain
+Writer: Shahzeb Khanzada
+
+
+Cast: Saba Qamar, Faysal Quraishi, Junaid Khan, Aamina Sheikh, Rushna Khan, Shahnawaz Zaidi, Hina Bayat, Gohar Rasheed, Noor-ul-Hassan, Navin Waqar, Azra Mohyeddin, Ali Rehman Khan, Ahmed Randhawa, Zohreh Amir, Mizna Waqas, Kamran Jeelani, Faiza Gillani</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116170000 +0500" stop="20251116173000 +0500">
+    <title>Shikanja</title>
+    <sub-title>Shikanja - Ep. 3</sub-title>
+    <desc>Shikanja is a gripping tale of deceit, deception, and the price of unchecked ambition.
+Rani, a beautiful yet manipulative woman, loves Saqib and cunningly marries him.
+However, her obsession with control soon begins to destroy everything Saqib holds dear. Saqib’s sisters, Fizza and Rida, become the primary victims of Rani’s cruelty.
+Zaroon, Rani’s brother, deeply loves Fizza, but Rani’s envy and desire for power stand in their way. Her schemes unleash chaos that shatters relationships and tears the family apart. As she tightens her grip on the household, Rani manipulates everyone, reducing Fizza and Rida to mere servants of her will. Amidst the turmoil, Zaroon remains the only beacon of hope – determined to protect Fizza from Rani’s deceit.
+Will Zaroon save Fizza from Rani’s manipulation? Will Saqib uncover the truth about his wife? And will love, truth, and justice triumph over Rani’s unrelenting hunger for control?
+Writer: Saira Arif
+Director: Kashif Ahmed Butt
+Production House: TNI Entertainment
+
+
+Cast: Azekah Daniel, Asad Siddiqui, Washma Fatima, Furqan Qureshi, Izzah Malik, Arslan Asad Butt, Kinza Malik, Shaheen Khan, Kaiser Khan Nizamani, Rabia Abid Ali, Laiba Rehman, Alishba Malik, Hina Sheikh, Hamza Shykh, Sara Nadeem</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116173000 +0500" stop="20251116180000 +0500">
+    <title>Sanwal Yaar Piya</title>
+    <sub-title>Sanwal Yaar Piya - Ep. 17</sub-title>
+    <desc>Sanwal Yaar Piya is a tale of love, fate, and the tangled lives of three individuals—Sanwal, Aliyaar, and Piya. Their destinies collide amidst challenges of loyalty, sacrifice, and a complicated past.
+Sanwal, a self-made man, and Aliyaar, a privileged son of a powerful figure, both fall for Piya, whose father hides dark secrets. In a world of deceit and power struggles, the trio must confront their emotions and pasts.
+As they navigate betrayal and power, their strength, loyalty, and resolve to fight for what is right are put to the test.
+Between Sanwal and Aliyaar, who will Piya choose? What dark secret is Piya’s father hiding? Will Sanwal lose to Aliyaar because of his wealth and power? How will the past shape the lives of Sanwal, Yaar, and Piya?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Danish Nawaz
+Writer: Hashim Nadeem Khan
+
+
+Cast: Feroze Khan, Durefishan Saleem, Ahmed Ali Akbar, Yasir Nawaz, Zainab Qayoom, Deepak Perwani, Ali Tahir, Erum Akhtar, Sidra Niazi, Nayyer Ejaz, Raza Zaidi, Saqib Sumeer, Kamran Jeelani, Rashid Farooqi, Imran Qureshi, Yusra Irfan</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116180000 +0500" stop="20251116190000 +0500">
+    <title>Sanwal Yaar Piya</title>
+    <sub-title>Sanwal Yaar Piya - Ep. 18</sub-title>
+    <desc>Sanwal Yaar Piya is a tale of love, fate, and the tangled lives of three individuals—Sanwal, Aliyaar, and Piya. Their destinies collide amidst challenges of loyalty, sacrifice, and a complicated past.
+Sanwal, a self-made man, and Aliyaar, a privileged son of a powerful figure, both fall for Piya, whose father hides dark secrets. In a world of deceit and power struggles, the trio must confront their emotions and pasts.
+As they navigate betrayal and power, their strength, loyalty, and resolve to fight for what is right are put to the test.
+Between Sanwal and Aliyaar, who will Piya choose? What dark secret is Piya’s father hiding? Will Sanwal lose to Aliyaar because of his wealth and power? How will the past shape the lives of Sanwal, Yaar, and Piya?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Danish Nawaz
+Writer: Hashim Nadeem Khan
+
+
+Cast: Feroze Khan, Durefishan Saleem, Ahmed Ali Akbar, Yasir Nawaz, Zainab Qayoom, Deepak Perwani, Ali Tahir, Erum Akhtar, Sidra Niazi, Nayyer Ejaz, Raza Zaidi, Saqib Sumeer, Kamran Jeelani, Rashid Farooqi, Imran Qureshi, Yusra Irfan</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116190000 +0500" stop="20251116200000 +0500">
+    <title>Shikanja</title>
+    <sub-title>Shikanja - Ep. 4</sub-title>
+    <desc>Shikanja is a gripping tale of deceit, deception, and the price of unchecked ambition.
+Rani, a beautiful yet manipulative woman, loves Saqib and cunningly marries him.
+However, her obsession with control soon begins to destroy everything Saqib holds dear. Saqib’s sisters, Fizza and Rida, become the primary victims of Rani’s cruelty.
+Zaroon, Rani’s brother, deeply loves Fizza, but Rani’s envy and desire for power stand in their way. Her schemes unleash chaos that shatters relationships and tears the family apart. As she tightens her grip on the household, Rani manipulates everyone, reducing Fizza and Rida to mere servants of her will. Amidst the turmoil, Zaroon remains the only beacon of hope – determined to protect Fizza from Rani’s deceit.
+Will Zaroon save Fizza from Rani’s manipulation? Will Saqib uncover the truth about his wife? And will love, truth, and justice triumph over Rani’s unrelenting hunger for control?
+Writer: Saira Arif
+Director: Kashif Ahmed Butt
+Production House: TNI Entertainment
+
+
+Cast: Azekah Daniel, Asad Siddiqui, Washma Fatima, Furqan Qureshi, Izzah Malik, Arslan Asad Butt, Kinza Malik, Shaheen Khan, Kaiser Khan Nizamani, Rabia Abid Ali, Laiba Rehman, Alishba Malik, Hina Sheikh, Hamza Shykh, Sara Nadeem</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116200000 +0500" stop="20251116210000 +0500">
+    <title>Pakistan Idol</title>
+    <desc>The NEW Season is set to return on your screens AFTER 10 YEARS
+Every Saturday &amp; Sunday at 8:00 PM</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116210000 +0500" stop="20251116220000 +0500">
+    <title>Mohra</title>
+    <sub-title>Mohra - Ep. 59</sub-title>
+    <desc>Mohra is a powerful story about how ego and greed can blind people and make them forget the difference between right and wrong. One decision made out of pride or for money can change many lives including the lives of innocent people.
+Alizay is a confident and smart girl who lives with her mother and sister Anooshay. Even though they belong to a lower middle class family Alizay is happy with what she has and shares a strong bond with her sister.
+On the other hand is the Hamdani family. Fareed and Armeen live with their children Hamza, Sikandar, and Nimra. Fareed and Hamza are kind and grounded but Sikandar and Nimra follow their mother's pride and develop an ego that slowly starts to affect their decisions.
+An unforeseen tragedy shatters Alizay, setting her on a path of vengeance against the Hamdani family.
+What tragic incident shattered Alizay’s world? How is the Hamdani family connected to it? Can Alizay take revenge on the Hamdani family?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Mohsin Mirza
+Writer: Tahir Nazeer
+
+
+Cast: Mikaal Zulfiqar, Laiba Khan, Aagha Ali, Syeda Tuba Anwar, Azra Mohyeddin, Behroz Sabzwari, Nida Mumtaz, Nazlee Nasr, Asim Mehmood, Lubna Aslam, Namra Shahid</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116220000 +0500" stop="20251116223000 +0500">
+    <title>Bahar Nagar</title>
+    <sub-title>Bahar Nagar - Ep. 87</sub-title>
+    <desc>Bahar Begum is a sturdy and respected matriarch who proudly rules her household. Bahar is a proud mother of four sons, three of whom are married to the daughters of Babu Bhai and Zebunissa.
+Bahar’s youngest son and Babu Bhai’s youngest daughter also fall in love but their relationship soons falls victim to jealousy and opposition. At the center of this turmoil is Nargis, Bahar’s eldest daughter-in-law, who craves power and will stop at nothing to claim Bahar’s throne.
+Soon, the once harmonious home of Bahar transforms into a battleground of generations where loyalties are tested!
+Can Bahar save her home from her daughter-in-law’s schemes? Will Bahar’s youngest son and Babu Bhai’s youngest daughter be united in marriage? Who will triumph in the battle between Bahar Begum and Nargis?
+7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Mazhar Moin
+Writers: Noon Qalam &amp; Sajjad Haider Zaidi
+
+
+Cast: Hina Dilpazeer Khan, Javeria Saud, Hammad Farooqui, Sana Askari, Ahmad Hassan, Hirra Sheikh, Hafsa Butt, Hammad Khan, Raza Zaidi, Faiza Saleem, Alee Hassan Shah, Maham Aamir, Rubab Rasheed, Anees Alam</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116223000 +0500" stop="20251116230000 +0500">
+    <title>Case No 9</title>
+    <sub-title>Case No 9 - Ep. 915</sub-title>
+    <desc>Case No 9 is an inspiring story of Sehar, a courageous and ambitious young woman who challenges societal norms and becomes a beacon of resistance for others.
+Sehar, confident and driven, joins the company of Kamran, a domineering businessman feared by everyone for his egoistic and controlling nature. Unlike others, Sehar refuses to conform, letting her talent and integrity shine.
+Sehar’s defiance unsettles Kamran, who sets out to teach her a lesson. What follows is Sehar’s journey of redemption and resilience as she navigates the challenges thrown her way.
+Will Kamran succeed in teaching Sehar a lesson, or will she rise above his schemes? Can Sehar find the strength and support to overcome the odds, or will Kamran’s wealth and influence prove insurmountable?
+Geo and 7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Syed Wajahat Hussain
+Writer: Shahzeb Khanzada
+
+
+Cast: Saba Qamar, Faysal Quraishi, Junaid Khan, Aamina Sheikh, Rushna Khan, Shahnawaz Zaidi, Hina Bayat, Gohar Rasheed, Noor-ul-Hassan, Navin Waqar, Azra Mohyeddin, Ali Rehman Khan, Ahmed Randhawa, Zohreh Amir, Mizna Waqas, Kamran Jeelani, Faiza Gillani</desc>
+  </programme><programme channel="Geo.Entertainment.pk" start="20251116230000 +0500" stop="20251117000000 +0500">
+    <title>Case No 9</title>
+    <sub-title>Case No 9 - Ep. 916</sub-title>
+    <desc>Case No 9 is an inspiring story of Sehar, a courageous and ambitious young woman who challenges societal norms and becomes a beacon of resistance for others.
+Sehar, confident and driven, joins the company of Kamran, a domineering businessman feared by everyone for his egoistic and controlling nature. Unlike others, Sehar refuses to conform, letting her talent and integrity shine.
+Sehar’s defiance unsettles Kamran, who sets out to teach her a lesson. What follows is Sehar’s journey of redemption and resilience as she navigates the challenges thrown her way.
+Will Kamran succeed in teaching Sehar a lesson, or will she rise above his schemes? Can Sehar find the strength and support to overcome the odds, or will Kamran’s wealth and influence prove insurmountable?
+Geo and 7th Sky Entertainment Presentation
+Producers: Abdullah Kadwani &amp; Asad Qureshi
+Director: Syed Wajahat Hussain
+Writer: Shahzeb Khanzada
+
+
+Cast: Saba Qamar, Faysal Quraishi, Junaid Khan, Aamina Sheikh, Rushna Khan, Shahnawaz Zaidi, Hina Bayat, Gohar Rasheed, Noor-ul-Hassan, Navin Waqar, Azra Mohyeddin, Ali Rehman Khan, Ahmed Randhawa, Zohreh Amir, Mizna Waqas, Kamran Jeelani, Faiza Gillani</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116000000 +0500" stop="20251116003000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116003000 +0500" stop="20251116010000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116010000 +0500" stop="20251116013000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116013000 +0500" stop="20251116020000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116020000 +0500" stop="20251116023000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116023000 +0500" stop="20251116030000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116030000 +0500" stop="20251116033000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116033000 +0500" stop="20251116040000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116040000 +0500" stop="20251116043000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116043000 +0500" stop="20251116050000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116050000 +0500" stop="20251116053000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116053000 +0500" stop="20251116060000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116060000 +0500" stop="20251116063000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116063000 +0500" stop="20251116070000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116070000 +0500" stop="20251116073000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116073000 +0500" stop="20251116080000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116080000 +0500" stop="20251116083000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116083000 +0500" stop="20251116090000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116090000 +0500" stop="20251116093000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116093000 +0500" stop="20251116100000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116100000 +0500" stop="20251116103000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116103000 +0500" stop="20251116110000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116110000 +0500" stop="20251116113000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116113000 +0500" stop="20251116120000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116120000 +0500" stop="20251116123000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116123000 +0500" stop="20251116130000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116130000 +0500" stop="20251116133000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116133000 +0500" stop="20251116140000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116140000 +0500" stop="20251116143000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116143000 +0500" stop="20251116150000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116150000 +0500" stop="20251116153000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116153000 +0500" stop="20251116160000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116160000 +0500" stop="20251116163000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116163000 +0500" stop="20251116170000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116170000 +0500" stop="20251116173000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116173000 +0500" stop="20251116180000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116180000 +0500" stop="20251116183000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116183000 +0500" stop="20251116190000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116190000 +0500" stop="20251116193000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116193000 +0500" stop="20251116200000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116200000 +0500" stop="20251116203000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116203000 +0500" stop="20251116210000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116210000 +0500" stop="20251116213000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116213000 +0500" stop="20251116220000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116220000 +0500" stop="20251116223000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116223000 +0500" stop="20251116230000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116230000 +0500" stop="20251116233000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
+  </programme><programme channel="Geo.News.pk" start="20251116233000 +0500" stop="20251117000000 +0500">
+    <title>Geo News</title>
+    <sub-title>Generic</sub-title>
+    <desc>Geo News is a Pakistani news channel that provides around-the-clock news, current affairs, and sports coverage in Urdu, with a focus on breaking news and live reports.</desc>
   </programme><programme channel="Global.Toronto.ca" start="20251116013000 +0500" stop="20251116023000 +0500">
     <title>Great Chocolate Showdown</title>
     <sub-title>Veggies for Dessert?</sub-title>
