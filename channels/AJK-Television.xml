@@ -4,56 +4,6 @@
     <display-name>AJK Television</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/AJK-Television.png" />
   </channel>
-  <programme start="20251116165900 +0500" stop="20251116170000 +0500" channel="AJK.Television.pk">
-    <title>Logo Bismillah</title>
-    <desc>Logo Bismillah</desc>
-  </programme>
-  <programme start="20251116170000 +0500" stop="20251116170500 +0500" channel="AJK.Television.pk">
-    <title>Quran-O-Tarjuma</title>
-    <desc>Quran-O-Tarjuma</desc>
-  </programme>
-  <programme start="20251116170500 +0500" stop="20251116172000 +0500" channel="AJK.Television.pk">
-    <title>Al Quran (Repeat)</title>
-    <desc>Al Quran (Repeat)
-(Repeat)</desc>
-  </programme>
-  <programme start="20251116172000 +0500" stop="20251116173500 +0500" channel="AJK.Television.pk">
-    <title>Kashmir Report (Kashmir Cell)</title>
-    <desc>Kashmir Report (Kashmir Cell)</desc>
-  </programme>
-  <programme start="20251116173500 +0500" stop="20251116180000 +0500" channel="AJK.Television.pk">
-    <title>Tary Mery Angan Ky (Repeat)</title>
-    <desc>Tary Mery Angan Ky (Repeat)
-(Repeat)</desc>
-  </programme>
-  <programme start="20251116180000 +0500" stop="20251116182000 +0500" channel="AJK.Television.pk">
-    <title>Local News (Ptv News)</title>
-    <desc>Local News (Ptv News)</desc>
-  </programme>
-  <programme start="20251116182000 +0500" stop="20251116190000 +0500" channel="AJK.Television.pk">
-    <title>Soon Kasheer Kashmiri Language</title>
-    <desc>Soon Kasheer Kashmiri Language</desc>
-  </programme>
-  <programme start="20251116190000 +0500" stop="20251116193000 +0500" channel="AJK.Television.pk">
-    <title>Janjal Pura</title>
-    <desc>Janjal Pura</desc>
-  </programme>
-  <programme start="20251116193000 +0500" stop="20251116200000 +0500" channel="AJK.Television.pk">
-    <title>Geet Rung</title>
-    <desc>Geet Rung</desc>
-  </programme>
-  <programme start="20251116200000 +0500" stop="20251116210000 +0500" channel="AJK.Television.pk">
-    <title>Jahan Basian Dildar</title>
-    <desc>Jahan Basian Dildar</desc>
-  </programme>
-  <programme start="20251116210000 +0500" stop="20251116220000 +0500" channel="AJK.Television.pk">
-    <title>Khabar Nama (Ptv News)</title>
-    <desc>Khabar Nama (Ptv News)</desc>
-  </programme>
-  <programme start="20251116220000 +0500" stop="20251117165900 +0500" channel="AJK.Television.pk">
-    <title>Close Down</title>
-    <desc>Close Down</desc>
-  </programme>
   <programme start="20251117165900 +0500" stop="20251117170000 +0500" channel="AJK.Television.pk">
     <title>Logo Bismillah</title>
     <desc>Logo Bismillah</desc>
@@ -344,6 +294,56 @@
     <desc>Khabar Nama (Ptv News)</desc>
   </programme>
   <programme start="20251122220000 +0500" stop="20251123165900 +0500" channel="AJK.Television.pk">
+    <title>Close Down</title>
+    <desc>Close Down</desc>
+  </programme>
+  <programme start="20251123165900 +0500" stop="20251123170000 +0500" channel="AJK.Television.pk">
+    <title>Logo Bismillah</title>
+    <desc>Logo Bismillah</desc>
+  </programme>
+  <programme start="20251123170000 +0500" stop="20251123170500 +0500" channel="AJK.Television.pk">
+    <title>Quran-O-Tarjuma</title>
+    <desc>Quran-O-Tarjuma</desc>
+  </programme>
+  <programme start="20251123170500 +0500" stop="20251123172000 +0500" channel="AJK.Television.pk">
+    <title>Al Quran (Repeat)</title>
+    <desc>Al Quran (Repeat)
+(Repeat)</desc>
+  </programme>
+  <programme start="20251123172000 +0500" stop="20251123173500 +0500" channel="AJK.Television.pk">
+    <title>Kashmir Report (Kashmir Cell)</title>
+    <desc>Kashmir Report (Kashmir Cell)</desc>
+  </programme>
+  <programme start="20251123173500 +0500" stop="20251123180000 +0500" channel="AJK.Television.pk">
+    <title>Tary Mery Angan Ky (Repeat)</title>
+    <desc>Tary Mery Angan Ky (Repeat)
+(Repeat)</desc>
+  </programme>
+  <programme start="20251123180000 +0500" stop="20251123182000 +0500" channel="AJK.Television.pk">
+    <title>Local News (Ptv News)</title>
+    <desc>Local News (Ptv News)</desc>
+  </programme>
+  <programme start="20251123182000 +0500" stop="20251123190000 +0500" channel="AJK.Television.pk">
+    <title>Soon Kasheer Kashmiri Language</title>
+    <desc>Soon Kasheer Kashmiri Language</desc>
+  </programme>
+  <programme start="20251123190000 +0500" stop="20251123193000 +0500" channel="AJK.Television.pk">
+    <title>Janjal Pura</title>
+    <desc>Janjal Pura</desc>
+  </programme>
+  <programme start="20251123193000 +0500" stop="20251123200000 +0500" channel="AJK.Television.pk">
+    <title>Geet Rung</title>
+    <desc>Geet Rung</desc>
+  </programme>
+  <programme start="20251123200000 +0500" stop="20251123210000 +0500" channel="AJK.Television.pk">
+    <title>Jahan Basian Dildar</title>
+    <desc>Jahan Basian Dildar</desc>
+  </programme>
+  <programme start="20251123210000 +0500" stop="20251123220000 +0500" channel="AJK.Television.pk">
+    <title>Khabar Nama (Ptv News)</title>
+    <desc>Khabar Nama (Ptv News)</desc>
+  </programme>
+  <programme start="20251123220000 +0500" stop="20251124165900 +0500" channel="AJK.Television.pk">
     <title>Close Down</title>
     <desc>Close Down</desc>
   </programme>

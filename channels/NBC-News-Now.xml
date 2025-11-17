@@ -3,73 +3,7 @@
   <channel id="NBC.News.Now.us">
     <display-name>NBC News Now</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/NBC-News-Now.png" />
-  </channel><programme channel="NBC.News.Now.us" start="20251116000000 +0500" stop="20251116010000 +0500">
-    <title>Dateline NBC</title>
-    <desc>A thump heard by the children in a Carlsbad, Calif., home one summer morning is the first clue in a shocking mystery involving family secrets.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116010000 +0500" stop="20251116030000 +0500">
-    <title>Dateline NBC</title>
-    <desc>When a dog trainer with celebrity clientele disappears, investigators track down a suspect with the help of two witnesses.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116030000 +0500" stop="20251116040000 +0500">
-    <title>Dateline NBC</title>
-    <desc>The investigation into a newlywed's disappearance focuses on her job as a CIA employee as a possible clue.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116040000 +0500" stop="20251116050000 +0500">
-    <title>Dateline NBC</title>
-    <desc>A man's children stand by him as he deals with courts in upstate New York.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116050000 +0500" stop="20251116060000 +0500">
-    <title>Dateline NBC</title>
-    <desc>When a mother of five is found dead in her bedroom, her family believes a crazed killer is to blame.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116060000 +0500" stop="20251116080000 +0500">
-    <title>Dateline NBC</title>
-    <desc>A son uncovers a dark family conspiracy when he questions his mother following a man's apparent suicide.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116080000 +0500" stop="20251116083000 +0500">
-    <title>NBC Nightly News With Tom Llamas</title>
-    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116083000 +0500" stop="20251116090000 +0500">
-    <title>NBC Nightly News With Tom Llamas</title>
-    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116090000 +0500" stop="20251116100000 +0500">
-    <title>Dateline NBC</title>
-    <desc>After a sudden marriage creates tension between two families, a murder exposes secrets, lies and a long-buried mystery.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116100000 +0500" stop="20251116110000 +0500">
-    <title>Dateline NBC</title>
-    <desc>A chance encounter by custom agents leads to a break in the case of a mother who disappeared days before she was supposed to move to a new city with her young son; 20 years after the incident, a witness speaks out.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116110000 +0500" stop="20251116120000 +0500">
-    <title>Dateline NBC</title>
-    <desc>Police investigate whether the murder of a South Florida attorney is connected to a web of fraud, betrayal and more than $1 billion in missing money.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116120000 +0500" stop="20251116130000 +0500">
-    <title>Dateline NBC</title>
-    <desc>The discovery of an Army captain's death in her El Paso, Texas, home shakes her tight-knit military community.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116130000 +0500" stop="20251116140000 +0500">
-    <title>Dateline NBC</title>
-    <desc>When a former hockey player discovers his wife murdered in their home, his daughter says she saw a burglar.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116140000 +0500" stop="20251116150000 +0500">
-    <title>Dateline NBC</title>
-    <desc>A matriarch's death leads to a prominent family from Texas being torn apart by decades of betrayal, greed and mistrust.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116150000 +0500" stop="20251116170000 +0500">
-    <title>Dateline NBC</title>
-    <desc>The mystery of a successful real estate entrepreneur killed by a car bomb spans nearly two decades.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116170000 +0500" stop="20251116180000 +0500">
-    <title>Dateline NBC</title>
-    <desc>When a woman kills the man she suspects of being involved in an attack that left her husband dead and her young son wounded, she claims self-defense.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116180000 +0500" stop="20251116190000 +0500">
-    <title>Dateline NBC</title>
-    <desc>A woman's story about an abduction and murder helps reopen a decades-old case that has weighed heavy on a New York town.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116190000 +0500" stop="20251116200000 +0500">
-    <title>Dateline NBC</title>
-    <desc>A random post on a social networking site changes everything about a case that put two brothers in prison for more that two decades.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116200000 +0500" stop="20251116210000 +0500">
-    <title>Dateline NBC</title>
-    <desc>The case of Johnny Hincapie, whose conviction for the 1990 murder of a Utah tourist in New York -- a case that represented a tipping point in the city's law enforcement -- was overturned after 25 years.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116210000 +0500" stop="20251116220000 +0500">
-    <title>Sunday Today With Willie Geist</title>
-    <desc>Sharp conversational coverage of the week's news, along with in-depth profiles of the people and personalities shaping American culture, assessing the highs and lows of the week and looking ahead to the next one.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116220000 +0500" stop="20251116230000 +0500">
-    <title>Meet the Press</title>
-    <desc>Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251116230000 +0500" stop="20251117010000 +0500">
-    <title>Dateline NBC</title>
-    <desc>The disappearance of a 20-year-old honors student causes her family to fear the worst; decades later, the mystery is solved.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251117010000 +0500" stop="20251117020000 +0500">
+  </channel><programme channel="NBC.News.Now.us" start="20251117010000 +0500" stop="20251117020000 +0500">
     <title>Dateline NBC</title>
     <desc>The drug-related death of a 17-year-old girl sheds light on a new class of synthetic drugs that has law enforcement agencies on alert.</desc>
   </programme><programme channel="NBC.News.Now.us" start="20251117020000 +0500" stop="20251117030000 +0500">

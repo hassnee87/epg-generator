@@ -3,21 +3,5 @@
   <channel id="Reuters.uk">
     <display-name>Reuters</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Reuters.png" />
-  </channel><programme channel="Reuters.uk" start="20251116030000 +0500" stop="20251116050000 +0500">
-    <title>Reuters</title>
-    <sub-title>Evening News</sub-title>
-    <desc>Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
-  </programme><programme channel="Reuters.uk" start="20251116050000 +0500" stop="20251116070000 +0500">
-    <title>Reuters</title>
-    <sub-title>Evening News</sub-title>
-    <desc>Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
-  </programme><programme channel="Reuters.uk" start="20251116070000 +0500" stop="20251116090000 +0500">
-    <title>Reuters</title>
-    <sub-title>Evening News</sub-title>
-    <desc>Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
-  </programme><programme channel="Reuters.uk" start="20251116090000 +0500" stop="20251116110000 +0500">
-    <title>Reuters</title>
-    <sub-title>Evening News</sub-title>
-    <desc>Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
-  </programme>
+  </channel>
 </tv>

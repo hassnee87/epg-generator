@@ -4,146 +4,6 @@
     <display-name>PTV Global</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-Global.png" />
   </channel>
-  <programme start="202511160000 +0100" stop="202511160030 +0100" channel="PTV.Global.pk">
-    <title>Ghao (r) (ep-51)</title>
-    <desc>Ghao (r) (ep-51)
-Ghao (Repeat) (ep-51)</desc>
-  </programme>
-  <programme start="202511160030 +0100" stop="202511160100 +0100" channel="PTV.Global.pk">
-    <title>Rawaitoon Ki Lazzat S-ii (r) (ep-57)</title>
-    <desc>Rawaitoon Ki Lazzat S-ii (r) (ep-57)
-Rawaitoon Ki Lazzat S-II (Repeat)     (ep-57)</desc>
-  </programme>
-  <programme start="202511160100 +0100" stop="202511160200 +0100" channel="PTV.Global.pk">
-    <title>News Line 50 (f)</title>
-    <desc>News Line 50 (f)
-News Line  50 (Fresh)</desc>
-  </programme>
-  <programme start="202511160200 +0100" stop="202511160300 +0100" channel="PTV.Global.pk">
-    <title>Aaslam Ka Gaon (r) (ep-28)</title>
-    <desc>Aaslam Ka Gaon (r) (ep-28)
-Aaslam Ka Gaon (Repeat)  (ep-28)</desc>
-  </programme>
-  <programme start="202511160300 +0100" stop="202511160400 +0100" channel="PTV.Global.pk">
-    <title>Dar &amp;amp; Darling (r) (ep-54)</title>
-    <desc>Dar &amp;amp; Darling (r) (ep-54)
-Dar &amp;amp; Darling (Repeat) (ep-54)</desc>
-  </programme>
-  <programme start="202511160400 +0100" stop="202511160530 +0100" channel="PTV.Global.pk">
-    <title>Weekend @ Home (r)</title>
-    <desc>Weekend @ Home (r)
-Weekend @ Home  (Repeat)</desc>
-  </programme>
-  <programme start="202511160530 +0100" stop="202511160600 +0100" channel="PTV.Global.pk">
-    <title>Al-quran Ul Hakeem (f) (ep-35)</title>
-    <desc>Al-quran Ul Hakeem (f) (ep-35)
-Al-Quran ul Hakeem (Fresh)  (ep-35)</desc>
-  </programme>
-  <programme start="202511160600 +0100" stop="202511160630 +0100" channel="PTV.Global.pk">
-    <title>Roshni (r) (ep-08)</title>
-    <desc>Roshni (r) (ep-08)
-Roshni (Repeat) (ep-08)</desc>
-  </programme>
-  <programme start="202511160630 +0100" stop="202511160700 +0100" channel="PTV.Global.pk">
-    <title>Away Ka Awwa (r) (ep-37)</title>
-    <desc>Away Ka Awwa (r) (ep-37)
-Away KA Awwa (Repeat)   (ep-37)</desc>
-  </programme>
-  <programme start="202511160700 +0100" stop="202511160800 +0100" channel="PTV.Global.pk">
-    <title>Aaslam Ka Gaon (r) (ep-28)</title>
-    <desc>Aaslam Ka Gaon (r) (ep-28)
-Aaslam Ka Gaon (Repeat)   (ep-28)</desc>
-  </programme>
-  <programme start="202511160800 +0100" stop="202511160830 +0100" channel="PTV.Global.pk">
-    <title>English News (live)</title>
-    <desc>English News (live)
-English News (Live)</desc>
-  </programme>
-  <programme start="202511160830 +0100" stop="202511161000 +0100" channel="PTV.Global.pk">
-    <title>Best Of Rising Pakistan (f)</title>
-    <desc>Best Of Rising Pakistan (f)
-Best of Rising Pakistan (Fresh)</desc>
-  </programme>
-  <programme start="202511161000 +0100" stop="202511161030 +0100" channel="PTV.Global.pk">
-    <title>Al-quran Ul Hakeem (r) (ep-35)</title>
-    <desc>Al-quran Ul Hakeem (r) (ep-35)
-Al-Quran ul Hakeem  (Repeat) (ep-35)</desc>
-  </programme>
-  <programme start="202511161030 +0100" stop="202511161100 +0100" channel="PTV.Global.pk">
-    <title>Bayan By Saqib Raza Mustafai (f) (ep-15)</title>
-    <desc>Bayan By Saqib Raza Mustafai (f) (ep-15)
-Bayan By Saqib Raza Mustafai (Fresh)  (ep-15)</desc>
-  </programme>
-  <programme start="202511161100 +0100" stop="202511161230 +0100" channel="PTV.Global.pk">
-    <title>Best Of Morning @ Home (f)</title>
-    <desc>Best Of Morning @ Home (f)
-Best of Morning @ Home (Fresh)</desc>
-  </programme>
-  <programme start="202511161230 +0100" stop="202511161330 +0100" channel="PTV.Global.pk">
-    <title>Parchaiyan " (ep-02)</title>
-    <desc>Parchaiyan " (ep-02)</desc>
-  </programme>
-  <programme start="202511161330 +0100" stop="202511161500 +0100" channel="PTV.Global.pk">
-    <title>Weekend @ Home (f)</title>
-    <desc>Weekend @ Home (f)
-Weekend @ Home (Fresh)</desc>
-  </programme>
-  <programme start="202511161500 +0100" stop="202511161600 +0100" channel="PTV.Global.pk">
-    <title>Aaslam Ka Gaon (r) (ep-28)</title>
-    <desc>Aaslam Ka Gaon (r) (ep-28)
-Aaslam Ka Gaon (Repeat)    (ep-28)</desc>
-  </programme>
-  <programme start="202511161600 +0100" stop="202511161700 +0100" channel="PTV.Global.pk">
-    <title>Perspective (f) (live)</title>
-    <desc>Perspective (f) (live)
-Perspective  (Fresh)  (LIVE)
-Perspective  (F)  (Live)</desc>
-  </programme>
-  <programme start="202511161700 +0100" stop="202511161800 +0100" channel="PTV.Global.pk">
-    <title>Khabarnama (live)</title>
-    <desc>Khabarnama (live)
-Khabarnama (Live)</desc>
-  </programme>
-  <programme start="202511161800 +0100" stop="202511161830 +0100" channel="PTV.Global.pk">
-    <title>Aap Ka Khadim (f) (ep-24)</title>
-    <desc>Aap Ka Khadim (f) (ep-24)
-Aap Ka Khadim  (Fresh)   (ep-24)</desc>
-  </programme>
-  <programme start="202511161830 +0100" stop="202511161900 +0100" channel="PTV.Global.pk">
-    <title>Ghao (f) (ep-52)</title>
-    <desc>Ghao (f) (ep-52)
-Ghao (Fresh)     (ep-52)</desc>
-  </programme>
-  <programme start="202511161900 +0100" stop="202511161930 +0100" channel="PTV.Global.pk">
-    <title>Little Chef (f) (ep-20)</title>
-    <desc>Little Chef (f) (ep-20)
-Little chef (Fresh)  (ep-20)</desc>
-  </programme>
-  <programme start="202511161930 +0100" stop="202511162000 +0100" channel="PTV.Global.pk">
-    <title>Music Box (f) (ep-10)</title>
-    <desc>Music Box (f) (ep-10)
-Music Box  (Fresh)       (ep-10)</desc>
-  </programme>
-  <programme start="202511162000 +0100" stop="202511162100 +0100" channel="PTV.Global.pk">
-    <title>Aadhay Adohray (f) (ep-29)</title>
-    <desc>Aadhay Adohray (f) (ep-29)
-Aadhay Adohray (Fresh)    (ep-29)</desc>
-  </programme>
-  <programme start="202511162100 +0100" stop="202511162200 +0100" channel="PTV.Global.pk">
-    <title>Siah Sufaid (f) (ep-12)</title>
-    <desc>Siah Sufaid (f) (ep-12)
-Siah Sufaid (Fresh)    (ep-12)</desc>
-  </programme>
-  <programme start="202511162200 +0100" stop="202511162300 +0100" channel="PTV.Global.pk">
-    <title>Weekend @ Global (new Show) (f) (ep-24)</title>
-    <desc>Weekend @ Global (new Show) (f) (ep-24)
-Weekend @ Global (New Show)   (Fresh)     (ep-24)</desc>
-  </programme>
-  <programme start="202511162300 +0100" stop="202511170000 +0100" channel="PTV.Global.pk">
-    <title>Khabarnama (live)</title>
-    <desc>Khabarnama (live)
-Khabarnama (Live)</desc>
-  </programme>
   <programme start="202511170000 +0100" stop="202511170030 +0100" channel="PTV.Global.pk">
     <title>Uss Nay Chaha Tha Chand (r) (ep 16)</title>
     <desc>Uss Nay Chaha Tha Chand (r) (ep 16)
@@ -961,7 +821,147 @@ Parchaiyan (Fresh)              (Ep 13)</desc>
     <desc>Weekend @ Global (new Show) (f) (ep 57)
 Weekend @ Global (New Show)   (Fresh)         (Ep 57)</desc>
   </programme>
-  <programme start="202511222300 +0100" stop="202511232300 +0100" channel="PTV.Global.pk">
+  <programme start="202511222300 +0100" stop="202511230000 +0100" channel="PTV.Global.pk">
+    <title>Khabarnama (live)</title>
+    <desc>Khabarnama (live)
+Khabarnama (Live)</desc>
+  </programme>
+  <programme start="202511230000 +0100" stop="202511230030 +0100" channel="PTV.Global.pk">
+    <title>Ghao (r) (ep-51)</title>
+    <desc>Ghao (r) (ep-51)
+Ghao (Repeat) (ep-51)</desc>
+  </programme>
+  <programme start="202511230030 +0100" stop="202511230100 +0100" channel="PTV.Global.pk">
+    <title>Rawaitoon Ki Lazzat S-ii (r) (ep-57)</title>
+    <desc>Rawaitoon Ki Lazzat S-ii (r) (ep-57)
+Rawaitoon Ki Lazzat S-II (Repeat)     (ep-57)</desc>
+  </programme>
+  <programme start="202511230100 +0100" stop="202511230200 +0100" channel="PTV.Global.pk">
+    <title>News Line 50 (f)</title>
+    <desc>News Line 50 (f)
+News Line  50 (Fresh)</desc>
+  </programme>
+  <programme start="202511230200 +0100" stop="202511230300 +0100" channel="PTV.Global.pk">
+    <title>Aaslam Ka Gaon (r) (ep-28)</title>
+    <desc>Aaslam Ka Gaon (r) (ep-28)
+Aaslam Ka Gaon (Repeat)  (ep-28)</desc>
+  </programme>
+  <programme start="202511230300 +0100" stop="202511230400 +0100" channel="PTV.Global.pk">
+    <title>Dar &amp;amp; Darling (r) (ep-54)</title>
+    <desc>Dar &amp;amp; Darling (r) (ep-54)
+Dar &amp;amp; Darling (Repeat) (ep-54)</desc>
+  </programme>
+  <programme start="202511230400 +0100" stop="202511230530 +0100" channel="PTV.Global.pk">
+    <title>Weekend @ Home (r)</title>
+    <desc>Weekend @ Home (r)
+Weekend @ Home  (Repeat)</desc>
+  </programme>
+  <programme start="202511230530 +0100" stop="202511230600 +0100" channel="PTV.Global.pk">
+    <title>Al-quran Ul Hakeem (f) (ep-35)</title>
+    <desc>Al-quran Ul Hakeem (f) (ep-35)
+Al-Quran ul Hakeem (Fresh)  (ep-35)</desc>
+  </programme>
+  <programme start="202511230600 +0100" stop="202511230630 +0100" channel="PTV.Global.pk">
+    <title>Roshni (r) (ep-08)</title>
+    <desc>Roshni (r) (ep-08)
+Roshni (Repeat) (ep-08)</desc>
+  </programme>
+  <programme start="202511230630 +0100" stop="202511230700 +0100" channel="PTV.Global.pk">
+    <title>Away Ka Awwa (r) (ep-37)</title>
+    <desc>Away Ka Awwa (r) (ep-37)
+Away KA Awwa (Repeat)   (ep-37)</desc>
+  </programme>
+  <programme start="202511230700 +0100" stop="202511230800 +0100" channel="PTV.Global.pk">
+    <title>Aaslam Ka Gaon (r) (ep-28)</title>
+    <desc>Aaslam Ka Gaon (r) (ep-28)
+Aaslam Ka Gaon (Repeat)   (ep-28)</desc>
+  </programme>
+  <programme start="202511230800 +0100" stop="202511230830 +0100" channel="PTV.Global.pk">
+    <title>English News (live)</title>
+    <desc>English News (live)
+English News (Live)</desc>
+  </programme>
+  <programme start="202511230830 +0100" stop="202511231000 +0100" channel="PTV.Global.pk">
+    <title>Best Of Rising Pakistan (f)</title>
+    <desc>Best Of Rising Pakistan (f)
+Best of Rising Pakistan (Fresh)</desc>
+  </programme>
+  <programme start="202511231000 +0100" stop="202511231030 +0100" channel="PTV.Global.pk">
+    <title>Al-quran Ul Hakeem (r) (ep-35)</title>
+    <desc>Al-quran Ul Hakeem (r) (ep-35)
+Al-Quran ul Hakeem  (Repeat) (ep-35)</desc>
+  </programme>
+  <programme start="202511231030 +0100" stop="202511231100 +0100" channel="PTV.Global.pk">
+    <title>Bayan By Saqib Raza Mustafai (f) (ep-15)</title>
+    <desc>Bayan By Saqib Raza Mustafai (f) (ep-15)
+Bayan By Saqib Raza Mustafai (Fresh)  (ep-15)</desc>
+  </programme>
+  <programme start="202511231100 +0100" stop="202511231230 +0100" channel="PTV.Global.pk">
+    <title>Best Of Morning @ Home (f)</title>
+    <desc>Best Of Morning @ Home (f)
+Best of Morning @ Home (Fresh)</desc>
+  </programme>
+  <programme start="202511231230 +0100" stop="202511231330 +0100" channel="PTV.Global.pk">
+    <title>Parchaiyan " (ep-02)</title>
+    <desc>Parchaiyan " (ep-02)</desc>
+  </programme>
+  <programme start="202511231330 +0100" stop="202511231500 +0100" channel="PTV.Global.pk">
+    <title>Weekend @ Home (f)</title>
+    <desc>Weekend @ Home (f)
+Weekend @ Home (Fresh)</desc>
+  </programme>
+  <programme start="202511231500 +0100" stop="202511231600 +0100" channel="PTV.Global.pk">
+    <title>Aaslam Ka Gaon (r) (ep-28)</title>
+    <desc>Aaslam Ka Gaon (r) (ep-28)
+Aaslam Ka Gaon (Repeat)    (ep-28)</desc>
+  </programme>
+  <programme start="202511231600 +0100" stop="202511231700 +0100" channel="PTV.Global.pk">
+    <title>Perspective (f) (live)</title>
+    <desc>Perspective (f) (live)
+Perspective  (Fresh)  (LIVE)
+Perspective  (F)  (Live)</desc>
+  </programme>
+  <programme start="202511231700 +0100" stop="202511231800 +0100" channel="PTV.Global.pk">
+    <title>Khabarnama (live)</title>
+    <desc>Khabarnama (live)
+Khabarnama (Live)</desc>
+  </programme>
+  <programme start="202511231800 +0100" stop="202511231830 +0100" channel="PTV.Global.pk">
+    <title>Aap Ka Khadim (f) (ep-24)</title>
+    <desc>Aap Ka Khadim (f) (ep-24)
+Aap Ka Khadim  (Fresh)   (ep-24)</desc>
+  </programme>
+  <programme start="202511231830 +0100" stop="202511231900 +0100" channel="PTV.Global.pk">
+    <title>Ghao (f) (ep-52)</title>
+    <desc>Ghao (f) (ep-52)
+Ghao (Fresh)     (ep-52)</desc>
+  </programme>
+  <programme start="202511231900 +0100" stop="202511231930 +0100" channel="PTV.Global.pk">
+    <title>Little Chef (f) (ep-20)</title>
+    <desc>Little Chef (f) (ep-20)
+Little chef (Fresh)  (ep-20)</desc>
+  </programme>
+  <programme start="202511231930 +0100" stop="202511232000 +0100" channel="PTV.Global.pk">
+    <title>Music Box (f) (ep-10)</title>
+    <desc>Music Box (f) (ep-10)
+Music Box  (Fresh)       (ep-10)</desc>
+  </programme>
+  <programme start="202511232000 +0100" stop="202511232100 +0100" channel="PTV.Global.pk">
+    <title>Aadhay Adohray (f) (ep-29)</title>
+    <desc>Aadhay Adohray (f) (ep-29)
+Aadhay Adohray (Fresh)    (ep-29)</desc>
+  </programme>
+  <programme start="202511232100 +0100" stop="202511232200 +0100" channel="PTV.Global.pk">
+    <title>Siah Sufaid (f) (ep-12)</title>
+    <desc>Siah Sufaid (f) (ep-12)
+Siah Sufaid (Fresh)    (ep-12)</desc>
+  </programme>
+  <programme start="202511232200 +0100" stop="202511232300 +0100" channel="PTV.Global.pk">
+    <title>Weekend @ Global (new Show) (f) (ep-24)</title>
+    <desc>Weekend @ Global (new Show) (f) (ep-24)
+Weekend @ Global (New Show)   (Fresh)     (ep-24)</desc>
+  </programme>
+  <programme start="202511232300 +0100" stop="202511242300 +0100" channel="PTV.Global.pk">
     <title>Khabarnama (live)</title>
     <desc>Khabarnama (live)
 Khabarnama (Live)</desc>

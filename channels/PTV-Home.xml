@@ -4,110 +4,6 @@
     <display-name>PTV Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-Home.png" />
   </channel>
-  <programme start="20251116053000 +0500" stop="20251116060000 +0500" channel="PTV.Home.pk">
-    <title>Kainaat (Rpt)</title>
-    <desc>Kainaat (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251116060000 +0500" stop="20251116070000 +0500" channel="PTV.Home.pk">
-    <title>Iqra (Ep: 65)</title>
-    <desc>Iqra (Ep: 65)
-Episode 65</desc>
-  </programme>
-  <programme start="20251116070000 +0500" stop="20251116073000 +0500" channel="PTV.Home.pk">
-    <title>Pagham E Pakistan (Fresh)</title>
-    <desc>Pagham E Pakistan (Fresh)
-Fresh</desc>
-  </programme>
-  <programme start="20251116073000 +0500" stop="20251116090000 +0500" channel="PTV.Home.pk">
-    <title>Best Of Rising Pakistan (Rpt)</title>
-    <desc>Best Of Rising Pakistan (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251116090000 +0500" stop="20251116100000 +0500" channel="PTV.Home.pk">
-    <title>Madarana-Mohabbat Ka Jahan (Ep: 04) (Rpt)</title>
-    <desc>Madarana-Mohabbat Ka Jahan (Ep: 04) (Rpt)
-Episode 04
-Repeat</desc>
-  </programme>
-  <programme start="20251116100000 +0500" stop="20251116000000 +0500" channel="PTV.Home.pk">
-    <title>Weekend @ Home (Rpt)</title>
-    <desc>Weekend @ Home (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251116000000 +0500" stop="20251116123000 +0500" channel="PTV.Home.pk">
-    <title>Bts Pakistan Idol (Ep: 03) (Rpt)</title>
-    <desc>Bts Pakistan Idol (Ep: 03) (Rpt)
-Episode 03
-Repeat</desc>
-  </programme>
-  <programme start="20251116123000 +0500" stop="20251116140500 +0500" channel="PTV.Home.pk">
-    <title>Pakistan Idol (Ep: 03)</title>
-    <desc>Pakistan Idol (Ep: 03)
-Episode 03</desc>
-  </programme>
-  <programme start="20251116140500 +0500" stop="20251116172000 +0500" channel="PTV.Home.pk">
-    <title>Barbarosa (Drama Serial) (Ep: 88 To 91) (Rpt)</title>
-    <desc>Barbarosa (Drama Serial) (Ep: 88 To 91) (Rpt)
-Episode 88 TO 91
-Repeat</desc>
-  </programme>
-  <programme start="20251116172000 +0500" stop="20251116173000 +0500" channel="PTV.Home.pk">
-    <title>Al-Qura’An</title>
-    <desc>Al-Qura’An</desc>
-  </programme>
-  <programme start="20251116173000 +0500" stop="20251116180000 +0500" channel="PTV.Home.pk">
-    <title>Fun Factor (Ep: 05) (Rpt)</title>
-    <desc>Fun Factor (Ep: 05) (Rpt)
-Episode 05
-Repeat</desc>
-  </programme>
-  <programme start="20251116180000 +0500" stop="20251116183000 +0500" channel="PTV.Home.pk">
-    <title>Padharo Maray Des (Ep: 20) (Rpt)</title>
-    <desc>Padharo Maray Des (Ep: 20) (Rpt)
-Episode 20
-Repeat</desc>
-  </programme>
-  <programme start="20251116183000 +0500" stop="20251116190000 +0500" channel="PTV.Home.pk">
-    <title>Ajju &amp; Bhola (Ep: 12)</title>
-    <desc>Ajju &amp; Bhola (Ep: 12)
-Episode 12</desc>
-  </programme>
-  <programme start="20251116190000 +0500" stop="20251116200000 +0500" channel="PTV.Home.pk">
-    <title>Nazr Lag Gae (Ep: 01) (Fresh)</title>
-    <desc>Nazr Lag Gae (Ep: 01) (Fresh)
-Fresh
-Episode 01</desc>
-  </programme>
-  <programme start="20251116200000 +0500" stop="20251116203000 +0500" channel="PTV.Home.pk">
-    <title>Bts Pakistan Idol (Ep: 02) (Fresh)</title>
-    <desc>Bts Pakistan Idol (Ep: 02) (Fresh)
-Fresh
-Episode 02</desc>
-  </programme>
-  <programme start="20251116203000 +0500" stop="20251116220000 +0500" channel="PTV.Home.pk">
-    <title>Pakistan Idol (Ep: 02) (Fresh)</title>
-    <desc>Pakistan Idol (Ep: 02) (Fresh)
-Fresh
-Episode 02</desc>
-  </programme>
-  <programme start="20251116220000 +0500" stop="20251116233000 +0500" channel="PTV.Home.pk">
-    <title>Star &amp; Style (Fresh)</title>
-    <desc>Star &amp; Style (Fresh)
-Fresh</desc>
-  </programme>
-  <programme start="20251116233000 +0500" stop="20251116230000 +0500" channel="PTV.Home.pk">
-    <title>Padharo Maray Des (Ep: 20) (Rpt)</title>
-    <desc>Padharo Maray Des (Ep: 20) (Rpt)
-Episode 20
-Repeat</desc>
-  </programme>
-  <programme start="20251116230000 +0500" stop="20251117053000 +0500" channel="PTV.Home.pk">
-    <title>Us Ne Chaha Tha Chand (Ep: 23) (Rpt)</title>
-    <desc>Us Ne Chaha Tha Chand (Ep: 23) (Rpt)
-Episode 23
-Repeat</desc>
-  </programme>
   <programme start="20251117053000 +0500" stop="20251117060000 +0500" channel="PTV.Home.pk">
     <title>Ibteda (Fresh)</title>
     <desc>Ibteda (Fresh)
@@ -895,6 +791,110 @@ Repeat</desc>
     <title>Matti Rang Aur Khushbu (Ep: 17) (Rpt)</title>
     <desc>Matti Rang Aur Khushbu (Ep: 17) (Rpt)
 Episode 17
+Repeat</desc>
+  </programme>
+  <programme start="20251123053000 +0500" stop="20251123060000 +0500" channel="PTV.Home.pk">
+    <title>Kainaat (Rpt)</title>
+    <desc>Kainaat (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251123060000 +0500" stop="20251123070000 +0500" channel="PTV.Home.pk">
+    <title>Iqra (Ep: 65)</title>
+    <desc>Iqra (Ep: 65)
+Episode 65</desc>
+  </programme>
+  <programme start="20251123070000 +0500" stop="20251123073000 +0500" channel="PTV.Home.pk">
+    <title>Pagham E Pakistan (Fresh)</title>
+    <desc>Pagham E Pakistan (Fresh)
+Fresh</desc>
+  </programme>
+  <programme start="20251123073000 +0500" stop="20251123090000 +0500" channel="PTV.Home.pk">
+    <title>Best Of Rising Pakistan (Rpt)</title>
+    <desc>Best Of Rising Pakistan (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251123090000 +0500" stop="20251123100000 +0500" channel="PTV.Home.pk">
+    <title>Madarana-Mohabbat Ka Jahan (Ep: 04) (Rpt)</title>
+    <desc>Madarana-Mohabbat Ka Jahan (Ep: 04) (Rpt)
+Episode 04
+Repeat</desc>
+  </programme>
+  <programme start="20251123100000 +0500" stop="20251123000000 +0500" channel="PTV.Home.pk">
+    <title>Weekend @ Home (Rpt)</title>
+    <desc>Weekend @ Home (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251123000000 +0500" stop="20251123123000 +0500" channel="PTV.Home.pk">
+    <title>Bts Pakistan Idol (Ep: 03) (Rpt)</title>
+    <desc>Bts Pakistan Idol (Ep: 03) (Rpt)
+Episode 03
+Repeat</desc>
+  </programme>
+  <programme start="20251123123000 +0500" stop="20251123140500 +0500" channel="PTV.Home.pk">
+    <title>Pakistan Idol (Ep: 03)</title>
+    <desc>Pakistan Idol (Ep: 03)
+Episode 03</desc>
+  </programme>
+  <programme start="20251123140500 +0500" stop="20251123172000 +0500" channel="PTV.Home.pk">
+    <title>Barbarosa (Drama Serial) (Ep: 88 To 91) (Rpt)</title>
+    <desc>Barbarosa (Drama Serial) (Ep: 88 To 91) (Rpt)
+Episode 88 TO 91
+Repeat</desc>
+  </programme>
+  <programme start="20251123172000 +0500" stop="20251123173000 +0500" channel="PTV.Home.pk">
+    <title>Al-Qura’An</title>
+    <desc>Al-Qura’An</desc>
+  </programme>
+  <programme start="20251123173000 +0500" stop="20251123180000 +0500" channel="PTV.Home.pk">
+    <title>Fun Factor (Ep: 05) (Rpt)</title>
+    <desc>Fun Factor (Ep: 05) (Rpt)
+Episode 05
+Repeat</desc>
+  </programme>
+  <programme start="20251123180000 +0500" stop="20251123183000 +0500" channel="PTV.Home.pk">
+    <title>Padharo Maray Des (Ep: 20) (Rpt)</title>
+    <desc>Padharo Maray Des (Ep: 20) (Rpt)
+Episode 20
+Repeat</desc>
+  </programme>
+  <programme start="20251123183000 +0500" stop="20251123190000 +0500" channel="PTV.Home.pk">
+    <title>Ajju &amp; Bhola (Ep: 12)</title>
+    <desc>Ajju &amp; Bhola (Ep: 12)
+Episode 12</desc>
+  </programme>
+  <programme start="20251123190000 +0500" stop="20251123200000 +0500" channel="PTV.Home.pk">
+    <title>Nazr Lag Gae (Ep: 01) (Fresh)</title>
+    <desc>Nazr Lag Gae (Ep: 01) (Fresh)
+Fresh
+Episode 01</desc>
+  </programme>
+  <programme start="20251123200000 +0500" stop="20251123203000 +0500" channel="PTV.Home.pk">
+    <title>Bts Pakistan Idol (Ep: 02) (Fresh)</title>
+    <desc>Bts Pakistan Idol (Ep: 02) (Fresh)
+Fresh
+Episode 02</desc>
+  </programme>
+  <programme start="20251123203000 +0500" stop="20251123220000 +0500" channel="PTV.Home.pk">
+    <title>Pakistan Idol (Ep: 02) (Fresh)</title>
+    <desc>Pakistan Idol (Ep: 02) (Fresh)
+Fresh
+Episode 02</desc>
+  </programme>
+  <programme start="20251123220000 +0500" stop="20251123233000 +0500" channel="PTV.Home.pk">
+    <title>Star &amp; Style (Fresh)</title>
+    <desc>Star &amp; Style (Fresh)
+Fresh</desc>
+  </programme>
+  <programme start="20251123233000 +0500" stop="20251123230000 +0500" channel="PTV.Home.pk">
+    <title>Padharo Maray Des (Ep: 20) (Rpt)</title>
+    <desc>Padharo Maray Des (Ep: 20) (Rpt)
+Episode 20
+Repeat</desc>
+  </programme>
+  <programme start="20251123230000 +0500" stop="20251124053000 +0500" channel="PTV.Home.pk">
+    <title>Us Ne Chaha Tha Chand (Ep: 23) (Rpt)</title>
+    <desc>Us Ne Chaha Tha Chand (Ep: 23) (Rpt)
+Episode 23
 Repeat</desc>
   </programme>
 </tv>

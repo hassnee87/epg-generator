@@ -3,38 +3,5 @@
   <channel id="Bloomberg.Originals.us">
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Bloomberg-Originals.png" />
-  </channel><programme channel="Bloomberg.Originals.us" start="20251116030000 +0500" stop="20251116033000 +0500">
-    <title>Power Players</title>
-    <desc>Power Players National Women's Soccer League Commissioner Jessica Berman is presiding over a pivotal moment for women's soccer.</desc>
-  </programme><programme channel="Bloomberg.Originals.us" start="20251116033000 +0500" stop="20251116040000 +0500">
-    <title>The Circuit With Emily Chang</title>
-    <desc>The Circuit With Emily Chang Emily Chang meets Alexis Ohanian at Athlos NYC, an annual women's track and field event. They discuss his athletics portfolio, venture career and what really happened when he left Reddit.</desc>
-  </programme><programme channel="Bloomberg.Originals.us" start="20251116040000 +0500" stop="20251116043000 +0500">
-    <title>The Circuit</title>
-    <desc>The Circuit Emily Chang meets Snap CEO Evan Spiegel in Los Angeles for a conversation about his entrepreneurial journey, building Snap and his latest consumer hardware bet  Spiegel is doubling down on smart glasses and going head to head with giants like Google.</desc>
-  </programme><programme channel="Bloomberg.Originals.us" start="20251116043000 +0500" stop="20251116050000 +0500">
-    <title>The Circuit</title>
-    <desc>The Circuit Emily Chang meets Salesforce Co-Founder and CEO Marc Benioff to discuss the rise of AI agents and what it's like to run a global tech company.</desc>
-  </programme><programme channel="Bloomberg.Originals.us" start="20251116050000 +0500" stop="20251116053000 +0500">
-    <title>The Circuit</title>
-    <desc>The Circuit Emily Chang speaks with Microsoft titans Bill Gates, Steve Ballmer and Satya Nadella about the company's journey from scrappy startup to global powerhouse.</desc>
-  </programme><programme channel="Bloomberg.Originals.us" start="20251116053000 +0500" stop="20251116060000 +0500">
-    <title>The Circuit</title>
-    <desc>The Circuit Emily Chang speaks with Microsoft titans Bill Gates, Steve Ballmer and Satya Nadella about the company's journey from scrappy startup to global powerhouse.</desc>
-  </programme><programme channel="Bloomberg.Originals.us" start="20251116060000 +0500" stop="20251116070000 +0500">
-    <title>Bloomberg Investigates</title>
-    <desc>Bloomberg Investigates Rainbow Mountain offers tourists a picture-perfect view that has flooded social media feeds  behind this viral beauty spot is the story of a community at war, cries for help ignored and murder.</desc>
-  </programme><programme channel="Bloomberg.Originals.us" start="20251116070000 +0500" stop="20251116080000 +0500">
-    <title>Bloomberg Investigates</title>
-    <desc>Bloomberg Investigates Alleged scammers in the U.K. are accused of defrauding would-be migrant health care workers out of tens of thousands of pounds  some victims have turned to a vigilante scammer hunter for help.</desc>
-  </programme><programme channel="Bloomberg.Originals.us" start="20251116080000 +0500" stop="20251116083000 +0500">
-    <title>Bloomberg Investigates</title>
-    <desc>Bloomberg Investigates Fake permits, undercover informants and millions of dollars are involved  a US government agency works to prove suppliers to research labs import wild monkeys from Cambodia with false paperwork.</desc>
-  </programme><programme channel="Bloomberg.Originals.us" start="20251116083000 +0500" stop="20251116090000 +0500">
-    <title>Bloomberg Investigates</title>
-    <desc>Bloomberg Investigates An estimated $1 trillion lost globally to fraud  with law enforcement struggling to cope, scambaiter vigilantes are filling the gaps.</desc>
-  </programme><programme channel="Bloomberg.Originals.us" start="20251116090000 +0500" stop="20251116100000 +0500">
-    <title>Bloomberg Investigates</title>
-    <desc>Bloomberg Investigates The demand for human eggs is booming, giving rise to a largely unregulated and dangerous marketplace  in India, meeting a teenage girl caught up in this fertility underworld.</desc>
-  </programme>
+  </channel>
 </tv>

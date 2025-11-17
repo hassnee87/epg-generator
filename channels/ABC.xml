@@ -3,67 +3,7 @@
   <channel id="ABC.us">
     <display-name>ABC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ABC.png" />
-  </channel><programme channel="ABC.us" start="20251116010000 +0500" stop="20251116013000 +0500">
-    <title>Live: College Football Scoreboard</title>
-    <desc>All the latest news and analysis from the world of college football.</desc>
-  </programme><programme channel="ABC.us" start="20251116013000 +0500" stop="20251116043000 +0500">
-    <title>Live: College Football</title>
-    <desc>The No. 11 Sooners (7-2, 3-2 SEC) visit the No. 4 Crimson Tide (8-1, 6-0) in this marquee matchup. Alabama has won eight straight after burying LSU, 20-9 out of its bye Nov. 8. Oklahoma shocked then-No. 14 Tennessee 33-27 before its week off Nov. 1.</desc>
-  </programme><programme channel="ABC.us" start="20251116043000 +0500" stop="20251116050000 +0500">
-    <title>Live: College Football Scoreboard</title>
-    <desc>All the latest news and analysis from the world of college football.</desc>
-  </programme><programme channel="ABC.us" start="20251116050000 +0500" stop="20251116053000 +0500">
-    <title>Live: College Football Scoreboard</title>
-    <desc>All the latest news and analysis from the world of college football.</desc>
-  </programme><programme channel="ABC.us" start="20251116053000 +0500" stop="20251116090000 +0500">
-    <title>Live: College Football</title>
-    <desc>The No. 5 Bulldogs host the No. 10 Longhorns. In 2024, Georgia beat Texas 30-15 in the regular season, and 22-19 in overtime in the SEC title game. Texas held off then-No. 9 Vanderbilt for a fourth straight win Nov. 1. Georgia has won five in a row.</desc>
-  </programme><programme channel="ABC.us" start="20251116090000 +0500" stop="20251116110000 +0500">
-    <title>20/20</title>
-    <desc>Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
-  </programme><programme channel="ABC.us" start="20251116110000 +0500" stop="20251116130000 +0500">
-    <title>Live: 20/20</title>
-    <desc>Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
-  </programme><programme channel="ABC.us" start="20251116130000 +0500" stop="20251116140000 +0500">
-    <title>The Golden Girls: 40 Years of Laughter and Friendship -- A Special Edition of 20/20</title>
-    <desc>A behind-the-scenes look at the beloved sitcom's enduring impact on TV and culture, including interviews with superfans Sheryl Lee Ralph, Kelly Ripa, Laverne Cox and former guest star Mario Lopez.</desc>
-  </programme><programme channel="ABC.us" start="20251116140000 +0500" stop="20251116160000 +0500">
-    <title>Live: 20/20</title>
-    <desc>Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
-  </programme><programme channel="ABC.us" start="20251116160000 +0500" stop="20251116163000 +0500">
-    <title>ABC News Live Weekend</title>
-    <desc>Breaking news coverage and live video.</desc>
-  </programme><programme channel="ABC.us" start="20251116163000 +0500" stop="20251116170000 +0500">
-    <title>GMA Life</title>
-    <desc>A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
-  </programme><programme channel="ABC.us" start="20251116170000 +0500" stop="20251116180000 +0500">
-    <title>Good Morning America</title>
-    <desc>Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
-  </programme><programme channel="ABC.us" start="20251116180000 +0500" stop="20251116190000 +0500">
-    <title>Good Morning America</title>
-    <desc>Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
-  </programme><programme channel="ABC.us" start="20251116190000 +0500" stop="20251116200000 +0500">
-    <title>This Week With George Stephanopoulos</title>
-    <desc>Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
-  </programme><programme channel="ABC.us" start="20251116200000 +0500" stop="20251116210000 +0500">
-    <title>This Week With George Stephanopoulos</title>
-    <desc>Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
-  </programme><programme channel="ABC.us" start="20251116210000 +0500" stop="20251116213000 +0500">
-    <title>ABC News Live Weekends</title>
-    <desc>Breaking news coverage and live video.</desc>
-  </programme><programme channel="ABC.us" start="20251116213000 +0500" stop="20251116220000 +0500">
-    <title>GMA Life</title>
-    <desc>A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
-  </programme><programme channel="ABC.us" start="20251116220000 +0500" stop="20251116230000 +0500">
-    <title>Live: This Week With George Stephanopoulos</title>
-    <desc>Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
-  </programme><programme channel="ABC.us" start="20251116230000 +0500" stop="20251116233000 +0500">
-    <title>ABC News Live Weekend: Sunday</title>
-    <desc>Breaking news coverage and live video.</desc>
-  </programme><programme channel="ABC.us" start="20251116233000 +0500" stop="20251117000000 +0500">
-    <title>GMA Life</title>
-    <desc>A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
-  </programme><programme channel="ABC.us" start="20251117000000 +0500" stop="20251117010000 +0500">
+  </channel><programme channel="ABC.us" start="20251117000000 +0500" stop="20251117010000 +0500">
     <title>This Week With George Stephanopoulos</title>
     <desc>Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
   </programme><programme channel="ABC.us" start="20251117010000 +0500" stop="20251117033000 +0500">

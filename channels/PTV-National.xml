@@ -4,66 +4,6 @@
     <display-name>PTV National</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-National.png" />
   </channel>
-  <programme start="20251116120000 +0500" stop="20251116121500 +0500" channel="PTV.National.pk">
-    <title>Sindhi News (Ptv-National)</title>
-    <desc>Sindhi News (Ptv-National)</desc>
-  </programme>
-  <programme start="20251116121500 +0500" stop="20251116020000 +0500" channel="PTV.National.pk">
-    <title>Pakistan Time Multi Languages (Live Program)</title>
-    <desc>Pakistan Time Multi Languages (Live Program)</desc>
-  </programme>
-  <programme start="20251116020000 +0500" stop="20251116150000 +0500" channel="PTV.National.pk">
-    <title>Natak Rang (Odd Play)</title>
-    <desc>Natak Rang (Odd Play)</desc>
-  </programme>
-  <programme start="20251116150000 +0500" stop="20251116153000 +0500" channel="PTV.National.pk">
-    <title>Lehar Lehar Sangeet (Music Program)</title>
-    <desc>Lehar Lehar Sangeet (Music Program)</desc>
-  </programme>
-  <programme start="20251116153000 +0500" stop="20251116160000 +0500" channel="PTV.National.pk">
-    <title>Roshan Tara (Children Program)</title>
-    <desc>Roshan Tara (Children Program)</desc>
-  </programme>
-  <programme start="20251116160000 +0500" stop="20251116163000 +0500" channel="PTV.National.pk">
-    <title>Sindhi Filmi Sansaar (Filmi Program)</title>
-    <desc>Sindhi Filmi Sansaar (Filmi Program)</desc>
-  </programme>
-  <programme start="20251116163000 +0500" stop="20251116170000 +0500" channel="PTV.National.pk">
-    <title>Kachahri (Folk Lor)</title>
-    <desc>Kachahri (Folk Lor)</desc>
-  </programme>
-  <programme start="20251116170000 +0500" stop="20251116174500 +0500" channel="PTV.National.pk">
-    <title>Natak Rang ( Odd Play )</title>
-    <desc>Natak Rang ( Odd Play )</desc>
-  </programme>
-  <programme start="20251116174500 +0500" stop="20251116180000 +0500" channel="PTV.National.pk">
-    <title>Sindhi News (Ptv-National)</title>
-    <desc>Sindhi News (Ptv-National)</desc>
-  </programme>
-  <programme start="20251116180000 +0500" stop="20251116190000 +0500" channel="PTV.National.pk">
-    <title>Saijj Natak Rang (Drama Serial)</title>
-    <desc>Saijj Natak Rang (Drama Serial)</desc>
-  </programme>
-  <programme start="20251116190000 +0500" stop="20251116200000 +0500" channel="PTV.National.pk">
-    <title>Natak Rang (Odd Play)</title>
-    <desc>Natak Rang (Odd Play)</desc>
-  </programme>
-  <programme start="20251116200000 +0500" stop="20251116230000 +0500" channel="PTV.National.pk">
-    <title>Sindh Time (Repeat Time 1)</title>
-    <desc>Sindh Time (Repeat Time 1)</desc>
-  </programme>
-  <programme start="20251116230000 +0500" stop="20251116060000 +0500" channel="PTV.National.pk">
-    <title>Pakistan Time Multi Languages (Repeat Program)</title>
-    <desc>Pakistan Time Multi Languages (Repeat Program)</desc>
-  </programme>
-  <programme start="20251116060000 +0500" stop="20251116040000 +0500" channel="PTV.National.pk">
-    <title>Al-Quran (Ptv Home)</title>
-    <desc>Al-Quran (Ptv Home)</desc>
-  </programme>
-  <programme start="20251116040000 +0500" stop="20251117120000 +0500" channel="PTV.National.pk">
-    <title>Sindh Time (Repeat Time 2)</title>
-    <desc>Sindh Time (Repeat Time 2)</desc>
-  </programme>
   <programme start="20251117120000 +0500" stop="20251117121500 +0500" channel="PTV.National.pk">
     <title>Sindhi News Ptv-National</title>
     <desc>Sindhi News Ptv-National</desc>
@@ -385,6 +325,66 @@
     <desc>Al-Quran (Ptv Home)</desc>
   </programme>
   <programme start="20251122040000 +0500" stop="20251123120000 +0500" channel="PTV.National.pk">
+    <title>Sindh Time (Repeat Time 2)</title>
+    <desc>Sindh Time (Repeat Time 2)</desc>
+  </programme>
+  <programme start="20251123120000 +0500" stop="20251123121500 +0500" channel="PTV.National.pk">
+    <title>Sindhi News (Ptv-National)</title>
+    <desc>Sindhi News (Ptv-National)</desc>
+  </programme>
+  <programme start="20251123121500 +0500" stop="20251123020000 +0500" channel="PTV.National.pk">
+    <title>Pakistan Time Multi Languages (Live Program)</title>
+    <desc>Pakistan Time Multi Languages (Live Program)</desc>
+  </programme>
+  <programme start="20251123020000 +0500" stop="20251123150000 +0500" channel="PTV.National.pk">
+    <title>Natak Rang (Odd Play)</title>
+    <desc>Natak Rang (Odd Play)</desc>
+  </programme>
+  <programme start="20251123150000 +0500" stop="20251123153000 +0500" channel="PTV.National.pk">
+    <title>Lehar Lehar Sangeet (Music Program)</title>
+    <desc>Lehar Lehar Sangeet (Music Program)</desc>
+  </programme>
+  <programme start="20251123153000 +0500" stop="20251123160000 +0500" channel="PTV.National.pk">
+    <title>Roshan Tara (Children Program)</title>
+    <desc>Roshan Tara (Children Program)</desc>
+  </programme>
+  <programme start="20251123160000 +0500" stop="20251123163000 +0500" channel="PTV.National.pk">
+    <title>Sindhi Filmi Sansaar (Filmi Program)</title>
+    <desc>Sindhi Filmi Sansaar (Filmi Program)</desc>
+  </programme>
+  <programme start="20251123163000 +0500" stop="20251123170000 +0500" channel="PTV.National.pk">
+    <title>Kachahri (Folk Lor)</title>
+    <desc>Kachahri (Folk Lor)</desc>
+  </programme>
+  <programme start="20251123170000 +0500" stop="20251123174500 +0500" channel="PTV.National.pk">
+    <title>Natak Rang ( Odd Play )</title>
+    <desc>Natak Rang ( Odd Play )</desc>
+  </programme>
+  <programme start="20251123174500 +0500" stop="20251123180000 +0500" channel="PTV.National.pk">
+    <title>Sindhi News (Ptv-National)</title>
+    <desc>Sindhi News (Ptv-National)</desc>
+  </programme>
+  <programme start="20251123180000 +0500" stop="20251123190000 +0500" channel="PTV.National.pk">
+    <title>Saijj Natak Rang (Drama Serial)</title>
+    <desc>Saijj Natak Rang (Drama Serial)</desc>
+  </programme>
+  <programme start="20251123190000 +0500" stop="20251123200000 +0500" channel="PTV.National.pk">
+    <title>Natak Rang (Odd Play)</title>
+    <desc>Natak Rang (Odd Play)</desc>
+  </programme>
+  <programme start="20251123200000 +0500" stop="20251123230000 +0500" channel="PTV.National.pk">
+    <title>Sindh Time (Repeat Time 1)</title>
+    <desc>Sindh Time (Repeat Time 1)</desc>
+  </programme>
+  <programme start="20251123230000 +0500" stop="20251123060000 +0500" channel="PTV.National.pk">
+    <title>Pakistan Time Multi Languages (Repeat Program)</title>
+    <desc>Pakistan Time Multi Languages (Repeat Program)</desc>
+  </programme>
+  <programme start="20251123060000 +0500" stop="20251123040000 +0500" channel="PTV.National.pk">
+    <title>Al-Quran (Ptv Home)</title>
+    <desc>Al-Quran (Ptv Home)</desc>
+  </programme>
+  <programme start="20251123040000 +0500" stop="20251124120000 +0500" channel="PTV.National.pk">
     <title>Sindh Time (Repeat Time 2)</title>
     <desc>Sindh Time (Repeat Time 2)</desc>
   </programme>

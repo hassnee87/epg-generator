@@ -3,78 +3,7 @@
   <channel id="Fox.News.Channel.us">
     <display-name>Fox News Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Fox-News-Channel.png" />
-  </channel><programme channel="Fox.News.Channel.us" start="20251116000000 +0500" stop="20251116010000 +0500">
-    <title>Live: The Journal Editorial Report</title>
-    <desc>Paul Gigot discusses news, politics, society and finance.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116010000 +0500" stop="20251116020000 +0500">
-    <title>Live: Fox Report With Jon Scott</title>
-    <desc>The latest headlines, news and analysis.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116020000 +0500" stop="20251116030000 +0500">
-    <title>Live: Fox Report With Jon Scott</title>
-    <desc>The latest headlines, news and analysis.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116030000 +0500" stop="20251116040000 +0500">
-    <title>Live: The Big Weekend Show</title>
-    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116040000 +0500" stop="20251116050000 +0500">
-    <title>Live: The Big Weekend Show</title>
-    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116050000 +0500" stop="20251116060000 +0500">
-    <title>Live: The Big Weekend Show</title>
-    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116060000 +0500" stop="20251116070000 +0500">
-    <title>Live: Life, Liberty &amp; Levin</title>
-    <desc>Exploring the fundamental values and principles undergirding American society, culture, politics, and current events, and their relevance to the nation's future and everyday lives of citizens.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116070000 +0500" stop="20251116080000 +0500">
-    <title>Live: My View With Lara Trump</title>
-    <desc>Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116080000 +0500" stop="20251116090000 +0500">
-    <title>Live: FOX News Saturday Night With Jimmy Failla</title>
-    <desc>Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116090000 +0500" stop="20251116100000 +0500">
-    <title>Gutfeld!</title>
-    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116100000 +0500" stop="20251116110000 +0500">
-    <title>Life, Liberty &amp; Levin</title>
-    <desc>Exploring the fundamental values and principles undergirding American society, culture, politics, and current events, and their relevance to the nation's future and everyday lives of citizens.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116110000 +0500" stop="20251116120000 +0500">
-    <title>My View With Lara Trump</title>
-    <desc>Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116120000 +0500" stop="20251116130000 +0500">
-    <title>FOX News Saturday Night With Jimmy Failla</title>
-    <desc>Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116130000 +0500" stop="20251116140000 +0500">
-    <title>Life, Liberty &amp; Levin</title>
-    <desc>Exploring the fundamental values and principles undergirding American society, culture, politics, and current events, and their relevance to the nation's future and everyday lives of citizens.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116140000 +0500" stop="20251116150000 +0500">
-    <title>My View With Lara Trump</title>
-    <desc>Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116150000 +0500" stop="20251116160000 +0500">
-    <title>FOX News Saturday Night With Jimmy Failla</title>
-    <desc>Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116160000 +0500" stop="20251116170000 +0500">
-    <title>Live: Fox &amp; Friends Weekend</title>
-    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116170000 +0500" stop="20251116180000 +0500">
-    <title>Live: Fox &amp; Friends Weekend</title>
-    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116180000 +0500" stop="20251116190000 +0500">
-    <title>Live: Fox &amp; Friends Weekend</title>
-    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116190000 +0500" stop="20251116200000 +0500">
-    <title>Live: Fox &amp; Friends Weekend</title>
-    <desc>FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116200000 +0500" stop="20251116210000 +0500">
-    <title>Live: Sunday Morning Futures With Maria Bartiromo</title>
-    <desc>Analysis of recent economic developments and interviews with business leaders and newsmakers.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116210000 +0500" stop="20251116220000 +0500">
-    <title>Live: The Sunday Briefing</title>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116220000 +0500" stop="20251116230000 +0500">
-    <title>Fox News Live</title>
-    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251116230000 +0500" stop="20251117000000 +0500">
-    <title>Fox News Live</title>
-    <desc>Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251117000000 +0500" stop="20251117010000 +0500">
+  </channel><programme channel="Fox.News.Channel.us" start="20251117000000 +0500" stop="20251117010000 +0500">
     <title>Live: FOX News Sunday</title>
     <desc>Anchor Shannon Bream interviews the biggest newsmakers of the week and leads guests in providing context and analysis of the issues facing Americans.</desc>
   </programme><programme channel="Fox.News.Channel.us" start="20251117010000 +0500" stop="20251117020000 +0500">
