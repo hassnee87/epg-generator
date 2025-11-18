@@ -4,55 +4,6 @@
     <display-name>PTV Sports</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-Sports.png" />
   </channel>
-  <programme start="20251117010000 +0500" stop="20251117030000 +0500" channel="PTV.Sports.pk">
-    <title>Betvictor European Masters Sf Ronnie O Sullivan Vs Liang (Last 4 Frames) (Repeat)</title>
-    <desc>Betvictor European Masters Sf Ronnie O Sullivan Vs Liang (Last 4 Frames) (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251117030000 +0500" stop="20251117040000 +0500" channel="PTV.Sports.pk">
-    <title>Icc Womens Wc 2025 Match 29 1St Semi Final (Repeat)</title>
-    <desc>Icc Womens Wc 2025 Match 29 1St Semi Final (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251117040000 +0500" stop="20251117060000 +0500" channel="PTV.Sports.pk">
-    <title>Epl 2024-25 Man City Vs Arsenal(Repeat)</title>
-    <desc>Epl 2024-25 Man City Vs Arsenal(Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251117060000 +0500" stop="20251117070000 +0500" channel="PTV.Sports.pk">
-    <title>54Th National Vollyball Championship 2025 Day 7 Final And 3Rd Position Match H/L(Repeat)</title>
-    <desc>54Th National Vollyball Championship 2025 Day 7 Final And 3Rd Position Match H/L(Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251117070000 +0500" stop="20251117081500 +0500" channel="PTV.Sports.pk">
-    <title>Tri Nation Series Pak Vs Sa 2025 (Repeat)</title>
-    <desc>Tri Nation Series Pak Vs Sa 2025 (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251117081500 +0500" stop="20251117101500 +0500" channel="PTV.Sports.pk">
-    <title>Epl 2024-2025 Arsenal Vs Liverpool (03-11-2025)</title>
-    <desc>Epl 2024-2025 Arsenal Vs Liverpool (03-11-2025)</desc>
-  </programme>
-  <programme start="20251117101500 +0500" stop="20251117103000 +0500" channel="PTV.Sports.pk">
-    <title>Sports Bulletin 1St (10-11-2025) (Repeat)</title>
-    <desc>Sports Bulletin 1St (10-11-2025) (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251117103000 +0500" stop="20251117190000 +0500" channel="PTV.Sports.pk">
-    <title>Islamic Solidarity Games (Live)</title>
-    <desc>Islamic Solidarity Games (Live)
-Live</desc>
-  </programme>
-  <programme start="20251117190000 +0500" stop="20251117200000 +0500" channel="PTV.Sports.pk">
-    <title>Sports Tonight (Live)</title>
-    <desc>Sports Tonight (Live)
-Live</desc>
-  </programme>
-  <programme start="20251117200000 +0500" stop="20251118000000 +0500" channel="PTV.Sports.pk">
-    <title>Silly Point (Live)</title>
-    <desc>Silly Point (Live)
-Live</desc>
-  </programme>
   <programme start="20251118000000 +0500" stop="20251118014000 +0500" channel="PTV.Sports.pk">
     <title>Hockey Asian Champions Trophy 2023 Pakistan Vs Korea(Repeat)</title>
     <desc>Hockey Asian Champions Trophy 2023 Pakistan Vs Korea(Repeat)
@@ -432,5 +383,54 @@ Fresh Repeat</desc>
   <programme start="20251123181500 +0500" stop="20251124010000 +0500" channel="PTV.Sports.pk">
     <title>Sports Bulletin 2Nd (02-11-2025) Fresh Recorded Pgm</title>
     <desc>Sports Bulletin 2Nd (02-11-2025) Fresh Recorded Pgm</desc>
+  </programme>
+  <programme start="20251124010000 +0500" stop="20251124030000 +0500" channel="PTV.Sports.pk">
+    <title>Betvictor European Masters Sf Ronnie O Sullivan Vs Liang (Last 4 Frames) (Repeat)</title>
+    <desc>Betvictor European Masters Sf Ronnie O Sullivan Vs Liang (Last 4 Frames) (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251124030000 +0500" stop="20251124040000 +0500" channel="PTV.Sports.pk">
+    <title>Icc Womens Wc 2025 Match 29 1St Semi Final (Repeat)</title>
+    <desc>Icc Womens Wc 2025 Match 29 1St Semi Final (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251124040000 +0500" stop="20251124060000 +0500" channel="PTV.Sports.pk">
+    <title>Epl 2024-25 Man City Vs Arsenal(Repeat)</title>
+    <desc>Epl 2024-25 Man City Vs Arsenal(Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251124060000 +0500" stop="20251124070000 +0500" channel="PTV.Sports.pk">
+    <title>54Th National Vollyball Championship 2025 Day 7 Final And 3Rd Position Match H/L(Repeat)</title>
+    <desc>54Th National Vollyball Championship 2025 Day 7 Final And 3Rd Position Match H/L(Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251124070000 +0500" stop="20251124081500 +0500" channel="PTV.Sports.pk">
+    <title>Tri Nation Series Pak Vs Sa 2025 (Repeat)</title>
+    <desc>Tri Nation Series Pak Vs Sa 2025 (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251124081500 +0500" stop="20251124101500 +0500" channel="PTV.Sports.pk">
+    <title>Epl 2024-2025 Arsenal Vs Liverpool (03-11-2025)</title>
+    <desc>Epl 2024-2025 Arsenal Vs Liverpool (03-11-2025)</desc>
+  </programme>
+  <programme start="20251124101500 +0500" stop="20251124103000 +0500" channel="PTV.Sports.pk">
+    <title>Sports Bulletin 1St (10-11-2025) (Repeat)</title>
+    <desc>Sports Bulletin 1St (10-11-2025) (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251124103000 +0500" stop="20251124190000 +0500" channel="PTV.Sports.pk">
+    <title>Islamic Solidarity Games (Live)</title>
+    <desc>Islamic Solidarity Games (Live)
+Live</desc>
+  </programme>
+  <programme start="20251124190000 +0500" stop="20251124200000 +0500" channel="PTV.Sports.pk">
+    <title>Sports Tonight (Live)</title>
+    <desc>Sports Tonight (Live)
+Live</desc>
+  </programme>
+  <programme start="20251124200000 +0500" stop="20251125000000 +0500" channel="PTV.Sports.pk">
+    <title>Silly Point (Live)</title>
+    <desc>Silly Point (Live)
+Live</desc>
   </programme>
 </tv>

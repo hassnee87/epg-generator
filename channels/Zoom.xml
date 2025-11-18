@@ -3,20 +3,5 @@
   <channel id="Zoom.in">
     <display-name>Zoom</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Zoom.png" />
-  </channel><programme channel="Zoom.in" start="20251117013000 +0500" stop="20251117043000 +0500">
-    <title>NIGHTOUT</title>
-    <desc>An extensive compilation of some of the catchiest foot-tapping hits from various musical artists is played back to back.</desc>
-  </programme><programme channel="Zoom.in" start="20251117043000 +0500" stop="20251117073000 +0500">
-    <title>Beetey Lamhey</title>
-    <desc>A comprehensive compilation of some of the most popular and beloved songs from the 90s is played back to back to entertain the audience and evoke nostalgia.</desc>
-  </programme><programme channel="Zoom.in" start="20251117073000 +0500" stop="20251117093000 +0500">
-    <title>SUNRISE HITS</title>
-    <desc>A comprehensive compilation of some of the most popular and catchy Bollywood songs by renowned singers and musicians is played back to back to entertain the audience.</desc>
-  </programme><programme channel="Zoom.in" start="20251117093000 +0500" stop="20251117103000 +0500">
-    <title>Likes Bajao</title>
-    <desc>Viewers from across the country vote for some of their most favourite songs on social media, which are played back to back.</desc>
-  </programme><programme channel="Zoom.in" start="20251117103000 +0500" stop="20251117123000 +0500">
-    <title>PYAAR HITS</title>
-    <desc>A compilation of some of the most iconic songs based on the theme of love, composed by popular artists and musicians, is played back-to-back.</desc>
-  </programme>
+  </channel>
 </tv>

@@ -3,29 +3,5 @@
   <channel id="B4U.Music.in">
     <display-name>B4U Music</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/B4U-Music.png" />
-  </channel><programme channel="B4U.Music.in" start="20251117013000 +0500" stop="20251117043000 +0500">
-    <title>Bajao</title>
-    <desc>Tune in to Bajao to watch whats new and whats cool. Bringing you some of the latest, hottest and exclusive tracks every day.</desc>
-  </programme><programme channel="B4U.Music.in" start="20251117043000 +0500" stop="20251117063000 +0500">
-    <title>Awaaz De Kahan Hai</title>
-    <desc>A comprehensive collection of top songs and soundtracks from a variety of genres of Hindi films play back to back.</desc>
-  </programme><programme channel="B4U.Music.in" start="20251117063000 +0500" stop="20251117073000 +0500">
-    <title>Morning Masala</title>
-    <desc>A comprehensive collection of popular Bollywood songs from various contemporary eras play back to back.</desc>
-  </programme><programme channel="B4U.Music.in" start="20251117073000 +0500" stop="20251117083000 +0500">
-    <title>Morning Masala</title>
-    <desc>A comprehensive collection of popular Bollywood songs from various contemporary eras play back to back.</desc>
-  </programme><programme channel="B4U.Music.in" start="20251117083000 +0500" stop="20251117093000 +0500">
-    <title>Morning Masala</title>
-    <desc>A comprehensive collection of popular Bollywood songs from various contemporary eras play back to back.</desc>
-  </programme><programme channel="B4U.Music.in" start="20251117093000 +0500" stop="20251117103000 +0500">
-    <title>Morning Masala</title>
-    <desc>A comprehensive collection of popular Bollywood songs from various contemporary eras play back to back.</desc>
-  </programme><programme channel="B4U.Music.in" start="20251117103000 +0500" stop="20251117113000 +0500">
-    <title>Morning Masala</title>
-    <desc>A comprehensive collection of popular Bollywood songs from various contemporary eras play back to back.</desc>
-  </programme><programme channel="B4U.Music.in" start="20251117113000 +0500" stop="20251117123000 +0500">
-    <title>Bajao</title>
-    <desc>Tune in to Bajao to watch whats new and whats cool. Bringing you some of the latest, hottest and exclusive tracks every day.</desc>
-  </programme>
+  </channel>
 </tv>

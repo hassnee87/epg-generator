@@ -3,26 +3,5 @@
   <channel id="ABC.News.Live.us">
     <display-name>ABC News Live</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ABC-News-Live.png" />
-  </channel><programme channel="ABC.News.Live.us" start="20251117000000 +0500" stop="20251117010000 +0500">
-    <title>This Week With George Stephanopoulos</title>
-    <desc>Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
-  </programme><programme channel="ABC.News.Live.us" start="20251117010000 +0500" stop="20251117013000 +0500">
-    <title>ABC News Live Weekend: Sunday</title>
-    <desc>Breaking news coverage and live video.</desc>
-  </programme><programme channel="ABC.News.Live.us" start="20251117013000 +0500" stop="20251117020000 +0500">
-    <title>ABC News Live Weekend</title>
-    <desc>Breaking news coverage and live video.</desc>
-  </programme><programme channel="ABC.News.Live.us" start="20251117020000 +0500" stop="20251117030000 +0500">
-    <title>The Golden Girls: 40 Years of Laughter and Friendship -- A Special Edition of 20/20</title>
-    <desc>A behind-the-scenes look at the beloved sitcom's enduring impact on TV and culture, including interviews with superfans Sheryl Lee Ralph, Kelly Ripa, Laverne Cox and former guest star Mario Lopez.</desc>
-  </programme><programme channel="ABC.News.Live.us" start="20251117030000 +0500" stop="20251117033000 +0500">
-    <title>ABC News Live Weekend: Sunday</title>
-    <desc>Breaking news coverage and live video.</desc>
-  </programme><programme channel="ABC.News.Live.us" start="20251117033000 +0500" stop="20251117040000 +0500">
-    <title>Call to Serve</title>
-    <desc>Description Unavailable</desc>
-  </programme><programme channel="ABC.News.Live.us" start="20251117040000 +0500" stop="20251117060000 +0500">
-    <title>20/20</title>
-    <desc>Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
-  </programme>
+  </channel>
 </tv>

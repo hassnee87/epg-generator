@@ -4,105 +4,6 @@
     <display-name lang="en">Aaj Entertainment</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Aaj-Entertainment.png"/>
   </channel>
-  <programme channel="Aaj.Entertainment.pk" start="20251117000000 +0500" stop="20251117010000 +0500">
-    <title lang="en">Court Room  Ep # 15- R</title>
-    <desc lang="en">Episode No: 15</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117010000 +0500" stop="20251117023000 +0500">
-    <title lang="en">Aaj Ka Tarka Ep (S-2) Ep # 464- R</title>
-    <desc lang="en">Episode No: 464
-Season: 2</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117023000 +0500" stop="20251117033000 +0500">
-    <title lang="en">04 Din Ki Zindagi Ep # 10- R</title>
-    <desc lang="en">Episode No: 10</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117033000 +0500" stop="20251117043000 +0500">
-    <title lang="en">Band Baj Gaya Ep # 04- R</title>
-    <desc lang="en">Episode No: 04</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117043000 +0500" stop="20251117053000 +0500">
-    <title lang="en">Quran -E- Pak Tilawat -O- Tarjuma</title>
-    <desc lang="en">Quran -E- Pak Tilawat -O- Tarjuma</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117053000 +0500" stop="20251117060000 +0500">
-    <title lang="en">Naat -E- Rasool -E- Maqbool (SAWW)</title>
-    <desc lang="en">Naat -E- Rasool -E- Maqbool (SAWW)</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117060000 +0500" stop="20251117070000 +0500">
-    <title lang="en">Best Of Aaj Pakistan Ep # 1368</title>
-    <desc lang="en">Episode No: 1368</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117070000 +0500" stop="20251117080000 +0500">
-    <title lang="en">Aunty Parlor Wali Ep # 06- R</title>
-    <desc lang="en">Episode No: 06</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117080000 +0500" stop="20251117090000 +0500">
-    <title lang="en">The Journalist Ep # 07- R</title>
-    <desc lang="en">Episode No: 07</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117090000 +0500" stop="20251117100000 +0500">
-    <title lang="en">Akkar Bakkar Ep # 31- R</title>
-    <desc lang="en">Episode No: 31</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117100000 +0500" stop="20251117113000 +0500">
-    <title lang="en">Aaj Ka Tarka Ep (S-2) Ep # 464- R</title>
-    <desc lang="en">Episode No: 464
-Season: 2</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117113000 +0500" stop="20251117120000 +0500">
-    <title lang="en">Choki # 420 S-1 Ep # 06- R</title>
-    <desc lang="en">Episode No: 06
-Season: 1</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117120000 +0500" stop="20251117130000 +0500">
-    <title lang="en">04 Din Ki Zindagi Ep # 10- R</title>
-    <desc lang="en">Episode No: 10</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117130000 +0500" stop="20251117140000 +0500">
-    <title lang="en">Band Baj Gaya Ep # 04- R</title>
-    <desc lang="en">Episode No: 04</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117140000 +0500" stop="20251117150000 +0500">
-    <title lang="en">The Journalist Ep # 07- R</title>
-    <desc lang="en">Episode No: 07</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117150000 +0500" stop="20251117160000 +0500">
-    <title lang="en">Gool Gappain Ep # 05</title>
-    <desc lang="en">Episode No: 05</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117160000 +0500" stop="20251117170000 +0500">
-    <title lang="en">Aaj Pakistan Ep # 1347- R</title>
-    <desc lang="en">Episode No: 1347</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117170000 +0500" stop="20251117183000 +0500">
-    <title lang="en">Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
-    <desc lang="en">Season: 2</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117183000 +0500" stop="20251117190000 +0500">
-    <title lang="en">Teri Chahaten Ep # 01</title>
-    <desc lang="en">Episode No: 01</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117190000 +0500" stop="20251117200000 +0500">
-    <title lang="en">04 Din Ki Zindagi Ep # 11</title>
-    <desc lang="en">Episode No: 11</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117200000 +0500" stop="20251117210000 +0500">
-    <title lang="en">Koyal Ep # 11</title>
-    <desc lang="en">Episode No: 11</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117210000 +0500" stop="20251117220000 +0500">
-    <title lang="en">Muhabat Ek Bhanwar Ep # 31</title>
-    <desc lang="en">Episode No: 31</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117220000 +0500" stop="20251117230000 +0500">
-    <title lang="en">Phir Kon Ayega Ep # 03- R</title>
-    <desc lang="en">Episode No: 03</desc>
-  </programme>
-  <programme channel="Aaj.Entertainment.pk" start="20251117230000 +0500" stop="20251118010000 +0500">
-    <title lang="en">Koyal Ep # 11- R</title>
-    <desc lang="en">Episode No: 11</desc>
-  </programme>
   <programme channel="Aaj.Entertainment.pk" start="20251118000000 +0500" stop="20251118010000 +0500">
     <title lang="en">Muhabat Ek Bhanwar Ep # 31- R</title>
     <desc lang="en">Episode No: 31</desc>
@@ -712,5 +613,104 @@ Season: 1</desc>
   <programme channel="Aaj.Entertainment.pk" start="20251123230000 +0500" stop="20251124010000 +0500">
     <title lang="en">Band Baj Gaya Ep # 05 R</title>
     <desc lang="en">Episode No: 05</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124000000 +0500" stop="20251124010000 +0500">
+    <title lang="en">Court Room  Ep # 15- R</title>
+    <desc lang="en">Episode No: 15</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124010000 +0500" stop="20251124023000 +0500">
+    <title lang="en">Aaj Ka Tarka Ep (S-2) Ep # 464- R</title>
+    <desc lang="en">Episode No: 464
+Season: 2</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124023000 +0500" stop="20251124033000 +0500">
+    <title lang="en">04 Din Ki Zindagi Ep # 10- R</title>
+    <desc lang="en">Episode No: 10</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124033000 +0500" stop="20251124043000 +0500">
+    <title lang="en">Band Baj Gaya Ep # 04- R</title>
+    <desc lang="en">Episode No: 04</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124043000 +0500" stop="20251124053000 +0500">
+    <title lang="en">Quran -E- Pak Tilawat -O- Tarjuma</title>
+    <desc lang="en">Quran -E- Pak Tilawat -O- Tarjuma</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124053000 +0500" stop="20251124060000 +0500">
+    <title lang="en">Naat -E- Rasool -E- Maqbool (SAWW)</title>
+    <desc lang="en">Naat -E- Rasool -E- Maqbool (SAWW)</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124060000 +0500" stop="20251124070000 +0500">
+    <title lang="en">Best Of Aaj Pakistan Ep # 1368</title>
+    <desc lang="en">Episode No: 1368</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124070000 +0500" stop="20251124080000 +0500">
+    <title lang="en">Aunty Parlor Wali Ep # 06- R</title>
+    <desc lang="en">Episode No: 06</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124080000 +0500" stop="20251124090000 +0500">
+    <title lang="en">The Journalist Ep # 07- R</title>
+    <desc lang="en">Episode No: 07</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124090000 +0500" stop="20251124100000 +0500">
+    <title lang="en">Akkar Bakkar Ep # 31- R</title>
+    <desc lang="en">Episode No: 31</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124100000 +0500" stop="20251124113000 +0500">
+    <title lang="en">Aaj Ka Tarka Ep (S-2) Ep # 464- R</title>
+    <desc lang="en">Episode No: 464
+Season: 2</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124113000 +0500" stop="20251124120000 +0500">
+    <title lang="en">Choki # 420 S-1 Ep # 06- R</title>
+    <desc lang="en">Episode No: 06
+Season: 1</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124120000 +0500" stop="20251124130000 +0500">
+    <title lang="en">04 Din Ki Zindagi Ep # 10- R</title>
+    <desc lang="en">Episode No: 10</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124130000 +0500" stop="20251124140000 +0500">
+    <title lang="en">Band Baj Gaya Ep # 04- R</title>
+    <desc lang="en">Episode No: 04</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124140000 +0500" stop="20251124150000 +0500">
+    <title lang="en">The Journalist Ep # 07- R</title>
+    <desc lang="en">Episode No: 07</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124150000 +0500" stop="20251124160000 +0500">
+    <title lang="en">Gool Gappain Ep # 05</title>
+    <desc lang="en">Episode No: 05</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124160000 +0500" stop="20251124170000 +0500">
+    <title lang="en">Aaj Pakistan Ep # 1347- R</title>
+    <desc lang="en">Episode No: 1347</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124170000 +0500" stop="20251124183000 +0500">
+    <title lang="en">Aaj Ka Tarka Ep (S-2) Repeat Onair</title>
+    <desc lang="en">Season: 2</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124183000 +0500" stop="20251124190000 +0500">
+    <title lang="en">Teri Chahaten Ep # 01</title>
+    <desc lang="en">Episode No: 01</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124190000 +0500" stop="20251124200000 +0500">
+    <title lang="en">04 Din Ki Zindagi Ep # 11</title>
+    <desc lang="en">Episode No: 11</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124200000 +0500" stop="20251124210000 +0500">
+    <title lang="en">Koyal Ep # 11</title>
+    <desc lang="en">Episode No: 11</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124210000 +0500" stop="20251124220000 +0500">
+    <title lang="en">Muhabat Ek Bhanwar Ep # 31</title>
+    <desc lang="en">Episode No: 31</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124220000 +0500" stop="20251124230000 +0500">
+    <title lang="en">Phir Kon Ayega Ep # 03- R</title>
+    <desc lang="en">Episode No: 03</desc>
+  </programme>
+  <programme channel="Aaj.Entertainment.pk" start="20251124230000 +0500" stop="20251125010000 +0500">
+    <title lang="en">Koyal Ep # 11- R</title>
+    <desc lang="en">Episode No: 11</desc>
   </programme>
 </tv>

@@ -3,73 +3,7 @@
   <channel id="MSNBC.us">
     <display-name>MSNBC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MSNBC.png" />
-  </channel><programme channel="MSNBC.us" start="20251117000000 +0500" stop="20251117010000 +0500">
-    <title>Live: Alex Witt Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117010000 +0500" stop="20251117020000 +0500">
-    <title>Live: Alex Witt Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117020000 +0500" stop="20251117030000 +0500">
-    <title>Deadline: White House: Weekend</title>
-    <desc>Highlights from "Deadline: White House.".</desc>
-  </programme><programme channel="MSNBC.us" start="20251117030000 +0500" stop="20251117040000 +0500">
-    <title>Live: PoliticsNation</title>
-    <desc>Sharpton approaches news stories with an eye toward equality and justice and brings to light the news and updates on under-reported issues that require a national platform.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117040000 +0500" stop="20251117050000 +0500">
-    <title>Live: The Weekend: Primetime</title>
-    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117050000 +0500" stop="20251117060000 +0500">
-    <title>Live: The Weekend: Primetime</title>
-    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117060000 +0500" stop="20251117070000 +0500">
-    <title>Live: The Weekend: Primetime</title>
-    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117070000 +0500" stop="20251117080000 +0500">
-    <title>The Briefing with Jen Psaki: Weekend</title>
-    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117080000 +0500" stop="20251117090000 +0500">
-    <title>The Weekend: Primetime</title>
-    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117090000 +0500" stop="20251117100000 +0500">
-    <title>The Weekend: Primetime</title>
-    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117100000 +0500" stop="20251117110000 +0500">
-    <title>Deadline: White House: Weekend</title>
-    <desc>Highlights from "Deadline: White House.".</desc>
-  </programme><programme channel="MSNBC.us" start="20251117110000 +0500" stop="20251117120000 +0500">
-    <title>Dateline</title>
-    <sub-title>Deadly Exposure</sub-title>
-    <desc>Woman is found dead with no injuries; her autopsy leads police to suspect her husband.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117120000 +0500" stop="20251117130000 +0500">
-    <title>Dateline</title>
-    <sub-title>Deadly Dance</sub-title>
-    <desc>A former ballerina shoots her husband in what she alleges was an act of self-defense; the ensuing investigation and dramatic trial spark protests and receives national attention.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117130000 +0500" stop="20251117140000 +0500">
-    <title>Dateline</title>
-    <sub-title>The Pin at Apartment 210</sub-title>
-    <desc>A young Tennessee woman mysteriously vanishes and misses her family's Thanksgiving dinner; determined to track her down, her family takes matters into their own hands, pursuing every digital clue she left behind.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117140000 +0500" stop="20251117150000 +0500">
-    <title>The Briefing with Jen Psaki: Weekend</title>
-    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117150000 +0500" stop="20251117160000 +0500">
-    <title>Live: Way Too Early With Ali Vitali</title>
-    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117160000 +0500" stop="20251117200000 +0500">
-    <title>Live: Morning Joe</title>
-    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117200000 +0500" stop="20251117210000 +0500">
-    <title>Live: Ana Cabrera Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117210000 +0500" stop="20251117220000 +0500">
-    <title>Live: Ana Cabrera Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117220000 +0500" stop="20251117230000 +0500">
-    <title>Live: Chris Jansing Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
-  </programme><programme channel="MSNBC.us" start="20251117230000 +0500" stop="20251118000000 +0500">
-    <title>Live: Chris Jansing Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
-  </programme><programme channel="MSNBC.us" start="20251118000000 +0500" stop="20251118010000 +0500">
+  </channel><programme channel="MSNBC.us" start="20251118000000 +0500" stop="20251118010000 +0500">
     <title>Live: Katy Tur Reports</title>
     <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
   </programme><programme channel="MSNBC.us" start="20251118010000 +0500" stop="20251118020000 +0500">

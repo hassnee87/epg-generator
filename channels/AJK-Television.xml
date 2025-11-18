@@ -4,54 +4,6 @@
     <display-name>AJK Television</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/AJK-Television.png" />
   </channel>
-  <programme start="20251117165900 +0500" stop="20251117170000 +0500" channel="AJK.Television.pk">
-    <title>Logo Bismillah</title>
-    <desc>Logo Bismillah</desc>
-  </programme>
-  <programme start="20251117170000 +0500" stop="20251117170500 +0500" channel="AJK.Television.pk">
-    <title>Quran-O-Tarjuma</title>
-    <desc>Quran-O-Tarjuma</desc>
-  </programme>
-  <programme start="20251117170500 +0500" stop="20251117172000 +0500" channel="AJK.Television.pk">
-    <title>Al Quran</title>
-    <desc>Al Quran</desc>
-  </programme>
-  <programme start="20251117172000 +0500" stop="20251117173500 +0500" channel="AJK.Television.pk">
-    <title>Kashmir Report (Kashmir Cell)</title>
-    <desc>Kashmir Report (Kashmir Cell)</desc>
-  </programme>
-  <programme start="20251117173500 +0500" stop="20251117180000 +0500" channel="AJK.Television.pk">
-    <title>Granny Sunny &amp; Science</title>
-    <desc>Granny Sunny &amp; Science</desc>
-  </programme>
-  <programme start="20251117180000 +0500" stop="20251117182000 +0500" channel="AJK.Television.pk">
-    <title>Local News (Ptv News)</title>
-    <desc>Local News (Ptv News)</desc>
-  </programme>
-  <programme start="20251117182000 +0500" stop="20251117190000 +0500" channel="AJK.Television.pk">
-    <title>Kashmir In Focus</title>
-    <desc>Kashmir In Focus</desc>
-  </programme>
-  <programme start="20251117190000 +0500" stop="20251117193000 +0500" channel="AJK.Television.pk">
-    <title>Sidran Ny Divey</title>
-    <desc>Sidran Ny Divey</desc>
-  </programme>
-  <programme start="20251117193000 +0500" stop="20251117200000 +0500" channel="AJK.Television.pk">
-    <title>Phalwan Gaash</title>
-    <desc>Phalwan Gaash</desc>
-  </programme>
-  <programme start="20251117200000 +0500" stop="20251117210000 +0500" channel="AJK.Television.pk">
-    <title>Angar Wadi</title>
-    <desc>Angar Wadi</desc>
-  </programme>
-  <programme start="20251117210000 +0500" stop="20251117220000 +0500" channel="AJK.Television.pk">
-    <title>Khabar Nama (Ptv News)</title>
-    <desc>Khabar Nama (Ptv News)</desc>
-  </programme>
-  <programme start="20251117220000 +0500" stop="20251118165900 +0500" channel="AJK.Television.pk">
-    <title>Close Down</title>
-    <desc>Close Down</desc>
-  </programme>
   <programme start="20251118165900 +0500" stop="20251118170000 +0500" channel="AJK.Television.pk">
     <title>Logo Bismillah</title>
     <desc>Logo Bismillah</desc>
@@ -344,6 +296,54 @@
     <desc>Khabar Nama (Ptv News)</desc>
   </programme>
   <programme start="20251123220000 +0500" stop="20251124165900 +0500" channel="AJK.Television.pk">
+    <title>Close Down</title>
+    <desc>Close Down</desc>
+  </programme>
+  <programme start="20251124165900 +0500" stop="20251124170000 +0500" channel="AJK.Television.pk">
+    <title>Logo Bismillah</title>
+    <desc>Logo Bismillah</desc>
+  </programme>
+  <programme start="20251124170000 +0500" stop="20251124170500 +0500" channel="AJK.Television.pk">
+    <title>Quran-O-Tarjuma</title>
+    <desc>Quran-O-Tarjuma</desc>
+  </programme>
+  <programme start="20251124170500 +0500" stop="20251124172000 +0500" channel="AJK.Television.pk">
+    <title>Al Quran</title>
+    <desc>Al Quran</desc>
+  </programme>
+  <programme start="20251124172000 +0500" stop="20251124173500 +0500" channel="AJK.Television.pk">
+    <title>Kashmir Report (Kashmir Cell)</title>
+    <desc>Kashmir Report (Kashmir Cell)</desc>
+  </programme>
+  <programme start="20251124173500 +0500" stop="20251124180000 +0500" channel="AJK.Television.pk">
+    <title>Granny Sunny &amp; Science</title>
+    <desc>Granny Sunny &amp; Science</desc>
+  </programme>
+  <programme start="20251124180000 +0500" stop="20251124182000 +0500" channel="AJK.Television.pk">
+    <title>Local News (Ptv News)</title>
+    <desc>Local News (Ptv News)</desc>
+  </programme>
+  <programme start="20251124182000 +0500" stop="20251124190000 +0500" channel="AJK.Television.pk">
+    <title>Kashmir In Focus</title>
+    <desc>Kashmir In Focus</desc>
+  </programme>
+  <programme start="20251124190000 +0500" stop="20251124193000 +0500" channel="AJK.Television.pk">
+    <title>Sidran Ny Divey</title>
+    <desc>Sidran Ny Divey</desc>
+  </programme>
+  <programme start="20251124193000 +0500" stop="20251124200000 +0500" channel="AJK.Television.pk">
+    <title>Phalwan Gaash</title>
+    <desc>Phalwan Gaash</desc>
+  </programme>
+  <programme start="20251124200000 +0500" stop="20251124210000 +0500" channel="AJK.Television.pk">
+    <title>Angar Wadi</title>
+    <desc>Angar Wadi</desc>
+  </programme>
+  <programme start="20251124210000 +0500" stop="20251124220000 +0500" channel="AJK.Television.pk">
+    <title>Khabar Nama (Ptv News)</title>
+    <desc>Khabar Nama (Ptv News)</desc>
+  </programme>
+  <programme start="20251124220000 +0500" stop="20251125165900 +0500" channel="AJK.Television.pk">
     <title>Close Down</title>
     <desc>Close Down</desc>
   </programme>

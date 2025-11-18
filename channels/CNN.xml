@@ -3,75 +3,7 @@
   <channel id="CNN.us">
     <display-name>CNN</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CNN.png" />
-  </channel><programme channel="CNN.us" start="20251117000000 +0500" stop="20251117010000 +0500">
-    <title>CNN Newsroom With Fredricka Whitfield</title>
-    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
-  </programme><programme channel="CNN.us" start="20251117010000 +0500" stop="20251117020000 +0500">
-    <title>CNN Newsroom With Fredricka Whitfield</title>
-    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
-  </programme><programme channel="CNN.us" start="20251117020000 +0500" stop="20251117030000 +0500">
-    <title>CNN Newsroom With Fredricka Whitfield</title>
-    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
-  </programme><programme channel="CNN.us" start="20251117030000 +0500" stop="20251117040000 +0500">
-    <title>CNN Newsroom</title>
-    <desc>Updates of news from around the world.</desc>
-  </programme><programme channel="CNN.us" start="20251117040000 +0500" stop="20251117050000 +0500">
-    <title>CNN Newsroom</title>
-    <desc>Updates of news from around the world.</desc>
-  </programme><programme channel="CNN.us" start="20251117050000 +0500" stop="20251117060000 +0500">
-    <title>CNN Newsroom</title>
-    <desc>Updates of news from around the world.</desc>
-  </programme><programme channel="CNN.us" start="20251117060000 +0500" stop="20251117070000 +0500">
-    <title>The Whole Story With Anderson Cooper</title>
-    <sub-title>MisinfoNation: White Genocide</sub-title>
-    <desc>Donie O'Sullivan investigates why the narrative of alleged "White genocide" in South Africa, fueled by fears of demographic change in the U.S., has gained traction among Americans, including Donald Trump; and reveals a more complex reality.</desc>
-  </programme><programme channel="CNN.us" start="20251117070000 +0500" stop="20251117090000 +0500">
-    <title>Prime Minister</title>
-    <desc>Chronicling Jacinda Ardern's unexpected journey as New Zealand's 40th Prime Minister, this documentary offers an unfiltered window into her years in power.</desc>
-  </programme><programme channel="CNN.us" start="20251117090000 +0500" stop="20251117100000 +0500">
-    <title>The Whole Story With Anderson Cooper</title>
-    <sub-title>MisinfoNation: White Genocide</sub-title>
-    <desc>Donie O'Sullivan investigates why the narrative of alleged "White genocide" in South Africa, fueled by fears of demographic change in the U.S., has gained traction among Americans, including Donald Trump; and reveals a more complex reality.</desc>
-  </programme><programme channel="CNN.us" start="20251117100000 +0500" stop="20251117120000 +0500">
-    <title>Prime Minister</title>
-    <desc>Chronicling Jacinda Ardern's unexpected journey as New Zealand's 40th Prime Minister, this documentary offers an unfiltered window into her years in power.</desc>
-  </programme><programme channel="CNN.us" start="20251117120000 +0500" stop="20251117130000 +0500">
-    <title>CNN Newsroom Live</title>
-    <desc>The latest news from around the world.</desc>
-  </programme><programme channel="CNN.us" start="20251117130000 +0500" stop="20251117140000 +0500">
-    <title>CNN Newsroom Live</title>
-    <desc>The latest news from around the world.</desc>
-  </programme><programme channel="CNN.us" start="20251117140000 +0500" stop="20251117150000 +0500">
-    <title>Live: American Pulse</title>
-    <desc>Captivating and intriguing local stories from around the U.S. all in one place.</desc>
-  </programme><programme channel="CNN.us" start="20251117150000 +0500" stop="20251117160000 +0500">
-    <title>Live: Early Start With Rahel Solomon</title>
-    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
-  </programme><programme channel="CNN.us" start="20251117160000 +0500" stop="20251117170000 +0500">
-    <title>Live: CNN This Morning</title>
-    <desc>Stories from across the world and refreshing conversations with Audie Cornish.</desc>
-  </programme><programme channel="CNN.us" start="20251117170000 +0500" stop="20251117180000 +0500">
-    <title>Live: CNN News Central</title>
-    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
-  </programme><programme channel="CNN.us" start="20251117180000 +0500" stop="20251117190000 +0500">
-    <title>Live: CNN News Central</title>
-    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
-  </programme><programme channel="CNN.us" start="20251117190000 +0500" stop="20251117200000 +0500">
-    <title>Live: CNN News Central</title>
-    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
-  </programme><programme channel="CNN.us" start="20251117200000 +0500" stop="20251117210000 +0500">
-    <title>Live: The Situation Room</title>
-    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
-  </programme><programme channel="CNN.us" start="20251117210000 +0500" stop="20251117220000 +0500">
-    <title>Live: The Situation Room</title>
-    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
-  </programme><programme channel="CNN.us" start="20251117220000 +0500" stop="20251117230000 +0500">
-    <title>Live: Inside Politics With Dana Bash</title>
-    <desc>Top political stories researched by top reporters.</desc>
-  </programme><programme channel="CNN.us" start="20251117230000 +0500" stop="20251118000000 +0500">
-    <title>Live: CNN News Central</title>
-    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
-  </programme><programme channel="CNN.us" start="20251118000000 +0500" stop="20251118010000 +0500">
+  </channel><programme channel="CNN.us" start="20251118000000 +0500" stop="20251118010000 +0500">
     <title>Live: CNN News Central</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
   </programme><programme channel="CNN.us" start="20251118010000 +0500" stop="20251118020000 +0500">

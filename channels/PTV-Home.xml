@@ -4,145 +4,6 @@
     <display-name>PTV Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-Home.png" />
   </channel>
-  <programme start="20251117053000 +0500" stop="20251117060000 +0500" channel="PTV.Home.pk">
-    <title>Ibteda (Fresh)</title>
-    <desc>Ibteda (Fresh)
-Fresh</desc>
-  </programme>
-  <programme start="20251117060000 +0500" stop="20251117070000 +0500" channel="PTV.Home.pk">
-    <title>Iqra (Ep: 94)</title>
-    <desc>Iqra (Ep: 94)
-Episode 94</desc>
-  </programme>
-  <programme start="20251117070000 +0500" stop="20251117073000 +0500" channel="PTV.Home.pk">
-    <title>Ibteda (Fresh)</title>
-    <desc>Ibteda (Fresh)
-Fresh</desc>
-  </programme>
-  <programme start="20251117073000 +0500" stop="20251117090000 +0500" channel="PTV.Home.pk">
-    <title>Rising Pakistan (Special) (Live)</title>
-    <desc>Rising Pakistan (Special) (Live)
-Special
-Live</desc>
-  </programme>
-  <programme start="20251117090000 +0500" stop="20251117093000 +0500" channel="PTV.Home.pk">
-    <title>Satrangia (Ep: 04) (Rpt)</title>
-    <desc>Satrangia (Ep: 04) (Rpt)
-Episode 04
-Repeat</desc>
-  </programme>
-  <programme start="20251117093000 +0500" stop="20251117100000 +0500" channel="PTV.Home.pk">
-    <title>Nazr Lag Gae (Ep: 06) (Rpt)</title>
-    <desc>Nazr Lag Gae (Ep: 06) (Rpt)
-Episode 06
-Repeat</desc>
-  </programme>
-  <programme start="20251117100000 +0500" stop="20251117120000 +0500" channel="PTV.Home.pk">
-    <title>Morning@ Home: (Live)</title>
-    <desc>Morning@ Home: (Live)
-Live</desc>
-  </programme>
-  <programme start="20251117120000 +0500" stop="20251117123000 +0500" channel="PTV.Home.pk">
-    <title>Bts Pakistan Idol (Ep: 12) (Rpt)</title>
-    <desc>Bts Pakistan Idol (Ep: 12) (Rpt)
-Episode 12
-Repeat</desc>
-  </programme>
-  <programme start="20251117123000 +0500" stop="20251117140000 +0500" channel="PTV.Home.pk">
-    <title>Pakistan Idol (Ep: 12) (1St Rpt)</title>
-    <desc>Pakistan Idol (Ep: 12) (1St Rpt)
-1st Repeat
-Episode 12</desc>
-  </programme>
-  <programme start="20251117140000 +0500" stop="20251117143500 +0500" channel="PTV.Home.pk">
-    <title>Rawaiton Ki Lazzat (Ep: 69) (Rpt)</title>
-    <desc>Rawaiton Ki Lazzat (Ep: 69) (Rpt)
-Episode 69
-Repeat</desc>
-  </programme>
-  <programme start="20251117143500 +0500" stop="20251117150000 +0500" channel="PTV.Home.pk">
-    <title>Satrangia (Ep: 04) (Rpt)</title>
-    <desc>Satrangia (Ep: 04) (Rpt)
-Episode 04
-Repeat</desc>
-  </programme>
-  <programme start="20251117150000 +0500" stop="20251117153000 +0500" channel="PTV.Home.pk">
-    <title>Little Chef (Ep: 12) (Rpt)</title>
-    <desc>Little Chef (Ep: 12) (Rpt)
-Episode 12
-Repeat</desc>
-  </programme>
-  <programme start="20251117153000 +0500" stop="20251117160000 +0500" channel="PTV.Home.pk">
-    <title>Hangama House (Ep: 02) (Rpt)</title>
-    <desc>Hangama House (Ep: 02) (Rpt)
-Episode 02
-Repeat</desc>
-  </programme>
-  <programme start="20251117160000 +0500" stop="20251117172000 +0500" channel="PTV.Home.pk">
-    <title>Rising Pakistan (Rpt)</title>
-    <desc>Rising Pakistan (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251117172000 +0500" stop="20251117173000 +0500" channel="PTV.Home.pk">
-    <title>Al-Qura’An</title>
-    <desc>Al-Qura’An</desc>
-  </programme>
-  <programme start="20251117173000 +0500" stop="20251117180000 +0500" channel="PTV.Home.pk">
-    <title>Little Chef (Ep: 13) (Rpt)</title>
-    <desc>Little Chef (Ep: 13) (Rpt)
-Episode 13
-Repeat</desc>
-  </programme>
-  <programme start="20251117180000 +0500" stop="20251117183000 +0500" channel="PTV.Home.pk">
-    <title>Satrangia (Ep: 05)</title>
-    <desc>Satrangia (Ep: 05)
-Episode 05</desc>
-  </programme>
-  <programme start="20251117183000 +0500" stop="20251117190500 +0500" channel="PTV.Home.pk">
-    <title>Hangama House (Ep: 03)</title>
-    <desc>Hangama House (Ep: 03)
-Episode 03</desc>
-  </programme>
-  <programme start="20251117190500 +0500" stop="20251117195500 +0500" channel="PTV.Home.pk">
-    <title>Sotailay (Ep: 37)</title>
-    <desc>Sotailay (Ep: 37)
-Episode 37</desc>
-  </programme>
-  <programme start="20251117195500 +0500" stop="20251117210000 +0500" channel="PTV.Home.pk">
-    <title>Barbarosa (Drama Serial) (Ep: 106) (Fresh)</title>
-    <desc>Barbarosa (Drama Serial) (Ep: 106) (Fresh)
-Fresh
-Episode 106</desc>
-  </programme>
-  <programme start="20251117210000 +0500" stop="20251117211000 +0500" channel="PTV.Home.pk">
-    <title>Khabarnama (Headlines Only) (Live)</title>
-    <desc>Khabarnama (Headlines Only) (Live)
-Live</desc>
-  </programme>
-  <programme start="20251117211000 +0500" stop="20251117213500 +0500" channel="PTV.Home.pk">
-    <title>Satrangia (Ep: 05) (Rpt)</title>
-    <desc>Satrangia (Ep: 05) (Rpt)
-Episode 05
-Repeat</desc>
-  </programme>
-  <programme start="20251117213500 +0500" stop="20251117220000 +0500" channel="PTV.Home.pk">
-    <title>Sotailay (Ep: 37)(Rpt)</title>
-    <desc>Sotailay (Ep: 37)(Rpt)
-Episode 37
-Repeat</desc>
-  </programme>
-  <programme start="20251117220000 +0500" stop="20251117230000 +0500" channel="PTV.Home.pk">
-    <title>Dar And Darling (Ep: 39) (Rpt)</title>
-    <desc>Dar And Darling (Ep: 39) (Rpt)
-Episode 39
-Repeat</desc>
-  </programme>
-  <programme start="20251117230000 +0500" stop="20251118053000 +0500" channel="PTV.Home.pk">
-    <title>Barbarosa (Drama Serial) (Ep: 106) (Rpt)</title>
-    <desc>Barbarosa (Drama Serial) (Ep: 106) (Rpt)
-Episode 106
-Repeat</desc>
-  </programme>
   <programme start="20251118053000 +0500" stop="20251118060000 +0500" channel="PTV.Home.pk">
     <title>Ibteda (Fresh)</title>
     <desc>Ibteda (Fresh)
@@ -895,6 +756,145 @@ Repeat</desc>
     <title>Us Ne Chaha Tha Chand (Ep: 23) (Rpt)</title>
     <desc>Us Ne Chaha Tha Chand (Ep: 23) (Rpt)
 Episode 23
+Repeat</desc>
+  </programme>
+  <programme start="20251124053000 +0500" stop="20251124060000 +0500" channel="PTV.Home.pk">
+    <title>Ibteda (Fresh)</title>
+    <desc>Ibteda (Fresh)
+Fresh</desc>
+  </programme>
+  <programme start="20251124060000 +0500" stop="20251124070000 +0500" channel="PTV.Home.pk">
+    <title>Iqra (Ep: 94)</title>
+    <desc>Iqra (Ep: 94)
+Episode 94</desc>
+  </programme>
+  <programme start="20251124070000 +0500" stop="20251124073000 +0500" channel="PTV.Home.pk">
+    <title>Ibteda (Fresh)</title>
+    <desc>Ibteda (Fresh)
+Fresh</desc>
+  </programme>
+  <programme start="20251124073000 +0500" stop="20251124090000 +0500" channel="PTV.Home.pk">
+    <title>Rising Pakistan (Special) (Live)</title>
+    <desc>Rising Pakistan (Special) (Live)
+Special
+Live</desc>
+  </programme>
+  <programme start="20251124090000 +0500" stop="20251124093000 +0500" channel="PTV.Home.pk">
+    <title>Satrangia (Ep: 04) (Rpt)</title>
+    <desc>Satrangia (Ep: 04) (Rpt)
+Episode 04
+Repeat</desc>
+  </programme>
+  <programme start="20251124093000 +0500" stop="20251124100000 +0500" channel="PTV.Home.pk">
+    <title>Nazr Lag Gae (Ep: 06) (Rpt)</title>
+    <desc>Nazr Lag Gae (Ep: 06) (Rpt)
+Episode 06
+Repeat</desc>
+  </programme>
+  <programme start="20251124100000 +0500" stop="20251124120000 +0500" channel="PTV.Home.pk">
+    <title>Morning@ Home: (Live)</title>
+    <desc>Morning@ Home: (Live)
+Live</desc>
+  </programme>
+  <programme start="20251124120000 +0500" stop="20251124123000 +0500" channel="PTV.Home.pk">
+    <title>Bts Pakistan Idol (Ep: 12) (Rpt)</title>
+    <desc>Bts Pakistan Idol (Ep: 12) (Rpt)
+Episode 12
+Repeat</desc>
+  </programme>
+  <programme start="20251124123000 +0500" stop="20251124140000 +0500" channel="PTV.Home.pk">
+    <title>Pakistan Idol (Ep: 12) (1St Rpt)</title>
+    <desc>Pakistan Idol (Ep: 12) (1St Rpt)
+1st Repeat
+Episode 12</desc>
+  </programme>
+  <programme start="20251124140000 +0500" stop="20251124143500 +0500" channel="PTV.Home.pk">
+    <title>Rawaiton Ki Lazzat (Ep: 69) (Rpt)</title>
+    <desc>Rawaiton Ki Lazzat (Ep: 69) (Rpt)
+Episode 69
+Repeat</desc>
+  </programme>
+  <programme start="20251124143500 +0500" stop="20251124150000 +0500" channel="PTV.Home.pk">
+    <title>Satrangia (Ep: 04) (Rpt)</title>
+    <desc>Satrangia (Ep: 04) (Rpt)
+Episode 04
+Repeat</desc>
+  </programme>
+  <programme start="20251124150000 +0500" stop="20251124153000 +0500" channel="PTV.Home.pk">
+    <title>Little Chef (Ep: 12) (Rpt)</title>
+    <desc>Little Chef (Ep: 12) (Rpt)
+Episode 12
+Repeat</desc>
+  </programme>
+  <programme start="20251124153000 +0500" stop="20251124160000 +0500" channel="PTV.Home.pk">
+    <title>Hangama House (Ep: 02) (Rpt)</title>
+    <desc>Hangama House (Ep: 02) (Rpt)
+Episode 02
+Repeat</desc>
+  </programme>
+  <programme start="20251124160000 +0500" stop="20251124172000 +0500" channel="PTV.Home.pk">
+    <title>Rising Pakistan (Rpt)</title>
+    <desc>Rising Pakistan (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251124172000 +0500" stop="20251124173000 +0500" channel="PTV.Home.pk">
+    <title>Al-Qura’An</title>
+    <desc>Al-Qura’An</desc>
+  </programme>
+  <programme start="20251124173000 +0500" stop="20251124180000 +0500" channel="PTV.Home.pk">
+    <title>Little Chef (Ep: 13) (Rpt)</title>
+    <desc>Little Chef (Ep: 13) (Rpt)
+Episode 13
+Repeat</desc>
+  </programme>
+  <programme start="20251124180000 +0500" stop="20251124183000 +0500" channel="PTV.Home.pk">
+    <title>Satrangia (Ep: 05)</title>
+    <desc>Satrangia (Ep: 05)
+Episode 05</desc>
+  </programme>
+  <programme start="20251124183000 +0500" stop="20251124190500 +0500" channel="PTV.Home.pk">
+    <title>Hangama House (Ep: 03)</title>
+    <desc>Hangama House (Ep: 03)
+Episode 03</desc>
+  </programme>
+  <programme start="20251124190500 +0500" stop="20251124195500 +0500" channel="PTV.Home.pk">
+    <title>Sotailay (Ep: 37)</title>
+    <desc>Sotailay (Ep: 37)
+Episode 37</desc>
+  </programme>
+  <programme start="20251124195500 +0500" stop="20251124210000 +0500" channel="PTV.Home.pk">
+    <title>Barbarosa (Drama Serial) (Ep: 106) (Fresh)</title>
+    <desc>Barbarosa (Drama Serial) (Ep: 106) (Fresh)
+Fresh
+Episode 106</desc>
+  </programme>
+  <programme start="20251124210000 +0500" stop="20251124211000 +0500" channel="PTV.Home.pk">
+    <title>Khabarnama (Headlines Only) (Live)</title>
+    <desc>Khabarnama (Headlines Only) (Live)
+Live</desc>
+  </programme>
+  <programme start="20251124211000 +0500" stop="20251124213500 +0500" channel="PTV.Home.pk">
+    <title>Satrangia (Ep: 05) (Rpt)</title>
+    <desc>Satrangia (Ep: 05) (Rpt)
+Episode 05
+Repeat</desc>
+  </programme>
+  <programme start="20251124213500 +0500" stop="20251124220000 +0500" channel="PTV.Home.pk">
+    <title>Sotailay (Ep: 37)(Rpt)</title>
+    <desc>Sotailay (Ep: 37)(Rpt)
+Episode 37
+Repeat</desc>
+  </programme>
+  <programme start="20251124220000 +0500" stop="20251124230000 +0500" channel="PTV.Home.pk">
+    <title>Dar And Darling (Ep: 39) (Rpt)</title>
+    <desc>Dar And Darling (Ep: 39) (Rpt)
+Episode 39
+Repeat</desc>
+  </programme>
+  <programme start="20251124230000 +0500" stop="20251125053000 +0500" channel="PTV.Home.pk">
+    <title>Barbarosa (Drama Serial) (Ep: 106) (Rpt)</title>
+    <desc>Barbarosa (Drama Serial) (Ep: 106) (Rpt)
+Episode 106
 Repeat</desc>
   </programme>
 </tv>

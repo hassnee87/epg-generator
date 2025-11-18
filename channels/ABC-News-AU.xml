@@ -3,97 +3,7 @@
   <channel id="ABC.News.au">
     <display-name>ABC News</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ABC-News-AU.png" />
-  </channel><programme channel="ABC.News.au" start="20251117000000 +0500" stop="20251117030000 +0500">
-    <title>News Breakfast</title>
-    <desc>As the day begins get the facts you need to stay informed. Bridget Brennan and James Glenday bring you the latest news, overnight developments and today's top stories, joined by Charles Brice, Catherine Murphy and Nate Byrne.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117030000 +0500" stop="20251117060000 +0500">
-    <title>ABC News Mornings</title>
-    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117060000 +0500" stop="20251117070000 +0500">
-    <title>ABC News at Noon</title>
-    <desc>The leading news at lunchtime. Kathryn Robinson brings you the top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on issues that matter to you.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117070000 +0500" stop="20251117090000 +0500">
-    <title>ABC News Day</title>
-    <desc>For the latest news as it happens ABC News is the home of breaking news, compelling stories and Australia's best original reporting. Kathryn Robinson brings you news, interviews and analysis on the issues that matter to you.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117090000 +0500" stop="20251117100000 +0500">
-    <title>ABC News Afternoons</title>
-    <desc>More news, more often. Wherever you are stay in touch with ABC News through the day. We have reporters in more places, to cover what's happening and why it matters. Kathryn Robinson brings you the latest news and information.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117100000 +0500" stop="20251117110000 +0500">
-    <title>Afternoon Briefing</title>
-    <desc>Your daily download of everything you need to know about politics, national and global affairs. Patricia Karvelas asks politicians the tough questions and talks to key players and experts on the issues driving the news cycle.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117110000 +0500" stop="20251117120000 +0500">
-    <title>ABC News</title>
-    <desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117120000 +0500" stop="20251117130000 +0500">
-    <title>ABC News Hour</title>
-    <desc>Stay in the know with Australia's trusted news source. From your neighbourhood, across the country and around the world, ABC News bring you the day's top stories and latest news, all verified. Presented by Joe O'Brien.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117130000 +0500" stop="20251117133000 +0500">
-    <title>ABC National News</title>
-    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117133000 +0500" stop="20251117140000 +0500">
-    <title>7.30</title>
-    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus reporting from Michael Rowland, Jacob Greber and the team.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117140000 +0500" stop="20251117144400 +0500">
-    <title>ABC News Tonight</title>
-    <desc>The latest breaking news and a comprehensive roundup of the day's best stories from across Australia's states and regions. With reporters in more places ABC News tells the stories that matter to you. Presented by Yvonne Yong.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117144400 +0500" stop="20251117150000 +0500">
-    <title>The Business</title>
-    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117150000 +0500" stop="20251117160000 +0500">
-    <title>The World</title>
-    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117160000 +0500" stop="20251117163000 +0500">
-    <title>ABC Nightly News</title>
-    <desc>The home of breaking news and in-depth coverage of the big stories from across Australia and around the globe. The ABC's network of reporters cover important stories and all the news you need. Presented by Yvonne Yong.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117163000 +0500" stop="20251117170000 +0500">
-    <title>Planet America</title>
-    <desc>From Gaza ceasefire to 'Liberation Day' tariffs, an immigration crackdown, the longest government shutdown, DOGE, MAGA, peace deals, Epstein, the National Guard, media and more - it's been a busy 10 months in Trump's America.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117170000 +0500" stop="20251117172900 +0500">
-    <title>ABC Late News</title>
-    <desc>More news, more often, with more reporters in more places, connecting communities and covering the stories and issues that matter. Presented by Michael Tetlow.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117172900 +0500" stop="20251117180000 +0500">
-    <title>7.30</title>
-    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus reporting from Michael Rowland, Jacob Greber and the team.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117180000 +0500" stop="20251117183000 +0500">
-    <title>ABC Late News</title>
-    <desc>Michael Tetlow presents the latest on the day's top stories and a comprehensive round-up of the news of the day, with reporters across Australia and around the globe reporting on the issues that matter.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117183000 +0500" stop="20251117190000 +0500">
-    <title>Asia News Week</title>
-    <desc>Yvonne Yong brings you the news from Asia: Two blasts put India and Pakistan on edge, deadly Typhoon Fung-wong hits the Philippines and Taiwan, plus we hear from pioneering Australian-born Chinese journalist Helene Chung.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117190000 +0500" stop="20251117191500 +0500">
-    <title>ABC Late News</title>
-    <desc>Follow the latest on today's news, covering what's happening and why it matters. ABC News has reporters across Australia and around the globe to bring you the news you need to know. Presented by Michael Tetlow in Perth.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117191500 +0500" stop="20251117193000 +0500">
-    <title>The Business</title>
-    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117193000 +0500" stop="20251117200006 +0500">
-    <title>ABC News Regional</title>
-    <desc>After years of struggles farmers in parts of NSW celebrate a successful harvest, Aurora Australis lights up night the night sky, plus the country metal band proving it's a long way to the top from regional SA.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117200006 +0500" stop="20251117202900 +0500">
-    <title>DW News</title>
-    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117202900 +0500" stop="20251117210006 +0500">
-    <title>7.30</title>
-    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus reporting from Michael Rowland, Jacob Greber and the team.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117210006 +0500" stop="20251117211504 +0500">
-    <title>DW News</title>
-    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117211504 +0500" stop="20251117213100 +0500">
-    <title>The Business</title>
-    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117213100 +0500" stop="20251117222900 +0500">
-    <title>The World</title>
-    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117222900 +0500" stop="20251117230006 +0500">
-    <title>7.30</title>
-    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus reporting from Michael Rowland, Jacob Greber and the team.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117230006 +0500" stop="20251117232900 +0500">
-    <title>DW News</title>
-    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
-  </programme><programme channel="ABC.News.au" start="20251117232900 +0500" stop="20251118000000 +0500">
-    <title>Planet America</title>
-    <desc>From Gaza ceasefire to 'Liberation Day' tariffs, an immigration crackdown, the longest government shutdown, DOGE, MAGA, peace deals, Epstein, the National Guard, media and more - it's been a busy 10 months in Trump's America.</desc>
-  </programme><programme channel="ABC.News.au" start="20251118000000 +0500" stop="20251118030000 +0500">
+  </channel><programme channel="ABC.News.au" start="20251118000000 +0500" stop="20251118030000 +0500">
     <title>News Breakfast</title>
     <desc>As the day begins get the facts you need to stay informed. Bridget Brennan and James Glenday bring you the latest news, overnight developments and today's top stories, joined by Charles Brice, Catherine Murphy and Nate Byrne.</desc>
   </programme><programme channel="ABC.News.au" start="20251118030000 +0500" stop="20251118060000 +0500">
@@ -279,5 +189,96 @@
   </programme><programme channel="ABC.News.au" start="20251119233000 +0500" stop="20251120000000 +0500">
     <title>Play On</title>
     <desc>Connor O'Leary, a Cronulla surfer who now surfs for Japan. Pasifika rugby league players on their connection to their homeland. And Gronya Somerville, a badminton player exploring her ties to Chinese aristocracy.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120000000 +0500" stop="20251120030000 +0500">
+    <title>News Breakfast</title>
+    <desc>As the day begins get the facts you need to stay informed. Catherine Murphy and Stephanie Ferrier bring you the latest news, overnight developments and top stories, plus Charles Brice with sport and Nate Byrne with weather.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120030000 +0500" stop="20251120060000 +0500">
+    <title>ABC News Mornings</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across today. Presented by Kathryn Robinson.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120060000 +0500" stop="20251120070000 +0500">
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the leading news at lunchtime, including the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120070000 +0500" stop="20251120090000 +0500">
+    <title>ABC News Day</title>
+    <desc>As every story unfolds, catch each breaking moment and stay up to date. Ros Childs brings you the latest news, interviews, analysis and original reporting on the issues that matter to you.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120090000 +0500" stop="20251120100000 +0500">
+    <title>ABC News Afternoons</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News through the day. We have reporters in more places, to tell you what's happening and why it matters. Ros Childs brings you the latest news and information.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120100000 +0500" stop="20251120110000 +0500">
+    <title>Afternoon Briefing</title>
+    <desc>Your daily download of everything you need to know about politics, national and global affairs. Patricia Karvelas asks politicians the tough questions and talks to key players and experts on the issues driving the news cycle.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120110000 +0500" stop="20251120120000 +0500">
+    <title>ABC News</title>
+    <desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120120000 +0500" stop="20251120130000 +0500">
+    <title>ABC News Hour</title>
+    <desc>Stay in the know with Australia's trusted news source. From your neighbourhood, across the country and around the world, ABC News bring you the day's top stories and latest news, all verified. Presented by Joe O'Brien.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120130000 +0500" stop="20251120133000 +0500">
+    <title>ABC National News</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120133000 +0500" stop="20251120140000 +0500">
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus reporting from Michael Rowland, Jacob Greber and the team.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120140000 +0500" stop="20251120144400 +0500">
+    <title>ABC News Tonight</title>
+    <desc>The latest breaking news and a comprehensive roundup of the day's best stories from across Australia's states and regions. With reporters in more places ABC News tells the stories that matter to you. Presented by Yvonne Yong.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120144400 +0500" stop="20251120150000 +0500">
+    <title>The Business</title>
+    <desc>Alicia Barry presents Australia's leading daily business and finance show, bringing viewers up to date on market moves, economic trends and the forces affecting consumers, investors, employees, and businesses big and small.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120150000 +0500" stop="20251120160000 +0500">
+    <title>The World</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120160000 +0500" stop="20251120163100 +0500">
+    <title>ABC Nightly News</title>
+    <desc>The home of breaking news and in-depth coverage of the big stories from across Australia and around the globe. The ABC's network of reporters cover important stories and all the news you need. Presented by Yvonne Yong.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120163100 +0500" stop="20251120170000 +0500">
+    <title>Boyer Lectures</title>
+    <sub-title>James Curran - Trump's Gift</sub-title>
+    <desc>James Curran argues that the US Presidency holds advantages for Australia, if we are brave enough to take them, and to confront possible changes in our historic alliance, in his speech.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120170000 +0500" stop="20251120172900 +0500">
+    <title>ABC Late News</title>
+    <desc>More news, more often, with more reporters in more places, connecting communities and covering the stories and issues that matter. Presented by Michael Tetlow.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120172900 +0500" stop="20251120180000 +0500">
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus reporting from Michael Rowland, Jacob Greber and the team.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120180000 +0500" stop="20251120182300 +0500">
+    <title>ABC Late News</title>
+    <desc>Michael Tetlow presents the latest on the day's top stories and a comprehensive round-up of the news of the day, with reporters across Australia and around the globe reporting on the issues that matter.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120182300 +0500" stop="20251120190000 +0500">
+    <title>Not Stupid</title>
+    <desc>Julia Baird and Jeremy Fernandez chat about the week's news, the stories that are filling your feeds and grabbing your attention, plus things you may have missed and some of the lighter stuff to brighten your day.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120190000 +0500" stop="20251120191500 +0500">
+    <title>ABC Late News</title>
+    <desc>Follow the latest on today's news, covering what's happening and why it matters. ABC News has reporters across Australia and around the globe to bring you the news you need to know. Presented by Michael Tetlow in Perth.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120191500 +0500" stop="20251120193000 +0500">
+    <title>The Business</title>
+    <desc>Alicia Barry presents Australia's leading daily business and finance show, bringing viewers up to date on market moves, economic trends and the forces affecting consumers, investors, employees, and businesses big and small.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120193000 +0500" stop="20251120200006 +0500">
+    <title>Landline</title>
+    <desc>A tasty sampler of stories from the land, covering food, agriculture, crops, climate, business and innovation, and meeting the fascinating people who make rural and regional communities unique. Presented by Pip Courtney.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120200006 +0500" stop="20251120202900 +0500">
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120202900 +0500" stop="20251120210006 +0500">
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus reporting from Michael Rowland, Jacob Greber and the team.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120210006 +0500" stop="20251120211504 +0500">
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120211504 +0500" stop="20251120213100 +0500">
+    <title>The Business</title>
+    <desc>Alicia Barry presents Australia's leading daily business and finance show, bringing viewers up to date on market moves, economic trends and the forces affecting consumers, investors, employees, and businesses big and small.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120213100 +0500" stop="20251120222900 +0500">
+    <title>The World</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120222900 +0500" stop="20251120230006 +0500">
+    <title>7.30</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account. Plus reporting from Michael Rowland, Jacob Greber and the team.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120230006 +0500" stop="20251120233000 +0500">
+    <title>DW News</title>
+    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
+  </programme><programme channel="ABC.News.au" start="20251120233000 +0500" stop="20251121000000 +0500">
+    <title>Landline</title>
+    <desc>A tasty sampler of stories from the land, covering food, agriculture, crops, climate, business and innovation, and meeting the fascinating people who make rural and regional communities unique. Presented by Pip Courtney.</desc>
   </programme>
 </tv>

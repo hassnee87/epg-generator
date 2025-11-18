@@ -3,26 +3,5 @@
   <channel id="Mastiii.in">
     <display-name>Mastiii</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Mastiii.png" />
-  </channel><programme channel="Mastiii.in" start="20251117003000 +0500" stop="20251117023000 +0500">
-    <title>Love Kal Aaj Aur Kal</title>
-    <desc>A comprehensive compilation of soul-stirring love songs from classic and recent Bollywood films, performed by renowned artists is played back to back.</desc>
-  </programme><programme channel="Mastiii.in" start="20251117023000 +0500" stop="20251117033000 +0500">
-    <title>Mastiii Doubles</title>
-    <desc>A comprehensive compilation of some of the most popular Bollywood tracks, composed by different artists, is played back-to-back.</desc>
-  </programme><programme channel="Mastiii.in" start="20251117033000 +0500" stop="20251117043000 +0500">
-    <title>Evergreen Hits</title>
-    <desc>A comprehensive compilation of some of the most popular songs from evergreen Bollywood films composed by famous artists and musicians.</desc>
-  </programme><programme channel="Mastiii.in" start="20251117043000 +0500" stop="20251117053000 +0500">
-    <title>Sur Aarambh</title>
-    <desc>A comprehensive compilation of melodious songs from the latest Bollywood movies performed by renowned artists is played back to back.</desc>
-  </programme><programme channel="Mastiii.in" start="20251117053000 +0500" stop="20251117063000 +0500">
-    <title>Love Kal Aaj Aur Kal</title>
-    <desc>A comprehensive compilation of soul-stirring love songs from classic and recent Bollywood films, performed by renowned artists is played back to back.</desc>
-  </programme><programme channel="Mastiii.in" start="20251117063000 +0500" stop="20251117113000 +0500">
-    <title>Morning Masti</title>
-    <desc>Popular Hindi songs play back-to-back, featuring well-known singers. Furthermore, this upbeat playlist offers listeners a non-stop stream of hit Bollywood music.</desc>
-  </programme><programme channel="Mastiii.in" start="20251117113000 +0500" stop="20251117123000 +0500">
-    <title>Hit Melodies</title>
-    <desc>A comprehensive compilation of some of the most popular Bollywood tracks performed by various artists, played back to back.</desc>
-  </programme>
+  </channel>
 </tv>

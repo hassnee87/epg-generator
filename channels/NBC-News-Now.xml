@@ -3,17 +3,5 @@
   <channel id="NBC.News.Now.us">
     <display-name>NBC News Now</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/NBC-News-Now.png" />
-  </channel><programme channel="NBC.News.Now.us" start="20251117010000 +0500" stop="20251117020000 +0500">
-    <title>Dateline NBC</title>
-    <desc>The drug-related death of a 17-year-old girl sheds light on a new class of synthetic drugs that has law enforcement agencies on alert.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251117020000 +0500" stop="20251117030000 +0500">
-    <title>Dateline NBC</title>
-    <desc>Suspicions arise when a man's wife dies in a house fire and then a second tragedy claims his son's life.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251117030000 +0500" stop="20251117040000 +0500">
-    <title>Dateline NBC</title>
-    <desc>A detective comes face to face with a serial killer when she promises to get justice for the mother of a victim whose body turns up at an Anaheim trash facility.</desc>
-  </programme><programme channel="NBC.News.Now.us" start="20251117040000 +0500" stop="20251117050000 +0500">
-    <title>Dateline NBC</title>
-    <desc>Michelle Hadley is exonerated after spending three months in jail for attempted forcible rape of her ex-fiance's wife.</desc>
-  </programme>
+  </channel>
 </tv>
