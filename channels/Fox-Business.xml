@@ -3,43 +3,5 @@
   <channel id="Fox.Business.us">
     <display-name>Fox Business</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Fox-Business.png" />
-  </channel><programme channel="Fox.Business.us" start="20251118000000 +0500" stop="20251118010000 +0500">
-    <title>Live: Making Money With Charles Payne</title>
-    <desc>Wall Street analyst Charles Payne discusses investment prospects.</desc>
-  </programme><programme channel="Fox.Business.us" start="20251118010000 +0500" stop="20251118020000 +0500">
-    <title>Live: The Claman Countdown</title>
-    <desc>Capturing the chaos of the last hour on Wall Street.</desc>
-  </programme><programme channel="Fox.Business.us" start="20251118020000 +0500" stop="20251118030000 +0500">
-    <title>Live: Kudlow</title>
-    <desc>Host Larry Kudlow leads roundtable discussions on the policies impacting the domestic and global economies and interviews with business influencers across the world.</desc>
-  </programme><programme channel="Fox.Business.us" start="20251118030000 +0500" stop="20251118040000 +0500">
-    <title>Live: The Evening Edit</title>
-    <desc>Breaking down the news of the day after the markets close.</desc>
-  </programme><programme channel="Fox.Business.us" start="20251118040000 +0500" stop="20251118050000 +0500">
-    <title>Live: The Bottom Line</title>
-    <desc>FOX Business takes on the hotly debated issues in the business and political world plus the kitchen table topics that matter most to Americans.</desc>
-  </programme><programme channel="Fox.Business.us" start="20251118050000 +0500" stop="20251118060000 +0500">
-    <title>Kudlow</title>
-    <desc>Host Larry Kudlow leads roundtable discussions on the policies impacting the domestic and global economies and interviews with business influencers across the world.</desc>
-  </programme><programme channel="Fox.Business.us" start="20251118060000 +0500" stop="20251118070000 +0500">
-    <title>Legends &amp; Lies: The Real West</title>
-    <sub-title>Butch Cassidy &amp; the Sundance Kid</sub-title>
-    <desc>Butch Cassidy and the Sundance Kid.</desc>
-  </programme><programme channel="Fox.Business.us" start="20251118070000 +0500" stop="20251118080000 +0500">
-    <title>Legends &amp; Lies: The Real West</title>
-    <sub-title>Jesse James: Bloody Politics</sub-title>
-    <desc>In the aftermath of the Civil War, Jesse James and his gang embark on a brutal campaign of violence that blurs the line between robbery and domestic terrorism; legend makes Jesse James out to be a heroic bandit, but the truth lies somewhere darker.</desc>
-  </programme><programme channel="Fox.Business.us" start="20251118080000 +0500" stop="20251118090000 +0500">
-    <title>Legends &amp; Lies: The Real West</title>
-    <sub-title>Kit Carson: Duty Before Honor</sub-title>
-    <desc>Frontiersman and Army officer Christopher Houston "Kit" Carson's many accomplishments are exaggerated in news stories and dime novels.</desc>
-  </programme><programme channel="Fox.Business.us" start="20251118090000 +0500" stop="20251118100000 +0500">
-    <title>Legends &amp; Lies: The Real West</title>
-    <sub-title>Doc Holliday: Desperate Measures</sub-title>
-    <desc>John Henry Holliday is a respectable Atlanta dentist diagnosed with a terminal disease; he resorts to a risky life of gambling and violence and meets Wyatt Earp, a bonafide outlaw with a story all his own.</desc>
-  </programme><programme channel="Fox.Business.us" start="20251118100000 +0500" stop="20251118110000 +0500">
-    <title>Legends &amp; Lies: The Real West</title>
-    <sub-title>Wild Bill Hickok: Plains Justice</sub-title>
-    <desc>Accounts from historians and direct descendants paint a portrait of the Old West gunfighter and gambler known as "Wild Bill" Hickok.</desc>
-  </programme>
+  </channel>
 </tv>

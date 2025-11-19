@@ -4,78 +4,6 @@
     <display-name>PTV Sports</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-Sports.png" />
   </channel>
-  <programme start="20251118000000 +0500" stop="20251118014000 +0500" channel="PTV.Sports.pk">
-    <title>Hockey Asian Champions Trophy 2023 Pakistan Vs Korea(Repeat)</title>
-    <desc>Hockey Asian Champions Trophy 2023 Pakistan Vs Korea(Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251118014000 +0500" stop="20251118020000 +0500" channel="PTV.Sports.pk">
-    <title>Wsf U-23 Squash Championship 2025 Day 4 Semi Final H/L (Repeat)</title>
-    <desc>Wsf U-23 Squash Championship 2025 Day 4 Semi Final H/L (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251118020000 +0500" stop="20251118040000 +0500" channel="PTV.Sports.pk">
-    <title>Epl 2024-25 Man United Vs Liverpool(Repeat)</title>
-    <desc>Epl 2024-25 Man United Vs Liverpool(Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251118040000 +0500" stop="20251118073000 +0500" channel="PTV.Sports.pk">
-    <title>Wimebldon 2022 Djokovic Vs Sinner Full Match (Repeat)</title>
-    <desc>Wimebldon 2022 Djokovic Vs Sinner Full Match (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251118073000 +0500" stop="20251118080000 +0500" channel="PTV.Sports.pk">
-    <title>Mma 2025 (Repeat)</title>
-    <desc>Mma 2025 (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251118080000 +0500" stop="20251118100000 +0500" channel="PTV.Sports.pk">
-    <title>Epl 2024-25 Crystal Palace Vs Man United (Repeat)</title>
-    <desc>Epl 2024-25 Crystal Palace Vs Man United (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251118100000 +0500" stop="20251118101000 +0500" channel="PTV.Sports.pk">
-    <title>Sports Bulletin 1St (04-11-2025)</title>
-    <desc>Sports Bulletin 1St (04-11-2025)</desc>
-  </programme>
-  <programme start="20251118101000 +0500" stop="20251118110000 +0500" channel="PTV.Sports.pk">
-    <title>Sports Tonight (03-11-25) (Fresh Repeat)</title>
-    <desc>Sports Tonight (03-11-25) (Fresh Repeat)
-Fresh Repeat</desc>
-  </programme>
-  <programme start="20251118110000 +0500" stop="20251118120000 +0500" channel="PTV.Sports.pk">
-    <title>Silly Point (03-11-25)(Fresh Repeat)</title>
-    <desc>Silly Point (03-11-25)(Fresh Repeat)
-Fresh Repeat</desc>
-  </programme>
-  <programme start="20251118120000 +0500" stop="20251118130000 +0500" channel="PTV.Sports.pk">
-    <title>Zimbabwe Vs Afghanistan 3Rd T20I H/L (Repeat)</title>
-    <desc>Zimbabwe Vs Afghanistan 3Rd T20I H/L (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251118130000 +0500" stop="20251118180000 +0500" channel="PTV.Sports.pk">
-    <title>Islamic Solidetry Games Riaz Saudi Arabia Day 1 (Live)</title>
-    <desc>Islamic Solidetry Games Riaz Saudi Arabia Day 1 (Live)
-Live</desc>
-  </programme>
-  <programme start="20251118180000 +0500" stop="20251118190000 +0500" channel="PTV.Sports.pk">
-    <title>Sports Bulletin 2Nd (04-11-2025)</title>
-    <desc>Sports Bulletin 2Nd (04-11-2025)</desc>
-  </programme>
-  <programme start="20251118190000 +0500" stop="20251118200000 +0500" channel="PTV.Sports.pk">
-    <title>Sports Tonight (Live)</title>
-    <desc>Sports Tonight (Live)
-Live</desc>
-  </programme>
-  <programme start="20251118200000 +0500" stop="20251118210000 +0500" channel="PTV.Sports.pk">
-    <title>Silly Point (Live)</title>
-    <desc>Silly Point (Live)
-Live</desc>
-  </programme>
-  <programme start="20251118210000 +0500" stop="20251119010000 +0500" channel="PTV.Sports.pk">
-    <title>Cricket Circle Episode 5</title>
-    <desc>Cricket Circle Episode 5</desc>
-  </programme>
   <programme start="20251119010000 +0500" stop="20251119020000 +0500" channel="PTV.Sports.pk">
     <title>Icc Womens Wc 2025 Match 23 Aus W Vs Eng W (Repeat)</title>
     <desc>Icc Womens Wc 2025 Match 23 Aus W Vs Eng W (Repeat)
@@ -320,117 +248,190 @@ Fresh Repeat</desc>
     <title>World Judo Tour Zagreb Grand Prix Croatia 2025 Day 2</title>
     <desc>World Judo Tour Zagreb Grand Prix Croatia 2025 Day 2</desc>
   </programme>
-  <programme start="20251122230000 +0500" stop="20251123000000 +0500" channel="PTV.Sports.pk">
+  <programme start="20251122230000 +0500" stop="20251123010000 +0500" channel="PTV.Sports.pk">
     <title>Game On Hai (Live )</title>
     <desc>Game On Hai (Live )</desc>
   </programme>
-  <programme start="20251123000000 +0500" stop="20251123012000 +0500" channel="PTV.Sports.pk">
-    <title>Hockey Asian Champions Trophy 2023 Pakistan Vs China (11 Aug 23) Repeat</title>
-    <desc>Hockey Asian Champions Trophy 2023 Pakistan Vs China (11 Aug 23) Repeat</desc>
+  <programme start="20251123010000 +0500" stop="20251123030000 +0500" channel="PTV.Sports.pk">
+    <title>Epl 2024-2025 Nottem Forrest Vs Tottenham Repeat</title>
+    <desc>Epl 2024-2025 Nottem Forrest Vs Tottenham Repeat</desc>
   </programme>
-  <programme start="20251123012000 +0500" stop="20251123032000 +0500" channel="PTV.Sports.pk">
-    <title>Epl 2024-2025 Crystal Palace Vs Man City Repeat</title>
-    <desc>Epl 2024-2025 Crystal Palace Vs Man City Repeat</desc>
+  <programme start="20251123030000 +0500" stop="20251123040000 +0500" channel="PTV.Sports.pk">
+    <title>H/L Pakistan Vs Sri Lanka Odi Series 2025 2Nd Odi Repeat</title>
+    <desc>H/L Pakistan Vs Sri Lanka Odi Series 2025 2Nd Odi Repeat</desc>
   </programme>
-  <programme start="20251123032000 +0500" stop="20251123043000 +0500" channel="PTV.Sports.pk">
-    <title>World Judo Tour 2024 Tokyo Repeat</title>
-    <desc>World Judo Tour 2024 Tokyo Repeat</desc>
+  <programme start="20251123040000 +0500" stop="20251123080000 +0500" channel="PTV.Sports.pk">
+    <title>Wimbledon Classic 2019 Djokovic Vs Federer Repeat</title>
+    <desc>Wimbledon Classic 2019 Djokovic Vs Federer Repeat</desc>
   </programme>
-  <programme start="20251123043000 +0500" stop="20251123053000 +0500" channel="PTV.Sports.pk">
-    <title>Icc Womens Wc 2025 Match 29 1St Semi Final Repeat</title>
-    <desc>Icc Womens Wc 2025 Match 29 1St Semi Final Repeat</desc>
+  <programme start="20251123080000 +0500" stop="20251123083000 +0500" channel="PTV.Sports.pk">
+    <title>Acc Emerging Asia Cup Match 3 Ban A Vs Hong Kong Repeat</title>
+    <desc>Acc Emerging Asia Cup Match 3 Ban A Vs Hong Kong Repeat</desc>
   </programme>
-  <programme start="20251123053000 +0500" stop="20251123070000 +0500" channel="PTV.Sports.pk">
-    <title>World Snooker Championshipship Qf Trump Vs Bingham (Last 4 Frames) Repeat</title>
-    <desc>World Snooker Championshipship Qf Trump Vs Bingham (Last 4 Frames) Repeat</desc>
-  </programme>
-  <programme start="20251123070000 +0500" stop="20251123090000 +0500" channel="PTV.Sports.pk">
-    <title>Epl 2024-2025 Man United Vs Newcastle Repeat</title>
-    <desc>Epl 2024-2025 Man United Vs Newcastle Repeat</desc>
+  <programme start="20251123083000 +0500" stop="20251123090000 +0500" channel="PTV.Sports.pk">
+    <title>Acc Emerging Asia Cup Match 4 Afg A Vs Sri Lanka A Repeat</title>
+    <desc>Acc Emerging Asia Cup Match 4 Afg A Vs Sri Lanka A Repeat</desc>
   </programme>
   <programme start="20251123090000 +0500" stop="20251123100000 +0500" channel="PTV.Sports.pk">
-    <title>Zimbabwe Vs Afghanistan 2Nd T20I H/L Repeat</title>
-    <desc>Zimbabwe Vs Afghanistan 2Nd T20I H/L Repeat</desc>
+    <title>H/L Pakistan Vs Sri Lanka Odi Series 2025 1St Odi Repeat</title>
+    <desc>H/L Pakistan Vs Sri Lanka Odi Series 2025 1St Odi Repeat</desc>
   </programme>
-  <programme start="20251123100000 +0500" stop="20251123101000 +0500" channel="PTV.Sports.pk">
-    <title>Sports Bulletin 1St (02-11-2025) Fresh Recorded Pgm</title>
-    <desc>Sports Bulletin 1St (02-11-2025) Fresh Recorded Pgm</desc>
+  <programme start="20251123100000 +0500" stop="20251123110000 +0500" channel="PTV.Sports.pk">
+    <title>Game On Hai (15-11-2025) Repeat</title>
+    <desc>Game On Hai (15-11-2025) Repeat</desc>
   </programme>
-  <programme start="20251123101000 +0500" stop="20251123110000 +0500" channel="PTV.Sports.pk">
-    <title>Icc Womens Wc 2025 Match 29 1St Semi Final Repeat</title>
-    <desc>Icc Womens Wc 2025 Match 29 1St Semi Final Repeat</desc>
+  <programme start="20251123110000 +0500" stop="20251123135000 +0500" channel="PTV.Sports.pk">
+    <title>Slamic Solidetry Games Riaz Saudi Arabia Live</title>
+    <desc>Slamic Solidetry Games Riaz Saudi Arabia Live</desc>
   </programme>
-  <programme start="20251123110000 +0500" stop="20251123120000 +0500" channel="PTV.Sports.pk">
-    <title>Azlan Shah Hockey Cup Final 2003 Pakistan Vs Germany Repeat</title>
-    <desc>Azlan Shah Hockey Cup Final 2003 Pakistan Vs Germany Repeat</desc>
+  <programme start="20251123135000 +0500" stop="20251123141500 +0500" channel="PTV.Sports.pk">
+    <title>Pakistan Vs Sri Lanka 3Rd Odi With Pre &amp; Post Match Show Live</title>
+    <desc>Pakistan Vs Sri Lanka 3Rd Odi With Pre &amp; Post Match Show Live</desc>
   </programme>
-  <programme start="20251123120000 +0500" stop="20251123130000 +0500" channel="PTV.Sports.pk">
-    <title>Game On Hai (01-11-25) Repeat</title>
-    <desc>Game On Hai (01-11-25) Repeat</desc>
+  <programme start="20251123141500 +0500" stop="20251123170000 +0500" channel="PTV.Sports.pk">
+    <title>Acc Emerging Asia Cup 2025 Match 5 U.A.E Vs Oman Live On Ptv National</title>
+    <desc>Acc Emerging Asia Cup 2025 Match 5 U.A.E Vs Oman Live On Ptv National</desc>
   </programme>
-  <programme start="20251123130000 +0500" stop="20251123140000 +0500" channel="PTV.Sports.pk">
-    <title>Icc Womens Wc 2025 Match 29 1St Semi Final Repeat</title>
-    <desc>Icc Womens Wc 2025 Match 29 1St Semi Final Repeat</desc>
+  <programme start="20251123170000 +0500" stop="20251123191500 +0500" channel="PTV.Sports.pk">
+    <title>Baseball United Session 1 Game 3 Karachi Vs Mumbai</title>
+    <desc>Baseball United Session 1 Game 3 Karachi Vs Mumbai</desc>
   </programme>
-  <programme start="20251123140000 +0500" stop="20251123160000 +0500" channel="PTV.Sports.pk">
-    <title>Icc Womens Wc 2025 Match 31 Final Live On Ptv National</title>
-    <desc>Icc Womens Wc 2025 Match 31 Final Live On Ptv National</desc>
+  <programme start="20251123191500 +0500" stop="20251123210000 +0500" channel="PTV.Sports.pk">
+    <title>Acc Emerging Asia Cup 2025 Match 5 Pak A Vs Ind A Live On Ptv National</title>
+    <desc>Acc Emerging Asia Cup 2025 Match 5 Pak A Vs Ind A Live On Ptv National</desc>
   </programme>
-  <programme start="20251123160000 +0500" stop="20251123181500 +0500" channel="PTV.Sports.pk">
-    <title>Cns Squash Championship Final Live On Ptv National</title>
-    <desc>Cns Squash Championship Final Live On Ptv National</desc>
+  <programme start="20251123210000 +0500" stop="20251124010000 +0500" channel="PTV.Sports.pk">
+    <title>World Judo Tour Zagreb Grand Prix Croatia 2025 Day 3</title>
+    <desc>World Judo Tour Zagreb Grand Prix Croatia 2025 Day 3</desc>
   </programme>
-  <programme start="20251123181500 +0500" stop="20251124010000 +0500" channel="PTV.Sports.pk">
-    <title>Sports Bulletin 2Nd (02-11-2025) Fresh Recorded Pgm</title>
-    <desc>Sports Bulletin 2Nd (02-11-2025) Fresh Recorded Pgm</desc>
-  </programme>
-  <programme start="20251124010000 +0500" stop="20251124030000 +0500" channel="PTV.Sports.pk">
-    <title>Betvictor European Masters Sf Ronnie O Sullivan Vs Liang (Last 4 Frames) (Repeat)</title>
-    <desc>Betvictor European Masters Sf Ronnie O Sullivan Vs Liang (Last 4 Frames) (Repeat)
+  <programme start="20251124010000 +0500" stop="20251124020000 +0500" channel="PTV.Sports.pk">
+    <title>H/L Pakistan Vs Sri Lanka Odi Series 2025 2Nd Odi (Repeat)</title>
+    <desc>H/L Pakistan Vs Sri Lanka Odi Series 2025 2Nd Odi (Repeat)
 Repeat</desc>
   </programme>
-  <programme start="20251124030000 +0500" stop="20251124040000 +0500" channel="PTV.Sports.pk">
-    <title>Icc Womens Wc 2025 Match 29 1St Semi Final (Repeat)</title>
-    <desc>Icc Womens Wc 2025 Match 29 1St Semi Final (Repeat)
+  <programme start="20251124020000 +0500" stop="20251124053000 +0500" channel="PTV.Sports.pk">
+    <title>Wimbledon Classic 2022 Djokovic Vs Sinner (Repeat)</title>
+    <desc>Wimbledon Classic 2022 Djokovic Vs Sinner (Repeat)
 Repeat</desc>
   </programme>
-  <programme start="20251124040000 +0500" stop="20251124060000 +0500" channel="PTV.Sports.pk">
-    <title>Epl 2024-25 Man City Vs Arsenal(Repeat)</title>
-    <desc>Epl 2024-25 Man City Vs Arsenal(Repeat)
+  <programme start="20251124053000 +0500" stop="20251124073000 +0500" channel="PTV.Sports.pk">
+    <title>Epl 2024-2025 Crystal Palace Vs Man United (Repeat)</title>
+    <desc>Epl 2024-2025 Crystal Palace Vs Man United (Repeat)
 Repeat</desc>
   </programme>
-  <programme start="20251124060000 +0500" stop="20251124070000 +0500" channel="PTV.Sports.pk">
-    <title>54Th National Vollyball Championship 2025 Day 7 Final And 3Rd Position Match H/L(Repeat)</title>
-    <desc>54Th National Vollyball Championship 2025 Day 7 Final And 3Rd Position Match H/L(Repeat)
+  <programme start="20251124073000 +0500" stop="20251124080000 +0500" channel="PTV.Sports.pk">
+    <title>Acc Emerging Asia Cup Match 1 Pak A Vs Oman (Repeat)</title>
+    <desc>Acc Emerging Asia Cup Match 1 Pak A Vs Oman (Repeat)
 Repeat</desc>
   </programme>
-  <programme start="20251124070000 +0500" stop="20251124081500 +0500" channel="PTV.Sports.pk">
-    <title>Tri Nation Series Pak Vs Sa 2025 (Repeat)</title>
-    <desc>Tri Nation Series Pak Vs Sa 2025 (Repeat)
+  <programme start="20251124080000 +0500" stop="20251124090000 +0500" channel="PTV.Sports.pk">
+    <title>Acc Emerging Asia Cup Match 4 Sri A Vs Afg A (Repeat)</title>
+    <desc>Acc Emerging Asia Cup Match 4 Sri A Vs Afg A (Repeat)
 Repeat</desc>
   </programme>
-  <programme start="20251124081500 +0500" stop="20251124101500 +0500" channel="PTV.Sports.pk">
-    <title>Epl 2024-2025 Arsenal Vs Liverpool (03-11-2025)</title>
-    <desc>Epl 2024-2025 Arsenal Vs Liverpool (03-11-2025)</desc>
-  </programme>
-  <programme start="20251124101500 +0500" stop="20251124103000 +0500" channel="PTV.Sports.pk">
-    <title>Sports Bulletin 1St (10-11-2025) (Repeat)</title>
-    <desc>Sports Bulletin 1St (10-11-2025) (Repeat)
+  <programme start="20251124090000 +0500" stop="20251124100000 +0500" channel="PTV.Sports.pk">
+    <title>1St Commercial H/L Pakistan Vs Sri Lanka 3Rd Odi (Repeat)</title>
+    <desc>1St Commercial H/L Pakistan Vs Sri Lanka 3Rd Odi (Repeat)
 Repeat</desc>
   </programme>
-  <programme start="20251124103000 +0500" stop="20251124190000 +0500" channel="PTV.Sports.pk">
-    <title>Islamic Solidarity Games (Live)</title>
-    <desc>Islamic Solidarity Games (Live)
+  <programme start="20251124100000 +0500" stop="20251124103000 +0500" channel="PTV.Sports.pk">
+    <title>Acc Emerging Asia Cup Match 5 U.A.E Vs Oman (Repeat)</title>
+    <desc>Acc Emerging Asia Cup Match 5 U.A.E Vs Oman (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251124103000 +0500" stop="20251124110000 +0500" channel="PTV.Sports.pk">
+    <title>Acc Emerging Asia Cup Match 6 Pak A Vs Ind A (Repeat)</title>
+    <desc>Acc Emerging Asia Cup Match 6 Pak A Vs Ind A (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251124110000 +0500" stop="20251124141500 +0500" channel="PTV.Sports.pk">
+    <title>Slamic Solidetry Games Riaz Saudi Arabia (Live/ Record)</title>
+    <desc>Slamic Solidetry Games Riaz Saudi Arabia (Live/ Record)</desc>
+  </programme>
+  <programme start="20251124141500 +0500" stop="20251124191500 +0500" channel="PTV.Sports.pk">
+    <title>Acc Emerging Asia Cup 2025 Match 7 Sri Lanka A Vs Hong Kong (Live)</title>
+    <desc>Acc Emerging Asia Cup 2025 Match 7 Sri Lanka A Vs Hong Kong (Live)
 Live</desc>
   </programme>
-  <programme start="20251124190000 +0500" stop="20251124200000 +0500" channel="PTV.Sports.pk">
+  <programme start="20251124191500 +0500" stop="20251124230000 +0500" channel="PTV.Sports.pk">
+    <title>Acc Emerging Asia Cup 2025 Match 8 Ban A Vs Afg A (Live)</title>
+    <desc>Acc Emerging Asia Cup 2025 Match 8 Ban A Vs Afg A (Live)
+Live</desc>
+  </programme>
+  <programme start="20251124230000 +0500" stop="20251125000000 +0500" channel="PTV.Sports.pk">
+    <title>Silly Point</title>
+    <desc>Silly Point</desc>
+  </programme>
+  <programme start="20251125000000 +0500" stop="20251125014000 +0500" channel="PTV.Sports.pk">
+    <title>Hockey Asian Champions Trophy 2023 Pakistan Vs Korea(Repeat)</title>
+    <desc>Hockey Asian Champions Trophy 2023 Pakistan Vs Korea(Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251125014000 +0500" stop="20251125020000 +0500" channel="PTV.Sports.pk">
+    <title>Wsf U-23 Squash Championship 2025 Day 4 Semi Final H/L (Repeat)</title>
+    <desc>Wsf U-23 Squash Championship 2025 Day 4 Semi Final H/L (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251125020000 +0500" stop="20251125040000 +0500" channel="PTV.Sports.pk">
+    <title>Epl 2024-25 Man United Vs Liverpool(Repeat)</title>
+    <desc>Epl 2024-25 Man United Vs Liverpool(Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251125040000 +0500" stop="20251125073000 +0500" channel="PTV.Sports.pk">
+    <title>Wimebldon 2022 Djokovic Vs Sinner Full Match (Repeat)</title>
+    <desc>Wimebldon 2022 Djokovic Vs Sinner Full Match (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251125073000 +0500" stop="20251125080000 +0500" channel="PTV.Sports.pk">
+    <title>Mma 2025 (Repeat)</title>
+    <desc>Mma 2025 (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251125080000 +0500" stop="20251125100000 +0500" channel="PTV.Sports.pk">
+    <title>Epl 2024-25 Crystal Palace Vs Man United (Repeat)</title>
+    <desc>Epl 2024-25 Crystal Palace Vs Man United (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251125100000 +0500" stop="20251125101000 +0500" channel="PTV.Sports.pk">
+    <title>Sports Bulletin 1St (04-11-2025)</title>
+    <desc>Sports Bulletin 1St (04-11-2025)</desc>
+  </programme>
+  <programme start="20251125101000 +0500" stop="20251125110000 +0500" channel="PTV.Sports.pk">
+    <title>Sports Tonight (03-11-25) (Fresh Repeat)</title>
+    <desc>Sports Tonight (03-11-25) (Fresh Repeat)
+Fresh Repeat</desc>
+  </programme>
+  <programme start="20251125110000 +0500" stop="20251125120000 +0500" channel="PTV.Sports.pk">
+    <title>Silly Point (03-11-25)(Fresh Repeat)</title>
+    <desc>Silly Point (03-11-25)(Fresh Repeat)
+Fresh Repeat</desc>
+  </programme>
+  <programme start="20251125120000 +0500" stop="20251125130000 +0500" channel="PTV.Sports.pk">
+    <title>Zimbabwe Vs Afghanistan 3Rd T20I H/L (Repeat)</title>
+    <desc>Zimbabwe Vs Afghanistan 3Rd T20I H/L (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251125130000 +0500" stop="20251125180000 +0500" channel="PTV.Sports.pk">
+    <title>Islamic Solidetry Games Riaz Saudi Arabia Day 1 (Live)</title>
+    <desc>Islamic Solidetry Games Riaz Saudi Arabia Day 1 (Live)
+Live</desc>
+  </programme>
+  <programme start="20251125180000 +0500" stop="20251125190000 +0500" channel="PTV.Sports.pk">
+    <title>Sports Bulletin 2Nd (04-11-2025)</title>
+    <desc>Sports Bulletin 2Nd (04-11-2025)</desc>
+  </programme>
+  <programme start="20251125190000 +0500" stop="20251125200000 +0500" channel="PTV.Sports.pk">
     <title>Sports Tonight (Live)</title>
     <desc>Sports Tonight (Live)
 Live</desc>
   </programme>
-  <programme start="20251124200000 +0500" stop="20251125000000 +0500" channel="PTV.Sports.pk">
+  <programme start="20251125200000 +0500" stop="20251125210000 +0500" channel="PTV.Sports.pk">
     <title>Silly Point (Live)</title>
     <desc>Silly Point (Live)
 Live</desc>
+  </programme>
+  <programme start="20251125210000 +0500" stop="20251126010000 +0500" channel="PTV.Sports.pk">
+    <title>Cricket Circle Episode 5</title>
+    <desc>Cricket Circle Episode 5</desc>
   </programme>
 </tv>

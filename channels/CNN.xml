@@ -3,38 +3,5 @@
   <channel id="CNN.us">
     <display-name>CNN</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CNN.png" />
-  </channel><programme channel="CNN.us" start="20251118000000 +0500" stop="20251118010000 +0500">
-    <title>Live: CNN News Central</title>
-    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
-  </programme><programme channel="CNN.us" start="20251118010000 +0500" stop="20251118020000 +0500">
-    <title>Live: CNN News Central</title>
-    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
-  </programme><programme channel="CNN.us" start="20251118020000 +0500" stop="20251118030000 +0500">
-    <title>Live: The Arena With Kasie Hunt</title>
-    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
-  </programme><programme channel="CNN.us" start="20251118030000 +0500" stop="20251118040000 +0500">
-    <title>Live: The Lead With Jake Tapper</title>
-    <desc>Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
-  </programme><programme channel="CNN.us" start="20251118040000 +0500" stop="20251118050000 +0500">
-    <title>Live: The Lead With Jake Tapper</title>
-    <desc>Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
-  </programme><programme channel="CNN.us" start="20251118050000 +0500" stop="20251118060000 +0500">
-    <title>Live: Erin Burnett OutFront</title>
-    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
-  </programme><programme channel="CNN.us" start="20251118060000 +0500" stop="20251118070000 +0500">
-    <title>Live: Anderson Cooper 360</title>
-    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
-  </programme><programme channel="CNN.us" start="20251118070000 +0500" stop="20251118080000 +0500">
-    <title>Live: The Source With Kaitlan Collins</title>
-    <desc>Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.</desc>
-  </programme><programme channel="CNN.us" start="20251118080000 +0500" stop="20251118090000 +0500">
-    <title>Live: CNN NewsNight With Abby Phillip</title>
-    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-  </programme><programme channel="CNN.us" start="20251118090000 +0500" stop="20251118100000 +0500">
-    <title>Laura Coates Live</title>
-    <desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
-  </programme><programme channel="CNN.us" start="20251118100000 +0500" stop="20251118110000 +0500">
-    <title>Live: The Story Is With Elex Michaelson</title>
-    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
-  </programme>
+  </channel>
 </tv>

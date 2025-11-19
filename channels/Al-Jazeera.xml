@@ -3,34 +3,5 @@
   <channel id="Al.Jazeera.English.qt">
     <display-name>Al Jazeera</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Al-Jazeera.png" />
-  </channel><programme channel="Al.Jazeera.English.qt" start="20251118000000 +0500" stop="20251118003000 +0500">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme><programme channel="Al.Jazeera.English.qt" start="20251118003000 +0500" stop="20251118010000 +0500">
-    <title>The Stream</title>
-    <sub-title>Ep</sub-title>
-    <desc>92 Man vs Machine: Growing Anger Towards AI: Today on the Stream: Why many are increasingly pushing back against the omnipresence of AI.</desc>
-  </programme><programme channel="Al.Jazeera.English.qt" start="20251118010000 +0500" stop="20251118013000 +0500">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme><programme channel="Al.Jazeera.English.qt" start="20251118013000 +0500" stop="20251118020000 +0500">
-    <title>Inside Story</title>
-    <desc>Ep.1152 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-  </programme><programme channel="Al.Jazeera.English.qt" start="20251118020000 +0500" stop="20251118030000 +0500">
-    <title>Newshour</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme><programme channel="Al.Jazeera.English.qt" start="20251118030000 +0500" stop="20251118033000 +0500">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme><programme channel="Al.Jazeera.English.qt" start="20251118033000 +0500" stop="20251118040000 +0500">
-    <title>Witness</title>
-    <desc>Suicide In The Jungle: A young Indigenous Embera woman travels from the city to Colombia's jungle to confront a suicide epidemic in her community.</desc>
-  </programme><programme channel="Al.Jazeera.English.qt" start="20251118040000 +0500" stop="20251118043000 +0500">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme><programme channel="Al.Jazeera.English.qt" start="20251118043000 +0500" stop="20251118050000 +0500">
-    <title>101 East</title>
-    <sub-title>China's Durian Craze</sub-title>
-    <desc>101 East investigates how China's craze for a spiky, pungent fruit, is fuelling profits and also environmental and land disputes in Southeast Asia.</desc>
-  </programme>
+  </channel>
 </tv>

@@ -3,32 +3,5 @@
   <channel id="BBC.News.uk">
     <display-name>BBC News</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-News.png" />
-  </channel><programme channel="BBC.News.uk" start="20251118000000 +0500" stop="20251118003000 +0500">
-    <title>The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-  </programme><programme channel="BBC.News.uk" start="20251118003000 +0500" stop="20251118010000 +0500">
-    <title>The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-  </programme><programme channel="BBC.News.uk" start="20251118010000 +0500" stop="20251118013000 +0500">
-    <title>The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-  </programme><programme channel="BBC.News.uk" start="20251118013000 +0500" stop="20251118020000 +0500">
-    <title>The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-  </programme><programme channel="BBC.News.uk" start="20251118020000 +0500" stop="20251118023000 +0500">
-    <title>The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-  </programme><programme channel="BBC.News.uk" start="20251118023000 +0500" stop="20251118030000 +0500">
-    <title>The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-  </programme><programme channel="BBC.News.uk" start="20251118030000 +0500" stop="20251118033000 +0500">
-    <title>BBC News at Ten</title>
-    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-  </programme><programme channel="BBC.News.uk" start="20251118033000 +0500" stop="20251118040000 +0500">
-    <title>Newsnight</title>
-    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-  </programme><programme channel="BBC.News.uk" start="20251118040000 +0500" stop="20251118050000 +0500">
-    <title>BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-  </programme>
+  </channel>
 </tv>

@@ -3,17 +3,5 @@
   <channel id="GB.News.uk">
     <display-name>GB News</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/GB-News.png" />
-  </channel><programme channel="GB.News.uk" start="20251118000000 +0500" stop="20251118010000 +0500">
-    <title>Farage</title>
-    <desc>Nigel Farage doesn't hold back in his GB News prime-time show. Hear his views and give your own in an hour of discussion and debate. Join Nigel as he takes on the big stories other media won't touch.</desc>
-  </programme><programme channel="GB.News.uk" start="20251118010000 +0500" stop="20251118020000 +0500">
-    <title>Jacob Rees-Mogg's State Of The Nation</title>
-    <desc>Join Jacob for his unique and unmissable take on the day's news.</desc>
-  </programme><programme channel="GB.News.uk" start="20251118020000 +0500" stop="20251118040000 +0500">
-    <title>Patrick Christys Tonight</title>
-    <desc>Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.</desc>
-  </programme><programme channel="GB.News.uk" start="20251118040000 +0500" stop="20251118050000 +0500">
-    <title>Patrick Christys Tonight Late Edition</title>
-    <desc>Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.</desc>
-  </programme>
+  </channel>
 </tv>

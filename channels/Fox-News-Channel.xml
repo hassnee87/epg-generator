@@ -3,38 +3,5 @@
   <channel id="Fox.News.Channel.us">
     <display-name>Fox News Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Fox-News-Channel.png" />
-  </channel><programme channel="Fox.News.Channel.us" start="20251118000000 +0500" stop="20251118010000 +0500">
-    <title>Live: America Reports</title>
-    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251118010000 +0500" stop="20251118020000 +0500">
-    <title>Live: The Story With Martha MacCallum</title>
-    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; "The Story" captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251118020000 +0500" stop="20251118030000 +0500">
-    <title>Live: The Will Cain Show</title>
-    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251118030000 +0500" stop="20251118040000 +0500">
-    <title>Live: The Five</title>
-    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251118040000 +0500" stop="20251118050000 +0500">
-    <title>Live: Special Report With Bret Baier</title>
-    <desc>News from inside the Beltway.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251118050000 +0500" stop="20251118060000 +0500">
-    <title>Live: The Ingraham Angle</title>
-    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251118060000 +0500" stop="20251118070000 +0500">
-    <title>Live: Jesse Watters Primetime</title>
-    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251118070000 +0500" stop="20251118080000 +0500">
-    <title>Live: Hannity</title>
-    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251118080000 +0500" stop="20251118090000 +0500">
-    <title>Gutfeld!</title>
-    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251118090000 +0500" stop="20251118100000 +0500">
-    <title>Live: Fox News at Night</title>
-    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
-  </programme><programme channel="Fox.News.Channel.us" start="20251118100000 +0500" stop="20251118110000 +0500">
-    <title>The Five</title>
-    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
-  </programme>
+  </channel>
 </tv>

@@ -3,35 +3,5 @@
   <channel id="Sky.News.uk">
     <display-name>Sky News</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sky-News.png" />
-  </channel><programme channel="Sky.News.uk" start="20251118000000 +0500" stop="20251118003000 +0500">
-    <title>Politics Hub</title>
-    <desc>Interviews, insight and analysis on the big political stories of the day.</desc>
-  </programme><programme channel="Sky.News.uk" start="20251118003000 +0500" stop="20251118010000 +0500">
-    <title>Politics Hub</title>
-    <desc>Interviews, insight and analysis on the big political stories of the day.</desc>
-  </programme><programme channel="Sky.News.uk" start="20251118010000 +0500" stop="20251118013000 +0500">
-    <title>UK Tonight With Sarah-Jane Mee</title>
-    <desc>Sarah-Jane Mee has all the latest news from across the UK.</desc>
-  </programme><programme channel="Sky.News.uk" start="20251118013000 +0500" stop="20251118020000 +0500">
-    <title>UK Tonight With Sarah-Jane Mee</title>
-    <desc>Sarah-Jane Mee has all the latest news from across the UK.</desc>
-  </programme><programme channel="Sky.News.uk" start="20251118020000 +0500" stop="20251118023000 +0500">
-    <title>Sky News</title>
-    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-  </programme><programme channel="Sky.News.uk" start="20251118023000 +0500" stop="20251118030000 +0500">
-    <title>Sky News</title>
-    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-  </programme><programme channel="Sky.News.uk" start="20251118030000 +0500" stop="20251118033000 +0500">
-    <title>News at 10 with Anna Botting</title>
-    <desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-  </programme><programme channel="Sky.News.uk" start="20251118033000 +0500" stop="20251118040000 +0500">
-    <title>Press Preview</title>
-    <desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
-  </programme><programme channel="Sky.News.uk" start="20251118040000 +0500" stop="20251118043000 +0500">
-    <title>News &amp; Press Preview</title>
-    <desc>The key stories of the day plus debate and discussion with our panel of reviewers on the stories making the morning newspapers in the extended press preview.</desc>
-  </programme><programme channel="Sky.News.uk" start="20251118043000 +0500" stop="20251118050000 +0500">
-    <title>Press Preview</title>
-    <desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
-  </programme>
+  </channel>
 </tv>

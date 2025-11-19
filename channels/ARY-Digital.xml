@@ -3,35 +3,5 @@
   <channel id="ARY.Digital.pk">
     <display-name>ARY Digital</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ARY-Digital.png" />
-  </channel><programme channel="ARY.Digital.pk" start="20251118000000 +0500" stop="20251118003000 +0500">
-    <title>Asian Magazine</title>
-    <desc>Sunheri Yaadein -Bollywood down the memory lane part 01 of 04.</desc>
-  </programme><programme channel="ARY.Digital.pk" start="20251118003000 +0500" stop="20251118010000 +0500">
-    <title>Asian Magazine</title>
-    <desc>Bollywood Monster Mashup Evening with Aishwarya Pandit-part  2.</desc>
-  </programme><programme channel="ARY.Digital.pk" start="20251118010000 +0500" stop="20251118023000 +0500">
-    <title>The Ultimate Muqabla</title>
-    <desc>Reality show.</desc>
-  </programme><programme channel="ARY.Digital.pk" start="20251118023000 +0500" stop="20251118033000 +0500">
-    <title>Pal Do Pal</title>
-    <desc>Drama Serial.</desc>
-  </programme><programme channel="ARY.Digital.pk" start="20251118033000 +0500" stop="20251118043000 +0500">
-    <title>Shar Pasand</title>
-    <desc>Drama Serial.</desc>
-  </programme><programme channel="ARY.Digital.pk" start="20251118043000 +0500" stop="20251118060000 +0500">
-    <title>Chaalbaaz</title>
-    <desc>Drama Serial.</desc>
-  </programme><programme channel="ARY.Digital.pk" start="20251118060000 +0500" stop="20251118070000 +0500">
-    <title>Biryani</title>
-    <desc>Drama Serial.</desc>
-  </programme><programme channel="ARY.Digital.pk" start="20251118070000 +0500" stop="20251118080000 +0500">
-    <title>Pal Do Pal</title>
-    <desc>Drama Serial.</desc>
-  </programme><programme channel="ARY.Digital.pk" start="20251118080000 +0500" stop="20251118093000 +0500">
-    <title>The Ultimate Muqabla</title>
-    <desc>Reality show.</desc>
-  </programme><programme channel="ARY.Digital.pk" start="20251118093000 +0500" stop="20251118100000 +0500">
-    <title>Bulbullay</title>
-    <desc>Sitcom.</desc>
-  </programme>
+  </channel>
 </tv>

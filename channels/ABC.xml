@@ -3,35 +3,5 @@
   <channel id="ABC.us">
     <display-name>ABC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ABC.png" />
-  </channel><programme channel="ABC.us" start="20251118000000 +0500" stop="20251118010000 +0500">
-    <title>General Hospital</title>
-    <desc>The ongoing lives of the diverse and evolving citizens of the fictional town of Port Charles in upstate New York.</desc>
-  </programme><programme channel="ABC.us" start="20251118010000 +0500" stop="20251118020000 +0500">
-    <title>General Hospital</title>
-    <desc>The ongoing lives of the diverse and evolving citizens of the fictional town of Port Charles in upstate New York.</desc>
-  </programme><programme channel="ABC.us" start="20251118020000 +0500" stop="20251118043000 +0500">
-    <title>ABC News Live Reports</title>
-    <desc>24/7 coverage of breaking news and live events.</desc>
-  </programme><programme channel="ABC.us" start="20251118043000 +0500" stop="20251118050000 +0500">
-    <title>ABC World News Tonight With David Muir</title>
-    <desc>Delivering the news that matters most.</desc>
-  </programme><programme channel="ABC.us" start="20251118050000 +0500" stop="20251118053000 +0500">
-    <title>ABC World News Tonight With David Muir</title>
-    <desc>Delivering the news that matters most.</desc>
-  </programme><programme channel="ABC.us" start="20251118053000 +0500" stop="20251118060000 +0500">
-    <title>Live: ABCNL Prime With Linsey Davis</title>
-    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
-  </programme><programme channel="ABC.us" start="20251118060000 +0500" stop="20251118091500 +0500">
-    <title>Live: NFL Football</title>
-    <desc>The Cowboys (3-5-1) make their Sin City debut in a Monday Night Football rendezvous with the Raiders (2-7). Dallas comes off a 27-17 setback versus Arizona before its bye. Las Vegas has lost three straight with the last two by a combined four points.</desc>
-  </programme><programme channel="ABC.us" start="20251118091500 +0500" stop="20251118095000 +0500">
-    <title>ABCNL Prime With Linsey Davis</title>
-    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
-  </programme><programme channel="ABC.us" start="20251118095000 +0500" stop="20251118105200 +0500">
-    <title>Jimmy Kimmel Live!</title>
-    <desc>Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel's family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show's house band. Recurring segments include the FCC-pleasing This Week in Unnecessary Censorship in which they take TV clips and "bleep and blur things whether they need it or not," as Kimmel describes it. But it's too bad they consistently run out of time for Matt Damon's segment.</desc>
-  </programme><programme channel="ABC.us" start="20251118105200 +0500" stop="20251118112100 +0500">
-    <title>Nightline</title>
-    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
-  </programme>
+  </channel>
 </tv>

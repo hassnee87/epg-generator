@@ -3,32 +3,5 @@
   <channel id="Africanews.fr">
     <display-name>Africanews</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Africanews.png" />
-  </channel><programme channel="Africanews.fr" start="20251118000605 +0500" stop="20251118002002 +0500">
-    <title>Business Africa</title>
-    <desc>Corporations, african markets and.</desc>
-  </programme><programme channel="Africanews.fr" start="20251118002002 +0500" stop="20251118005029 +0500">
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-  </programme><programme channel="Africanews.fr" start="20251118005029 +0500" stop="20251118013015 +0500">
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-  </programme><programme channel="Africanews.fr" start="20251118013015 +0500" stop="20251118020815 +0500">
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-  </programme><programme channel="Africanews.fr" start="20251118020815 +0500" stop="20251118023920 +0500">
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-  </programme><programme channel="Africanews.fr" start="20251118023920 +0500" stop="20251118032025 +0500">
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-  </programme><programme channel="Africanews.fr" start="20251118032025 +0500" stop="20251118035025 +0500">
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-  </programme><programme channel="Africanews.fr" start="20251118035025 +0500" stop="20251118042025 +0500">
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-  </programme><programme channel="Africanews.fr" start="20251118042025 +0500" stop="20251118050000 +0500">
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-  </programme>
+  </channel>
 </tv>

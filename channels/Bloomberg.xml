@@ -3,20 +3,5 @@
   <channel id="Bloomberg.uk">
     <display-name>Bloomberg Television</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Bloomberg.png" />
-  </channel><programme channel="Bloomberg.uk" start="20251118000000 +0500" stop="20251118010000 +0500">
-    <title>Bloomberg Businessweek Daily</title>
-    <desc>Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.</desc>
-  </programme><programme channel="Bloomberg.uk" start="20251118010000 +0500" stop="20251118030000 +0500">
-    <title>Bloomberg The Close</title>
-    <desc>Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.</desc>
-  </programme><programme channel="Bloomberg.uk" start="20251118030000 +0500" stop="20251118033000 +0500">
-    <title>The Future with Hannah Fry</title>
-    <desc>For some, pain is excruciating and inescapable. But amid the continuing fallout of the opioid crisis, new technologies are being developed to limit and even eliminate pain.</desc>
-  </programme><programme channel="Bloomberg.uk" start="20251118033000 +0500" stop="20251118040000 +0500">
-    <title>The Future with Hannah Fry</title>
-    <desc>Soon, another billion people will be online. How will these new users embrace this technology to transform their lives, and what will it mean for the rest of the world.</desc>
-  </programme><programme channel="Bloomberg.uk" start="20251118040000 +0500" stop="20251118060000 +0500">
-    <title>Bloomberg The Asia Trade</title>
-    <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
-  </programme>
+  </channel>
 </tv>

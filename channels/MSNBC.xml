@@ -3,32 +3,5 @@
   <channel id="MSNBC.us">
     <display-name>MSNBC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MSNBC.png" />
-  </channel><programme channel="MSNBC.us" start="20251118000000 +0500" stop="20251118010000 +0500">
-    <title>Live: Katy Tur Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
-  </programme><programme channel="MSNBC.us" start="20251118010000 +0500" stop="20251118020000 +0500">
-    <title>Live: Katy Tur Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
-  </programme><programme channel="MSNBC.us" start="20251118020000 +0500" stop="20251118040000 +0500">
-    <title>Live: Deadline: White House</title>
-    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
-  </programme><programme channel="MSNBC.us" start="20251118040000 +0500" stop="20251118050000 +0500">
-    <title>Live: The Beat With Ari Melber</title>
-    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
-  </programme><programme channel="MSNBC.us" start="20251118050000 +0500" stop="20251118070000 +0500">
-    <title>Live: The Weeknight</title>
-    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
-  </programme><programme channel="MSNBC.us" start="20251118070000 +0500" stop="20251118080000 +0500">
-    <title>Live: The Rachel Maddow Show</title>
-    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
-  </programme><programme channel="MSNBC.us" start="20251118080000 +0500" stop="20251118090000 +0500">
-    <title>Live: The Last Word With Lawrence O'Donnell</title>
-    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
-  </programme><programme channel="MSNBC.us" start="20251118090000 +0500" stop="20251118100000 +0500">
-    <title>Live: The 11th Hour With Stephanie Ruhle</title>
-    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
-  </programme><programme channel="MSNBC.us" start="20251118100000 +0500" stop="20251118110000 +0500">
-    <title>The Rachel Maddow Show</title>
-    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
-  </programme>
+  </channel>
 </tv>

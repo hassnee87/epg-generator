@@ -3,49 +3,5 @@
   <channel id="CNBC.World.us">
     <display-name>CNBC World</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CNBC-World.png" />
-  </channel><programme channel="CNBC.World.us" start="20251118000000 +0500" stop="20251118003000 +0500">
-    <title>The CNBC Conversation</title>
-    <sub-title>Priyanka Chopra Jonas</sub-title>
-    <desc>Interviews with top business and political leaders.</desc>
-  </programme><programme channel="CNBC.World.us" start="20251118003000 +0500" stop="20251118010000 +0500">
-    <title>The CNBC Conversation</title>
-    <sub-title>Jeff Immelt, Venture Partner, New Enterprise Associates</sub-title>
-    <desc>Interviews with top business and political leaders.</desc>
-  </programme><programme channel="CNBC.World.us" start="20251118010000 +0500" stop="20251118013000 +0500">
-    <title>CNBC Meets</title>
-    <sub-title>Sung-Joo Kim</sub-title>
-    <desc>Tania Bryer meets up with the visionary business leader Sung-Joo Kim to talk breaking down barriers and her mission to give back.</desc>
-  </programme><programme channel="CNBC.World.us" start="20251118013000 +0500" stop="20251118020000 +0500">
-    <title>CNBC Meets</title>
-    <sub-title>Aerin Lauder</sub-title>
-    <desc>Tania Bryer meets up with the lifestyle entrepreneur Aerin Lauder to talk family legacy, her AERIN brand and philanthropy.</desc>
-  </programme><programme channel="CNBC.World.us" start="20251118020000 +0500" stop="20251118023000 +0500">
-    <title>Marketing Media Money</title>
-    <sub-title>Influencers</sub-title>
-    <desc>Exploring the rise of social media influencers and where the industry may be heading next.</desc>
-  </programme><programme channel="CNBC.World.us" start="20251118023000 +0500" stop="20251118030000 +0500">
-    <title>Marketing Media Money</title>
-    <sub-title>Sustainable Future</sub-title>
-  </programme><programme channel="CNBC.World.us" start="20251118030000 +0500" stop="20251118033000 +0500">
-    <title>Managing Asia</title>
-    <sub-title>Sustainable Future: Future Trends, Part One</sub-title>
-    <desc>Christine Tan speaks to business leaders from three companies in the region, Siam Piwat Group, Panasonic Holdings, and Lendlease, to find out how they are tapping into future trends to build a sustainable business.</desc>
-  </programme><programme channel="CNBC.World.us" start="20251118033000 +0500" stop="20251118040000 +0500">
-    <title>Managing Asia</title>
-    <sub-title>Sustainable Futures: Future Trends, Part Two</sub-title>
-    <desc>CNBC's Christine Tan has been talking to the people who are shaping, governing and leading the Asia Pacific region for over twenty years in this ground-breaking show.</desc>
-  </programme><programme channel="CNBC.World.us" start="20251118040000 +0500" stop="20251118070000 +0500">
-    <title>Live: Squawk Box Asia</title>
-    <desc>The hosts provide in-depth coverage of Asian stock markets and invite experts to offer their predictions and investment tips.</desc>
-  </programme><programme channel="CNBC.World.us" start="20251118070000 +0500" stop="20251118080000 +0500">
-    <title>Live: The China Connection</title>
-  </programme><programme channel="CNBC.World.us" start="20251118080000 +0500" stop="20251118090000 +0500">
-    <title>Live: Inside India</title>
-  </programme><programme channel="CNBC.World.us" start="20251118090000 +0500" stop="20251118100000 +0500">
-    <title>Live: Access Middle East</title>
-    <desc>Business journalists Yousef Gamal el-Din and Hadley Gamble are co-hosts of this show that profiles the people who are shaping the Middle East's global ambitions. From CEOs and entrepreneurs to philanthropists and politicians, the episodes give viewers an idea of what is being done to make the Middle East a bigger player in the financial marketplace. Episodes also profile Middle Eastern businesspeople and companies.</desc>
-  </programme><programme channel="CNBC.World.us" start="20251118100000 +0500" stop="20251118110000 +0500">
-    <title>CNBC: U.S. Markets Edition</title>
-    <desc>View updated U.S. market and world market charts; news on world economy and global markets in our Market Overview.</desc>
-  </programme>
+  </channel>
 </tv>

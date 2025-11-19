@@ -4,136 +4,6 @@
     <display-name>PTV Global</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-Global.png" />
   </channel>
-  <programme start="202511180000 +0100" stop="202511180030 +0100" channel="PTV.Global.pk">
-    <title>Sotailay (r) (ep-18)</title>
-    <desc>Sotailay (r) (ep-18)
-Sotailay (Repeat)                      (Ep-18)</desc>
-  </programme>
-  <programme start="202511180030 +0100" stop="202511180100 +0100" channel="PTV.Global.pk">
-    <title>Satrangia S-iii (r) (ep-03)</title>
-    <desc>Satrangia S-iii (r) (ep-03)
-Satrangia S-III (Repeat)          (Ep-03)</desc>
-  </programme>
-  <programme start="202511180100 +0100" stop="202511180200 +0100" channel="PTV.Global.pk">
-    <title>Seedhi Baat (f)</title>
-    <desc>Seedhi Baat (f)
-Seedhi Baat   (Fresh)</desc>
-  </programme>
-  <programme start="202511180200 +0100" stop="202511180300 +0100" channel="PTV.Global.pk">
-    <title>My City (r) (ep-04)</title>
-    <desc>My City (r) (ep-04)
-My City  (Repeat)            (EP-04)</desc>
-  </programme>
-  <programme start="202511180300 +0100" stop="202511180400 +0100" channel="PTV.Global.pk">
-    <title>Weekend @ Global (new Show) (ep-58 )</title>
-    <desc>Weekend @ Global (new Show) (ep-58 )</desc>
-  </programme>
-  <programme start="202511180400 +0100" stop="202511180530 +0100" channel="PTV.Global.pk">
-    <title>Best Of Morning @ Home (r)</title>
-    <desc>Best Of Morning @ Home (r)
-Best of Morning @ Home (Repeat)</desc>
-  </programme>
-  <programme start="202511180530 +0100" stop="202511180600 +0100" channel="PTV.Global.pk">
-    <title>Al-quran Ul Hakeem (f) (ep-19)</title>
-    <desc>Al-quran Ul Hakeem (f) (ep-19)
-Al-Quran ul Hakeem    (Fresh)          (Ep-19)</desc>
-  </programme>
-  <programme start="202511180600 +0100" stop="202511180630 +0100" channel="PTV.Global.pk">
-    <title>Asma-un-nabi (s.a.w.) (r) (ep-29)</title>
-    <desc>Asma-un-nabi (s.a.w.) (r) (ep-29)
-Asma-Un-Nabi (S.A.W.)     (Repeat)     (Ep-29)</desc>
-  </programme>
-  <programme start="202511180630 +0100" stop="202511180700 +0100" channel="PTV.Global.pk">
-    <title>Chilli &amp;amp; Saas (r) (ep-16)</title>
-    <desc>Chilli &amp;amp; Saas (r) (ep-16)
-Chilli &amp;amp; Saas  (Repeat)                  (EP-16)</desc>
-  </programme>
-  <programme start="202511180700 +0100" stop="202511180800 +0100" channel="PTV.Global.pk">
-    <title>My City (r) (ep-04 )</title>
-    <desc>My City (r) (ep-04 )
-My City  (Repeat)            (EP-04 )</desc>
-  </programme>
-  <programme start="202511180800 +0100" stop="202511180830 +0100" channel="PTV.Global.pk">
-    <title>English News (live) Ptv World</title>
-    <desc>English News (live) Ptv World
-English News  (Live)              PTV WORLD</desc>
-  </programme>
-  <programme start="202511180830 +0100" stop="202511181000 +0100" channel="PTV.Global.pk">
-    <title>Rising Pakistan</title>
-    <desc>Rising Pakistan</desc>
-  </programme>
-  <programme start="202511181000 +0100" stop="202511181030 +0100" channel="PTV.Global.pk">
-    <title>Al-quran Ul Hakeem (ep-19 )</title>
-    <desc>Al-quran Ul Hakeem (ep-19 )</desc>
-  </programme>
-  <programme start="202511181030 +0100" stop="202511181100 +0100" channel="PTV.Global.pk">
-    <title>Ibtida</title>
-    <desc>Ibtida</desc>
-  </programme>
-  <programme start="202511181100 +0100" stop="202511181230 +0100" channel="PTV.Global.pk">
-    <title>Morning @ Home</title>
-    <desc>Morning @ Home</desc>
-  </programme>
-  <programme start="202511181230 +0100" stop="202511181330 +0100" channel="PTV.Global.pk">
-    <title>Anohka Ladla S-ii (r) (ep-04)</title>
-    <desc>Anohka Ladla S-ii (r) (ep-04)
-Anohka Ladla S-II  (Repeat)  (Ep-04)</desc>
-  </programme>
-  <programme start="202511181330 +0100" stop="202511181500 +0100" channel="PTV.Global.pk">
-    <title>Best Of Morning @ Home</title>
-    <desc>Best Of Morning @ Home</desc>
-  </programme>
-  <programme start="202511181500 +0100" stop="202511181600 +0100" channel="PTV.Global.pk">
-    <title>My City (r) (ep-04 )</title>
-    <desc>My City (r) (ep-04 )
-My City  (Repeat)            (EP-04 )</desc>
-  </programme>
-  <programme start="202511181600 +0100" stop="202511181700 +0100" channel="PTV.Global.pk">
-    <title>Views On News (live)</title>
-    <desc>Views On News (live)
-Views On News (Live)</desc>
-  </programme>
-  <programme start="202511181700 +0100" stop="202511181800 +0100" channel="PTV.Global.pk">
-    <title>Khabarnama (live)</title>
-    <desc>Khabarnama (live)
-Khabarnama  (Live)</desc>
-  </programme>
-  <programme start="202511181800 +0100" stop="202511181830 +0100" channel="PTV.Global.pk">
-    <title>Chilli &amp;amp; Saas (ep-17)</title>
-    <desc>Chilli &amp;amp; Saas (ep-17)</desc>
-  </programme>
-  <programme start="202511181830 +0100" stop="202511181900 +0100" channel="PTV.Global.pk">
-    <title>Sotailay (f) (ep-18)</title>
-    <desc>Sotailay (f) (ep-18)
-Sotailay  (Fresh)                         (Ep-18)</desc>
-  </programme>
-  <programme start="202511181900 +0100" stop="202511181930 +0100" channel="PTV.Global.pk">
-    <title>Creative Kids Iv (ep-09)</title>
-    <desc>Creative Kids Iv (ep-09)</desc>
-  </programme>
-  <programme start="202511181930 +0100" stop="202511182000 +0100" channel="PTV.Global.pk">
-    <title>Under Ground Bands (ep-05)</title>
-    <desc>Under Ground Bands (ep-05)</desc>
-  </programme>
-  <programme start="202511182000 +0100" stop="202511182100 +0100" channel="PTV.Global.pk">
-    <title>Bechari (ep-14)</title>
-    <desc>Bechari (ep-14)</desc>
-  </programme>
-  <programme start="202511182100 +0100" stop="202511182200 +0100" channel="PTV.Global.pk">
-    <title>Raiza Raiza (f) (ep-05)</title>
-    <desc>Raiza Raiza (f) (ep-05)
-Raiza Raiza (Fresh)                                          (Ep-05)</desc>
-  </programme>
-  <programme start="202511182200 +0100" stop="202511182300 +0100" channel="PTV.Global.pk">
-    <title>Star &amp;amp; Style S-5</title>
-    <desc>Star &amp;amp; Style S-5
-Star &amp;amp; Style Season - 5</desc>
-  </programme>
-  <programme start="202511182300 +0100" stop="202511190000 +0100" channel="PTV.Global.pk">
-    <title>Khabarnama (live)</title>
-    <desc>Khabarnama (live)
-Khabarnama (Live)</desc>
-  </programme>
   <programme start="202511190000 +0100" stop="202511190030 +0100" channel="PTV.Global.pk">
     <title>Ghao (r) (ep. 54)</title>
     <desc>Ghao (r) (ep. 54)
@@ -961,9 +831,139 @@ Anohka Ladla      (Fresh)    (Ep 04)</desc>
     <desc>Aakhir Masla Kya Hai (f) (ep 08)
 Aakhir Masla Kya Hai  (Fresh)    (Ep 08)</desc>
   </programme>
-  <programme start="202511242300 +0100" stop="202511252300 +0100" channel="PTV.Global.pk">
+  <programme start="202511242300 +0100" stop="202511250000 +0100" channel="PTV.Global.pk">
     <title>Khabarnama (live)</title>
     <desc>Khabarnama (live)
 Khabarnama  (Live)</desc>
+  </programme>
+  <programme start="202511250000 +0100" stop="202511250030 +0100" channel="PTV.Global.pk">
+    <title>Sotailay (r) (ep-18)</title>
+    <desc>Sotailay (r) (ep-18)
+Sotailay (Repeat)                      (Ep-18)</desc>
+  </programme>
+  <programme start="202511250030 +0100" stop="202511250100 +0100" channel="PTV.Global.pk">
+    <title>Satrangia S-iii (r) (ep-03)</title>
+    <desc>Satrangia S-iii (r) (ep-03)
+Satrangia S-III (Repeat)          (Ep-03)</desc>
+  </programme>
+  <programme start="202511250100 +0100" stop="202511250200 +0100" channel="PTV.Global.pk">
+    <title>Seedhi Baat (f)</title>
+    <desc>Seedhi Baat (f)
+Seedhi Baat   (Fresh)</desc>
+  </programme>
+  <programme start="202511250200 +0100" stop="202511250300 +0100" channel="PTV.Global.pk">
+    <title>My City (r) (ep-04)</title>
+    <desc>My City (r) (ep-04)
+My City  (Repeat)            (EP-04)</desc>
+  </programme>
+  <programme start="202511250300 +0100" stop="202511250400 +0100" channel="PTV.Global.pk">
+    <title>Weekend @ Global (new Show) (ep-58 )</title>
+    <desc>Weekend @ Global (new Show) (ep-58 )</desc>
+  </programme>
+  <programme start="202511250400 +0100" stop="202511250530 +0100" channel="PTV.Global.pk">
+    <title>Best Of Morning @ Home (r)</title>
+    <desc>Best Of Morning @ Home (r)
+Best of Morning @ Home (Repeat)</desc>
+  </programme>
+  <programme start="202511250530 +0100" stop="202511250600 +0100" channel="PTV.Global.pk">
+    <title>Al-quran Ul Hakeem (f) (ep-19)</title>
+    <desc>Al-quran Ul Hakeem (f) (ep-19)
+Al-Quran ul Hakeem    (Fresh)          (Ep-19)</desc>
+  </programme>
+  <programme start="202511250600 +0100" stop="202511250630 +0100" channel="PTV.Global.pk">
+    <title>Asma-un-nabi (s.a.w.) (r) (ep-29)</title>
+    <desc>Asma-un-nabi (s.a.w.) (r) (ep-29)
+Asma-Un-Nabi (S.A.W.)     (Repeat)     (Ep-29)</desc>
+  </programme>
+  <programme start="202511250630 +0100" stop="202511250700 +0100" channel="PTV.Global.pk">
+    <title>Chilli &amp;amp; Saas (r) (ep-16)</title>
+    <desc>Chilli &amp;amp; Saas (r) (ep-16)
+Chilli &amp;amp; Saas  (Repeat)                  (EP-16)</desc>
+  </programme>
+  <programme start="202511250700 +0100" stop="202511250800 +0100" channel="PTV.Global.pk">
+    <title>My City (r) (ep-04 )</title>
+    <desc>My City (r) (ep-04 )
+My City  (Repeat)            (EP-04 )</desc>
+  </programme>
+  <programme start="202511250800 +0100" stop="202511250830 +0100" channel="PTV.Global.pk">
+    <title>English News (live) Ptv World</title>
+    <desc>English News (live) Ptv World
+English News  (Live)              PTV WORLD</desc>
+  </programme>
+  <programme start="202511250830 +0100" stop="202511251000 +0100" channel="PTV.Global.pk">
+    <title>Rising Pakistan</title>
+    <desc>Rising Pakistan</desc>
+  </programme>
+  <programme start="202511251000 +0100" stop="202511251030 +0100" channel="PTV.Global.pk">
+    <title>Al-quran Ul Hakeem (ep-19 )</title>
+    <desc>Al-quran Ul Hakeem (ep-19 )</desc>
+  </programme>
+  <programme start="202511251030 +0100" stop="202511251100 +0100" channel="PTV.Global.pk">
+    <title>Ibtida</title>
+    <desc>Ibtida</desc>
+  </programme>
+  <programme start="202511251100 +0100" stop="202511251230 +0100" channel="PTV.Global.pk">
+    <title>Morning @ Home</title>
+    <desc>Morning @ Home</desc>
+  </programme>
+  <programme start="202511251230 +0100" stop="202511251330 +0100" channel="PTV.Global.pk">
+    <title>Anohka Ladla S-ii (r) (ep-04)</title>
+    <desc>Anohka Ladla S-ii (r) (ep-04)
+Anohka Ladla S-II  (Repeat)  (Ep-04)</desc>
+  </programme>
+  <programme start="202511251330 +0100" stop="202511251500 +0100" channel="PTV.Global.pk">
+    <title>Best Of Morning @ Home</title>
+    <desc>Best Of Morning @ Home</desc>
+  </programme>
+  <programme start="202511251500 +0100" stop="202511251600 +0100" channel="PTV.Global.pk">
+    <title>My City (r) (ep-04 )</title>
+    <desc>My City (r) (ep-04 )
+My City  (Repeat)            (EP-04 )</desc>
+  </programme>
+  <programme start="202511251600 +0100" stop="202511251700 +0100" channel="PTV.Global.pk">
+    <title>Views On News (live)</title>
+    <desc>Views On News (live)
+Views On News (Live)</desc>
+  </programme>
+  <programme start="202511251700 +0100" stop="202511251800 +0100" channel="PTV.Global.pk">
+    <title>Khabarnama (live)</title>
+    <desc>Khabarnama (live)
+Khabarnama  (Live)</desc>
+  </programme>
+  <programme start="202511251800 +0100" stop="202511251830 +0100" channel="PTV.Global.pk">
+    <title>Chilli &amp;amp; Saas (ep-17)</title>
+    <desc>Chilli &amp;amp; Saas (ep-17)</desc>
+  </programme>
+  <programme start="202511251830 +0100" stop="202511251900 +0100" channel="PTV.Global.pk">
+    <title>Sotailay (f) (ep-18)</title>
+    <desc>Sotailay (f) (ep-18)
+Sotailay  (Fresh)                         (Ep-18)</desc>
+  </programme>
+  <programme start="202511251900 +0100" stop="202511251930 +0100" channel="PTV.Global.pk">
+    <title>Creative Kids Iv (ep-09)</title>
+    <desc>Creative Kids Iv (ep-09)</desc>
+  </programme>
+  <programme start="202511251930 +0100" stop="202511252000 +0100" channel="PTV.Global.pk">
+    <title>Under Ground Bands (ep-05)</title>
+    <desc>Under Ground Bands (ep-05)</desc>
+  </programme>
+  <programme start="202511252000 +0100" stop="202511252100 +0100" channel="PTV.Global.pk">
+    <title>Bechari (ep-14)</title>
+    <desc>Bechari (ep-14)</desc>
+  </programme>
+  <programme start="202511252100 +0100" stop="202511252200 +0100" channel="PTV.Global.pk">
+    <title>Raiza Raiza (f) (ep-05)</title>
+    <desc>Raiza Raiza (f) (ep-05)
+Raiza Raiza (Fresh)                                          (Ep-05)</desc>
+  </programme>
+  <programme start="202511252200 +0100" stop="202511252300 +0100" channel="PTV.Global.pk">
+    <title>Star &amp;amp; Style S-5</title>
+    <desc>Star &amp;amp; Style S-5
+Star &amp;amp; Style Season - 5</desc>
+  </programme>
+  <programme start="202511252300 +0100" stop="202511262300 +0100" channel="PTV.Global.pk">
+    <title>Khabarnama (live)</title>
+    <desc>Khabarnama (live)
+Khabarnama (Live)</desc>
   </programme>
 </tv>

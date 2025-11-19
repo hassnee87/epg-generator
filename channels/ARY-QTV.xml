@@ -3,44 +3,5 @@
   <channel id="ARY.QTV.pk">
     <display-name>ARY QTV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ARY-QTV.png" />
-  </channel><programme channel="ARY.QTV.pk" start="20251118000000 +0500" stop="20251118010000 +0500">
-    <title>Sohneyan Meriyan Sunlay Sadawan</title>
-    <desc>This program is based on viewers’ Naat requests, especially the ones said by the famous Sufi Saints Like Baba Bulhay Shah, Sultan Bahu .. The program is conducted in Punjabi language.Host: Safder Ali MohsinNaat Khuwan: Prof. A. Rauf Rufi.</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118010000 +0500" stop="20251118020000 +0500">
-    <title>Paigham e Quran</title>
-    <desc>A beautiful recitation of a quarter chapter from the Holy Qur’an, by a renowned Qari, and translation and interpretation of those recited verses in a brief manner.Format: 1+2 (Host+ Qari+ Scholar)Host: Salman GullScholars: Allama Shehzad Mujaddadi, Mufti Muhammad Amir and Mufti Ismail.</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118020000 +0500" stop="20251118023000 +0500">
-    <title>Q-Qaida</title>
-    <desc>Q Qaida is an introductory program that teaches beginners how to read the Arabic script for Quranic recitation. It starts with the basic Arabic letters and gradually introduces different vowel sounds and Quranic pronunciation rules. It is commonly used to establish a solid foundation for Tajweed and Quranic recitation.Host: Urooj IqbalParticipants: Children Format: Kids learning show (1+3 ).</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118023000 +0500" stop="20251118030000 +0500">
-    <title>Daura e Tarjuma e Quran</title>
-    <desc>This program contains recitation of the Holy Quran (verse by verse) and interpretation of those verses by renowned religious scholar Shuja Uddin Sheikh.</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118030000 +0500" stop="20251118040000 +0500">
-    <title>Meri Pehchan</title>
-    <desc>A female talk show having discussion over the persisting customs and norms of the society. Female scholars and experts from different fields of life and talks about the origins where those customs, rites and ritual come from or how they evolve with time, how they affect and influence our society, their pros and cons, and what does Islam has to say about them and see what criteria Islam provides to decide over adapting or rejecting to the emerging global changes, say social, technological etc. of today.Format: 1+1, Duration: 40 minutes, Host: Sehrish Sheikh.</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118040000 +0500" stop="20251118050000 +0500">
-    <title>Hayat-e-Sahaba</title>
-    <desc>The program will be based on the discussion on the lives of the Companions of the prophet Muhammad (pbuh). Format: talk show (1+1),Host: Qari Muhammad Younus, Scholar: Tahir Tabbasum.</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118050000 +0500" stop="20251118060000 +0500">
-    <title>Roshni Sab Kay Leye</title>
-    <desc>Roshni Sab Kay Leye (format 1+3) a program carrying the tag line of ARY Qtv as its Title and covering a vast range of topics related to Islam with support of Quran and Sunnah, the core purpose of program is to gather our mainstream and renowned Ulemas, Mufties and Scholars under one title, on one time slot, making it simple and convenient for our viewers to get interacted with ARY Qtv through this platform. The program hosted by Raees Ahmed.</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118060000 +0500" stop="20251118063000 +0500">
-    <title>Qayadat e Nabawi</title>
-    <desc>Qayadat e Nabawi is a thought-provoking new series that explores the leadership qualities of the Prophet Muhammad. In this program highlights how his noble character, strategic wisdom, and powerful decision-making can serve as a timeless guide for today’s leadersFormat: Podcast (1+1).</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118063000 +0500" stop="20251118070000 +0500">
-    <title>Fillers</title>
-    <desc>Religious Fillers, Hamd o Naat.</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118070000 +0500" stop="20251118080000 +0500">
-    <title>Quran Suniay Aur Sunaiyyay</title>
-    <desc>This program is basically design for the viewers who do not find any teacher to correct their recitation of Quran, They may contact on phone to the host for this purpose. Host: Mufti Sohail Raza Amjadi.</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118080000 +0500" stop="20251118083000 +0500">
-    <title>Daura e Tarjuma e Quran</title>
-    <desc>This program contains recitation of the Holy Quran (verse by verse) and interpretation of those verses by renowned religious scholar Shuja Uddin Sheikh.</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118083000 +0500" stop="20251118090000 +0500">
-    <title>Religious Hour</title>
-    <desc>Hamd, Naat and chapters from Quran Kareem.</desc>
-  </programme><programme channel="ARY.QTV.pk" start="20251118090000 +0500" stop="20251118100000 +0500">
-    <title>Fillers</title>
-    <desc>Islamic Documentaries/ Filler Properties/ Naat Hamd.</desc>
-  </programme>
+  </channel>
 </tv>

@@ -3,33 +3,5 @@
   <channel id="RT.ru">
     <display-name>Russia Today</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/RT.png" />
-  </channel><programme channel="RT.ru" start="20251118000000 +0500" stop="20251118003000 +0500">
-    <title>Sanchez Effect</title>
-  </programme><programme channel="RT.ru" start="20251118003000 +0500" stop="20251118010000 +0500">
-    <title>Cross Talk</title>
-  </programme><programme channel="RT.ru" start="20251118010000 +0500" stop="20251118013000 +0500">
-    <title>Headline News</title>
-  </programme><programme channel="RT.ru" start="20251118013000 +0500" stop="20251118020000 +0500">
-    <title>Going Underground</title>
-  </programme><programme channel="RT.ru" start="20251118020000 +0500" stop="20251118023000 +0500">
-    <title>Headline News</title>
-  </programme><programme channel="RT.ru" start="20251118023000 +0500" stop="20251118030000 +0500">
-    <title>Documentary</title>
-  </programme><programme channel="RT.ru" start="20251118030000 +0500" stop="20251118033000 +0500">
-    <title>Headline News</title>
-  </programme><programme channel="RT.ru" start="20251118033000 +0500" stop="20251118040000 +0500">
-    <title>Sanchez Effect</title>
-  </programme><programme channel="RT.ru" start="20251118040000 +0500" stop="20251118043000 +0500">
-    <title>Sanchez Effect</title>
-  </programme><programme channel="RT.ru" start="20251118043000 +0500" stop="20251118050000 +0500">
-    <title>Documentary</title>
-  </programme><programme channel="RT.ru" start="20251118050000 +0500" stop="20251118053000 +0500">
-    <title>Headline News</title>
-  </programme><programme channel="RT.ru" start="20251118053000 +0500" stop="20251118060000 +0500">
-    <title>Cross Talk</title>
-  </programme><programme channel="RT.ru" start="20251118060000 +0500" stop="20251118063000 +0500">
-    <title>Going Underground</title>
-  </programme><programme channel="RT.ru" start="20251118063000 +0500" stop="20251118070000 +0500">
-    <title>Documentary</title>
-  </programme>
+  </channel>
 </tv>

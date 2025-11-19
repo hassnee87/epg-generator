@@ -3,20 +3,5 @@
   <channel id="Hum-Europe.pk">
     <display-name>Hum Europe</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Hum-Europe.png" />
-  </channel><programme channel="Hum-Europe.pk" start="20251118000000 +0500" stop="20251118010000 +0500">
-    <title>Meri Bahuain</title>
-    <desc>A family drama that explores love, jealousy, and power struggles among daughters-in-law fighting for respect, affection, and control in one household.</desc>
-  </programme><programme channel="Hum-Europe.pk" start="20251118010000 +0500" stop="20251118020000 +0500">
-    <title>Jin Ki Shadi Unki Shadi</title>
-    <desc>A lighthearted family drama where love, humour, and misunderstandings intertwine, revealing how one marriage decision changes many lives.</desc>
-  </programme><programme channel="Hum-Europe.pk" start="20251118020000 +0500" stop="20251118030000 +0500">
-    <title>Sultan Salahuddin Ayyubi</title>
-    <desc>This drama series focuses on the life of 12th-century Muslim ruler Salahuddin Ayyubi, how he conquered Jerusalem, his struggles and battles against the Crusaders and his goal to unite Muslims.</desc>
-  </programme><programme channel="Hum-Europe.pk" start="20251118030000 +0500" stop="20251118040000 +0500">
-    <title>Oh Rungreza</title>
-    <desc>Born in a poet's house, Sassi lives in her own fantasies but in pursuit of her ideal man Punhal; she has to face some real obstacles to do this.</desc>
-  </programme><programme channel="Hum-Europe.pk" start="20251118040000 +0500" stop="20251118050000 +0500">
-    <title>Meri Bahuain</title>
-    <desc>A family drama that explores love, jealousy, and power struggles among daughters-in-law fighting for respect, affection, and control in one household.</desc>
-  </programme>
+  </channel>
 </tv>

@@ -3,56 +3,5 @@
   <channel id="Euronews.fr">
     <display-name>Euronews</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Euronews.png" />
-  </channel><programme channel="Euronews.fr" start="20251118000000 +0500" stop="20251118001500 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118001500 +0500" stop="20251118003000 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118003000 +0500" stop="20251118010000 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118010000 +0500" stop="20251118011600 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118011600 +0500" stop="20251118013000 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118013000 +0500" stop="20251118020000 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118020000 +0500" stop="20251118021600 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118021600 +0500" stop="20251118023000 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118023000 +0500" stop="20251118024700 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118024700 +0500" stop="20251118030000 +0500">
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118030000 +0500" stop="20251118031600 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118031600 +0500" stop="20251118033000 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118033000 +0500" stop="20251118040000 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118040000 +0500" stop="20251118041500 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118041500 +0500" stop="20251118043000 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118043000 +0500" stop="20251118044600 +0500">
-    <title>The European Debrief</title>
-    <desc>Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme><programme channel="Euronews.fr" start="20251118044600 +0500" stop="20251118050000 +0500">
-    <title>News</title>
-    <desc>The leading news stories of the moment.</desc>
-  </programme>
+  </channel>
 </tv>

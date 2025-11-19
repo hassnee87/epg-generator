@@ -3,20 +3,5 @@
   <channel id="Hum.Masala.pk">
     <display-name>Hum Masala</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Hum-Masala.png" />
-  </channel><programme channel="Hum.Masala.pk" start="20251118003000 +0500" stop="20251118010000 +0500">
-    <title>Around Town</title>
-    <desc>This show is about how to cook clean and healthy food with different types of cooking techniques.</desc>
-  </programme><programme channel="Hum.Masala.pk" start="20251118010000 +0500" stop="20251118020000 +0500">
-    <title>Tarka</title>
-    <desc>Join our desi queen Rida Aftab as she takes you on a culinary journey. From chutneys to chargha and desi to a myriad of various fusions, 'Tarka' transforms and spices up your regular everyday dishes.</desc>
-  </programme><programme channel="Hum.Masala.pk" start="20251118020000 +0500" stop="20251118030000 +0500">
-    <title>Fusion Food with Saad</title>
-    <desc>Chef Saad provides theme-based patisserie solutions and an insight into savoury and dessert-based baking.</desc>
-  </programme><programme channel="Hum.Masala.pk" start="20251118030000 +0500" stop="20251118043000 +0500">
-    <title>Lively Weekend</title>
-    <desc>A platform for bringing forward new culinary talent hosted by the lovely Kiran Khan. With different experts in each programme, weekend mornings will never be the same.</desc>
-  </programme><programme channel="Hum.Masala.pk" start="20251118043000 +0500" stop="20251118050000 +0500">
-    <title>Mrs &amp; Mr Ka Kitchen</title>
-    <desc>Symbolizes a couple's shared love for cooking.</desc>
-  </programme>
+  </channel>
 </tv>
