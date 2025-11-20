@@ -4,62 +4,6 @@
     <display-name>PTV National</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-National.png" />
   </channel>
-  <programme start="20251119120000 +0500" stop="20251119121500 +0500" channel="PTV.National.pk">
-    <title>Sindhi News Ptv-National</title>
-    <desc>Sindhi News Ptv-National</desc>
-  </programme>
-  <programme start="20251119121500 +0500" stop="20251119140000 +0500" channel="PTV.National.pk">
-    <title>Brunch @ Ptv National Live Show</title>
-    <desc>Brunch @ Ptv National Live Show</desc>
-  </programme>
-  <programme start="20251119140000 +0500" stop="20251119150000 +0500" channel="PTV.National.pk">
-    <title>Aiou Magazine</title>
-    <desc>Aiou Magazine</desc>
-  </programme>
-  <programme start="20251119150000 +0500" stop="20251119160000 +0500" channel="PTV.National.pk">
-    <title>Hal Ahwaal / Wao Sawao Current Affairs</title>
-    <desc>Hal Ahwaal / Wao Sawao Current Affairs</desc>
-  </programme>
-  <programme start="20251119160000 +0500" stop="20251119163000 +0500" channel="PTV.National.pk">
-    <title>Sindh Sadyen Khan (Documentary)</title>
-    <desc>Sindh Sadyen Khan (Documentary)</desc>
-  </programme>
-  <programme start="20251119163000 +0500" stop="20251119170000 +0500" channel="PTV.National.pk">
-    <title>Geet Sangeet Music</title>
-    <desc>Geet Sangeet Music</desc>
-  </programme>
-  <programme start="20251119170000 +0500" stop="20251119174500 +0500" channel="PTV.National.pk">
-    <title>Natak Rang (Odd Play)</title>
-    <desc>Natak Rang (Odd Play)</desc>
-  </programme>
-  <programme start="20251119174500 +0500" stop="20251119180000 +0500" channel="PTV.National.pk">
-    <title>Sindhi News Ptv-National</title>
-    <desc>Sindhi News Ptv-National</desc>
-  </programme>
-  <programme start="20251119180000 +0500" stop="20251119190000 +0500" channel="PTV.National.pk">
-    <title>Tamasha (Natak Rang) (Drama Serial)</title>
-    <desc>Tamasha (Natak Rang) (Drama Serial)</desc>
-  </programme>
-  <programme start="20251119190000 +0500" stop="20251119200000 +0500" channel="PTV.National.pk">
-    <title>Natak Rang (Odd Play)</title>
-    <desc>Natak Rang (Odd Play)</desc>
-  </programme>
-  <programme start="20251119200000 +0500" stop="20251119230000 +0500" channel="PTV.National.pk">
-    <title>Sindh Time (Repeat Time 1)</title>
-    <desc>Sindh Time (Repeat Time 1)</desc>
-  </programme>
-  <programme start="20251119230000 +0500" stop="20251119060000 +0500" channel="PTV.National.pk">
-    <title>Brunch @ Ptv National (Repeat Time)</title>
-    <desc>Brunch @ Ptv National (Repeat Time)</desc>
-  </programme>
-  <programme start="20251119060000 +0500" stop="20251119040000 +0500" channel="PTV.National.pk">
-    <title>Al-Quran (Ptv Home)</title>
-    <desc>Al-Quran (Ptv Home)</desc>
-  </programme>
-  <programme start="20251119040000 +0500" stop="20251120120000 +0500" channel="PTV.National.pk">
-    <title>Sindh Time (Repeat Time 2)</title>
-    <desc>Sindh Time (Repeat Time 2)</desc>
-  </programme>
   <programme start="20251120120000 +0500" stop="20251120121500 +0500" channel="PTV.National.pk">
     <title>Sindhi News Ptv-National</title>
     <desc>Sindhi News Ptv-National</desc>
@@ -387,5 +331,61 @@
   <programme start="20251125040000 +0500" stop="20251126120000 +0500" channel="PTV.National.pk">
     <title>Sindh Time Repeat Time 2</title>
     <desc>Sindh Time Repeat Time 2</desc>
+  </programme>
+  <programme start="20251126120000 +0500" stop="20251126121500 +0500" channel="PTV.National.pk">
+    <title>Sindhi News Ptv-National</title>
+    <desc>Sindhi News Ptv-National</desc>
+  </programme>
+  <programme start="20251126121500 +0500" stop="20251126140000 +0500" channel="PTV.National.pk">
+    <title>Brunch @ Ptv National Live Show</title>
+    <desc>Brunch @ Ptv National Live Show</desc>
+  </programme>
+  <programme start="20251126140000 +0500" stop="20251126150000 +0500" channel="PTV.National.pk">
+    <title>Aiou Magazine</title>
+    <desc>Aiou Magazine</desc>
+  </programme>
+  <programme start="20251126150000 +0500" stop="20251126160000 +0500" channel="PTV.National.pk">
+    <title>Hal Ahwaal / Wao Sawao Current Affairs</title>
+    <desc>Hal Ahwaal / Wao Sawao Current Affairs</desc>
+  </programme>
+  <programme start="20251126160000 +0500" stop="20251126163000 +0500" channel="PTV.National.pk">
+    <title>Sindh Sadyen Khan (Documentary)</title>
+    <desc>Sindh Sadyen Khan (Documentary)</desc>
+  </programme>
+  <programme start="20251126163000 +0500" stop="20251126170000 +0500" channel="PTV.National.pk">
+    <title>Geet Sangeet Music</title>
+    <desc>Geet Sangeet Music</desc>
+  </programme>
+  <programme start="20251126170000 +0500" stop="20251126174500 +0500" channel="PTV.National.pk">
+    <title>Natak Rang (Odd Play)</title>
+    <desc>Natak Rang (Odd Play)</desc>
+  </programme>
+  <programme start="20251126174500 +0500" stop="20251126180000 +0500" channel="PTV.National.pk">
+    <title>Sindhi News Ptv-National</title>
+    <desc>Sindhi News Ptv-National</desc>
+  </programme>
+  <programme start="20251126180000 +0500" stop="20251126190000 +0500" channel="PTV.National.pk">
+    <title>Tamasha (Natak Rang) (Drama Serial)</title>
+    <desc>Tamasha (Natak Rang) (Drama Serial)</desc>
+  </programme>
+  <programme start="20251126190000 +0500" stop="20251126200000 +0500" channel="PTV.National.pk">
+    <title>Natak Rang (Odd Play)</title>
+    <desc>Natak Rang (Odd Play)</desc>
+  </programme>
+  <programme start="20251126200000 +0500" stop="20251126230000 +0500" channel="PTV.National.pk">
+    <title>Sindh Time (Repeat Time 1)</title>
+    <desc>Sindh Time (Repeat Time 1)</desc>
+  </programme>
+  <programme start="20251126230000 +0500" stop="20251126060000 +0500" channel="PTV.National.pk">
+    <title>Brunch @ Ptv National (Repeat Time)</title>
+    <desc>Brunch @ Ptv National (Repeat Time)</desc>
+  </programme>
+  <programme start="20251126060000 +0500" stop="20251126040000 +0500" channel="PTV.National.pk">
+    <title>Al-Quran (Ptv Home)</title>
+    <desc>Al-Quran (Ptv Home)</desc>
+  </programme>
+  <programme start="20251126040000 +0500" stop="20251127120000 +0500" channel="PTV.National.pk">
+    <title>Sindh Time (Repeat Time 2)</title>
+    <desc>Sindh Time (Repeat Time 2)</desc>
   </programme>
 </tv>

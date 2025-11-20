@@ -4,168 +4,6 @@
     <display-name>PTV News</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-News.png" />
   </channel>
-  <programme start="20251119050000 +0500" stop="20251119050500 +0500" channel="PTV.News.pk">
-    <title>News Headlines</title>
-    <desc>News Headlines</desc>
-  </programme>
-  <programme start="20251119050500 +0500" stop="20251119060000 +0500" channel="PTV.News.pk">
-    <title>Iqra</title>
-    <desc>Iqra</desc>
-  </programme>
-  <programme start="20251119060000 +0500" stop="20251119070000 +0500" channel="PTV.News.pk">
-    <title>News Bulletin</title>
-    <desc>News Bulletin</desc>
-  </programme>
-  <programme start="20251119070000 +0500" stop="20251119070500 +0500" channel="PTV.News.pk">
-    <title>News Headlines</title>
-    <desc>News Headlines</desc>
-  </programme>
-  <programme start="20251119070500 +0500" stop="20251119080000 +0500" channel="PTV.News.pk">
-    <title>Ibteda</title>
-    <desc>Ibteda</desc>
-  </programme>
-  <programme start="20251119080000 +0500" stop="20251119080500 +0500" channel="PTV.News.pk">
-    <title>News Headlines</title>
-    <desc>News Headlines</desc>
-  </programme>
-  <programme start="20251119080500 +0500" stop="20251119090000 +0500" channel="PTV.News.pk">
-    <title>Jaiza (Live)</title>
-    <desc>Jaiza (Live)
-Live</desc>
-  </programme>
-  <programme start="20251119090000 +0500" stop="20251119090500 +0500" channel="PTV.News.pk">
-    <title>News Headlines</title>
-    <desc>News Headlines</desc>
-  </programme>
-  <programme start="20251119090500 +0500" stop="20251119100000 +0500" channel="PTV.News.pk">
-    <title>Subha-E-Pakistan</title>
-    <desc>Subha-E-Pakistan</desc>
-  </programme>
-  <programme start="20251119100000 +0500" stop="20251119100500 +0500" channel="PTV.News.pk">
-    <title>News Headlines</title>
-    <desc>News Headlines</desc>
-  </programme>
-  <programme start="20251119100500 +0500" stop="20251119110000 +0500" channel="PTV.News.pk">
-    <title>Subha-E-Pakistan</title>
-    <desc>Subha-E-Pakistan</desc>
-  </programme>
-  <programme start="20251119110000 +0500" stop="20251119110500 +0500" channel="PTV.News.pk">
-    <title>News Headlines</title>
-    <desc>News Headlines</desc>
-  </programme>
-  <programme start="20251119110500 +0500" stop="20251119120000 +0500" channel="PTV.News.pk">
-    <title>Riasat (Rpt)</title>
-    <desc>Riasat (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251119120000 +0500" stop="20251119123000 +0500" channel="PTV.News.pk">
-    <title>News Bulletin</title>
-    <desc>News Bulletin</desc>
-  </programme>
-  <programme start="20251119123000 +0500" stop="20251119130000 +0500" channel="PTV.News.pk">
-    <title>Sara Pakistan</title>
-    <desc>Sara Pakistan</desc>
-  </programme>
-  <programme start="20251119130000 +0500" stop="20251119130500 +0500" channel="PTV.News.pk">
-    <title>News Headlines</title>
-    <desc>News Headlines</desc>
-  </programme>
-  <programme start="20251119130500 +0500" stop="20251119140000 +0500" channel="PTV.News.pk">
-    <title>Current Affairs Special (Rpt)</title>
-    <desc>Current Affairs Special (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251119140000 +0500" stop="20251119140500 +0500" channel="PTV.News.pk">
-    <title>News Headlines</title>
-    <desc>News Headlines</desc>
-  </programme>
-  <programme start="20251119140500 +0500" stop="20251119150000 +0500" channel="PTV.News.pk">
-    <title>Sach Tou Yeh Hai (Rpt)</title>
-    <desc>Sach Tou Yeh Hai (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251119150000 +0500" stop="20251119150500 +0500" channel="PTV.News.pk">
-    <title>Headlines News</title>
-    <desc>Headlines News</desc>
-  </programme>
-  <programme start="20251119150500 +0500" stop="20251119153000 +0500" channel="PTV.News.pk">
-    <title>Parliament News</title>
-    <desc>Parliament News</desc>
-  </programme>
-  <programme start="20251119153000 +0500" stop="20251119160000 +0500" channel="PTV.News.pk">
-    <title>Kashmiri News + Gojri News + Sheena News + Balti News</title>
-    <desc>Kashmiri News + Gojri News + Sheena News + Balti News</desc>
-  </programme>
-  <programme start="20251119160000 +0500" stop="20251119160500 +0500" channel="PTV.News.pk">
-    <title>Headlines News</title>
-    <desc>Headlines News</desc>
-  </programme>
-  <programme start="20251119160500 +0500" stop="20251119170000 +0500" channel="PTV.News.pk">
-    <title>Sports 360 (Live)</title>
-    <desc>Sports 360 (Live)
-Live</desc>
-  </programme>
-  <programme start="20251119170000 +0500" stop="20251119170500 +0500" channel="PTV.News.pk">
-    <title>Headlines News</title>
-    <desc>Headlines News</desc>
-  </programme>
-  <programme start="20251119170500 +0500" stop="20251119180000 +0500" channel="PTV.News.pk">
-    <title>Baat Karobar Ki (Live)</title>
-    <desc>Baat Karobar Ki (Live)
-Live</desc>
-  </programme>
-  <programme start="20251119180000 +0500" stop="20251119180500 +0500" channel="PTV.News.pk">
-    <title>Headlines News</title>
-    <desc>Headlines News</desc>
-  </programme>
-  <programme start="20251119180500 +0500" stop="20251119185500 +0500" channel="PTV.News.pk">
-    <title>Capital View</title>
-    <desc>Capital View</desc>
-  </programme>
-  <programme start="20251119185500 +0500" stop="20251119190000 +0500" channel="PTV.News.pk">
-    <title>Arabic News</title>
-    <desc>Arabic News</desc>
-  </programme>
-  <programme start="20251119190000 +0500" stop="20251119190500 +0500" channel="PTV.News.pk">
-    <title>Headline News</title>
-    <desc>Headline News</desc>
-  </programme>
-  <programme start="20251119190500 +0500" stop="20251119200000 +0500" channel="PTV.News.pk">
-    <title>7 Bajay Gohar Kay Sath</title>
-    <desc>7 Bajay Gohar Kay Sath</desc>
-  </programme>
-  <programme start="20251119200000 +0500" stop="20251119200500 +0500" channel="PTV.News.pk">
-    <title>Headline News</title>
-    <desc>Headline News</desc>
-  </programme>
-  <programme start="20251119200500 +0500" stop="20251119210000 +0500" channel="PTV.News.pk">
-    <title>Riasat</title>
-    <desc>Riasat</desc>
-  </programme>
-  <programme start="20251119210000 +0500" stop="20251119215500 +0500" channel="PTV.News.pk">
-    <title>News Room 9</title>
-    <desc>News Room 9</desc>
-  </programme>
-  <programme start="20251119215500 +0500" stop="20251119220000 +0500" channel="PTV.News.pk">
-    <title>Kashmir Report</title>
-    <desc>Kashmir Report</desc>
-  </programme>
-  <programme start="20251119220000 +0500" stop="20251119220500 +0500" channel="PTV.News.pk">
-    <title>Headline News</title>
-    <desc>Headline News</desc>
-  </programme>
-  <programme start="20251119220500 +0500" stop="20251119230000 +0500" channel="PTV.News.pk">
-    <title>Sach Tou Yeh Hai</title>
-    <desc>Sach Tou Yeh Hai</desc>
-  </programme>
-  <programme start="20251119230000 +0500" stop="20251119230500 +0500" channel="PTV.News.pk">
-    <title>Headline News</title>
-    <desc>Headline News</desc>
-  </programme>
-  <programme start="20251119230500 +0500" stop="20251120050000 +0500" channel="PTV.News.pk">
-    <title>Current Affairs Special</title>
-    <desc>Current Affairs Special</desc>
-  </programme>
   <programme start="20251120050000 +0500" stop="20251120050500 +0500" channel="PTV.News.pk">
     <title>News Headlines</title>
     <desc>News Headlines</desc>
@@ -1131,6 +969,168 @@ Repeat</desc>
     <desc>Headline News</desc>
   </programme>
   <programme start="20251125230500 +0500" stop="20251126050000 +0500" channel="PTV.News.pk">
+    <title>Current Affairs Special</title>
+    <desc>Current Affairs Special</desc>
+  </programme>
+  <programme start="20251126050000 +0500" stop="20251126050500 +0500" channel="PTV.News.pk">
+    <title>News Headlines</title>
+    <desc>News Headlines</desc>
+  </programme>
+  <programme start="20251126050500 +0500" stop="20251126060000 +0500" channel="PTV.News.pk">
+    <title>Iqra</title>
+    <desc>Iqra</desc>
+  </programme>
+  <programme start="20251126060000 +0500" stop="20251126070000 +0500" channel="PTV.News.pk">
+    <title>News Bulletin</title>
+    <desc>News Bulletin</desc>
+  </programme>
+  <programme start="20251126070000 +0500" stop="20251126070500 +0500" channel="PTV.News.pk">
+    <title>News Headlines</title>
+    <desc>News Headlines</desc>
+  </programme>
+  <programme start="20251126070500 +0500" stop="20251126080000 +0500" channel="PTV.News.pk">
+    <title>Ibteda</title>
+    <desc>Ibteda</desc>
+  </programme>
+  <programme start="20251126080000 +0500" stop="20251126080500 +0500" channel="PTV.News.pk">
+    <title>News Headlines</title>
+    <desc>News Headlines</desc>
+  </programme>
+  <programme start="20251126080500 +0500" stop="20251126090000 +0500" channel="PTV.News.pk">
+    <title>Jaiza (Live)</title>
+    <desc>Jaiza (Live)
+Live</desc>
+  </programme>
+  <programme start="20251126090000 +0500" stop="20251126090500 +0500" channel="PTV.News.pk">
+    <title>News Headlines</title>
+    <desc>News Headlines</desc>
+  </programme>
+  <programme start="20251126090500 +0500" stop="20251126100000 +0500" channel="PTV.News.pk">
+    <title>Subha-E-Pakistan</title>
+    <desc>Subha-E-Pakistan</desc>
+  </programme>
+  <programme start="20251126100000 +0500" stop="20251126100500 +0500" channel="PTV.News.pk">
+    <title>News Headlines</title>
+    <desc>News Headlines</desc>
+  </programme>
+  <programme start="20251126100500 +0500" stop="20251126110000 +0500" channel="PTV.News.pk">
+    <title>Subha-E-Pakistan</title>
+    <desc>Subha-E-Pakistan</desc>
+  </programme>
+  <programme start="20251126110000 +0500" stop="20251126110500 +0500" channel="PTV.News.pk">
+    <title>News Headlines</title>
+    <desc>News Headlines</desc>
+  </programme>
+  <programme start="20251126110500 +0500" stop="20251126120000 +0500" channel="PTV.News.pk">
+    <title>Riasat (Rpt)</title>
+    <desc>Riasat (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251126120000 +0500" stop="20251126123000 +0500" channel="PTV.News.pk">
+    <title>News Bulletin</title>
+    <desc>News Bulletin</desc>
+  </programme>
+  <programme start="20251126123000 +0500" stop="20251126130000 +0500" channel="PTV.News.pk">
+    <title>Sara Pakistan</title>
+    <desc>Sara Pakistan</desc>
+  </programme>
+  <programme start="20251126130000 +0500" stop="20251126130500 +0500" channel="PTV.News.pk">
+    <title>News Headlines</title>
+    <desc>News Headlines</desc>
+  </programme>
+  <programme start="20251126130500 +0500" stop="20251126140000 +0500" channel="PTV.News.pk">
+    <title>Current Affairs Special (Rpt)</title>
+    <desc>Current Affairs Special (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251126140000 +0500" stop="20251126140500 +0500" channel="PTV.News.pk">
+    <title>News Headlines</title>
+    <desc>News Headlines</desc>
+  </programme>
+  <programme start="20251126140500 +0500" stop="20251126150000 +0500" channel="PTV.News.pk">
+    <title>Sach Tou Yeh Hai (Rpt)</title>
+    <desc>Sach Tou Yeh Hai (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251126150000 +0500" stop="20251126150500 +0500" channel="PTV.News.pk">
+    <title>Headlines News</title>
+    <desc>Headlines News</desc>
+  </programme>
+  <programme start="20251126150500 +0500" stop="20251126153000 +0500" channel="PTV.News.pk">
+    <title>Parliament News</title>
+    <desc>Parliament News</desc>
+  </programme>
+  <programme start="20251126153000 +0500" stop="20251126160000 +0500" channel="PTV.News.pk">
+    <title>Kashmiri News + Gojri News + Sheena News + Balti News</title>
+    <desc>Kashmiri News + Gojri News + Sheena News + Balti News</desc>
+  </programme>
+  <programme start="20251126160000 +0500" stop="20251126160500 +0500" channel="PTV.News.pk">
+    <title>Headlines News</title>
+    <desc>Headlines News</desc>
+  </programme>
+  <programme start="20251126160500 +0500" stop="20251126170000 +0500" channel="PTV.News.pk">
+    <title>Sports 360 (Live)</title>
+    <desc>Sports 360 (Live)
+Live</desc>
+  </programme>
+  <programme start="20251126170000 +0500" stop="20251126170500 +0500" channel="PTV.News.pk">
+    <title>Headlines News</title>
+    <desc>Headlines News</desc>
+  </programme>
+  <programme start="20251126170500 +0500" stop="20251126180000 +0500" channel="PTV.News.pk">
+    <title>Baat Karobar Ki (Live)</title>
+    <desc>Baat Karobar Ki (Live)
+Live</desc>
+  </programme>
+  <programme start="20251126180000 +0500" stop="20251126180500 +0500" channel="PTV.News.pk">
+    <title>Headlines News</title>
+    <desc>Headlines News</desc>
+  </programme>
+  <programme start="20251126180500 +0500" stop="20251126185500 +0500" channel="PTV.News.pk">
+    <title>Capital View</title>
+    <desc>Capital View</desc>
+  </programme>
+  <programme start="20251126185500 +0500" stop="20251126190000 +0500" channel="PTV.News.pk">
+    <title>Arabic News</title>
+    <desc>Arabic News</desc>
+  </programme>
+  <programme start="20251126190000 +0500" stop="20251126190500 +0500" channel="PTV.News.pk">
+    <title>Headline News</title>
+    <desc>Headline News</desc>
+  </programme>
+  <programme start="20251126190500 +0500" stop="20251126200000 +0500" channel="PTV.News.pk">
+    <title>7 Bajay Gohar Kay Sath</title>
+    <desc>7 Bajay Gohar Kay Sath</desc>
+  </programme>
+  <programme start="20251126200000 +0500" stop="20251126200500 +0500" channel="PTV.News.pk">
+    <title>Headline News</title>
+    <desc>Headline News</desc>
+  </programme>
+  <programme start="20251126200500 +0500" stop="20251126210000 +0500" channel="PTV.News.pk">
+    <title>Riasat</title>
+    <desc>Riasat</desc>
+  </programme>
+  <programme start="20251126210000 +0500" stop="20251126215500 +0500" channel="PTV.News.pk">
+    <title>News Room 9</title>
+    <desc>News Room 9</desc>
+  </programme>
+  <programme start="20251126215500 +0500" stop="20251126220000 +0500" channel="PTV.News.pk">
+    <title>Kashmir Report</title>
+    <desc>Kashmir Report</desc>
+  </programme>
+  <programme start="20251126220000 +0500" stop="20251126220500 +0500" channel="PTV.News.pk">
+    <title>Headline News</title>
+    <desc>Headline News</desc>
+  </programme>
+  <programme start="20251126220500 +0500" stop="20251126230000 +0500" channel="PTV.News.pk">
+    <title>Sach Tou Yeh Hai</title>
+    <desc>Sach Tou Yeh Hai</desc>
+  </programme>
+  <programme start="20251126230000 +0500" stop="20251126230500 +0500" channel="PTV.News.pk">
+    <title>Headline News</title>
+    <desc>Headline News</desc>
+  </programme>
+  <programme start="20251126230500 +0500" stop="20251127050000 +0500" channel="PTV.News.pk">
     <title>Current Affairs Special</title>
     <desc>Current Affairs Special</desc>
   </programme>

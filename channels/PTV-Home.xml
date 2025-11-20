@@ -4,131 +4,6 @@
     <display-name>PTV Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-Home.png" />
   </channel>
-  <programme start="20251119053000 +0500" stop="20251119060000 +0500" channel="PTV.Home.pk">
-    <title>Raah-E-Hidayaat (Rpt)</title>
-    <desc>Raah-E-Hidayaat (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251119060000 +0500" stop="20251119070000 +0500" channel="PTV.Home.pk">
-    <title>Iqra (Ep: 96)</title>
-    <desc>Iqra (Ep: 96)
-Episode 96</desc>
-  </programme>
-  <programme start="20251119070000 +0500" stop="20251119073000 +0500" channel="PTV.Home.pk">
-    <title>Jadeed Taleem Aur Intehapasandi (Rpt)</title>
-    <desc>Jadeed Taleem Aur Intehapasandi (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251119073000 +0500" stop="20251119090000 +0500" channel="PTV.Home.pk">
-    <title>Rising Pakistan (Live)</title>
-    <desc>Rising Pakistan (Live)
-Live</desc>
-  </programme>
-  <programme start="20251119090000 +0500" stop="20251119093000 +0500" channel="PTV.Home.pk">
-    <title>Padharo Maray Des (Ep: 23) (Rpt)</title>
-    <desc>Padharo Maray Des (Ep: 23) (Rpt)
-Episode 23
-Repeat</desc>
-  </programme>
-  <programme start="20251119093000 +0500" stop="20251119100000 +0500" channel="PTV.Home.pk">
-    <title>Sotailay (Ep: 38) (Rpt)</title>
-    <desc>Sotailay (Ep: 38) (Rpt)
-Episode 38
-Repeat</desc>
-  </programme>
-  <programme start="20251119100000 +0500" stop="20251119120000 +0500" channel="PTV.Home.pk">
-    <title>Morning@ Home: (Live)</title>
-    <desc>Morning@ Home: (Live)
-Live</desc>
-  </programme>
-  <programme start="20251119120000 +0500" stop="20251119130000 +0500" channel="PTV.Home.pk">
-    <title>Barbarosa (Drama Serial) (Ep: 107) (Rpt)</title>
-    <desc>Barbarosa (Drama Serial) (Ep: 107) (Rpt)
-Episode 107
-Repeat</desc>
-  </programme>
-  <programme start="20251119130000 +0500" stop="20251119140000 +0500" channel="PTV.Home.pk">
-    <title>Star &amp; Style (Rpt)</title>
-    <desc>Star &amp; Style (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251119140000 +0500" stop="20251119143000 +0500" channel="PTV.Home.pk">
-    <title>Bts Pakistan Idol (Ep: 12) (Rpt)</title>
-    <desc>Bts Pakistan Idol (Ep: 12) (Rpt)
-Episode 12
-Repeat</desc>
-  </programme>
-  <programme start="20251119143000 +0500" stop="20251119160000 +0500" channel="PTV.Home.pk">
-    <title>Pakistan Idol (Ep: 12) (2Nd Rpt)</title>
-    <desc>Pakistan Idol (Ep: 12) (2Nd Rpt)
-Episode 12</desc>
-  </programme>
-  <programme start="20251119160000 +0500" stop="20251119172000 +0500" channel="PTV.Home.pk">
-    <title>Rising Pakistan (Rpt)</title>
-    <desc>Rising Pakistan (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251119172000 +0500" stop="20251119173000 +0500" channel="PTV.Home.pk">
-    <title>Al-Qura’An</title>
-    <desc>Al-Qura’An</desc>
-  </programme>
-  <programme start="20251119173000 +0500" stop="20251119180000 +0500" channel="PTV.Home.pk">
-    <title>Little Chef (Ep: 13) (Rpt)</title>
-    <desc>Little Chef (Ep: 13) (Rpt)
-Episode 13
-Repeat</desc>
-  </programme>
-  <programme start="20251119180000 +0500" stop="20251119183000 +0500" channel="PTV.Home.pk">
-    <title>Padharo Maray Des (Ep: 23) (Rpt)</title>
-    <desc>Padharo Maray Des (Ep: 23) (Rpt)
-Episode 23
-Repeat</desc>
-  </programme>
-  <programme start="20251119183000 +0500" stop="20251119191000 +0500" channel="PTV.Home.pk">
-    <title>Hangama House (Ep: 03) (Rpt)</title>
-    <desc>Hangama House (Ep: 03) (Rpt)
-Episode 03
-Repeat</desc>
-  </programme>
-  <programme start="20251119191000 +0500" stop="20251119195500 +0500" channel="PTV.Home.pk">
-    <title>Sotailay (Ep: 39)</title>
-    <desc>Sotailay (Ep: 39)
-Episode 39</desc>
-  </programme>
-  <programme start="20251119195500 +0500" stop="20251119210000 +0500" channel="PTV.Home.pk">
-    <title>Barbarosa (Drama Serial) (Ep: 108) (Rpt)</title>
-    <desc>Barbarosa (Drama Serial) (Ep: 108) (Rpt)
-Episode 108
-Repeat</desc>
-  </programme>
-  <programme start="20251119210000 +0500" stop="20251119211000 +0500" channel="PTV.Home.pk">
-    <title>Khabarnama (Headlines Only) (Live)</title>
-    <desc>Khabarnama (Headlines Only) (Live)
-Live</desc>
-  </programme>
-  <programme start="20251119211000 +0500" stop="20251119213500 +0500" channel="PTV.Home.pk">
-    <title>Padharo Maray Des (Ep: 23) (Rpt)</title>
-    <desc>Padharo Maray Des (Ep: 23) (Rpt)
-Episode 23
-Repeat</desc>
-  </programme>
-  <programme start="20251119213500 +0500" stop="20251119220000 +0500" channel="PTV.Home.pk">
-    <title>Sotailay (Ep: 39) (Rpt)</title>
-    <desc>Sotailay (Ep: 39) (Rpt)
-Episode 39
-Repeat</desc>
-  </programme>
-  <programme start="20251119220000 +0500" stop="20251119230000 +0500" channel="PTV.Home.pk">
-    <title>Star &amp; Style (Rpt)</title>
-    <desc>Star &amp; Style (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251119230000 +0500" stop="20251120053000 +0500" channel="PTV.Home.pk">
-    <title>Barbarosa (Drama Serial) (Ep: 108) (Rpt)</title>
-    <desc>Barbarosa (Drama Serial) (Ep: 108) (Rpt)
-Episode 108
-Repeat</desc>
-  </programme>
   <programme start="20251120053000 +0500" stop="20251120060000 +0500" channel="PTV.Home.pk">
     <title>Hawa Say Fatima (Rpt)</title>
     <desc>Hawa Say Fatima (Rpt)
@@ -892,6 +767,131 @@ Repeat</desc>
     <title>Barbarosa (Drama Serial) (Ep: 111) (Rpt)</title>
     <desc>Barbarosa (Drama Serial) (Ep: 111) (Rpt)
 Episode 111
+Repeat</desc>
+  </programme>
+  <programme start="20251126053000 +0500" stop="20251126060000 +0500" channel="PTV.Home.pk">
+    <title>Raah-E-Hidayaat (Rpt)</title>
+    <desc>Raah-E-Hidayaat (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251126060000 +0500" stop="20251126070000 +0500" channel="PTV.Home.pk">
+    <title>Iqra (Ep: 96)</title>
+    <desc>Iqra (Ep: 96)
+Episode 96</desc>
+  </programme>
+  <programme start="20251126070000 +0500" stop="20251126073000 +0500" channel="PTV.Home.pk">
+    <title>Jadeed Taleem Aur Intehapasandi (Rpt)</title>
+    <desc>Jadeed Taleem Aur Intehapasandi (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251126073000 +0500" stop="20251126090000 +0500" channel="PTV.Home.pk">
+    <title>Rising Pakistan (Live)</title>
+    <desc>Rising Pakistan (Live)
+Live</desc>
+  </programme>
+  <programme start="20251126090000 +0500" stop="20251126093000 +0500" channel="PTV.Home.pk">
+    <title>Padharo Maray Des (Ep: 23) (Rpt)</title>
+    <desc>Padharo Maray Des (Ep: 23) (Rpt)
+Episode 23
+Repeat</desc>
+  </programme>
+  <programme start="20251126093000 +0500" stop="20251126100000 +0500" channel="PTV.Home.pk">
+    <title>Sotailay (Ep: 38) (Rpt)</title>
+    <desc>Sotailay (Ep: 38) (Rpt)
+Episode 38
+Repeat</desc>
+  </programme>
+  <programme start="20251126100000 +0500" stop="20251126120000 +0500" channel="PTV.Home.pk">
+    <title>Morning@ Home: (Live)</title>
+    <desc>Morning@ Home: (Live)
+Live</desc>
+  </programme>
+  <programme start="20251126120000 +0500" stop="20251126130000 +0500" channel="PTV.Home.pk">
+    <title>Barbarosa (Drama Serial) (Ep: 107) (Rpt)</title>
+    <desc>Barbarosa (Drama Serial) (Ep: 107) (Rpt)
+Episode 107
+Repeat</desc>
+  </programme>
+  <programme start="20251126130000 +0500" stop="20251126140000 +0500" channel="PTV.Home.pk">
+    <title>Star &amp; Style (Rpt)</title>
+    <desc>Star &amp; Style (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251126140000 +0500" stop="20251126143000 +0500" channel="PTV.Home.pk">
+    <title>Bts Pakistan Idol (Ep: 12) (Rpt)</title>
+    <desc>Bts Pakistan Idol (Ep: 12) (Rpt)
+Episode 12
+Repeat</desc>
+  </programme>
+  <programme start="20251126143000 +0500" stop="20251126160000 +0500" channel="PTV.Home.pk">
+    <title>Pakistan Idol (Ep: 12) (2Nd Rpt)</title>
+    <desc>Pakistan Idol (Ep: 12) (2Nd Rpt)
+Episode 12</desc>
+  </programme>
+  <programme start="20251126160000 +0500" stop="20251126172000 +0500" channel="PTV.Home.pk">
+    <title>Rising Pakistan (Rpt)</title>
+    <desc>Rising Pakistan (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251126172000 +0500" stop="20251126173000 +0500" channel="PTV.Home.pk">
+    <title>Al-Qura’An</title>
+    <desc>Al-Qura’An</desc>
+  </programme>
+  <programme start="20251126173000 +0500" stop="20251126180000 +0500" channel="PTV.Home.pk">
+    <title>Little Chef (Ep: 13) (Rpt)</title>
+    <desc>Little Chef (Ep: 13) (Rpt)
+Episode 13
+Repeat</desc>
+  </programme>
+  <programme start="20251126180000 +0500" stop="20251126183000 +0500" channel="PTV.Home.pk">
+    <title>Padharo Maray Des (Ep: 23) (Rpt)</title>
+    <desc>Padharo Maray Des (Ep: 23) (Rpt)
+Episode 23
+Repeat</desc>
+  </programme>
+  <programme start="20251126183000 +0500" stop="20251126191000 +0500" channel="PTV.Home.pk">
+    <title>Hangama House (Ep: 03) (Rpt)</title>
+    <desc>Hangama House (Ep: 03) (Rpt)
+Episode 03
+Repeat</desc>
+  </programme>
+  <programme start="20251126191000 +0500" stop="20251126195500 +0500" channel="PTV.Home.pk">
+    <title>Sotailay (Ep: 39)</title>
+    <desc>Sotailay (Ep: 39)
+Episode 39</desc>
+  </programme>
+  <programme start="20251126195500 +0500" stop="20251126210000 +0500" channel="PTV.Home.pk">
+    <title>Barbarosa (Drama Serial) (Ep: 108) (Rpt)</title>
+    <desc>Barbarosa (Drama Serial) (Ep: 108) (Rpt)
+Episode 108
+Repeat</desc>
+  </programme>
+  <programme start="20251126210000 +0500" stop="20251126211000 +0500" channel="PTV.Home.pk">
+    <title>Khabarnama (Headlines Only) (Live)</title>
+    <desc>Khabarnama (Headlines Only) (Live)
+Live</desc>
+  </programme>
+  <programme start="20251126211000 +0500" stop="20251126213500 +0500" channel="PTV.Home.pk">
+    <title>Padharo Maray Des (Ep: 23) (Rpt)</title>
+    <desc>Padharo Maray Des (Ep: 23) (Rpt)
+Episode 23
+Repeat</desc>
+  </programme>
+  <programme start="20251126213500 +0500" stop="20251126220000 +0500" channel="PTV.Home.pk">
+    <title>Sotailay (Ep: 39) (Rpt)</title>
+    <desc>Sotailay (Ep: 39) (Rpt)
+Episode 39
+Repeat</desc>
+  </programme>
+  <programme start="20251126220000 +0500" stop="20251126230000 +0500" channel="PTV.Home.pk">
+    <title>Star &amp; Style (Rpt)</title>
+    <desc>Star &amp; Style (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251126230000 +0500" stop="20251127053000 +0500" channel="PTV.Home.pk">
+    <title>Barbarosa (Drama Serial) (Ep: 108) (Rpt)</title>
+    <desc>Barbarosa (Drama Serial) (Ep: 108) (Rpt)
+Episode 108
 Repeat</desc>
   </programme>
 </tv>
