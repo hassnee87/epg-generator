@@ -262,48 +262,6 @@ IF EXIST "Zee-News.py" (
 ) ELSE (
   echo SKIPPED Zee-News.py (missing)
 )
-IF EXIST "Ary-News.py" (
-  echo Running Ary-News.py ...
-  python "Ary-News.py"
-  IF ERRORLEVEL 1 echo FAILED Ary-News.py, continuing...
-) ELSE (
-  echo SKIPPED Ary-News.py (missing)
-)
-IF EXIST "Ary-Digital.py" (
-  echo Running Ary-Digital.py ...
-  python "Ary-Digital.py"
-  IF ERRORLEVEL 1 echo FAILED Ary-Digital.py, continuing...
-) ELSE (
-  echo SKIPPED Ary-Digital.py (missing)
-)
-IF EXIST "Ary-Zauq.py" (
-  echo Running Ary-Zauq.py ...
-  python "Ary-Zauq.py"
-  IF ERRORLEVEL 1 echo FAILED Ary-Zauq.py, continuing...
-) ELSE (
-  echo SKIPPED Ary-Zauq.py (missing)
-)
-IF EXIST "Ary-Zauq2.py" (
-  echo Running Ary-Zauq2.py ...
-  python "Ary-Zauq2.py"
-  IF ERRORLEVEL 1 echo FAILED Ary-Zauq2.py, continuing...
-) ELSE (
-  echo SKIPPED Ary-Zauq2.py (missing)
-)
-IF EXIST "Ary-QTV.py" (
-  echo Running Ary-QTV.py ...
-  python "Ary-QTV.py"
-  IF ERRORLEVEL 1 echo FAILED Ary-QTV.py, continuing...
-) ELSE (
-  echo SKIPPED Ary-QTV.py (missing)
-)
-IF EXIST "Geo-News.py" (
-  echo Running Geo-News.py ...
-  python "Geo-News.py"
-  IF ERRORLEVEL 1 echo FAILED Geo-News.py, continuing...
-) ELSE (
-  echo SKIPPED Geo-News.py (missing)
-)
 IF EXIST "CGTN-Documentary.py" (
   echo Running CGTN-Documentary.py ...
   python "CGTN-Documentary.py"
@@ -360,12 +318,61 @@ IF EXIST "Green-Entertainment.py" (
 ) ELSE (
   echo SKIPPED Green-Entertainment.py (missing)
 )
+IF EXIST "Aaj-Entertainment.py" (
+  echo Running Aaj-Entertainment.py ...
+  python "Aaj-Entertainment.py"
+  IF ERRORLEVEL 1 echo FAILED Aaj-Entertainment.py, continuing...
+) ELSE (
+  echo SKIPPED Aaj-Entertainment.py (missing)
+)
 IF EXIST "Hum-TV.py" (
   echo Running Hum-TV.py ...
   python "Hum-TV.py"
   IF ERRORLEVEL 1 echo FAILED Hum-TV.py, continuing...
 ) ELSE (
   echo SKIPPED Hum-TV.py (missing)
+)
+IF EXIST "Ary-News.py" (
+  echo Running Ary-News.py ...
+  python "Ary-News.py"
+  IF ERRORLEVEL 1 echo FAILED Ary-News.py, continuing...
+) ELSE (
+  echo SKIPPED Ary-News.py (missing)
+)
+IF EXIST "Ary-Digital.py" (
+  echo Running Ary-Digital.py ...
+  python "Ary-Digital.py"
+  IF ERRORLEVEL 1 echo FAILED Ary-Digital.py, continuing...
+) ELSE (
+  echo SKIPPED Ary-Digital.py (missing)
+)
+IF EXIST "Ary-Zauq.py" (
+  echo Running Ary-Zauq.py ...
+  python "Ary-Zauq.py"
+  IF ERRORLEVEL 1 echo FAILED Ary-Zauq.py, continuing...
+) ELSE (
+  echo SKIPPED Ary-Zauq.py (missing)
+)
+IF EXIST "Ary-Zauq2.py" (
+  echo Running Ary-Zauq2.py ...
+  python "Ary-Zauq2.py"
+  IF ERRORLEVEL 1 echo FAILED Ary-Zauq2.py, continuing...
+) ELSE (
+  echo SKIPPED Ary-Zauq2.py (missing)
+)
+IF EXIST "Ary-QTV.py" (
+  echo Running Ary-QTV.py ...
+  python "Ary-QTV.py"
+  IF ERRORLEVEL 1 echo FAILED Ary-QTV.py, continuing...
+) ELSE (
+  echo SKIPPED Ary-QTV.py (missing)
+)
+IF EXIST "Geo-News.py" (
+  echo Running Geo-News.py ...
+  python "Geo-News.py"
+  IF ERRORLEVEL 1 echo FAILED Geo-News.py, continuing...
+) ELSE (
+  echo SKIPPED Geo-News.py (missing)
 )
 IF EXIST "AJK-Television.py" (
   echo Running AJK-Television.py ...
@@ -479,12 +486,54 @@ IF EXIST "YRF-Music.py" (
 ) ELSE (
   echo SKIPPED YRF-Music.py (missing)
 )
+IF EXIST "Juice-TV.py" (
+  echo Running Juice-TV.py ...
+  python "Juice-TV.py"
+  IF ERRORLEVEL 1 echo FAILED Juice-TV.py, continuing...
+) ELSE (
+  echo SKIPPED Juice-TV.py (missing)
+)
+IF EXIST "J2.py" (
+  echo Running J2.py ...
+  python "J2.py"
+  IF ERRORLEVEL 1 echo FAILED J2.py, continuing...
+) ELSE (
+  echo SKIPPED J2.py (missing)
+)
+IF EXIST "Melo.py" (
+  echo Running Melo.py ...
+  python "Melo.py"
+  IF ERRORLEVEL 1 echo FAILED Melo.py, continuing...
+) ELSE (
+  echo SKIPPED Melo.py (missing)
+)
+IF EXIST "Big-Rig.py" (
+  echo Running Big-Rig.py ...
+  python "Big-Rig.py"
+  IF ERRORLEVEL 1 echo FAILED Big-Rig.py, continuing...
+) ELSE (
+  echo SKIPPED Big-Rig.py (missing)
+)
+IF EXIST "The-GROAT.py" (
+  echo Running The-GROAT.py ...
+  python "The-GROAT.py"
+  IF ERRORLEVEL 1 echo FAILED The-GROAT.py, continuing...
+) ELSE (
+  echo SKIPPED The-GROAT.py (missing)
+)
 IF EXIST "myTV.py" (
   echo Running myTV.py ...
   python "myTV.py"
   IF ERRORLEVEL 1 echo FAILED myTV.py, continuing...
 ) ELSE (
   echo SKIPPED myTV.py (missing)
+)
+IF EXIST "PakistanEPG-Package.py" (
+  echo Running PakistanEPG-Package.py ...
+  python "PakistanEPG-Package.py"
+  IF ERRORLEVEL 1 echo FAILED PakistanEPG-Package.py, continuing...
+) ELSE (
+  echo SKIPPED PakistanEPG-Package.py (missing)
 )
 
 echo All done.

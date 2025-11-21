@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Juice-TV-NZ">
+    <display-name>Juice TV</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Juice-TV-NZ.png" />
+  </channel><programme channel="Juice-TV-NZ" start="20251121170000 +0500" stop="20251121220000 +0500">
+    <title>After Dark</title>
+    <sub-title>Music</sub-title>
+    <desc>Enjoy an overnight journey of music video classics to the latest in new music.</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251121220000 +0500" stop="20251121230000 +0500">
+    <title>Mood = Chill</title>
+    <sub-title>Music</sub-title>
+    <desc>Pulling back the pace and catching up on new and classic accoustic, soul and pop</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251121230000 +0500" stop="20251122000000 +0500">
+    <title>Groovin</title>
+    <sub-title>Music</sub-title>
+    <desc>An hour of Soul Funk, Roots &amp; Reggae from old skool to that latest releases.</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251122000000 +0500" stop="20251122010000 +0500">
+    <title>Mood = Chill</title>
+    <sub-title>Music</sub-title>
+    <desc>Pulling back the pace for a couple of hours and catching up on new and classic accoustic, soul and pop</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251122010000 +0500" stop="20251122020000 +0500">
+    <title>Groovin</title>
+    <sub-title>Music</sub-title>
+    <desc>An hour of Soul Funk, Roots &amp; Reggae from old skool to that latest releases.</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251122020000 +0500" stop="20251122030000 +0500">
+    <title>Mood = Up</title>
+    <sub-title>Music</sub-title>
+    <desc>Up beat mix of contemporary and classic music videos</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251122030000 +0500" stop="20251122040000 +0500">
+    <title>Groovin</title>
+    <sub-title>Music</sub-title>
+    <desc>An hour of Soul Funk, Roots &amp; Reggae from old skool to that latest releases.</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251122040000 +0500" stop="20251122120000 +0500">
+    <title>Mood = Up</title>
+    <sub-title>Music</sub-title>
+    <desc>Up beat mix of contemporary and classic music videos</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251122120000 +0500" stop="20251122130000 +0500">
+    <title>Saturday Night Fever</title>
+    <sub-title>Music</sub-title>
+    <desc>A classic selection of soul, roots, reggae, funk and disco</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251122130000 +0500" stop="20251122180000 +0500">
+    <title>Bangers &amp; Mash</title>
+    <sub-title>Music</sub-title>
+    <desc>Up beat mix of contemporary and classic music videos</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251122180000 +0500" stop="20251122210000 +0500">
+    <title>After Dark</title>
+    <sub-title>Music</sub-title>
+    <desc>Enjoy an overnight journey of music video classics to the latest in new music.</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251122210000 +0500" stop="20251123110000 +0500">
+    <title>Lazy Sunday</title>
+    <sub-title>Music</sub-title>
+    <desc>Laid back mix of singer song writers, country, folk, roots reggae, RNB, funk and soul</desc>
+  </programme><programme channel="Juice-TV-NZ" start="20251123110000 +0500" stop="20251123113000 +0500">
+    <title>Mood = Up</title>
+    <sub-title>Music</sub-title>
+    <desc>Up beat mix of contemporary and classic music videos</desc>
+  </programme>
+</tv>

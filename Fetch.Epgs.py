@@ -16,6 +16,7 @@ FEEDS = [
         {"url": "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz", "out_xml": os.path.join("countries", "CA.epg.xml")},
         {"url": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz", "out_xml": os.path.join("countries", "IN.epg.xml")},
         {"url": "https://iptv-epg.org/files/epg-in.xml", "out_xml": os.path.join("countries", "IN2.epg.xml")},
+        {"url": "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz", "out_xml": os.path.join("countries", "NZ.epg.xml")},
         {"url": "https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz", "out_xml": os.path.join("countries", "PH.epg.xml")},
         {"url": "https://programtv.ru/xmltv.xml.gz", "out_xml": os.path.join("countries", "RU.epg.xml")},
         {"url": "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz", "out_xml": os.path.join("countries", "SG.epg.xml")},
