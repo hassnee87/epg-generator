@@ -4,55 +4,6 @@
     <display-name>PTV Sports</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-Sports.png" />
   </channel>
-  <programme start="20251120010000 +0500" stop="20251120020000 +0500" channel="PTV.Sports.pk">
-    <title>H/L Pakistan Vs Sri Lanka 1St Odi 2025 (Repeat)</title>
-    <desc>H/L Pakistan Vs Sri Lanka 1St Odi 2025 (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251120020000 +0500" stop="20251120053000 +0500" channel="PTV.Sports.pk">
-    <title>Wimbeldon Classic 2022 Djokovic Vs Sinner (Repeat)</title>
-    <desc>Wimbeldon Classic 2022 Djokovic Vs Sinner (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251120053000 +0500" stop="20251120073000 +0500" channel="PTV.Sports.pk">
-    <title>Epl 2024-2025 Arsenal Vs Nottingham Forest (Repeat)</title>
-    <desc>Epl 2024-2025 Arsenal Vs Nottingham Forest (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251120073000 +0500" stop="20251120090000 +0500" channel="PTV.Sports.pk">
-    <title>World Judo Tour Baku 2025 (Repeat)</title>
-    <desc>World Judo Tour Baku 2025 (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251120090000 +0500" stop="20251120100000 +0500" channel="PTV.Sports.pk">
-    <title>H/L Pakistan Vs Sri Lanka 1St Odi 2025 (Repeat)</title>
-    <desc>H/L Pakistan Vs Sri Lanka 1St Odi 2025 (Repeat)
-Repeat</desc>
-  </programme>
-  <programme start="20251120100000 +0500" stop="20251120101000 +0500" channel="PTV.Sports.pk">
-    <title>Sports Bulletin 1St (13-11-2025)</title>
-    <desc>Sports Bulletin 1St (13-11-2025)</desc>
-  </programme>
-  <programme start="20251120101000 +0500" stop="20251120110000 +0500" channel="PTV.Sports.pk">
-    <title>Silly Point (12-11-25) (Fresh Repeat)</title>
-    <desc>Silly Point (12-11-25) (Fresh Repeat)
-Fresh Repeat</desc>
-  </programme>
-  <programme start="20251120110000 +0500" stop="20251120135000 +0500" channel="PTV.Sports.pk">
-    <title>Slamic Solidetry Games Riaz Saudi Arabia (Live)</title>
-    <desc>Slamic Solidetry Games Riaz Saudi Arabia (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120135000 +0500" stop="20251120230000 +0500" channel="PTV.Sports.pk">
-    <title>Pakistan Vs Sri Lanka Odi Series 2025 2Nd Odi (Live)</title>
-    <desc>Pakistan Vs Sri Lanka Odi Series 2025 2Nd Odi (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120230000 +0500" stop="20251121010000 +0500" channel="PTV.Sports.pk">
-    <title>Game On Hai (Live)</title>
-    <desc>Game On Hai (Live)
-Live</desc>
-  </programme>
   <programme start="20251121010000 +0500" stop="20251121020000 +0500" channel="PTV.Sports.pk">
     <title>H/L Pakistan Vs Sri Lanka Odi Series 2025 1St Odi (Repeat)</title>
     <desc>H/L Pakistan Vs Sri Lanka Odi Series 2025 1St Odi (Repeat)
@@ -432,6 +383,55 @@ Live</desc>
   <programme start="20251126200000 +0500" stop="20251127010000 +0500" channel="PTV.Sports.pk">
     <title>Silly Point (Live)</title>
     <desc>Silly Point (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127010000 +0500" stop="20251127020000 +0500" channel="PTV.Sports.pk">
+    <title>H/L Pakistan Vs Sri Lanka 1St Odi 2025 (Repeat)</title>
+    <desc>H/L Pakistan Vs Sri Lanka 1St Odi 2025 (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251127020000 +0500" stop="20251127053000 +0500" channel="PTV.Sports.pk">
+    <title>Wimbeldon Classic 2022 Djokovic Vs Sinner (Repeat)</title>
+    <desc>Wimbeldon Classic 2022 Djokovic Vs Sinner (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251127053000 +0500" stop="20251127073000 +0500" channel="PTV.Sports.pk">
+    <title>Epl 2024-2025 Arsenal Vs Nottingham Forest (Repeat)</title>
+    <desc>Epl 2024-2025 Arsenal Vs Nottingham Forest (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251127073000 +0500" stop="20251127090000 +0500" channel="PTV.Sports.pk">
+    <title>World Judo Tour Baku 2025 (Repeat)</title>
+    <desc>World Judo Tour Baku 2025 (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251127090000 +0500" stop="20251127100000 +0500" channel="PTV.Sports.pk">
+    <title>H/L Pakistan Vs Sri Lanka 1St Odi 2025 (Repeat)</title>
+    <desc>H/L Pakistan Vs Sri Lanka 1St Odi 2025 (Repeat)
+Repeat</desc>
+  </programme>
+  <programme start="20251127100000 +0500" stop="20251127101000 +0500" channel="PTV.Sports.pk">
+    <title>Sports Bulletin 1St (13-11-2025)</title>
+    <desc>Sports Bulletin 1St (13-11-2025)</desc>
+  </programme>
+  <programme start="20251127101000 +0500" stop="20251127110000 +0500" channel="PTV.Sports.pk">
+    <title>Silly Point (12-11-25) (Fresh Repeat)</title>
+    <desc>Silly Point (12-11-25) (Fresh Repeat)
+Fresh Repeat</desc>
+  </programme>
+  <programme start="20251127110000 +0500" stop="20251127135000 +0500" channel="PTV.Sports.pk">
+    <title>Slamic Solidetry Games Riaz Saudi Arabia (Live)</title>
+    <desc>Slamic Solidetry Games Riaz Saudi Arabia (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127135000 +0500" stop="20251127230000 +0500" channel="PTV.Sports.pk">
+    <title>Pakistan Vs Sri Lanka Odi Series 2025 2Nd Odi (Live)</title>
+    <desc>Pakistan Vs Sri Lanka Odi Series 2025 2Nd Odi (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127230000 +0500" stop="20251128010000 +0500" channel="PTV.Sports.pk">
+    <title>Game On Hai (Live)</title>
+    <desc>Game On Hai (Live)
 Live</desc>
   </programme>
 </tv>

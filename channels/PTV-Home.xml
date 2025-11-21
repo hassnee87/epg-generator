@@ -4,146 +4,6 @@
     <display-name>PTV Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-Home.png" />
   </channel>
-  <programme start="20251120053000 +0500" stop="20251120060000 +0500" channel="PTV.Home.pk">
-    <title>Hawa Say Fatima (Rpt)</title>
-    <desc>Hawa Say Fatima (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251120060000 +0500" stop="20251120070000 +0500" channel="PTV.Home.pk">
-    <title>Iqra (Ep: 97)</title>
-    <desc>Iqra (Ep: 97)
-Episode 97</desc>
-  </programme>
-  <programme start="20251120070000 +0500" stop="20251120073000 +0500" channel="PTV.Home.pk">
-    <title>Roshni (Ep: 06) (Fresh)</title>
-    <desc>Roshni (Ep: 06) (Fresh)
-Fresh
-Episode 06</desc>
-  </programme>
-  <programme start="20251120073000 +0500" stop="20251120090000 +0500" channel="PTV.Home.pk">
-    <title>Rising Pakistan (Live)</title>
-    <desc>Rising Pakistan (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120090000 +0500" stop="20251120093000 +0500" channel="PTV.Home.pk">
-    <title>Rawaiton Ki Lazzat (Ep: 69) (Rpt)</title>
-    <desc>Rawaiton Ki Lazzat (Ep: 69) (Rpt)
-Episode 69
-Repeat</desc>
-  </programme>
-  <programme start="20251120093000 +0500" stop="20251120100000 +0500" channel="PTV.Home.pk">
-    <title>Sotailay (Ep: 39) (Rpt)</title>
-    <desc>Sotailay (Ep: 39) (Rpt)
-Episode 39
-Repeat</desc>
-  </programme>
-  <programme start="20251120100000 +0500" stop="20251120120000 +0500" channel="PTV.Home.pk">
-    <title>Morning@ Home: (Live)</title>
-    <desc>Morning@ Home: (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120120000 +0500" stop="20251120131000 +0500" channel="PTV.Home.pk">
-    <title>Barbarosa (Drama Serial) (Ep: 108) (Rpt)</title>
-    <desc>Barbarosa (Drama Serial) (Ep: 108) (Rpt)
-Episode 108
-Repeat</desc>
-  </programme>
-  <programme start="20251120131000 +0500" stop="20251120140500 +0500" channel="PTV.Home.pk">
-    <title>Dar And Darling (Ep: 39) (Rpt)</title>
-    <desc>Dar And Darling (Ep: 39) (Rpt)
-Episode 39
-Repeat</desc>
-  </programme>
-  <programme start="20251120140500 +0500" stop="20251120143500 +0500" channel="PTV.Home.pk">
-    <title>Us Ne Chaha Tha Chand (Ep: 35) (Rpt)</title>
-    <desc>Us Ne Chaha Tha Chand (Ep: 35) (Rpt)
-Episode 35
-Repeat</desc>
-  </programme>
-  <programme start="20251120143500 +0500" stop="20251120150000 +0500" channel="PTV.Home.pk">
-    <title>Padharo Maray Des (Ep: 23) (Rpt)</title>
-    <desc>Padharo Maray Des (Ep: 23) (Rpt)
-Episode 23
-Repeat</desc>
-  </programme>
-  <programme start="20251120150000 +0500" stop="20251120153000 +0500" channel="PTV.Home.pk">
-    <title>Nazr Lag Gae (Ep: 06) (Rpt)</title>
-    <desc>Nazr Lag Gae (Ep: 06) (Rpt)
-Episode 06
-Repeat</desc>
-  </programme>
-  <programme start="20251120153000 +0500" stop="20251120160000 +0500" channel="PTV.Home.pk">
-    <title>Aaway Ka Aawa (Ep: 17) (Rpt)</title>
-    <desc>Aaway Ka Aawa (Ep: 17) (Rpt)
-Episode 17
-Repeat</desc>
-  </programme>
-  <programme start="20251120160000 +0500" stop="20251120172000 +0500" channel="PTV.Home.pk">
-    <title>Rising Pakistan (Rpt)</title>
-    <desc>Rising Pakistan (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251120172000 +0500" stop="20251120173000 +0500" channel="PTV.Home.pk">
-    <title>Al-Qura’An</title>
-    <desc>Al-Qura’An</desc>
-  </programme>
-  <programme start="20251120173000 +0500" stop="20251120180000 +0500" channel="PTV.Home.pk">
-    <title>The Adventures Of Little Carp (Ep: 28) (Rpt)</title>
-    <desc>The Adventures Of Little Carp (Ep: 28) (Rpt)
-Episode 28
-Repeat</desc>
-  </programme>
-  <programme start="20251120180000 +0500" stop="20251120183000 +0500" channel="PTV.Home.pk">
-    <title>Rawaiton Ki Lazzat (Ep: 70) (Rpt)</title>
-    <desc>Rawaiton Ki Lazzat (Ep: 70) (Rpt)
-Episode 70
-Repeat</desc>
-  </programme>
-  <programme start="20251120183000 +0500" stop="20251120190500 +0500" channel="PTV.Home.pk">
-    <title>Aaway Ka Aawa (Ep: 17) (Rpt)</title>
-    <desc>Aaway Ka Aawa (Ep: 17) (Rpt)
-Episode 17
-Repeat</desc>
-  </programme>
-  <programme start="20251120190500 +0500" stop="20251120195500 +0500" channel="PTV.Home.pk">
-    <title>Us Ne Chaha Tha Chand (Ep: 36)</title>
-    <desc>Us Ne Chaha Tha Chand (Ep: 36)
-Episode 36</desc>
-  </programme>
-  <programme start="20251120195500 +0500" stop="20251120210000 +0500" channel="PTV.Home.pk">
-    <title>Barbarosa (Drama Serial) (Ep: 109) (Rpt)</title>
-    <desc>Barbarosa (Drama Serial) (Ep: 109) (Rpt)
-Episode 109
-Repeat</desc>
-  </programme>
-  <programme start="20251120210000 +0500" stop="20251120211000 +0500" channel="PTV.Home.pk">
-    <title>Khabarnama (Headlines Only) (Live)</title>
-    <desc>Khabarnama (Headlines Only) (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120211000 +0500" stop="20251120213500 +0500" channel="PTV.Home.pk">
-    <title>Rawaiton Ki Lazzat (Ep: 70) (Rpt)</title>
-    <desc>Rawaiton Ki Lazzat (Ep: 70) (Rpt)
-Episode 70
-Repeat</desc>
-  </programme>
-  <programme start="20251120213500 +0500" stop="20251120220000 +0500" channel="PTV.Home.pk">
-    <title>Us Ne Chaha Tha Chand (Ep: 36) (Rpt)</title>
-    <desc>Us Ne Chaha Tha Chand (Ep: 36) (Rpt)
-Episode 36
-Repeat</desc>
-  </programme>
-  <programme start="20251120220000 +0500" stop="20251120230000 +0500" channel="PTV.Home.pk">
-    <title>Raat Gaye (Rpt)</title>
-    <desc>Raat Gaye (Rpt)
-Repeat</desc>
-  </programme>
-  <programme start="20251120230000 +0500" stop="20251121053000 +0500" channel="PTV.Home.pk">
-    <title>Barbarosa (Drama Serial) (Ep: 109) (Rpt)</title>
-    <desc>Barbarosa (Drama Serial) (Ep: 109) (Rpt)
-Episode 109
-Repeat</desc>
-  </programme>
   <programme start="20251121053000 +0500" stop="20251121060000 +0500" channel="PTV.Home.pk">
     <title>Hawa Say Fatima (Rpt)</title>
     <desc>Hawa Say Fatima (Rpt)
@@ -892,6 +752,146 @@ Repeat</desc>
     <title>Barbarosa (Drama Serial) (Ep: 108) (Rpt)</title>
     <desc>Barbarosa (Drama Serial) (Ep: 108) (Rpt)
 Episode 108
+Repeat</desc>
+  </programme>
+  <programme start="20251127053000 +0500" stop="20251127060000 +0500" channel="PTV.Home.pk">
+    <title>Hawa Say Fatima (Rpt)</title>
+    <desc>Hawa Say Fatima (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251127060000 +0500" stop="20251127070000 +0500" channel="PTV.Home.pk">
+    <title>Iqra (Ep: 97)</title>
+    <desc>Iqra (Ep: 97)
+Episode 97</desc>
+  </programme>
+  <programme start="20251127070000 +0500" stop="20251127073000 +0500" channel="PTV.Home.pk">
+    <title>Roshni (Ep: 06) (Fresh)</title>
+    <desc>Roshni (Ep: 06) (Fresh)
+Fresh
+Episode 06</desc>
+  </programme>
+  <programme start="20251127073000 +0500" stop="20251127090000 +0500" channel="PTV.Home.pk">
+    <title>Rising Pakistan (Live)</title>
+    <desc>Rising Pakistan (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127090000 +0500" stop="20251127093000 +0500" channel="PTV.Home.pk">
+    <title>Rawaiton Ki Lazzat (Ep: 69) (Rpt)</title>
+    <desc>Rawaiton Ki Lazzat (Ep: 69) (Rpt)
+Episode 69
+Repeat</desc>
+  </programme>
+  <programme start="20251127093000 +0500" stop="20251127100000 +0500" channel="PTV.Home.pk">
+    <title>Sotailay (Ep: 39) (Rpt)</title>
+    <desc>Sotailay (Ep: 39) (Rpt)
+Episode 39
+Repeat</desc>
+  </programme>
+  <programme start="20251127100000 +0500" stop="20251127120000 +0500" channel="PTV.Home.pk">
+    <title>Morning@ Home: (Live)</title>
+    <desc>Morning@ Home: (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127120000 +0500" stop="20251127131000 +0500" channel="PTV.Home.pk">
+    <title>Barbarosa (Drama Serial) (Ep: 108) (Rpt)</title>
+    <desc>Barbarosa (Drama Serial) (Ep: 108) (Rpt)
+Episode 108
+Repeat</desc>
+  </programme>
+  <programme start="20251127131000 +0500" stop="20251127140500 +0500" channel="PTV.Home.pk">
+    <title>Dar And Darling (Ep: 39) (Rpt)</title>
+    <desc>Dar And Darling (Ep: 39) (Rpt)
+Episode 39
+Repeat</desc>
+  </programme>
+  <programme start="20251127140500 +0500" stop="20251127143500 +0500" channel="PTV.Home.pk">
+    <title>Us Ne Chaha Tha Chand (Ep: 35) (Rpt)</title>
+    <desc>Us Ne Chaha Tha Chand (Ep: 35) (Rpt)
+Episode 35
+Repeat</desc>
+  </programme>
+  <programme start="20251127143500 +0500" stop="20251127150000 +0500" channel="PTV.Home.pk">
+    <title>Padharo Maray Des (Ep: 23) (Rpt)</title>
+    <desc>Padharo Maray Des (Ep: 23) (Rpt)
+Episode 23
+Repeat</desc>
+  </programme>
+  <programme start="20251127150000 +0500" stop="20251127153000 +0500" channel="PTV.Home.pk">
+    <title>Nazr Lag Gae (Ep: 06) (Rpt)</title>
+    <desc>Nazr Lag Gae (Ep: 06) (Rpt)
+Episode 06
+Repeat</desc>
+  </programme>
+  <programme start="20251127153000 +0500" stop="20251127160000 +0500" channel="PTV.Home.pk">
+    <title>Aaway Ka Aawa (Ep: 17) (Rpt)</title>
+    <desc>Aaway Ka Aawa (Ep: 17) (Rpt)
+Episode 17
+Repeat</desc>
+  </programme>
+  <programme start="20251127160000 +0500" stop="20251127172000 +0500" channel="PTV.Home.pk">
+    <title>Rising Pakistan (Rpt)</title>
+    <desc>Rising Pakistan (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251127172000 +0500" stop="20251127173000 +0500" channel="PTV.Home.pk">
+    <title>Al-Qura’An</title>
+    <desc>Al-Qura’An</desc>
+  </programme>
+  <programme start="20251127173000 +0500" stop="20251127180000 +0500" channel="PTV.Home.pk">
+    <title>The Adventures Of Little Carp (Ep: 28) (Rpt)</title>
+    <desc>The Adventures Of Little Carp (Ep: 28) (Rpt)
+Episode 28
+Repeat</desc>
+  </programme>
+  <programme start="20251127180000 +0500" stop="20251127183000 +0500" channel="PTV.Home.pk">
+    <title>Rawaiton Ki Lazzat (Ep: 70) (Rpt)</title>
+    <desc>Rawaiton Ki Lazzat (Ep: 70) (Rpt)
+Episode 70
+Repeat</desc>
+  </programme>
+  <programme start="20251127183000 +0500" stop="20251127190500 +0500" channel="PTV.Home.pk">
+    <title>Aaway Ka Aawa (Ep: 17) (Rpt)</title>
+    <desc>Aaway Ka Aawa (Ep: 17) (Rpt)
+Episode 17
+Repeat</desc>
+  </programme>
+  <programme start="20251127190500 +0500" stop="20251127195500 +0500" channel="PTV.Home.pk">
+    <title>Us Ne Chaha Tha Chand (Ep: 36)</title>
+    <desc>Us Ne Chaha Tha Chand (Ep: 36)
+Episode 36</desc>
+  </programme>
+  <programme start="20251127195500 +0500" stop="20251127210000 +0500" channel="PTV.Home.pk">
+    <title>Barbarosa (Drama Serial) (Ep: 109) (Rpt)</title>
+    <desc>Barbarosa (Drama Serial) (Ep: 109) (Rpt)
+Episode 109
+Repeat</desc>
+  </programme>
+  <programme start="20251127210000 +0500" stop="20251127211000 +0500" channel="PTV.Home.pk">
+    <title>Khabarnama (Headlines Only) (Live)</title>
+    <desc>Khabarnama (Headlines Only) (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127211000 +0500" stop="20251127213500 +0500" channel="PTV.Home.pk">
+    <title>Rawaiton Ki Lazzat (Ep: 70) (Rpt)</title>
+    <desc>Rawaiton Ki Lazzat (Ep: 70) (Rpt)
+Episode 70
+Repeat</desc>
+  </programme>
+  <programme start="20251127213500 +0500" stop="20251127220000 +0500" channel="PTV.Home.pk">
+    <title>Us Ne Chaha Tha Chand (Ep: 36) (Rpt)</title>
+    <desc>Us Ne Chaha Tha Chand (Ep: 36) (Rpt)
+Episode 36
+Repeat</desc>
+  </programme>
+  <programme start="20251127220000 +0500" stop="20251127230000 +0500" channel="PTV.Home.pk">
+    <title>Raat Gaye (Rpt)</title>
+    <desc>Raat Gaye (Rpt)
+Repeat</desc>
+  </programme>
+  <programme start="20251127230000 +0500" stop="20251128053000 +0500" channel="PTV.Home.pk">
+    <title>Barbarosa (Drama Serial) (Ep: 109) (Rpt)</title>
+    <desc>Barbarosa (Drama Serial) (Ep: 109) (Rpt)
+Episode 109
 Repeat</desc>
   </programme>
 </tv>

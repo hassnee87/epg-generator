@@ -3,70 +3,7 @@
   <channel id="ARY.News.pk">
     <display-name>ARY Zauq</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ARY-Zauq.png" />
-  </channel><programme channel="ARY.News.pk" start="20251120013000 +0500" stop="20251120023000 +0500">
-    <title>Tonight's Menu</title>
-    <desc>Tonight's Menu</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120023000 +0500" stop="20251120033000 +0500">
-    <title>Hasb e Zauq</title>
-    <desc>Traditional dishes of Pakistan with western style.</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120033000 +0500" stop="20251120040000 +0500">
-    <title>Mari Time Chef</title>
-    <desc>Teaching the best ways to cook seafood.</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120040000 +0500" stop="20251120053000 +0500">
-    <title>Home Cooking</title>
-    <desc>Home Cooking</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120053000 +0500" stop="20251120060000 +0500">
-    <title>Kuch Meetha Kuch Namkeen</title>
-    <desc>Hosted by Afzal Nizam with a variety of delicious recipes.</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120060000 +0500" stop="20251120083000 +0500">
-    <title>Salam Zindagi</title>
-    <desc>Salam Zindagi</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120083000 +0500" stop="20251120090000 +0500">
-    <title>Daal Sabzi</title>
-    <desc>Traditional Pakistani dishes by Arif Daud.</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120090000 +0500" stop="20251120100000 +0500">
-    <title>Tonight's Menu</title>
-    <desc>Tonight's Menu</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120100000 +0500" stop="20251120110000 +0500">
-    <title>Kam Kharch Bala Nasheen</title>
-    <desc>Kam Kharch Bala Nasheen</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120110000 +0500" stop="20251120123000 +0500">
-    <title>Home Cooking</title>
-    <desc>Home Cooking</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120123000 +0500" stop="20251120130000 +0500">
-    <title>Spice of Life</title>
-    <desc>Chef Mehboob infuses a sizzling dose of spices in his favorite recipes.</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120130000 +0500" stop="20251120140000 +0500">
-    <title>Hasb e Zauq</title>
-    <desc>Traditional dishes of Pakistan with western style.</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120140000 +0500" stop="20251120163000 +0500">
-    <title>Salam Zindagi</title>
-    <desc>Salam Zindagi</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120163000 +0500" stop="20251120170000 +0500">
-    <title>Spice of Life</title>
-    <desc>Chef Mehboob infuses a sizzling dose of spices in his favorite recipes.</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120170000 +0500" stop="20251120180000 +0500">
-    <title>Kam Kharch Bala Nasheen</title>
-    <desc>Kam Kharch Bala Nasheen</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120180000 +0500" stop="20251120190000 +0500">
-    <title>Tonight's Menu</title>
-    <desc>Tonight's Menu</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120190000 +0500" stop="20251120193000 +0500">
-    <title>Kuch Meetha Kuch Namkeen</title>
-    <desc>Hosted by Afzal Nizam with a variety of delicious recipes.</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120193000 +0500" stop="20251120210000 +0500">
-    <title>Home Cooking</title>
-    <desc>Home Cooking</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120210000 +0500" stop="20251120220000 +0500">
-    <title>Hasb e Zauq</title>
-    <desc>Traditional dishes of Pakistan with western style.</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120220000 +0500" stop="20251120230000 +0500">
-    <title>Kam Kharch Bala Nasheen</title>
-    <desc>Kam Kharch Bala Nasheen</desc>
-  </programme><programme channel="ARY.News.pk" start="20251120230000 +0500" stop="20251121013000 +0500">
-    <title>Salam Zindagi</title>
-    <desc>Salam Zindagi</desc>
-  </programme><programme channel="ARY.News.pk" start="20251121013000 +0500" stop="20251121023000 +0500">
+  </channel><programme channel="ARY.News.pk" start="20251121013000 +0500" stop="20251121023000 +0500">
     <title>Tonight's Menu</title>
     <desc>Tonight's Menu</desc>
   </programme><programme channel="ARY.News.pk" start="20251121023000 +0500" stop="20251121033000 +0500">
@@ -186,5 +123,62 @@
   </programme><programme channel="ARY.News.pk" start="20251122220000 +0500" stop="20251123013000 +0500">
     <title>Kam Kharch Bala Nasheen</title>
     <desc>Kam Kharch Bala Nasheen</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123013000 +0500" stop="20251123023000 +0500">
+    <title>Breaking Weekend</title>
+    <desc>Breaking Weekend</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123023000 +0500" stop="20251123033000 +0500">
+    <title>Hasb e Zauq</title>
+    <desc>Traditional dishes of Pakistan with western style.</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123033000 +0500" stop="20251123040000 +0500">
+    <title>Daal Sabzi</title>
+    <desc>Traditional Pakistani dishes by Arif Daud.</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123040000 +0500" stop="20251123053000 +0500">
+    <title>Home Cooking</title>
+    <desc>Home Cooking</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123053000 +0500" stop="20251123060000 +0500">
+    <title>Mari Time Chef</title>
+    <desc>Teaching the best ways to cook seafood.</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123060000 +0500" stop="20251123083000 +0500">
+    <title>Salam Zindagi</title>
+    <desc>Salam Zindagi</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123083000 +0500" stop="20251123090000 +0500">
+    <title>Food for Thought</title>
+    <desc>Food for Thought</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123090000 +0500" stop="20251123100000 +0500">
+    <title>Tonight's Menu</title>
+    <desc>Tonight's Menu</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123100000 +0500" stop="20251123120000 +0500">
+    <title>Eidi Sab Kay Liye</title>
+    <desc>Eidi Sab Kay Liye</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123120000 +0500" stop="20251123123000 +0500">
+    <title>Mari Time Chef</title>
+    <desc>Teaching the best ways to cook seafood.</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123123000 +0500" stop="20251123130000 +0500">
+    <title>Kuch Meetha Kuch Namkeen</title>
+    <desc>Hosted by Afzal Nizam with a variety of delicious recipes.</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123130000 +0500" stop="20251123140000 +0500">
+    <title>Hasb e Zauq</title>
+    <desc>Traditional dishes of Pakistan with western style.</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123140000 +0500" stop="20251123163000 +0500">
+    <title>Salam Zindagi</title>
+    <desc>Salam Zindagi</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123163000 +0500" stop="20251123170000 +0500">
+    <title>Kuch Meetha Kuch Namkeen</title>
+    <desc>Hosted by Afzal Nizam with a variety of delicious recipes.</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123170000 +0500" stop="20251123180000 +0500">
+    <title>Kam Kharch Bala Nasheen</title>
+    <desc>Kam Kharch Bala Nasheen</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123180000 +0500" stop="20251123190000 +0500">
+    <title>Tonight's Menu</title>
+    <desc>Tonight's Menu</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123190000 +0500" stop="20251123193000 +0500">
+    <title>Mari Time Chef</title>
+    <desc>Teaching the best ways to cook seafood.</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123193000 +0500" stop="20251123200000 +0500">
+    <title>Food for Thought</title>
+    <desc>Food for Thought</desc>
+  </programme><programme channel="ARY.News.pk" start="20251123200000 +0500" stop="20251124033000 +0500">
+    <title>Breaking Weekend</title>
+    <desc>Breaking Weekend</desc>
   </programme>
 </tv>

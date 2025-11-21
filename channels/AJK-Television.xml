@@ -4,55 +4,6 @@
     <display-name>AJK Television</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/AJK-Television.png" />
   </channel>
-  <programme start="20251120165900 +0500" stop="20251120170000 +0500" channel="AJK.Television.pk">
-    <title>Logo Bismillah</title>
-    <desc>Logo Bismillah</desc>
-  </programme>
-  <programme start="20251120170000 +0500" stop="20251120170500 +0500" channel="AJK.Television.pk">
-    <title>Quran-O-Tarjuma</title>
-    <desc>Quran-O-Tarjuma</desc>
-  </programme>
-  <programme start="20251120170500 +0500" stop="20251120172000 +0500" channel="AJK.Television.pk">
-    <title>Al Quran (R)</title>
-    <desc>Al Quran (R)
-(Repeat)</desc>
-  </programme>
-  <programme start="20251120172000 +0500" stop="20251120173500 +0500" channel="AJK.Television.pk">
-    <title>Kashmir Report (Kashmir Cell)</title>
-    <desc>Kashmir Report (Kashmir Cell)</desc>
-  </programme>
-  <programme start="20251120173500 +0500" stop="20251120180000 +0500" channel="AJK.Television.pk">
-    <title>Tary Mery Angan Ky (Children Prog)</title>
-    <desc>Tary Mery Angan Ky (Children Prog)</desc>
-  </programme>
-  <programme start="20251120180000 +0500" stop="20251120182000 +0500" channel="AJK.Television.pk">
-    <title>Local News (Ptv News)</title>
-    <desc>Local News (Ptv News)</desc>
-  </programme>
-  <programme start="20251120182000 +0500" stop="20251120190000 +0500" channel="AJK.Television.pk">
-    <title>Samaj Nama (Social Issues)</title>
-    <desc>Samaj Nama (Social Issues)</desc>
-  </programme>
-  <programme start="20251120190000 +0500" stop="20251120193000 +0500" channel="AJK.Television.pk">
-    <title>Galain Ty Chabary (Drama)</title>
-    <desc>Galain Ty Chabary (Drama)</desc>
-  </programme>
-  <programme start="20251120193000 +0500" stop="20251120200000 +0500" channel="AJK.Television.pk">
-    <title>Maan Aur Bachy Ki Sehat</title>
-    <desc>Maan Aur Bachy Ki Sehat</desc>
-  </programme>
-  <programme start="20251120200000 +0500" stop="20251120210000 +0500" channel="AJK.Television.pk">
-    <title>Aaghosh</title>
-    <desc>Aaghosh</desc>
-  </programme>
-  <programme start="20251120210000 +0500" stop="20251120220000 +0500" channel="AJK.Television.pk">
-    <title>Khabar Nama (Ptv News)</title>
-    <desc>Khabar Nama (Ptv News)</desc>
-  </programme>
-  <programme start="20251120220000 +0500" stop="20251121165900 +0500" channel="AJK.Television.pk">
-    <title>Close Down</title>
-    <desc>Close Down</desc>
-  </programme>
   <programme start="20251121165900 +0500" stop="20251121170000 +0500" channel="AJK.Television.pk">
     <title>Logo Bismillah</title>
     <desc>Logo Bismillah</desc>
@@ -344,6 +295,55 @@
     <desc>Khabar Nama (Ptv News)</desc>
   </programme>
   <programme start="20251126220000 +0500" stop="20251127165900 +0500" channel="AJK.Television.pk">
+    <title>Close Down</title>
+    <desc>Close Down</desc>
+  </programme>
+  <programme start="20251127165900 +0500" stop="20251127170000 +0500" channel="AJK.Television.pk">
+    <title>Logo Bismillah</title>
+    <desc>Logo Bismillah</desc>
+  </programme>
+  <programme start="20251127170000 +0500" stop="20251127170500 +0500" channel="AJK.Television.pk">
+    <title>Quran-O-Tarjuma</title>
+    <desc>Quran-O-Tarjuma</desc>
+  </programme>
+  <programme start="20251127170500 +0500" stop="20251127172000 +0500" channel="AJK.Television.pk">
+    <title>Al Quran (R)</title>
+    <desc>Al Quran (R)
+(Repeat)</desc>
+  </programme>
+  <programme start="20251127172000 +0500" stop="20251127173500 +0500" channel="AJK.Television.pk">
+    <title>Kashmir Report (Kashmir Cell)</title>
+    <desc>Kashmir Report (Kashmir Cell)</desc>
+  </programme>
+  <programme start="20251127173500 +0500" stop="20251127180000 +0500" channel="AJK.Television.pk">
+    <title>Tary Mery Angan Ky (Children Prog)</title>
+    <desc>Tary Mery Angan Ky (Children Prog)</desc>
+  </programme>
+  <programme start="20251127180000 +0500" stop="20251127182000 +0500" channel="AJK.Television.pk">
+    <title>Local News (Ptv News)</title>
+    <desc>Local News (Ptv News)</desc>
+  </programme>
+  <programme start="20251127182000 +0500" stop="20251127190000 +0500" channel="AJK.Television.pk">
+    <title>Samaj Nama (Social Issues)</title>
+    <desc>Samaj Nama (Social Issues)</desc>
+  </programme>
+  <programme start="20251127190000 +0500" stop="20251127193000 +0500" channel="AJK.Television.pk">
+    <title>Galain Ty Chabary (Drama)</title>
+    <desc>Galain Ty Chabary (Drama)</desc>
+  </programme>
+  <programme start="20251127193000 +0500" stop="20251127200000 +0500" channel="AJK.Television.pk">
+    <title>Maan Aur Bachy Ki Sehat</title>
+    <desc>Maan Aur Bachy Ki Sehat</desc>
+  </programme>
+  <programme start="20251127200000 +0500" stop="20251127210000 +0500" channel="AJK.Television.pk">
+    <title>Aaghosh</title>
+    <desc>Aaghosh</desc>
+  </programme>
+  <programme start="20251127210000 +0500" stop="20251127220000 +0500" channel="AJK.Television.pk">
+    <title>Khabar Nama (Ptv News)</title>
+    <desc>Khabar Nama (Ptv News)</desc>
+  </programme>
+  <programme start="20251127220000 +0500" stop="20251128165900 +0500" channel="AJK.Television.pk">
     <title>Close Down</title>
     <desc>Close Down</desc>
   </programme>

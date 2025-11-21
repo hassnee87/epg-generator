@@ -4,131 +4,6 @@
     <display-name>PTV Bolan</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/PTV-Bolan.png" />
   </channel>
-  <programme start="20251120080000 +0500" stop="20251120090000 +0500" channel="PTV.Bolan.pk">
-    <title>Iqra, (Quraan-Ul-Hakeem) Para No 03 / 4 (Programme No. 12 ).</title>
-    <desc>Iqra, (Quraan-Ul-Hakeem) Para No 03 / 4 (Programme No. 12 ).</desc>
-  </programme>
-  <programme start="20251120090000 +0500" stop="20251120100000 +0500" channel="PTV.Bolan.pk">
-    <title>Subh –E-Bolan. (Brahvi Time) (Live)</title>
-    <desc>Subh –E-Bolan. (Brahvi Time) (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120100000 +0500" stop="20251120110000 +0500" channel="PTV.Bolan.pk">
-    <title>Subh –E-Bolan. (Balochi Time) (Live)</title>
-    <desc>Subh –E-Bolan. (Balochi Time) (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120110000 +0500" stop="20251120120000 +0500" channel="PTV.Bolan.pk">
-    <title>Subh –E-Bolan. (Pashto Time) (Live)</title>
-    <desc>Subh –E-Bolan. (Pashto Time) (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120120000 +0500" stop="20251120130000 +0500" channel="PTV.Bolan.pk">
-    <title>Current Affairs Time (Repeat Telecast)</title>
-    <desc>Current Affairs Time (Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120130000 +0500" stop="20251120130500 +0500" channel="PTV.Bolan.pk">
-    <title>Balochi Khabrain (Live)</title>
-    <desc>Balochi Khabrain (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120130500 +0500" stop="20251120131000 +0500" channel="PTV.Bolan.pk">
-    <title>Brahvi Khabrain (Live)</title>
-    <desc>Brahvi Khabrain (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120131000 +0500" stop="20251120131500 +0500" channel="PTV.Bolan.pk">
-    <title>Pashto Khabrain (Live)</title>
-    <desc>Pashto Khabrain (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120131500 +0500" stop="20251120134000 +0500" channel="PTV.Bolan.pk">
-    <title>Babbo (Pashto Serial Play) Ep No 03 (Repeat Telecast)</title>
-    <desc>Babbo (Pashto Serial Play) Ep No 03 (Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120134000 +0500" stop="20251120140000 +0500" channel="PTV.Bolan.pk">
-    <title>Sundara (Pashto Music Programme No.03 ) (Repeat Telecast)</title>
-    <desc>Sundara (Pashto Music Programme No.03 ) (Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120140000 +0500" stop="20251120144500 +0500" channel="PTV.Bolan.pk">
-    <title>Brahvi Time. (Live Transmission- Repeat Telecast)</title>
-    <desc>Brahvi Time. (Live Transmission- Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120144500 +0500" stop="20251120151000 +0500" channel="PTV.Bolan.pk">
-    <title>Bilsum (Brahvi Music Programme No.02 ) (Repeat Telecast)</title>
-    <desc>Bilsum (Brahvi Music Programme No.02 ) (Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120151000 +0500" stop="20251120155500 +0500" channel="PTV.Bolan.pk">
-    <title>Balochi Time. (Live Transmission- Repeat Telecast)</title>
-    <desc>Balochi Time. (Live Transmission- Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120155500 +0500" stop="20251120161000 +0500" channel="PTV.Bolan.pk">
-    <title>Zeemal (Balochi Music Programme No 02) (Repeat Telecast)</title>
-    <desc>Zeemal (Balochi Music Programme No 02) (Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120161000 +0500" stop="20251120170000 +0500" channel="PTV.Bolan.pk">
-    <title>Pashto Time. (Live Transmission- Preeat Telecast)</title>
-    <desc>Pashto Time. (Live Transmission- Preeat Telecast)</desc>
-  </programme>
-  <programme start="20251120170000 +0500" stop="20251120171500 +0500" channel="PTV.Bolan.pk">
-    <title>Asma-E-Husana+Asma-E-Rasool(Saw)+Darood-E-Taj.+Hamd-O-Naat)</title>
-    <desc>Asma-E-Husana+Asma-E-Rasool(Saw)+Darood-E-Taj.+Hamd-O-Naat)</desc>
-  </programme>
-  <programme start="20251120171500 +0500" stop="20251120180500 +0500" channel="PTV.Bolan.pk">
-    <title>Current Affairs Time (Live- Balochi).</title>
-    <desc>Current Affairs Time (Live- Balochi).</desc>
-  </programme>
-  <programme start="20251120180500 +0500" stop="20251120183000 +0500" channel="PTV.Bolan.pk">
-    <title>Zabrain (Balochi Serial Play) Ep No.03 (Repeat Telecast)</title>
-    <desc>Zabrain (Balochi Serial Play) Ep No.03 (Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120183000 +0500" stop="20251120190000 +0500" channel="PTV.Bolan.pk">
-    <title>Zeemal (Balochi Music Programme No 03) (Repeat Telecast)</title>
-    <desc>Zeemal (Balochi Music Programme No 03) (Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120190000 +0500" stop="20251120200000 +0500" channel="PTV.Bolan.pk">
-    <title>Dagar Na Khudak (Brahvi Single Play) (Repeat Telecast)</title>
-    <desc>Dagar Na Khudak (Brahvi Single Play) (Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120200000 +0500" stop="20251120201000 +0500" channel="PTV.Bolan.pk">
-    <title>Balochi Khabrain (Live)</title>
-    <desc>Balochi Khabrain (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120201000 +0500" stop="20251120210000 +0500" channel="PTV.Bolan.pk">
-    <title>Live Anchor Person + Guest + Live Calls</title>
-    <desc>Live Anchor Person + Guest + Live Calls</desc>
-  </programme>
-  <programme start="20251120210000 +0500" stop="20251120211000 +0500" channel="PTV.Bolan.pk">
-    <title>Brahvi Khabrain(Khabraak). (Live)</title>
-    <desc>Brahvi Khabrain(Khabraak). (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120211000 +0500" stop="20251120220000 +0500" channel="PTV.Bolan.pk">
-    <title>Live Anchor Person + Guest + Live Calls</title>
-    <desc>Live Anchor Person + Guest + Live Calls</desc>
-  </programme>
-  <programme start="20251120220000 +0500" stop="20251120221000 +0500" channel="PTV.Bolan.pk">
-    <title>Pashto Khabrain(Khabroona). (Live)</title>
-    <desc>Pashto Khabrain(Khabroona). (Live)
-Live</desc>
-  </programme>
-  <programme start="20251120221000 +0500" stop="20251120230500 +0500" channel="PTV.Bolan.pk">
-    <title>Live Anchor Person + Guest + Live Calls</title>
-    <desc>Live Anchor Person + Guest + Live Calls</desc>
-  </programme>
-  <programme start="20251120230500 +0500" stop="20251120233000 +0500" channel="PTV.Bolan.pk">
-    <title>Babbo (Pashto Serial Play) Ep No 03 (Repeat Telecast)</title>
-    <desc>Babbo (Pashto Serial Play) Ep No 03 (Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120233000 +0500" stop="20251120000000 +0500" channel="PTV.Bolan.pk">
-    <title>Sundara (Pashto Music Programme No.03 ) (Repeat Telecast)</title>
-    <desc>Sundara (Pashto Music Programme No.03 ) (Repeat Telecast)</desc>
-  </programme>
-  <programme start="20251120000000 +0500" stop="20251121080000 +0500" channel="PTV.Bolan.pk">
-    <title>National Anthem, &amp; Flag+Close Down</title>
-    <desc>National Anthem, &amp; Flag+Close Down</desc>
-  </programme>
   <programme start="20251121080000 +0500" stop="20251121090000 +0500" channel="PTV.Bolan.pk">
     <title>Iqra, (Quraan-Ul-Hakeem) Para No 02/ 2 (Programme No. 06).</title>
     <desc>Iqra, (Quraan-Ul-Hakeem) Para No 02/ 2 (Programme No. 06).</desc>
@@ -874,6 +749,131 @@ Live</desc>
     <desc>Sundara (Pashto Music Programme No.02 ) (Repeat Telecast)</desc>
   </programme>
   <programme start="20251126000000 +0500" stop="20251127080000 +0500" channel="PTV.Bolan.pk">
+    <title>National Anthem, &amp; Flag+Close Down</title>
+    <desc>National Anthem, &amp; Flag+Close Down</desc>
+  </programme>
+  <programme start="20251127080000 +0500" stop="20251127090000 +0500" channel="PTV.Bolan.pk">
+    <title>Iqra, (Quraan-Ul-Hakeem) Para No 03 / 4 (Programme No. 12 ).</title>
+    <desc>Iqra, (Quraan-Ul-Hakeem) Para No 03 / 4 (Programme No. 12 ).</desc>
+  </programme>
+  <programme start="20251127090000 +0500" stop="20251127100000 +0500" channel="PTV.Bolan.pk">
+    <title>Subh –E-Bolan. (Brahvi Time) (Live)</title>
+    <desc>Subh –E-Bolan. (Brahvi Time) (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127100000 +0500" stop="20251127110000 +0500" channel="PTV.Bolan.pk">
+    <title>Subh –E-Bolan. (Balochi Time) (Live)</title>
+    <desc>Subh –E-Bolan. (Balochi Time) (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127110000 +0500" stop="20251127120000 +0500" channel="PTV.Bolan.pk">
+    <title>Subh –E-Bolan. (Pashto Time) (Live)</title>
+    <desc>Subh –E-Bolan. (Pashto Time) (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127120000 +0500" stop="20251127130000 +0500" channel="PTV.Bolan.pk">
+    <title>Current Affairs Time (Repeat Telecast)</title>
+    <desc>Current Affairs Time (Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127130000 +0500" stop="20251127130500 +0500" channel="PTV.Bolan.pk">
+    <title>Balochi Khabrain (Live)</title>
+    <desc>Balochi Khabrain (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127130500 +0500" stop="20251127131000 +0500" channel="PTV.Bolan.pk">
+    <title>Brahvi Khabrain (Live)</title>
+    <desc>Brahvi Khabrain (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127131000 +0500" stop="20251127131500 +0500" channel="PTV.Bolan.pk">
+    <title>Pashto Khabrain (Live)</title>
+    <desc>Pashto Khabrain (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127131500 +0500" stop="20251127134000 +0500" channel="PTV.Bolan.pk">
+    <title>Babbo (Pashto Serial Play) Ep No 03 (Repeat Telecast)</title>
+    <desc>Babbo (Pashto Serial Play) Ep No 03 (Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127134000 +0500" stop="20251127140000 +0500" channel="PTV.Bolan.pk">
+    <title>Sundara (Pashto Music Programme No.03 ) (Repeat Telecast)</title>
+    <desc>Sundara (Pashto Music Programme No.03 ) (Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127140000 +0500" stop="20251127144500 +0500" channel="PTV.Bolan.pk">
+    <title>Brahvi Time. (Live Transmission- Repeat Telecast)</title>
+    <desc>Brahvi Time. (Live Transmission- Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127144500 +0500" stop="20251127151000 +0500" channel="PTV.Bolan.pk">
+    <title>Bilsum (Brahvi Music Programme No.02 ) (Repeat Telecast)</title>
+    <desc>Bilsum (Brahvi Music Programme No.02 ) (Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127151000 +0500" stop="20251127155500 +0500" channel="PTV.Bolan.pk">
+    <title>Balochi Time. (Live Transmission- Repeat Telecast)</title>
+    <desc>Balochi Time. (Live Transmission- Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127155500 +0500" stop="20251127161000 +0500" channel="PTV.Bolan.pk">
+    <title>Zeemal (Balochi Music Programme No 02) (Repeat Telecast)</title>
+    <desc>Zeemal (Balochi Music Programme No 02) (Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127161000 +0500" stop="20251127170000 +0500" channel="PTV.Bolan.pk">
+    <title>Pashto Time. (Live Transmission- Preeat Telecast)</title>
+    <desc>Pashto Time. (Live Transmission- Preeat Telecast)</desc>
+  </programme>
+  <programme start="20251127170000 +0500" stop="20251127171500 +0500" channel="PTV.Bolan.pk">
+    <title>Asma-E-Husana+Asma-E-Rasool(Saw)+Darood-E-Taj.+Hamd-O-Naat)</title>
+    <desc>Asma-E-Husana+Asma-E-Rasool(Saw)+Darood-E-Taj.+Hamd-O-Naat)</desc>
+  </programme>
+  <programme start="20251127171500 +0500" stop="20251127180500 +0500" channel="PTV.Bolan.pk">
+    <title>Current Affairs Time (Live- Balochi).</title>
+    <desc>Current Affairs Time (Live- Balochi).</desc>
+  </programme>
+  <programme start="20251127180500 +0500" stop="20251127183000 +0500" channel="PTV.Bolan.pk">
+    <title>Zabrain (Balochi Serial Play) Ep No.03 (Repeat Telecast)</title>
+    <desc>Zabrain (Balochi Serial Play) Ep No.03 (Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127183000 +0500" stop="20251127190000 +0500" channel="PTV.Bolan.pk">
+    <title>Zeemal (Balochi Music Programme No 03) (Repeat Telecast)</title>
+    <desc>Zeemal (Balochi Music Programme No 03) (Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127190000 +0500" stop="20251127200000 +0500" channel="PTV.Bolan.pk">
+    <title>Dagar Na Khudak (Brahvi Single Play) (Repeat Telecast)</title>
+    <desc>Dagar Na Khudak (Brahvi Single Play) (Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127200000 +0500" stop="20251127201000 +0500" channel="PTV.Bolan.pk">
+    <title>Balochi Khabrain (Live)</title>
+    <desc>Balochi Khabrain (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127201000 +0500" stop="20251127210000 +0500" channel="PTV.Bolan.pk">
+    <title>Live Anchor Person + Guest + Live Calls</title>
+    <desc>Live Anchor Person + Guest + Live Calls</desc>
+  </programme>
+  <programme start="20251127210000 +0500" stop="20251127211000 +0500" channel="PTV.Bolan.pk">
+    <title>Brahvi Khabrain(Khabraak). (Live)</title>
+    <desc>Brahvi Khabrain(Khabraak). (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127211000 +0500" stop="20251127220000 +0500" channel="PTV.Bolan.pk">
+    <title>Live Anchor Person + Guest + Live Calls</title>
+    <desc>Live Anchor Person + Guest + Live Calls</desc>
+  </programme>
+  <programme start="20251127220000 +0500" stop="20251127221000 +0500" channel="PTV.Bolan.pk">
+    <title>Pashto Khabrain(Khabroona). (Live)</title>
+    <desc>Pashto Khabrain(Khabroona). (Live)
+Live</desc>
+  </programme>
+  <programme start="20251127221000 +0500" stop="20251127230500 +0500" channel="PTV.Bolan.pk">
+    <title>Live Anchor Person + Guest + Live Calls</title>
+    <desc>Live Anchor Person + Guest + Live Calls</desc>
+  </programme>
+  <programme start="20251127230500 +0500" stop="20251127233000 +0500" channel="PTV.Bolan.pk">
+    <title>Babbo (Pashto Serial Play) Ep No 03 (Repeat Telecast)</title>
+    <desc>Babbo (Pashto Serial Play) Ep No 03 (Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127233000 +0500" stop="20251127000000 +0500" channel="PTV.Bolan.pk">
+    <title>Sundara (Pashto Music Programme No.03 ) (Repeat Telecast)</title>
+    <desc>Sundara (Pashto Music Programme No.03 ) (Repeat Telecast)</desc>
+  </programme>
+  <programme start="20251127000000 +0500" stop="20251128080000 +0500" channel="PTV.Bolan.pk">
     <title>National Anthem, &amp; Flag+Close Down</title>
     <desc>National Anthem, &amp; Flag+Close Down</desc>
   </programme>
