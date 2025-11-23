@@ -3,27 +3,7 @@
   <channel id="CH200-NZ">
     <display-name>CH200</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CH200-NZ.png" />
-  </channel><programme channel="CH200-NZ" start="20251122010000 +0500" stop="20251122120000 +0500">
-    <title>JUICE TV</title>
-    <sub-title>JUICE TV</sub-title>
-    <desc>Music videos</desc>
-  </programme><programme channel="CH200-NZ" start="20251122120000 +0500" stop="20251122140000 +0500">
-    <title>JUICE TV - Saturday Night Fever</title>
-    <sub-title>JUICE TV - Saturday Night Fever</sub-title>
-    <desc>The best of soul, funk, disco and reggae</desc>
-  </programme><programme channel="CH200-NZ" start="20251122140000 +0500" stop="20251122160000 +0500">
-    <title>JUICE TV</title>
-    <sub-title>JUICE TV</sub-title>
-    <desc>Music videos</desc>
-  </programme><programme channel="CH200-NZ" start="20251122160000 +0500" stop="20251122190000 +0500">
-    <title>JUICE TV</title>
-    <sub-title>JUICE TV</sub-title>
-    <desc>Music videos</desc>
-  </programme><programme channel="CH200-NZ" start="20251122190000 +0500" stop="20251123010000 +0500">
-    <title>France 24 News</title>
-    <sub-title>France 24 News</sub-title>
-    <desc>Live overnight coverage from the France 24 English News service</desc>
-  </programme><programme channel="CH200-NZ" start="20251123010000 +0500" stop="20251123013000 +0500">
+  </channel><programme channel="CH200-NZ" start="20251123010000 +0500" stop="20251123013000 +0500">
     <title>Music and the Spoken Word</title>
     <sub-title>Music and the Spoken Word</sub-title>
     <desc>The church of Latter-day Saints presents The Tabernacle Choir</desc>
@@ -84,6 +64,46 @@
     <sub-title>France 24 News</sub-title>
     <desc>Live overnight coverage from the France 24 English News service</desc>
   </programme><programme channel="CH200-NZ" start="20251124230000 +0500" stop="20251125050000 +0500">
+    <title>JUICE TV</title>
+    <sub-title>JUICE TV</sub-title>
+    <desc>Music videos</desc>
+  </programme><programme channel="CH200-NZ" start="20251125050000 +0500" stop="20251125053000 +0500">
+    <title>NZBS - The Green Room</title>
+    <sub-title>NZBS - The Green Room</sub-title>
+    <desc>Ollie, Lucy and Marco bring you "The Green Room" a fun-packed show with exciting challenges, banter, and of course, sports! Produced by students of The New Zealand Broadcasting School.</desc>
+  </programme><programme channel="CH200-NZ" start="20251125053000 +0500" stop="20251125060000 +0500">
+    <title>NZBS - Chords &amp; Chaos</title>
+    <sub-title>NZBS - Chords &amp; Chaos</sub-title>
+    <desc>"Chords &amp; Chaos" explores the pulse of the indie music scene, from local talent to global waves. We dive into the chaos, the creativity, and the tunes that define indie culture.</desc>
+  </programme><programme channel="CH200-NZ" start="20251125060000 +0500" stop="20251125063000 +0500">
+    <title>NZBS - MetroNews</title>
+    <sub-title>NZBS - MetroNews</sub-title>
+    <desc>Stay informed with Metro News: Unbiased and accurate. Bringing you breaking news with a unique perspective, covering everything from local updates to international events.</desc>
+  </programme><programme channel="CH200-NZ" start="20251125063000 +0500" stop="20251125070000 +0500">
+    <title>NZBS - The Green Room</title>
+    <sub-title>NZBS - The Green Room</sub-title>
+    <desc>Ollie, Lucy and Marco bring you "The Green Room" a fun-packed show with exciting challenges, banter, and of course, sports! Produced by students of The New Zealand Broadcasting School.</desc>
+  </programme><programme channel="CH200-NZ" start="20251125070000 +0500" stop="20251125120000 +0500">
+    <title>JUICE TV</title>
+    <sub-title>JUICE TV</sub-title>
+    <desc>Music videos</desc>
+  </programme><programme channel="CH200-NZ" start="20251125120000 +0500" stop="20251125130000 +0500">
+    <title>JUICE TV - Resurrection Selection - 80's</title>
+    <sub-title>JUICE TV - Resurrection Selection - 80's</sub-title>
+    <desc>The biggest hits from the 80's</desc>
+  </programme><programme channel="CH200-NZ" start="20251125130000 +0500" stop="20251125160000 +0500">
+    <title>JUICE TV</title>
+    <sub-title>JUICE TV</sub-title>
+    <desc>Music videos</desc>
+  </programme><programme channel="CH200-NZ" start="20251125160000 +0500" stop="20251125170000 +0500">
+    <title>JUICE TV</title>
+    <sub-title>JUICE TV</sub-title>
+    <desc>Music videos</desc>
+  </programme><programme channel="CH200-NZ" start="20251125170000 +0500" stop="20251125230000 +0500">
+    <title>France 24 News</title>
+    <sub-title>France 24 News</sub-title>
+    <desc>Live overnight coverage from the France 24 English News service</desc>
+  </programme><programme channel="CH200-NZ" start="20251125230000 +0500" stop="20251126050000 +0500">
     <title>JUICE TV</title>
     <sub-title>JUICE TV</sub-title>
     <desc>Music videos</desc>
