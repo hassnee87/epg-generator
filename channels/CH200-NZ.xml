@@ -3,27 +3,7 @@
   <channel id="CH200-NZ">
     <display-name>CH200</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CH200-NZ.png" />
-  </channel><programme channel="CH200-NZ" start="20251127120000 +0500" stop="20251127130000 +0500">
-    <title>JUICE TV - Resurrection Selection - 2000's</title>
-    <sub-title>JUICE TV - Resurrection Selection - 2000's</sub-title>
-    <desc>The biggest hits from the 2000's</desc>
-  </programme><programme channel="CH200-NZ" start="20251127130000 +0500" stop="20251127160000 +0500">
-    <title>JUICE TV</title>
-    <sub-title>JUICE TV</sub-title>
-    <desc>Music videos</desc>
-  </programme><programme channel="CH200-NZ" start="20251127160000 +0500" stop="20251127170000 +0500">
-    <title>JUICE TV</title>
-    <sub-title>JUICE TV</sub-title>
-    <desc>Music videos</desc>
-  </programme><programme channel="CH200-NZ" start="20251127170000 +0500" stop="20251127230000 +0500">
-    <title>France 24 News</title>
-    <sub-title>France 24 News</sub-title>
-    <desc>Live overnight coverage from the France 24 English News service</desc>
-  </programme><programme channel="CH200-NZ" start="20251127230000 +0500" stop="20251128100000 +0500">
-    <title>JUICE TV</title>
-    <sub-title>JUICE TV</sub-title>
-    <desc>Music videos</desc>
-  </programme><programme channel="CH200-NZ" start="20251128100000 +0500" stop="20251128113000 +0500">
+  </channel><programme channel="CH200-NZ" start="20251128100000 +0500" stop="20251128113000 +0500">
     <title>JUICE TV</title>
     <sub-title>JUICE TV</sub-title>
     <desc>Music videos</desc>
